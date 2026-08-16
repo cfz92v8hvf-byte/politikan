@@ -23,7 +23,7 @@ def main():
     )
 
     items = []
-    labels = {"pending": "Ожидает", "approved": "Одобрено", "published": "Опубликовано", "rejected": "Отклонено"}
+    labels = {"pending": "Ожидает", "approved": "Одобрено", "published": "Опубликовано", "rejected": "Отклонено", "expired": "Снято: устарело"}
     for row in rows:
         status = html.escape(labels.get(row["status"], row["status"]))
         title = html.escape(row["title_ru"])
