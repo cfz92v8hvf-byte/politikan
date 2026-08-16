@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-16T18:41:55.331687+00:00",
+  "updated_at": "2026-08-16T18:53:07.056454+00:00",
   "posts": [
+    {
+      "id": 12,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/07/russia-s-war-of-aggression-against-ukraine-eu-lists-five-additional-individuals-supporting-russia-s-military-industrial-complex/",
+      "title_ru": "Агрессивная война России против Украины: ЕС перечислил еще пять человек, поддерживающих ВПК России",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-16 18:53:05"
+    },
+    {
+      "id": 11,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/08/international-day-of-the-world-s-indigenous-peoples-9-august-2026-statement-by-the-high-representative-on-behalf-of-the-european-union/",
+      "title_ru": "Международный день коренных народов мира, 9 августа 2026 года: Заявление Высокого представителя от имени Европейского союза",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-16 18:53:06"
+    },
+    {
+      "id": 10,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/11/lebanon-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-abolition-of-the-death-penalty/",
+      "title_ru": "Ливан: Заявление Высокого представителя от имени ЕС об отмене смертной казни",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-16 18:53:06"
+    },
+    {
+      "id": 9,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-directed-against-certain-persons-and-entities-in-view-of-the-situation-in-iran/",
+      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании определенных стран в отношении ограничительных мер, направленных против определенных лиц и организаций в связи с ситуацией в Иране",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-16 18:53:06"
+    },
+    {
+      "id": 8,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-iran-s-military-support-to-russia-s-war-of-aggression-against-ukraine-and-to-armed-groups-and-entities/",
+      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран относительно ограничительных мер в связи с военной поддержкой Ираном агрессивной войны России против Украины и вооруженных групп и организаций на Ближнем Востоке и в регионе Красного моря",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 7,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-iran/",
+      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран в отношении ограничительных мер против Ирана",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 6,
       "source": "France 24",
