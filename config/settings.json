@@ -1,5 +1,5 @@
 {
-  "mode": "review",
+  "mode": "auto",
   "max_age_hours": 6,
   "max_items_per_run": 8,
   "language": "ru",
