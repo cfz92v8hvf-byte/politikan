@@ -17,8 +17,19 @@ def clean(value: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html.unescape(value or ""))).strip()
 
 
+def local_name(element) -> str:
+    return element.tag.rsplit("}", 1)[-1]
+
+
+def child_text(entry, name: str) -> str:
+    for child in entry:
+        if local_name(child) == name:
+            return child.text or ""
+    return ""
+
+
 def entry_date(entry) -> Optional[datetime]:
-    raw = entry.findtext("pubDate") or entry.findtext("{http://purl.org/dc/elements/1.1/}date") or entry.findtext("updated")
+    raw = child_text(entry, "pubDate") or child_text(entry, "date") or child_text(entry, "updated")
     if not raw:
         return None
     try:
@@ -34,13 +45,14 @@ def read_feed(source):
     request = urllib.request.Request(source["feed"], headers={"User-Agent": "PolitikanRSS/0.1 (+editorial news digest)"})
     with urllib.request.urlopen(request, timeout=25) as response:
         root = ET.fromstring(response.read())
-    for entry in root.findall(".//item") + root.findall(".//{http://www.w3.org/2005/Atom}entry"):
-        title = clean(entry.findtext("title") or entry.findtext("{http://www.w3.org/2005/Atom}title"))
-        link = entry.findtext("link") or ""
-        atom_link = entry.find("{http://www.w3.org/2005/Atom}link")
-        if atom_link is not None:
-            link = atom_link.attrib.get("href", link)
-        summary = clean(entry.findtext("description") or entry.findtext("summary") or entry.findtext("{http://www.w3.org/2005/Atom}summary"))
+    for entry in (element for element in root.iter() if local_name(element) in {"item", "entry"}):
+        title = clean(child_text(entry, "title"))
+        link = child_text(entry, "link")
+        for candidate in entry:
+            if local_name(candidate) == "link" and candidate.attrib.get("href"):
+                link = candidate.attrib["href"]
+                break
+        summary = clean(child_text(entry, "description") or child_text(entry, "summary"))
         if title and link:
             yield title, link, summary, entry_date(entry)
 
