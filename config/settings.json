@@ -1,0 +1,29 @@
+{
+  "mode": "review",
+  "max_age_hours": 6,
+  "max_items_per_run": 8,
+  "language": "ru",
+  "topic_keywords": [
+    "politic", "election", "government", "parliament", "minister", "president",
+    "european union", "eu ", "commission", "sanction", "diploma", "summit",
+    "war", "military", "security", "nato", "ukraine", "russia", "iran",
+    "economy", "trade", "tariff", "inflation", "migration", "refugee"
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "feed": "https://www.euronews.com/rss?level=theme&name=news",
+      "enabled": true
+    },
+    {
+      "name": "France 24",
+      "feed": "https://www.france24.com/en/rss",
+      "enabled": true
+    },
+    {
+      "name": "DW",
+      "feed": "https://rss.dw.com/rdf/rss-en-all",
+      "enabled": true
+    }
+  ]
+}
