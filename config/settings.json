@@ -24,6 +24,11 @@
       "name": "DW",
       "feed": "https://rss.dw.com/rdf/rss-en-all",
       "enabled": true
+    },
+    {
+      "name": "Council of the EU",
+      "feed": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
+      "enabled": true
     }
   ]
 }
