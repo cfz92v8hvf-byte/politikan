@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-16T18:53:07.056454+00:00",
+  "updated_at": "2026-08-16T19:41:16.234580+00:00",
   "posts": [
+    {
+      "id": 13,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина атакует крупнейший онлайн-рынок России Wildberries",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 12,
       "source": "Council of the EU",
@@ -38,16 +46,16 @@
       "source": "Council of the EU",
       "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-iran-s-military-support-to-russia-s-war-of-aggression-against-ukraine-and-to-armed-groups-and-entities/",
       "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран относительно ограничительных мер в связи с военной поддержкой Ираном агрессивной войны России против Украины и вооруженных групп и организаций на Ближнем Востоке и в регионе Красного моря",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-16 19:41:15"
     },
     {
       "id": 7,
       "source": "Council of the EU",
       "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-iran/",
       "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран в отношении ограничительных мер против Ирана",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-16 19:41:16"
     },
     {
       "id": 6,
