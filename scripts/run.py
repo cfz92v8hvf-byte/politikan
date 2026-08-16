@@ -78,12 +78,19 @@ def collect():
             print(f"Source failed {source['name']}: {exc}")
     print(f"Added to queue: {added}")
     if config["mode"] == "auto":
-        publish_ready(db, include_pending=True)
+        publish_ready(db, include_pending=True, limit=config.get("max_publish_per_run", 4), max_age_hours=config.get("pending_max_age_hours", 3))
 
 
-def publish_ready(db, include_pending=False):
+def publish_ready(db, include_pending=False, limit=4, max_age_hours=3):
+    # A channel is useful for fresh information, not a delayed backlog.
+    db.execute(
+        "UPDATE posts SET status='expired' WHERE status IN ('pending', 'approved') "
+        "AND datetime(COALESCE(published_at, created_at)) < datetime('now', ?)",
+        (f'-{max_age_hours} hours',),
+    )
+    db.commit()
     statuses = "('approved', 'pending')" if include_pending else "('approved')"
-    for post in db.execute(f"SELECT * FROM posts WHERE status IN {statuses} ORDER BY id LIMIT 3"):
+    for post in db.execute(f"SELECT * FROM posts WHERE status IN {statuses} ORDER BY COALESCE(published_at, created_at) DESC LIMIT ?", (limit,)):
         try:
             publish(post)
             db.execute("UPDATE posts SET status='published', published_to_telegram_at=CURRENT_TIMESTAMP WHERE id=?", (post["id"],))
@@ -98,6 +105,7 @@ if __name__ == "__main__":
     parser.add_argument("--publish-approved", action="store_true")
     args = parser.parse_args()
     if args.publish_approved:
-        publish_ready(connect())
+        config = settings()
+        publish_ready(connect(), limit=config.get("max_publish_per_run", 4), max_age_hours=config.get("pending_max_age_hours", 3))
     else:
         collect()
