@@ -23,10 +23,12 @@ jobs:
           TRANSLATOR_URL: ${{ secrets.TRANSLATOR_URL }}
           TRANSLATOR_API_KEY: ${{ secrets.TRANSLATOR_API_KEY }}
         run: python scripts/run.py
+      - name: Generate editorial dashboard
+        run: python scripts/dashboard.py
       - name: Save editorial queue
         run: |
           git config user.name 'politikan-bot'
           git config user.email 'politikan-bot@users.noreply.github.com'
-          git add data/politikan.sqlite3
+          git add data/politikan.sqlite3 docs
           git diff --cached --quiet || git commit -m 'chore: update news queue'
           git push
