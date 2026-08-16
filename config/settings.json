@@ -1,7 +1,9 @@
 {
   "mode": "auto",
   "max_age_hours": 6,
-  "max_items_per_run": 8,
+  "max_items_per_run": 6,
+  "max_publish_per_run": 4,
+  "pending_max_age_hours": 3,
   "language": "ru",
   "topic_keywords": [
     "politic", "election", "government", "parliament", "minister", "president",
