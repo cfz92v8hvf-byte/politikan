@@ -14,7 +14,7 @@
   "sources": [
     {
       "name": "Euronews",
-      "feed": "https://www.euronews.com/rss?level=theme&name=news",
+      "feed": "https://www.euronews.com/rss?format=mrss&level=theme&name=news",
       "enabled": true
     },
     {
