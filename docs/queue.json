@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-08-17T13:57:15.320773+00:00",
+  "updated_at": "2026-08-17T14:58:10.961680+00:00",
   "posts": [
+    {
+      "id": 44,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/drc-ebola-outbreak-becomes-deadliest-in-country-s-history/a-78394992?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Вспышка Эболы в ДРК стала самой смертоносной в истории страны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 43,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Путин посетил Курильские острова, чтобы «наказать» Японию за позицию по Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 42,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Ближнего Востока: Кушнер встретился с Нетаньяху в Иерусалиме",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 14:58:10"
+    },
+    {
+      "id": 41,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/norway-world-s-top-wealth-fund-flags-stock-market-risks/a-78351371?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Норвегия: крупнейший в мире фонд благосостояния отмечает риски фондового рынка",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 14:58:09"
+    },
     {
       "id": 40,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/europe-s-wildfires-how-prepared-are-we-for-the-next-fire",
       "title_ru": "Лесные пожары в Европе: насколько мы готовы к следующему пожару?",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 14:58:09"
     },
     {
       "id": 39,
@@ -22,8 +54,8 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/17/from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their-eggs",
       "title_ru": "От одиночества до высоких затрат и войны: почему иранские женщины замораживают свои яйцеклетки",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 14:58:10"
     },
     {
       "id": 37,
