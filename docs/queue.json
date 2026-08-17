@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-17T11:54:29.642938+00:00",
+  "updated_at": "2026-08-17T13:57:15.320773+00:00",
   "posts": [
+    {
+      "id": 40,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe-s-wildfires-how-prepared-are-we-for-the-next-fire",
+      "title_ru": "Лесные пожары в Европе: насколько мы готовы к следующему пожару?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 39,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260817-new-generation-catalans-tries-rekindle-independence-movement",
+      "title_ru": "Новое поколение каталонцев пытается возродить движение за независимость",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 13:57:14"
+    },
+    {
+      "id": 38,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/17/from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their-eggs",
+      "title_ru": "От одиночества до высоких затрат и войны: почему иранские женщины замораживают свои яйцеклетки",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 37,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/17/yemen-risks-return-to-full-scale-conflict-if-houthi-strikes-continue-un-rights-chief-warns",
+      "title_ru": "Йемен рискует вернуться к «полномасштабному конфликту», если удары хуситов продолжатся, предупреждает глава ООН по правам человека",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 13:57:15"
+    },
+    {
+      "id": 36,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/17/venezuela-seeks-return-of-31-tonnes-of-gold-worth-4bn-from-bank-of-england",
+      "title_ru": "Венесуэла добивается возврата 31 тонны золота на сумму € 4 млрд от Банка Англии",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 13:57:14"
+    },
+    {
+      "id": 35,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/17/trump-threatens-to-bomb-oman-if-it-impedes-us-iran-strait-of-hormuz-talks",
+      "title_ru": "Трамп угрожает бомбить Оман, если это помешает переговорам между США и Ираном по Ормузскому проливу",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 13:57:14"
+    },
     {
       "id": 34,
       "source": "France 24",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france/20260817-french-pm-lecornu-booed-by-residents-on-visit-to-fire-ravaged-southwest",
       "title_ru": "Премьер-министр Франции Лекорну освистал жителей во время посещения разоренного пожаром юго-запада",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -54,7 +102,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
       "title_ru": "Ближний Восток : Кушнер встретится с Нетаньяху после переговоров с ХАМАСом по плану Газы",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -62,7 +110,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260817-ukraine-launches-one-of-its-largest-drone-attacks-on-russia",
       "title_ru": "Украина проводит одну из крупнейших беспилотных атак на Россию",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
