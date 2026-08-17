@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-17T15:54:14.046153+00:00",
+  "updated_at": "2026-08-17T17:01:35.959156+00:00",
   "posts": [
+    {
+      "id": 49,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Россия: Тюрьма для лидера оппозиции за критику войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 17:01:35"
+    },
+    {
+      "id": 48,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko",
+      "title_ru": "Верховный суд РФ оставил в силе запрет на антивоенную партию «Яблоко»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 17:01:35"
+    },
+    {
+      "id": 47,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-evening",
+      "title_ru": "Последние новости | 17 августа 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 17:01:35"
+    },
     {
       "id": 46,
       "source": "DW",
