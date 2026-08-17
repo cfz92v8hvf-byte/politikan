@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-17T03:17:03.047995+00:00",
+  "updated_at": "2026-08-17T05:54:43.881026+00:00",
   "posts": [
+    {
+      "id": 21,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
+      "title_ru": "Более 12 000 человек ожидают помощи после смертельного землетрясения в Индонезии",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 20,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
+      "title_ru": "Трамп приказал Пентагону свернуть военные учения с Южной Кореей за несколько часов до начала",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 05:54:43"
+    },
+    {
+      "id": 19,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+      "title_ru": "Ближний Восток в прямом эфире: посол США Кушнер встретится с Нетаньяху после переговоров с ХАМАСом",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 05:54:43"
+    },
+    {
+      "id": 18,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/17/trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-citing-good-relations",
+      "title_ru": "Трамп приказал Пентагону «свернуть» военные учения с Южной Кореей из-за хороших отношений с Ким Чен Ыном",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 17,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/17/ben-gvir-calls-for-killing-of-30-to-40-palestinians-in-gaza-nightly-in-taped-interview-wit",
+      "title_ru": "Бен-Гвир призывает убивать от 30 до 40 палестинцев в Газе каждую ночь в записанном на пленку интервью с бывшим заложником",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 05:54:43"
+    },
+    {
+      "id": 16,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-morning",
+      "title_ru": "Последние новости | 17 августа 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-17 05:54:42"
+    },
     {
       "id": 15,
       "source": "DW",
