@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-18T16:01:53.115181+00:00",
+  "updated_at": "2026-08-18T17:03:46.762861+00:00",
   "posts": [
+    {
+      "id": 99,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-on-restrictive-measures-to-combat-terrorism/",
+      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторыми странами ограничительных мер по борьбе с терроризмом",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 98,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Должна ли Индия беспокоиться о пакте об обороне Мекки?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 97,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/syria-us-condemn-israeli-strikes-on-military-base/a-78417507?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Сирия и США осуждают израильские удары по военной базе",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 96,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/dressed-for-power-giorgia-meloni-and-the-language-of-fashion/a-78413559?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Одетый для власти: Джорджя Мелони и язык моды",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 17:03:46"
+    },
+    {
+      "id": 95,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Ближний Восток: Никаких переговоров или разговоров с Ираном, говорит Трамп",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 17:03:44"
+    },
+    {
+      "id": 94,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-evening",
+      "title_ru": "Последние новости | 18 августа 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 17:03:45"
+    },
     {
       "id": 93,
       "source": "DW",
@@ -22,8 +70,8 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis",
       "title_ru": "Владимир Зеленский назначил нового министра обороны после нескольких недель политического кризиса",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 17:03:46"
     },
     {
       "id": 90,
@@ -432,54 +480,6 @@
       "title_ru": "Лесные пожары в Европе: насколько мы готовы к следующему пожару?",
       "status": "published",
       "published_to_telegram_at": "2026-08-17 14:58:09"
-    },
-    {
-      "id": 39,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260817-new-generation-catalans-tries-rekindle-independence-movement",
-      "title_ru": "Новое поколение каталонцев пытается возродить движение за независимость",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 13:57:14"
-    },
-    {
-      "id": 38,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/17/from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their-eggs",
-      "title_ru": "От одиночества до высоких затрат и войны: почему иранские женщины замораживают свои яйцеклетки",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 14:58:10"
-    },
-    {
-      "id": 37,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/17/yemen-risks-return-to-full-scale-conflict-if-houthi-strikes-continue-un-rights-chief-warns",
-      "title_ru": "Йемен рискует вернуться к «полномасштабному конфликту», если удары хуситов продолжатся, предупреждает глава ООН по правам человека",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 13:57:15"
-    },
-    {
-      "id": 36,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/17/venezuela-seeks-return-of-31-tonnes-of-gold-worth-4bn-from-bank-of-england",
-      "title_ru": "Венесуэла добивается возврата 31 тонны золота на сумму € 4 млрд от Банка Англии",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 13:57:14"
-    },
-    {
-      "id": 35,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/17/trump-threatens-to-bomb-oman-if-it-impedes-us-iran-strait-of-hormuz-talks",
-      "title_ru": "Трамп угрожает бомбить Оман, если это помешает переговорам между США и Ираном по Ормузскому проливу",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 13:57:14"
-    },
-    {
-      "id": 34,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260817-ebola-outbreak-in-dr-congo-now-deadliest-ever",
-      "title_ru": "Вспышка лихорадки Эбола в ДР Конго стала самой смертоносной за всю историю",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
