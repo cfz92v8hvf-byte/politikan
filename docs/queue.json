@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-18T20:54:56.753661+00:00",
+  "updated_at": "2026-08-18T21:50:31.077823+00:00",
   "posts": [
+    {
+      "id": 106,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "США вводят новые санкции в отношении президента МУС, старшего юриста в последней эскалации",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 21:50:31"
+    },
     {
       "id": 105,
       "source": "France 24",
@@ -472,14 +480,6 @@
       "title_ru": "Последние новости | 17 августа 2026 года – вечер",
       "status": "published",
       "published_to_telegram_at": "2026-08-17 17:01:35"
-    },
-    {
-      "id": 46,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/norway-wealth-fund-warns-of-ai-driven-stock-market-bubble/a-78351371?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Норвежский фонд благосостояния предупреждает о пузыре на фондовом рынке, управляемом ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 15:54:13"
     }
   ]
 }
