@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-18T07:58:56.356194+00:00",
+  "updated_at": "2026-08-18T09:18:47.010629+00:00",
   "posts": [
+    {
+      "id": 69,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-updates-new-drone-research-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия обновляет: будет открыт новый исследовательский центр беспилотников",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 68,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/fact-check-how-do-i-spot-propaganda/a-60245403?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Проверка фактов: как распознать пропаганду?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 67,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Замбии омрачены нарушениями и арестами «ополченцев»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 09:18:46"
+    },
+    {
+      "id": 66,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Верховный суд Пакистана постановил перевести Имрана Хана из тюрьмы в больницу",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 09:18:45"
+    },
+    {
+      "id": 65,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/south-korea-calls-for-solid-us-alliance-after-trump-says-good-relationship-with-kim-jong-un",
+      "title_ru": "Южная Корея призывает к прочному альянсу США после того, как Трамп заявил о «хороших отношениях» с Ким Чен Ыном",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 09:18:46"
+    },
+    {
+      "id": 64,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/kevin-lamour-sacked-from-fifa-after-publicly-criticising-infantino-s-plan",
+      "title_ru": "Кевин Ламур уволен из ФИФА после публичной критики плана Инфантино",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 09:18:46"
+    },
     {
       "id": 63,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Ливан: Заявление Высокого представителя от имени ЕС об отмене смертной казни",
       "status": "published",
       "published_to_telegram_at": "2026-08-16 18:53:06"
-    },
-    {
-      "id": 9,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-directed-against-certain-persons-and-entities-in-view-of-the-situation-in-iran/",
-      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании определенных стран в отношении ограничительных мер, направленных против определенных лиц и организаций в связи с ситуацией в Иране",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:53:06"
-    },
-    {
-      "id": 8,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-iran-s-military-support-to-russia-s-war-of-aggression-against-ukraine-and-to-armed-groups-and-entities/",
-      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран относительно ограничительных мер в связи с военной поддержкой Ираном агрессивной войны России против Украины и вооруженных групп и организаций на Ближнем Востоке и в регионе Красного моря",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 19:41:15"
-    },
-    {
-      "id": 7,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/14/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-iran/",
-      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран в отношении ограничительных мер против Ирана",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 19:41:16"
-    },
-    {
-      "id": 6,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260816-poland-registered-bus-veers-off-hungary-highway-killing-12-people",
-      "title_ru": "Автобус, зарегистрированный в Польше, отклонился от венгерского шоссе, погибли 12 человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:41:55"
-    },
-    {
-      "id": 5,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
-      "title_ru": "Южный Ливан: Как израильские удары повлияют на переговоры?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:41:54"
-    },
-    {
-      "id": 4,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
-      "title_ru": "Украина: российская забастовка уничтожает киевский книжный рынок",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:41:54"
     }
   ]
 }
