@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-08-18T09:18:47.010629+00:00",
+  "updated_at": "2026-08-18T11:00:28.118518+00:00",
   "posts": [
+    {
+      "id": 75,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-threatens-to-bomb-oman-as-its-ally-tires-to-mediate-iran-negotiations",
+      "title_ru": "Трамп угрожает бомбить Оман, поскольку его союзник устал выступать посредником на переговорах с Ираном",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 74,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/french-pm-announces-support-for-fire-damaged-villages-after-jeers-from-residents",
+      "title_ru": "Премьер-министр Франции объявил о поддержке пострадавших от пожаров деревень после издевательств со стороны жителей",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:00:27"
+    },
+    {
+      "id": 73,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
+      "title_ru": "Сомалийская армия отбивает группировки, лояльные свергнутому лидеру и исламистским повстанцам",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:00:27"
+    },
+    {
+      "id": 72,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/come-fetch-your-people-300-anti-migrants-protesters-call-out-to-sadc-leaders",
+      "title_ru": "«Приходите за своими людьми»: 300 протестующих против мигрантов призывают лидеров САДК",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:00:26"
+    },
+    {
+      "id": 71,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/18/ship-hit-in-hormuz-as-irans-top-negotiator-says-strait-to-stay-shut",
+      "title_ru": "Корабль попал в Ормуз, поскольку главный переговорщик Ирана говорит, что пролив должен оставаться закрытым",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 70,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
+      "title_ru": "Последние новости | 18 августа 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:00:28"
+    },
     {
       "id": 69,
       "source": "DW",
       "source_url": "https://www.dw.com/en/germany-updates-new-drone-research-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Германия обновляет: будет открыт новый исследовательский центр беспилотников",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 17 августа 2026 г. – утро",
       "status": "published",
       "published_to_telegram_at": "2026-08-17 05:54:42"
-    },
-    {
-      "id": 15,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп приказал свернуть военные учения США и Южной Кореи",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 03:17:02"
-    },
-    {
-      "id": 14,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
-      "title_ru": "Удары беспилотников и ракет убили 19 человек в России и Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 20:50:36"
-    },
-    {
-      "id": 13,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина атакует крупнейший онлайн-рынок России Wildberries",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 12,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/07/russia-s-war-of-aggression-against-ukraine-eu-lists-five-additional-individuals-supporting-russia-s-military-industrial-complex/",
-      "title_ru": "Агрессивная война России против Украины: ЕС перечислил еще пять человек, поддерживающих ВПК России",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:53:05"
-    },
-    {
-      "id": 11,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/08/international-day-of-the-world-s-indigenous-peoples-9-august-2026-statement-by-the-high-representative-on-behalf-of-the-european-union/",
-      "title_ru": "Международный день коренных народов мира, 9 августа 2026 года: Заявление Высокого представителя от имени Европейского союза",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:53:06"
-    },
-    {
-      "id": 10,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/11/lebanon-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-abolition-of-the-death-penalty/",
-      "title_ru": "Ливан: Заявление Высокого представителя от имени ЕС об отмене смертной казни",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:53:06"
     }
   ]
 }
