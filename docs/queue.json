@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-08-18T11:00:28.118518+00:00",
+  "updated_at": "2026-08-18T11:57:05.634938+00:00",
   "posts": [
+    {
+      "id": 81,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-the-situation-in-belarus-and-the-involvement-of-belarus-in-the-russian-aggression-against-ukraine-23-july-2026-65426/",
+      "title_ru": "Заявление Высокого представителя от имени Европейского Союза о согласовании некоторыми странами ограничительных мер в связи с ситуацией в Беларуси и причастностью Беларуси к российской агрессии против Украины",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:57:03"
+    },
+    {
+      "id": 80,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Торговые забастовки Украины и России; сайт Wildberries снова попал в цель",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 79,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
+      "title_ru": "В Сирии приговорили к смертной казни двоюродного брата свергнутого президента Асада",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 78,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ukraine-launches-over-600-drones-at-moscow-region",
+      "title_ru": "Украина запустила более 600 дронов в Подмосковье",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 77,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260818-pakistan-ex-pm-imran-khan-moved-to-hospital-from-jail-over-health-concerns",
+      "title_ru": "Экс-премьер Пакистана Имран Хан переведен из тюрьмы в больницу из-за проблем со здоровьем",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:57:05"
+    },
+    {
+      "id": 76,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/in-jerusalem-us-negotiator-jared-kushner-presses-netanyahu-about-gaza-deal",
+      "title_ru": "В Иерусалиме американский переговорщик Джаред Кушнер давит на Нетаньяху по поводу сделки с Газой",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:57:04"
+    },
     {
       "id": 75,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/trump-threatens-to-bomb-oman-as-its-ally-tires-to-mediate-iran-negotiations",
       "title_ru": "Трамп угрожает бомбить Оман, поскольку его союзник устал выступать посредником на переговорах с Ираном",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 11:57:03"
     },
     {
       "id": 74,
@@ -62,7 +110,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/fact-check-how-do-i-spot-propaganda/a-60245403?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Проверка фактов: как распознать пропаганду?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Бельгия спешит укротить огромный лесной пожар, «распространяющийся в сторону Германии»",
       "status": "published",
       "published_to_telegram_at": "2026-08-17 08:08:29"
-    },
-    {
-      "id": 21,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
-      "title_ru": "Более 12 000 человек ожидают помощи после смертельного землетрясения в Индонезии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 20,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
-      "title_ru": "Трамп приказал Пентагону свернуть военные учения с Южной Кореей за несколько часов до начала",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 05:54:43"
-    },
-    {
-      "id": 19,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
-      "title_ru": "Ближний Восток в прямом эфире: посол США Кушнер встретится с Нетаньяху после переговоров с ХАМАСом",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 05:54:43"
-    },
-    {
-      "id": 18,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/17/trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-citing-good-relations",
-      "title_ru": "Трамп приказал Пентагону «свернуть» военные учения с Южной Кореей из-за хороших отношений с Ким Чен Ыном",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 17,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/17/ben-gvir-calls-for-killing-of-30-to-40-palestinians-in-gaza-nightly-in-taped-interview-wit",
-      "title_ru": "Бен-Гвир призывает убивать от 30 до 40 палестинцев в Газе каждую ночь в записанном на пленку интервью с бывшим заложником",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 05:54:43"
-    },
-    {
-      "id": 16,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-morning",
-      "title_ru": "Последние новости | 17 августа 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 05:54:42"
     }
   ]
 }
