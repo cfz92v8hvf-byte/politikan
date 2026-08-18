@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-18T11:57:05.634938+00:00",
+  "updated_at": "2026-08-18T14:06:02.271015+00:00",
   "posts": [
+    {
+      "id": 87,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-serious-human-rights-violations-and-abuses/",
+      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран в отношении ограничительных мер против серьезных нарушений и злоупотреблений в области прав человека",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 14:06:01"
+    },
+    {
+      "id": 86,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Увертюра Трампа по Северной Корее вызывает опасения по поводу альянсов США",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 85,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Немецкий суд осудил украинца за участок в России",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 84,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/designing-food-for-a-hotter-world/a-78413324?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Дизайн еды для более жаркого мира",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 14:06:01"
+    },
+    {
+      "id": 83,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
+      "title_ru": "Катар заявляет, что репатриировал тело иранского пилота, и отрицает утверждения о задержании трех других",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 14:06:02"
+    },
+    {
+      "id": 82,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
+      "title_ru": "Южная Корея и Япония подчеркивают «критический» альянс США, поскольку Трамп сокращает военные учения",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 14:06:01"
+    },
     {
       "id": 81,
       "source": "Council of the EU",
@@ -14,7 +62,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Торговые забастовки Украины и России; сайт Wildberries снова попал в цель",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
       "title_ru": "В Сирии приговорили к смертной казни двоюродного брата свергнутого президента Асада",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -30,7 +78,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/ukraine-launches-over-600-drones-at-moscow-region",
       "title_ru": "Украина запустила более 600 дронов в Подмосковье",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -86,7 +134,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/18/ship-hit-in-hormuz-as-irans-top-negotiator-says-strait-to-stay-shut",
       "title_ru": "Корабль попал в Ормуз, поскольку главный переговорщик Ирана говорит, что пролив должен оставаться закрытым",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Ближний Восток : Кушнер встретится с Нетаньяху после переговоров с ХАМАСом по плану Газы",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 27,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260817-ukraine-launches-one-of-its-largest-drone-attacks-on-russia",
-      "title_ru": "Украина проводит одну из крупнейших беспилотных атак на Россию",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 26,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
-      "title_ru": "Западный берег : ООН оказывает помощь осажденным палестинским семьям в Кусре",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 10:18:15"
-    },
-    {
-      "id": 25,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
-      "title_ru": "США и Южная Корея начинают военные учения, несмотря на призыв Трампа к свертыванию",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 10:18:15"
-    },
-    {
-      "id": 24,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
-      "title_ru": "Украина и Россия усиливают обстрелы, несколько человек убито в Белгородской приграничной области",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 10:18:14"
-    },
-    {
-      "id": 23,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-midday",
-      "title_ru": "Последние новости | 17 августа 2026 г. – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 10:18:14"
-    },
-    {
-      "id": 22,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/17/belgium-races-to-tame-huge-wildfire-spreading-towards-germany",
-      "title_ru": "Бельгия спешит укротить огромный лесной пожар, «распространяющийся в сторону Германии»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 08:08:29"
     }
   ]
 }
