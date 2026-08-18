@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-18T17:03:46.762861+00:00",
+  "updated_at": "2026-08-18T17:59:56.992076+00:00",
   "posts": [
+    {
+      "id": 101,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-russia-s-actions-destabilising-the-situation-in-ukraine-23-july-2026/",
+      "title_ru": "Заявление Высокого представителя от имени Европейского Союза о согласовании некоторыми странами ограничительных мер в связи с действиями России, дестабилизирующими ситуацию в Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 100,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-hr-on-behalf-of-the-eu-the-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine-23-july-2026-65226/",
+      "title_ru": "Заявление Высокого представителя от имени Европейского Союза о выравнивании некоторых стран относительно ограничительных мер в отношении действий, подрывающих или угрожающих территориальной целостности, суверенитету и независимости Украины",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 99,
       "source": "Council of the EU",
@@ -14,7 +30,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Должна ли Индия беспокоиться о пакте об обороне Мекки?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +38,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/syria-us-condemn-israeli-strikes-on-military-base/a-78417507?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Сирия и США осуждают израильские удары по военной базе",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -62,7 +78,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/iss-sophie-adenot-and-anil-menon-conduct-spacewalk-to-replace-space-to-ground-antenna",
       "title_ru": "МКС: Софи Аденот и Анил Менон проводят выход в открытый космос для замены антенны «космос - земля»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -464,22 +480,6 @@
       "title_ru": "Новости Ближнего Востока: Кушнер встретился с Нетаньяху в Иерусалиме",
       "status": "published",
       "published_to_telegram_at": "2026-08-17 14:58:10"
-    },
-    {
-      "id": 41,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/norway-world-s-top-wealth-fund-flags-stock-market-risks/a-78351371?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Норвегия: крупнейший в мире фонд благосостояния отмечает риски фондового рынка",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 14:58:09"
-    },
-    {
-      "id": 40,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe-s-wildfires-how-prepared-are-we-for-the-next-fire",
-      "title_ru": "Лесные пожары в Европе: насколько мы готовы к следующему пожару?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 14:58:09"
     }
   ]
 }
