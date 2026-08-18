@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-18T05:16:54.015089+00:00",
+  "updated_at": "2026-08-18T07:58:56.356194+00:00",
   "posts": [
+    {
+      "id": 63,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-updates-new-drone-resarch-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: будет открыт новый центр беспилотников",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 07:58:55"
+    },
+    {
+      "id": 62,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260818-clamping-down-china-tightens-exit-rules",
+      "title_ru": "Зажим: Китай ужесточает правила выхода",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 07:58:56"
+    },
+    {
+      "id": 61,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region",
+      "title_ru": "Война в Украине: не менее 10 погибших в Харькове, несколько раненых в результате атаки дронов в Москве",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-18 07:58:55"
+    },
     {
       "id": 60,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Украина: российская забастовка уничтожает киевский книжный рынок",
       "status": "published",
       "published_to_telegram_at": "2026-08-16 18:41:54"
-    },
-    {
-      "id": 3,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
-      "title_ru": "Индия: Моди ухаживает за молодежью на фоне растущей критики",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:34:35"
-    },
-    {
-      "id": 2,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
-      "title_ru": "Иран предлагает $ 30 000 за убийство или захват американских солдат",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:34:34"
-    },
-    {
-      "id": 1,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-evening",
-      "title_ru": "Последние новости | 16 августа 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-16 18:34:34"
     }
   ]
 }
