@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-19T22:55:48.210405+00:00",
+  "updated_at": "2026-08-19T23:50:13.146348+00:00",
   "posts": [
+    {
+      "id": 159,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran",
+      "title_ru": "Ближний Восток в прямом эфире: Трамп угрожает экономическим наказанием «любой стране», помогающей Ирану",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 23:50:13"
+    },
     {
       "id": 158,
       "source": "DW",
@@ -470,14 +478,6 @@
       "source": "Council of the EU",
       "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-hr-on-behalf-of-the-eu-the-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine-23-july-2026-65226/",
       "title_ru": "Заявление Высокого представителя от имени Европейского Союза о выравнивании некоторых стран относительно ограничительных мер в отношении действий, подрывающих или угрожающих территориальной целостности, суверенитету и независимости Украины",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 99,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-on-restrictive-measures-to-combat-terrorism/",
-      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторыми странами ограничительных мер по борьбе с терроризмом",
       "status": "expired",
       "published_to_telegram_at": null
     }
