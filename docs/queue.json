@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-19T05:17:24.239462+00:00",
+  "updated_at": "2026-08-19T07:58:47.534566+00:00",
   "posts": [
+    {
+      "id": 116,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260819-trump-scales-back-joint-military-drills-between-south-korea-and-us",
+      "title_ru": "Трамп сворачивает совместные военные учения Южной Кореи и США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 115,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
+      "title_ru": "Ближний Восток в прямом эфире: глава иранской армии предупреждает страны Персидского залива не помогать американским военным",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 114,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260819-ukraine-s-sacked-defence-minister-mykhailo-fedorov-calls-for-wartime-presidential-elections",
+      "title_ru": "Уволенный министр обороны Украины Федоров призывает к выборам президента в военное время",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 07:58:47"
+    },
+    {
+      "id": 113,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260819-attempts-to-curb-ebola-cases-in-dr-congo-fail-with-more-than-5-000-confirmed",
+      "title_ru": "Попытки обуздать случаи заболевания Эболой в ДР Конго не увенчались успехом: подтверждено более 5000 случаев",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 07:58:47"
+    },
+    {
+      "id": 112,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/19/us-criticises-israel-over-unnecessary-escalation-after-strikes-on-syrian-airbase",
+      "title_ru": "США критикуют Израиль за «ненужную эскалацию» после ударов по сирийской авиабазе",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 07:58:46"
+    },
     {
       "id": 111,
       "source": "DW",
@@ -440,46 +480,6 @@
       "title_ru": "Последние новости | 18 августа 2026 года – утро",
       "status": "published",
       "published_to_telegram_at": "2026-08-18 05:16:52"
-    },
-    {
-      "id": 56,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises",
-      "title_ru": "Президент Замбии Хичилема выигрывает переизбрание с большими экономическими обещаниями",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 03:10:49"
-    },
-    {
-      "id": 55,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260817-anti-migrants-protesters-gather-outside-sadc-summit",
-      "title_ru": "Протестующие против мигрантов собрались возле саммита САДК",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 54,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20260817-fifa-chief-operating-officer-leaves-after-criticising-infantino-investor-plan",
-      "title_ru": "Главный операционный директор ФИФА уходит после критики плана инвестора Infantino",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 23:49:05"
-    },
-    {
-      "id": 53,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "title_ru": "Нетаньяху и Кушнер договорились с генералом США о проверке разоружения ХАМАСа до ухода Израиля из Газы",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 19:17:55"
-    },
-    {
-      "id": 52,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/17/us-supreme-court-again-rejects-trumps-request-to-overturn-sex-assault-judgement",
-      "title_ru": "Верховный суд США вновь отклонил просьбу Трампа отменить решение по делу о сексуальном насилии",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-17 19:17:55"
     }
   ]
 }
