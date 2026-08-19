@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-08-19T11:00:00.990669+00:00",
+  "updated_at": "2026-08-19T11:55:54.891720+00:00",
   "posts": [
+    {
+      "id": 133,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/nigeria-campaign-kicks-off-for-2027-presidential-election/a-78421873?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Нигерия: Кампания стартует на президентских выборах 2027 года",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 132,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-updates-ousted-minister-fedorov-calls-for-elections/live-78421712?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Украины: свергнутый министр Федоров призывает к выборам",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 131,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/amanal-petros-from-refugee-to-european-champion/a-78428504?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Аманал Петрос: от беженца до чемпиона Европы",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 11:55:54"
+    },
+    {
+      "id": 130,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pakistan-could-ex-pm-imran-khan-make-a-new-deal/a-78429070?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Пакистан: Может ли экс-премьер Имран Хан заключить новую сделку?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 11:55:54"
+    },
+    {
+      "id": 129,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Израильские военные начнут уголовное расследование двух нападений в Газе",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 11:55:53"
+    },
     {
       "id": 128,
       "source": "DW",
       "source_url": "https://www.dw.com/en/pakistan-government-to-challenge-ex-pm-khan-hospital-move/a-78421894?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Правительство Пакистана оспаривает перенос больницы экс-премьера Хана",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,8 +54,8 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/who-really-owns-the-caspian-sea/a-78396946?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Кому на самом деле принадлежит Каспийское море?",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 11:55:54"
     },
     {
       "id": 126,
@@ -30,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/reforestation-and-sustainable-land-water-management-can-help-combat-desertification",
       "title_ru": "Восстановление лесов и устойчивое управление земельными и водными ресурсами могут помочь в борьбе с опустыниванием",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "Премьер-министр Франции объявил о поддержке пострадавших от пожаров деревень после издевательств со стороны жителей",
       "status": "published",
       "published_to_telegram_at": "2026-08-18 11:00:27"
-    },
-    {
-      "id": 73,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
-      "title_ru": "Сомалийская армия отбивает группировки, лояльные свергнутому лидеру и исламистским повстанцам",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 11:00:27"
-    },
-    {
-      "id": 72,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/come-fetch-your-people-300-anti-migrants-protesters-call-out-to-sadc-leaders",
-      "title_ru": "«Приходите за своими людьми»: 300 протестующих против мигрантов призывают лидеров САДК",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 11:00:26"
-    },
-    {
-      "id": 71,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/18/ship-hit-in-hormuz-as-irans-top-negotiator-says-strait-to-stay-shut",
-      "title_ru": "Корабль попал в Ормуз, поскольку главный переговорщик Ирана говорит, что пролив должен оставаться закрытым",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 70,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
-      "title_ru": "Последние новости | 18 августа 2026 г. – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 11:00:28"
-    },
-    {
-      "id": 69,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-updates-new-drone-research-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия обновляет: будет открыт новый исследовательский центр беспилотников",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
