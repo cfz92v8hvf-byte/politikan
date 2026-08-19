@@ -1,21 +1,69 @@
 {
-  "updated_at": "2026-08-19T16:02:22.625655+00:00",
+  "updated_at": "2026-08-19T17:02:18.269595+00:00",
   "posts": [
+    {
+      "id": 151,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-condemns-israeli-minister-s-call-to-remove-palestinians/a-78435299?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия осуждает призыв израильского министра «удалить» палестинцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 17:02:16"
+    },
+    {
+      "id": 150,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260819-israeli-army-launches-criminal-probe-into-its-troops-killing-of-five-year-old-hind-rajab",
+      "title_ru": "Израильская армия начинает уголовное расследование убийства пятилетней Хинд Раджаб в Газе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 149,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-visitors-return-to-syria-s-palmyra-after-years-of-war-and-destructions",
+      "title_ru": "Посетители возвращаются в сирийскую Пальмиру после многолетней войны и разрушений",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 148,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-fractured-opposition-battles-nigeria-s-tinubu-as-presidential-campaign-begins",
+      "title_ru": "Расколотая оппозиция борется с нигерийским Тинубу в начале президентской кампании",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 147,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-israel-blames-turkey-after-strike-on-syria-air-base",
+      "title_ru": "Израиль обвиняет Турцию после удара по авиабазе в Сирии",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 146,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-evening",
+      "title_ru": "Последние новости | 19 августа 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 17:02:17"
+    },
     {
       "id": 145,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260819-ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle",
       "title_ru": "Украинские депутаты утвердили нового министра обороны после противоречивых перестановок",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 17:02:18"
     },
     {
       "id": 144,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260819-turkey-slams-israel-s-untenable-claims-after-strikes-on-syrian-base",
       "title_ru": "Турция критикует «несостоятельные» претензии Израиля после ударов по сирийской базе",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 17:02:17"
     },
     {
       "id": 143,
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/iss-sophie-adenot-and-anil-menon-conduct-spacewalk-to-replace-space-to-ground-antenna",
       "title_ru": "МКС: Софи Аденот и Анил Менон проводят выход в открытый космос для замены антенны «космос - земля»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 91,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis",
-      "title_ru": "Владимир Зеленский назначил нового министра обороны после нескольких недель политического кризиса",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 17:03:46"
-    },
-    {
-      "id": 90,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
-      "title_ru": "Палестинский американец бросает вызов израильской армии возле своего дома на Западном берегу",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 16:01:52"
-    },
-    {
-      "id": 89,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260818-tons-of-nuclear-materials-found-at-undisclosed-syrian-site-iaea-chief-says",
-      "title_ru": "«Тонны» ядерных материалов обнаружены на неназванном сирийском объекте, заявил глава МАГАТЭ",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 16:01:51"
-    },
-    {
-      "id": 88,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/18/uae-issues-alert-warning-of-potential-missile-threats",
-      "title_ru": "ОАЭ предупреждают о «потенциальных ракетных угрозах»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 16:01:52"
-    },
-    {
-      "id": 87,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-serious-human-rights-violations-and-abuses/",
-      "title_ru": "Заявление Высокого представителя от имени ЕС о согласовании некоторых стран в отношении ограничительных мер против серьезных нарушений и злоупотреблений в области прав человека",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 14:06:01"
-    },
-    {
-      "id": 86,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Увертюра Трампа по Северной Корее вызывает опасения по поводу альянсов США",
       "status": "expired",
       "published_to_telegram_at": null
     }
