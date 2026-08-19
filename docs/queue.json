@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-19T17:55:03.494894+00:00",
+  "updated_at": "2026-08-19T19:12:43.608913+00:00",
   "posts": [
+    {
+      "id": 156,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/liberia-says-it-s-taking-in-1-200-third-country-us-deportees/a-78436127?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Либерия заявляет, что принимает 1200 депортированных из США из третьих стран",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 19:12:42"
+    },
+    {
+      "id": 155,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/zambia-mundubile-seeks-to-overturn-election-result-in-court/a-78436788?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Замбия: Mundubile стремится отменить результаты выборов в суде",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 19:12:42"
+    },
+    {
+      "id": 154,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260819-tax-hack-cyberattacks-on-french-government-agencies",
+      "title_ru": "Налоговый взлом: что мы знаем о кибератаках на французские правительственные учреждения",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 19:12:42"
+    },
+    {
+      "id": 153,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/19/trump-says-north-korea-has-57-very-powerful-nuclear-weapons",
+      "title_ru": "Трамп говорит, что встретится с северокорейским лидером Ким Чен Ыном позже в этом году",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 19:12:43"
+    },
     {
       "id": 152,
       "source": "DW",
@@ -448,38 +480,6 @@
       "title_ru": "Сирия и США осуждают израильские удары по военной базе",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 96,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/dressed-for-power-giorgia-meloni-and-the-language-of-fashion/a-78413559?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Одетый для власти: Джорджя Мелони и язык моды",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 17:03:46"
-    },
-    {
-      "id": 95,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Ближний Восток: Никаких переговоров или разговоров с Ираном, говорит Трамп",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 17:03:44"
-    },
-    {
-      "id": 94,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-evening",
-      "title_ru": "Последние новости | 18 августа 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 17:03:45"
-    },
-    {
-      "id": 93,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/as-drought-hits-germany-s-harvest-will-food-prices-rise/a-78408203?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Когда засуха ударит по урожаю Германии, вырастут ли цены на продовольствие?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 16:01:53"
     }
   ]
 }
