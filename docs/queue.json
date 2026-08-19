@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-19T14:07:15.511306+00:00",
+  "updated_at": "2026-08-19T16:02:22.625655+00:00",
   "posts": [
+    {
+      "id": 145,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle",
+      "title_ru": "Украинские депутаты утвердили нового министра обороны после противоречивых перестановок",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 144,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-turkey-slams-israel-s-untenable-claims-after-strikes-on-syrian-base",
+      "title_ru": "Турция критикует «несостоятельные» претензии Израиля после ударов по сирийской базе",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 143,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-zelensky-s-office-probed-for-corruption-as-fired-defence-minister-demands-elections",
+      "title_ru": "Офис Зеленского расследуют на предмет коррупции, поскольку уволенный министр обороны требует выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 16:02:22"
+    },
+    {
+      "id": 142,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks",
+      "title_ru": "Ливийское правительство в Тунисе готовится к переговорам о кризисе",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 16:02:21"
+    },
+    {
+      "id": 141,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
+      "title_ru": "Израильские военные расследуют убийства Хинд Раджаба и палестинских парамедиков",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 16:02:21"
+    },
+    {
+      "id": 140,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-france-probes-tax-database-massive-cyberattack",
+      "title_ru": "Франция исследует налоговую базу данных массированной кибератаки",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 16:02:20"
+    },
     {
       "id": 139,
       "source": "DW",
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/europe/20260819-ukraine-live-zelensky-fires-deputy-head-of-presidential-office-as-corruption-probe-unfolds",
       "title_ru": "В прямом эфире: новый министр обороны Украины вступает в должность, поскольку популярный предшественник призывает к президентским выборам",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/19/iran-executed-at-least-900-people-since-january-rights-group-says",
       "title_ru": "В Иране с января казнили не менее 900 человек, сообщает правозащитная группа",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Увертюра Трампа по Северной Корее вызывает опасения по поводу альянсов США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 85,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Немецкий суд осудил украинца за участок в России",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 84,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/designing-food-for-a-hotter-world/a-78413324?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Дизайн еды для более жаркого мира",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 14:06:01"
-    },
-    {
-      "id": 83,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
-      "title_ru": "Катар заявляет, что репатриировал тело иранского пилота, и отрицает утверждения о задержании трех других",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 14:06:02"
-    },
-    {
-      "id": 82,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
-      "title_ru": "Южная Корея и Япония подчеркивают «критический» альянс США, поскольку Трамп сокращает военные учения",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 14:06:01"
-    },
-    {
-      "id": 81,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-the-situation-in-belarus-and-the-involvement-of-belarus-in-the-russian-aggression-against-ukraine-23-july-2026-65426/",
-      "title_ru": "Заявление Высокого представителя от имени Европейского Союза о согласовании некоторыми странами ограничительных мер в связи с ситуацией в Беларуси и причастностью Беларуси к российской агрессии против Украины",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 11:57:03"
-    },
-    {
-      "id": 80,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Торговые забастовки Украины и России; сайт Wildberries снова попал в цель",
       "status": "expired",
       "published_to_telegram_at": null
     }
