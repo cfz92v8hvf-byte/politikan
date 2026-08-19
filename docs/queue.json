@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-19T07:58:47.534566+00:00",
+  "updated_at": "2026-08-19T09:52:28.356945+00:00",
   "posts": [
+    {
+      "id": 122,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-ethiopia-s-digital-ids-scheme-offers-refugees-a-way-out-of-limbo",
+      "title_ru": "Схема цифровых удостоверений личности Эфиопии предлагает беженцам выход из подвешенного состояния",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 121,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-iran-parliament-speaker-ghalibaf-in-iraq-for-talks",
+      "title_ru": "Спикер парламента Ирана Галибаф в Ираке на переговорах",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 09:52:28"
+    },
+    {
+      "id": 120,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-ousted-ukraine-defence-minister-challenges-zelensky-s-leadership",
+      "title_ru": "Свергнутый министр обороны Украины оспаривает лидерство Зеленского",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 09:52:27"
+    },
+    {
+      "id": 119,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260819-sacked-ukraine-defence-minister-urges-path-to-elections",
+      "title_ru": "Уволенный министр обороны Украины призывает к выборам",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 09:52:27"
+    },
+    {
+      "id": 118,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260819-ukraine-anti-graft-agencies-uncover-alleged-laundering-group-tied-to-presidential-official",
+      "title_ru": "Украинские антикоррупционные агентства раскрывают предполагаемую группу по отмыванию денег, связанную с должностным лицом президента",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 09:52:26"
+    },
+    {
+      "id": 117,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/19/us-and-south-korean-militaries-agree-to-shorten-drills-days-after-trump-ordered-reduction-",
+      "title_ru": "Северная Корея назвала совместные военные учения США и Юга «открытой угрозой» региональной безопасности",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 116,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Новости Германии: будет открыт новый центр беспилотников",
       "status": "published",
       "published_to_telegram_at": "2026-08-18 07:58:55"
-    },
-    {
-      "id": 62,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260818-clamping-down-china-tightens-exit-rules",
-      "title_ru": "Зажим: Китай ужесточает правила выхода",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 07:58:56"
-    },
-    {
-      "id": 61,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region",
-      "title_ru": "Война в Украине: не менее 10 погибших в Харькове, несколько раненых в результате атаки дронов в Москве",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 07:58:55"
-    },
-    {
-      "id": 60,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Хичилема из Замбии побеждает на втором президентском сроке",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 05:16:53"
-    },
-    {
-      "id": 59,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260818-middle-east-live-iran-declares-60-day-negotiation-deadline-null-and-void",
-      "title_ru": "Ближний Восток в прямом эфире: Иран объявил 60-дневный срок переговоров недействительным",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 05:16:52"
-    },
-    {
-      "id": 58,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/18/zambias-hakainde-hichilema-wins-re-election-with-60-of-vote-officials-say",
-      "title_ru": "Хакаинде Хичилема из Замбии побеждает на переизбрании с 60% голосов, говорят чиновники",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 05:16:53"
-    },
-    {
-      "id": 57,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-morning",
-      "title_ru": "Последние новости | 18 августа 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 05:16:52"
     }
   ]
 }
