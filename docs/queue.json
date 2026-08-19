@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-19T17:02:18.269595+00:00",
+  "updated_at": "2026-08-19T17:55:03.494894+00:00",
   "posts": [
+    {
+      "id": 152,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-cockroach-movement-takes-aim-at-government-schools/a-78431291?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Движение «Таракан» в Индии нацелено на государственные школы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 151,
       "source": "DW",
@@ -22,7 +30,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260819-visitors-return-to-syria-s-palmyra-after-years-of-war-and-destructions",
       "title_ru": "Посетители возвращаются в сирийскую Пальмиру после многолетней войны и разрушений",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -30,7 +38,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260819-fractured-opposition-battles-nigeria-s-tinubu-as-presidential-campaign-begins",
       "title_ru": "Расколотая оппозиция борется с нигерийским Тинубу в начале президентской кампании",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +46,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260819-israel-blames-turkey-after-strike-on-syria-air-base",
       "title_ru": "Израиль обвиняет Турцию после удара по авиабазе в Сирии",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -472,14 +480,6 @@
       "title_ru": "Когда засуха ударит по урожаю Германии, вырастут ли цены на продовольствие?",
       "status": "published",
       "published_to_telegram_at": "2026-08-18 16:01:53"
-    },
-    {
-      "id": 92,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iss-sophie-adenot-and-anil-menon-conduct-spacewalk-to-replace-space-to-ground-antenna",
-      "title_ru": "МКС: Софи Аденот и Анил Менон проводят выход в открытый космос для замены антенны «космос - земля»",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
