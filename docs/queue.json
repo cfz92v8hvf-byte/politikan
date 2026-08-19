@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-08-19T09:52:28.356945+00:00",
+  "updated_at": "2026-08-19T11:00:00.990669+00:00",
   "posts": [
+    {
+      "id": 128,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pakistan-government-to-challenge-ex-pm-khan-hospital-move/a-78421894?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Правительство Пакистана оспаривает перенос больницы экс-премьера Хана",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 127,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/who-really-owns-the-caspian-sea/a-78396946?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Кому на самом деле принадлежит Каспийское море?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 126,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-minister-wants-to-help-renters-to-install-ac/live-78421815?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: Министр хочет помочь арендаторам установить кондиционер",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 11:00:00"
+    },
+    {
+      "id": 125,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/reforestation-and-sustainable-land-water-management-can-help-combat-desertification",
+      "title_ru": "Восстановление лесов и устойчивое управление земельными и водными ресурсами могут помочь в борьбе с опустыниванием",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 124,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-midday",
+      "title_ru": "Последние новости | 19 августа 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 10:59:59"
+    },
+    {
+      "id": 123,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/19/russians-pull-billions-from-banks-fearing-kremlin-will-seize-savings-for-war",
+      "title_ru": "Россияне выводят миллиарды из банков, опасаясь, что Кремль захватит сбережения для войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 10:59:59"
+    },
     {
       "id": 122,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260819-ethiopia-s-digital-ids-scheme-offers-refugees-a-way-out-of-limbo",
       "title_ru": "Схема цифровых удостоверений личности Эфиопии предлагает беженцам выход из подвешенного состояния",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-19 11:00:00"
     },
     {
       "id": 121,
@@ -432,54 +480,6 @@
       "title_ru": "Германия обновляет: будет открыт новый исследовательский центр беспилотников",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 68,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/fact-check-how-do-i-spot-propaganda/a-60245403?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Проверка фактов: как распознать пропаганду?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 67,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Выборы в Замбии омрачены нарушениями и арестами «ополченцев»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 09:18:46"
-    },
-    {
-      "id": 66,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Верховный суд Пакистана постановил перевести Имрана Хана из тюрьмы в больницу",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 09:18:45"
-    },
-    {
-      "id": 65,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/south-korea-calls-for-solid-us-alliance-after-trump-says-good-relationship-with-kim-jong-un",
-      "title_ru": "Южная Корея призывает к прочному альянсу США после того, как Трамп заявил о «хороших отношениях» с Ким Чен Ыном",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 09:18:46"
-    },
-    {
-      "id": 64,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/kevin-lamour-sacked-from-fifa-after-publicly-criticising-infantino-s-plan",
-      "title_ru": "Кевин Ламур уволен из ФИФА после публичной критики плана Инфантино",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 09:18:46"
-    },
-    {
-      "id": 63,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-updates-new-drone-resarch-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: будет открыт новый центр беспилотников",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 07:58:55"
     }
   ]
 }
