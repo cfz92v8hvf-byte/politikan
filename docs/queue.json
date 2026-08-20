@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-19T23:50:13.146348+00:00",
+  "updated_at": "2026-08-20T03:13:47.792931+00:00",
   "posts": [
+    {
+      "id": 161,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина: Несколько человек погибли в результате новых российских ударов по Киеву",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 03:13:47"
+    },
+    {
+      "id": 160,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year",
+      "title_ru": "Трамп говорит, что встретится с Ким Чен Ыном позже в этом году",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 03:13:47"
+    },
     {
       "id": 159,
       "source": "France 24",
@@ -464,22 +480,6 @@
       "title_ru": "МУС наносит ответный удар после того, как США объявили о новых санкциях в отношении высокопоставленных судебных",
       "status": "published",
       "published_to_telegram_at": "2026-08-18 20:54:56"
-    },
-    {
-      "id": 101,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-russia-s-actions-destabilising-the-situation-in-ukraine-23-july-2026/",
-      "title_ru": "Заявление Высокого представителя от имени Европейского Союза о согласовании некоторыми странами ограничительных мер в связи с действиями России, дестабилизирующими ситуацию в Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 100,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/18/statement-by-the-hr-on-behalf-of-the-eu-the-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine-23-july-2026-65226/",
-      "title_ru": "Заявление Высокого представителя от имени Европейского Союза о выравнивании некоторых стран относительно ограничительных мер в отношении действий, подрывающих или угрожающих территориальной целостности, суверенитету и независимости Украины",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
