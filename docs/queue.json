@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-20T21:59:00.231434+00:00",
+  "updated_at": "2026-08-20T23:01:53.049964+00:00",
   "posts": [
+    {
+      "id": 203,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ukraine-a-genuine-fragile-democracy-internal-political-turmoil-will-weaken-political-system",
+      "title_ru": "Украина - «подлинная», «хрупкая» демократия: «Внутренние политические потрясения ослабят политическую систему»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 23:01:52"
+    },
+    {
+      "id": 202,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino",
+      "title_ru": "Панамский канал сократит ежедневное судоходство из-за засухи из-за Эль-Ниньо",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 23:01:52"
+    },
     {
       "id": 201,
       "source": "France 24",
@@ -464,22 +480,6 @@
       "title_ru": "Турция критикует «несостоятельные» претензии Израиля после ударов по сирийской базе",
       "status": "published",
       "published_to_telegram_at": "2026-08-19 17:02:17"
-    },
-    {
-      "id": 143,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260819-zelensky-s-office-probed-for-corruption-as-fired-defence-minister-demands-elections",
-      "title_ru": "Офис Зеленского расследуют на предмет коррупции, поскольку уволенный министр обороны требует выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 16:02:22"
-    },
-    {
-      "id": 142,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks",
-      "title_ru": "Ливийское правительство в Тунисе готовится к переговорам о кризисе",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 16:02:21"
     }
   ]
 }
