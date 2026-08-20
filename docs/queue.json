@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-20T17:15:42.792584+00:00",
+  "updated_at": "2026-08-20T19:18:33.279556+00:00",
   "posts": [
+    {
+      "id": 200,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Почему растет военное присутствие Израиля в Сирии?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 19:18:33"
+    },
+    {
+      "id": 199,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/extreme-heat-we-re-really-starting-now-to-understand-how-global-climate-is-impacting-our-health",
+      "title_ru": "Экстремальная жара: «Мы действительно начинаем понимать, как глобальный климат влияет на наше здоровье»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 19:18:32"
+    },
+    {
+      "id": 198,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
+      "title_ru": "Последние новости | 20 августа 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 197,
       "source": "DW",
@@ -22,7 +46,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260820-hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-border-crisis",
       "title_ru": "Сотни мигрантов переехали во временные убежища после кризиса на границе с Сеутой",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -456,30 +480,6 @@
       "title_ru": "Израильские военные расследуют убийства Хинд Раджаба и палестинских парамедиков",
       "status": "published",
       "published_to_telegram_at": "2026-08-19 16:02:21"
-    },
-    {
-      "id": 140,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260819-france-probes-tax-database-massive-cyberattack",
-      "title_ru": "Франция исследует налоговую базу данных массированной кибератаки",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 16:02:20"
-    },
-    {
-      "id": 139,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-s-rusting-sea-munitions-are-a-toxic-time-bomb/a-78419545?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Ржавые морские боеприпасы Германии - это токсичная бомба замедленного действия",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 14:07:15"
-    },
-    {
-      "id": 138,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Почему США преследуют Международный уголовный суд",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 14:07:14"
     }
   ]
 }
