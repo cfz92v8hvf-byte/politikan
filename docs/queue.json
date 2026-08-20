@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-20T08:05:08.029623+00:00",
+  "updated_at": "2026-08-20T11:03:50.158460+00:00",
   "posts": [
+    {
+      "id": 176,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260820-zimbabwe-ferry-disaster-under-scrutiny-as-death-toll-rises-to-94",
+      "title_ru": "Катастрофа на пароме в Зимбабве под пристальным вниманием, поскольку число погибших возросло до 94",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 11:03:50"
+    },
+    {
+      "id": 175,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260820-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
+      "title_ru": "Австралия «возмущена» решением Израиля закрыть расследование убийств сотрудников гуманитарных организаций",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 11:03:49"
+    },
+    {
+      "id": 174,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/20/kyiv-residents-rescued-as-russian-strikes-damage-buildings-across-the-city",
+      "title_ru": "Жителей Киева спасли, когда российские авиаудары повредили здания по всему городу",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 173,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/20/russia-runs-out-of-petrol-at-seven-in-10-stations-as-fuel-crisis-worsens",
+      "title_ru": "В России заканчивается бензин на семи из 10 станций в связи с обострением топливного кризиса",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 172,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/20/sirens-shelters-and-scaled-back-war-games-south-korea-rehearses-for-crisis",
+      "title_ru": "Сирены, укрытия и сокращенные военные учения: Южная Корея готовится к кризису",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 11:03:49"
+    },
+    {
+      "id": 171,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/20/icc-separates-taliban-probe-from-us-case-as-afghan-womens-fate-stays-uncertain",
+      "title_ru": "МУС отделяет расследование талибов от дела США, поскольку судьба афганских женщин остается неопределенной",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 11:03:48"
+    },
     {
       "id": 170,
       "source": "DW",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
       "title_ru": "Киев стал мишенью массированных российских ударов, в результате которых погибли несколько человек",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/israeli-army-admits-firing-on-car-in-death-of-5-year-old-hind-rajab",
       "title_ru": "Израильская армия призналась в стрельбе по автомобилю, в результате которой погибла 5-летняя Хинд Раджаб",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Северная Корея назвала совместные военные учения США и Юга «открытой угрозой» региональной безопасности",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 116,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260819-trump-scales-back-joint-military-drills-between-south-korea-and-us",
-      "title_ru": "Трамп сворачивает совместные военные учения Южной Кореи и США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 115,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
-      "title_ru": "Ближний Восток в прямом эфире: глава иранской армии предупреждает страны Персидского залива не помогать американским военным",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 114,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260819-ukraine-s-sacked-defence-minister-mykhailo-fedorov-calls-for-wartime-presidential-elections",
-      "title_ru": "Уволенный министр обороны Украины Федоров призывает к выборам президента в военное время",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 07:58:47"
-    },
-    {
-      "id": 113,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260819-attempts-to-curb-ebola-cases-in-dr-congo-fail-with-more-than-5-000-confirmed",
-      "title_ru": "Попытки обуздать случаи заболевания Эболой в ДР Конго не увенчались успехом: подтверждено более 5000 случаев",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 07:58:47"
-    },
-    {
-      "id": 112,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/19/us-criticises-israel-over-unnecessary-escalation-after-strikes-on-syrian-airbase",
-      "title_ru": "США критикуют Израиль за «ненужную эскалацию» после ударов по сирийской авиабазе",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 07:58:46"
-    },
-    {
-      "id": 111,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США и Канада достигли соглашения, которое приостанавливает 50% тарифы, говорит Трамп",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 05:17:24"
     }
   ]
 }
