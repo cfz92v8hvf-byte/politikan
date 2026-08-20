@@ -7,7 +7,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from typing import Optional
-from storage import connect, is_seen
+from storage import claim_collection_slot, connect, is_seen
 from common import settings
 from translator import translate, TranslationError
 from telegram import publish
@@ -64,6 +64,9 @@ def is_relevant(title, summary, keywords):
 
 def collect():
     config, db = settings(), connect()
+    if not claim_collection_slot(db, config.get("min_collection_interval_minutes", 55)):
+        print("Collection skipped: the hourly slot is already complete")
+        return
     newest = datetime.now(timezone.utc) - timedelta(hours=config["max_age_hours"])
     added = 0
     for source in config["sources"]:
