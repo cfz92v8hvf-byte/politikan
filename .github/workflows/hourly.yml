@@ -2,7 +2,8 @@ name: Collect European news
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    # Backup starts make the schedule more resilient; the collector enforces one cycle per hour.
+    - cron: '5,20,35,50 * * * *'
   workflow_dispatch:
 
 permissions:
