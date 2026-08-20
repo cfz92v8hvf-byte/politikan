@@ -7,7 +7,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from typing import Optional
-from storage import claim_collection_slot, connect, is_seen
+from storage import claim_collection_slot, connect, is_seen, is_semantic_duplicate
 from common import settings
 from translator import translate, TranslationError
 from telegram import publish
@@ -79,6 +79,9 @@ def collect():
                 if (published and published < newest) or is_seen(db, url, title):
                     continue
                 if not is_relevant(title, summary, config.get("topic_keywords", [])):
+                    continue
+                if is_semantic_duplicate(db, title, config["max_age_hours"]):
+                    print(f"Skipped similar recent story: {title[:60]}")
                     continue
                 try:
                     title_ru, summary_ru = translate(title), translate(summary or title)
