@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-20T11:03:50.158460+00:00",
+  "updated_at": "2026-08-20T12:01:29.009611+00:00",
   "posts": [
+    {
+      "id": 182,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "АНК Южной Африки столкнулся с негативной реакцией избирателей",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 12:01:28"
+    },
+    {
+      "id": 181,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
+      "title_ru": "Китайский гигант недвижимости Сюй Цзяинь приговорен к пожизненному заключению",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 180,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/live-news/20260820-what-property-giant-evergrande-s-sentence-means-for-china-s-economy",
+      "title_ru": "Что означает приговор имущественного гиганта Evergrande для экономики Китая",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 179,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260820-icc-says-us-sanctions-flagrant-attack-on-court-independence",
+      "title_ru": "МУС назвал санкции США «вопиющей атакой» на независимость суда",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 178,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region",
+      "title_ru": "Российские авиаудары убили не менее 12 человек в Киеве и прилегающем регионе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 177,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
+      "title_ru": "Последние новости | 20 августа 2026 года – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 12:01:28"
+    },
     {
       "id": 176,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/video/2026/08/20/kyiv-residents-rescued-as-russian-strikes-damage-buildings-across-the-city",
       "title_ru": "Жителей Киева спасли, когда российские авиаудары повредили здания по всему городу",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/20/russia-runs-out-of-petrol-at-seven-in-10-stations-as-fuel-crisis-worsens",
       "title_ru": "В России заканчивается бензин на семи из 10 станций в связи с обострением топливного кризиса",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Россияне выводят миллиарды из банков, опасаясь, что Кремль захватит сбережения для войны",
       "status": "published",
       "published_to_telegram_at": "2026-08-19 10:59:59"
-    },
-    {
-      "id": 122,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260819-ethiopia-s-digital-ids-scheme-offers-refugees-a-way-out-of-limbo",
-      "title_ru": "Схема цифровых удостоверений личности Эфиопии предлагает беженцам выход из подвешенного состояния",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 11:00:00"
-    },
-    {
-      "id": 121,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260819-iran-parliament-speaker-ghalibaf-in-iraq-for-talks",
-      "title_ru": "Спикер парламента Ирана Галибаф в Ираке на переговорах",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 09:52:28"
-    },
-    {
-      "id": 120,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260819-ousted-ukraine-defence-minister-challenges-zelensky-s-leadership",
-      "title_ru": "Свергнутый министр обороны Украины оспаривает лидерство Зеленского",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 09:52:27"
-    },
-    {
-      "id": 119,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260819-sacked-ukraine-defence-minister-urges-path-to-elections",
-      "title_ru": "Уволенный министр обороны Украины призывает к выборам",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 09:52:27"
-    },
-    {
-      "id": 118,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260819-ukraine-anti-graft-agencies-uncover-alleged-laundering-group-tied-to-presidential-official",
-      "title_ru": "Украинские антикоррупционные агентства раскрывают предполагаемую группу по отмыванию денег, связанную с должностным лицом президента",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 09:52:26"
-    },
-    {
-      "id": 117,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/19/us-and-south-korean-militaries-agree-to-shorten-drills-days-after-trump-ordered-reduction-",
-      "title_ru": "Северная Корея назвала совместные военные учения США и Юга «открытой угрозой» региональной безопасности",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
