@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-20T05:19:38.186149+00:00",
+  "updated_at": "2026-08-20T08:05:08.029623+00:00",
   "posts": [
+    {
+      "id": 170,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Индии: замечания посланника США по Кашмиру вновь разжигают скандал в Пакистане",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 08:05:06"
+    },
+    {
+      "id": 169,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
+      "title_ru": "Киев стал мишенью массированных российских ударов, в результате которых погибли несколько человек",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 168,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israeli-army-admits-firing-on-car-in-death-of-5-year-old-hind-rajab",
+      "title_ru": "Израильская армия призналась в стрельбе по автомобилю, в результате которой погибла 5-летняя Хинд Раджаб",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 167,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-says-will-meet-north-korea-s-kim-later-this-year",
+      "title_ru": "Трамп говорит, что встретится с Ким Чен Ыном позже в этом году",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 08:05:07"
+    },
+    {
+      "id": 166,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/massive-russian-strikes-hit-kyiv-killing-several-people",
+      "title_ru": "Массированные российские удары ударили по Киеву, убив несколько человек",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 08:05:06"
+    },
+    {
+      "id": 165,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/20/us-officials-coordinated-deportation-flights-with-iran-emails-reveal",
+      "title_ru": "Официальные лица США координировали депортационные рейсы с Ираном, раскрывают электронные письма",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 08:05:07"
+    },
     {
       "id": 164,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "США и Канада достигли соглашения, которое приостанавливает 50% тарифы, говорит Трамп",
       "status": "published",
       "published_to_telegram_at": "2026-08-19 05:17:24"
-    },
-    {
-      "id": 110,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США и Южная Корея сократили совместные учения после критики Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 05:17:23"
-    },
-    {
-      "id": 109,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning",
-      "title_ru": "Последние новости | 19 августа 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 05:17:23"
-    },
-    {
-      "id": 108,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/environment/20260818-europe-seas-record-heat-climate-change-marine-life",
-      "title_ru": "Моря Европы достигают рекордной жары, поскольку изменение климата угрожает морской жизни",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 107,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
-      "title_ru": "Трамп говорит, что переговоры с Ираном не запланированы, настаивает на том, что Ормузский пролив остается открытым",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 22:56:19"
-    },
-    {
-      "id": 106,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США вводят новые санкции в отношении президента МУС, старшего юриста в последней эскалации",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 21:50:31"
-    },
-    {
-      "id": 105,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260818-france-expel-two-iranian-diplomats-row-over-interference-arrests-heightens",
-      "title_ru": "Франция вышлет двух иранских дипломатов, поскольку скандал с арестами усиливается",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 20:54:56"
     }
   ]
 }
