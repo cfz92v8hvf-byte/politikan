@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-20T12:01:29.009611+00:00",
+  "updated_at": "2026-08-20T14:19:19.745253+00:00",
   "posts": [
+    {
+      "id": 188,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Законодатели Бангладеш избрали Аламгира из BNP президентом",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 187,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/israel-warns-turkey-against-dangerous-adventures-in-syria/a-78443259?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Израиль предостерегает Турцию от «опасных приключений в Сирии»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 186,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/romania-destroys-drone-near-gas-project-blames-russia/a-78447040?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Румыния уничтожает беспилотник возле газового проекта, обвиняет Россию",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 14:19:18"
+    },
+    {
+      "id": 185,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260820-drc-s-ebola-outbreak-reaches-5-000-cases-outpaces-response-efforts-at-unprecedented-speed",
+      "title_ru": "Вспышка Эболы в ДРК достигает 5000 случаев, опережая усилия по реагированию с беспрецедентной скоростью",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 14:19:19"
+    },
+    {
+      "id": 184,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260820-us-national-debt-tops-40-trillion-for-first-time-dealing-blow-to-trump",
+      "title_ru": "Государственный долг США впервые превысил $ 40 трлн, нанеся удар по Трампу",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 14:19:19"
+    },
+    {
+      "id": 183,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260820-icc-slams-us-decision-to-sanction-the-court-s-president-and-a-senior-prosecution-lawyer",
+      "title_ru": "МУС критикует решение США о наложении санкций на председателя суда и старшего адвоката обвинения",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 14:19:18"
+    },
     {
       "id": 182,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Израильские военные начнут уголовное расследование двух нападений в Газе",
       "status": "published",
       "published_to_telegram_at": "2026-08-19 11:55:53"
-    },
-    {
-      "id": 128,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pakistan-government-to-challenge-ex-pm-khan-hospital-move/a-78421894?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Правительство Пакистана оспаривает перенос больницы экс-премьера Хана",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 127,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/who-really-owns-the-caspian-sea/a-78396946?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Кому на самом деле принадлежит Каспийское море?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 11:55:54"
-    },
-    {
-      "id": 126,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-minister-wants-to-help-renters-to-install-ac/live-78421815?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: Министр хочет помочь арендаторам установить кондиционер",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 11:00:00"
-    },
-    {
-      "id": 125,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/reforestation-and-sustainable-land-water-management-can-help-combat-desertification",
-      "title_ru": "Восстановление лесов и устойчивое управление земельными и водными ресурсами могут помочь в борьбе с опустыниванием",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 124,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-midday",
-      "title_ru": "Последние новости | 19 августа 2026 г. – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 10:59:59"
-    },
-    {
-      "id": 123,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/19/russians-pull-billions-from-banks-fearing-kremlin-will-seize-savings-for-war",
-      "title_ru": "Россияне выводят миллиарды из банков, опасаясь, что Кремль захватит сбережения для войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 10:59:59"
     }
   ]
 }
