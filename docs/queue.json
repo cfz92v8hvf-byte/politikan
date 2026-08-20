@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-20T03:13:47.792931+00:00",
+  "updated_at": "2026-08-20T05:19:38.186149+00:00",
   "posts": [
+    {
+      "id": 164,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
+      "title_ru": "Северная Корея говорит, что сокращение масштабов совместных военных учений Трампа с Южной Кореей «ничего не меняет»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 05:19:38"
+    },
+    {
+      "id": 163,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/20/lebanon-extradites-ex-assad-military-general-to-syria-for-trial-over-alleged-crimes-commit",
+      "title_ru": "Ливан экстрадирует бывшего генерала Асада в Сирию для суда над предполагаемыми преступлениями, совершенными во время гражданской войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 05:19:37"
+    },
+    {
+      "id": 162,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-morning",
+      "title_ru": "Последние новости | 20 августа 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-20 05:19:37"
+    },
     {
       "id": 161,
       "source": "DW",
@@ -454,30 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france/20260818-france-expel-two-iranian-diplomats-row-over-interference-arrests-heightens",
       "title_ru": "Франция вышлет двух иранских дипломатов, поскольку скандал с арестами усиливается",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 20:54:56"
-    },
-    {
-      "id": 104,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260818-jailed-businessman-appears-accused-of-bribes-and-cartel-links",
-      "title_ru": "Заключенного бизнесмена обвиняют во взяточничестве и связях с картелями",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 20:54:55"
-    },
-    {
-      "id": 103,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law",
-      "title_ru": "МУС заявляет, что санкции США в отношении высших членов суда «подрывают верховенство закона»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-18 20:54:55"
-    },
-    {
-      "id": 102,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/18/icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures",
-      "title_ru": "МУС наносит ответный удар после того, как США объявили о новых санкциях в отношении высокопоставленных судебных",
       "status": "published",
       "published_to_telegram_at": "2026-08-18 20:54:56"
     }
