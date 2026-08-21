@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-21T15:58:39.712216+00:00",
+  "updated_at": "2026-08-21T17:16:09.209452+00:00",
   "posts": [
+    {
+      "id": 244,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/21/international-day-commemorating-the-victims-of-acts-of-violence-based-on-religion-or-belief-statement-by-the-high-representative-on-behalf-of-the-european-union/",
+      "title_ru": "Международный день памяти жертв актов насилия на основе религии или убеждений: заявление Высокого представителя от имени Европейского союза",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 243,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Франция выпустила предупреждение о тысячах некачественных презервативов",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 17:16:07"
+    },
+    {
+      "id": 242,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260821-does-putin-travel-without-security",
+      "title_ru": "Путин путешествует без охраны?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 17:16:08"
+    },
     {
       "id": 241,
       "source": "Council of the EU",
@@ -22,8 +46,8 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260821-e1-israeli-settlement-poses-existential-threat-to-two-state-solution-un-chief-warns",
       "title_ru": "E1 Израильское поселение представляет «экзистенциальную угрозу» для решения двух государств, предупреждает глава ООН",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 17:16:09"
     },
     {
       "id": 238,
@@ -456,30 +480,6 @@
       "title_ru": "Вспышка Эболы в ДРК достигает 5000 случаев, опережая усилия по реагированию с беспрецедентной скоростью",
       "status": "published",
       "published_to_telegram_at": "2026-08-20 14:19:19"
-    },
-    {
-      "id": 184,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-us-national-debt-tops-40-trillion-for-first-time-dealing-blow-to-trump",
-      "title_ru": "Государственный долг США впервые превысил $ 40 трлн, нанеся удар по Трампу",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 14:19:19"
-    },
-    {
-      "id": 183,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-icc-slams-us-decision-to-sanction-the-court-s-president-and-a-senior-prosecution-lawyer",
-      "title_ru": "МУС критикует решение США о наложении санкций на председателя суда и старшего адвоката обвинения",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 14:19:18"
-    },
-    {
-      "id": 182,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "АНК Южной Африки столкнулся с негативной реакцией избирателей",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 12:01:28"
     }
   ]
 }
