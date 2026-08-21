@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-08-21T11:03:15.810666+00:00",
+  "updated_at": "2026-08-21T12:01:29.045189+00:00",
   "posts": [
+    {
+      "id": 229,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Манифест Баухауза: широкий альянс, способствующий свободе творчества",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 12:01:28"
+    },
+    {
+      "id": 228,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case",
+      "title_ru": "Гонконгский Тяньаньмэнь бдит организаторов, осужденных по делу о национальной безопасности",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 227,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260821-france-germany-uk-and-italy-condemn-israel-s-e1-west-bank-plan",
+      "title_ru": "Франция, Германия, Великобритания и Италия осуждают израильский план «E1» на Западном берегу",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 226,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/21/latest-news-bulletin-august-21st-2026-midday",
+      "title_ru": "Последние новости | 21 августа 2026 года – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 12:01:28"
+    },
+    {
+      "id": 225,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/21/ebola-outbreak-in-democratic-republic-of-the-congo-growing-exponentially-un-warns",
+      "title_ru": "ООН предупреждает, что вспышка Эболы в Демократической Республике Конго «растет в геометрической прогрессии»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 12:01:27"
+    },
     {
       "id": 224,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260821-in-senegal-s-saint-louis-traces-of-slave-trading-past-fade-away",
       "title_ru": "В сенегальском Сен-Луи исчезают следы работорговли",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 12:01:28"
     },
     {
       "id": 223,
@@ -30,7 +70,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/21/iran-executes-foreign-national-over-alleged-involvement-in-january-protests",
       "title_ru": "Иран казнил «иностранного гражданина» за предполагаемую причастность к январским протестам",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -62,7 +102,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Новости Германии: Берлин теряет привлекательность для многих немцев",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "Новости Индии: замечания посланника США по Кашмиру вновь разжигают скандал в Пакистане",
       "status": "published",
       "published_to_telegram_at": "2026-08-20 08:05:06"
-    },
-    {
-      "id": 169,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
-      "title_ru": "Киев стал мишенью массированных российских ударов, в результате которых погибли несколько человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 168,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/israeli-army-admits-firing-on-car-in-death-of-5-year-old-hind-rajab",
-      "title_ru": "Израильская армия призналась в стрельбе по автомобилю, в результате которой погибла 5-летняя Хинд Раджаб",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 167,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-says-will-meet-north-korea-s-kim-later-this-year",
-      "title_ru": "Трамп говорит, что встретится с Ким Чен Ыном позже в этом году",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 08:05:07"
-    },
-    {
-      "id": 166,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/massive-russian-strikes-hit-kyiv-killing-several-people",
-      "title_ru": "Массированные российские удары ударили по Киеву, убив несколько человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 08:05:06"
-    },
-    {
-      "id": 165,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/20/us-officials-coordinated-deportation-flights-with-iran-emails-reveal",
-      "title_ru": "Официальные лица США координировали депортационные рейсы с Ираном, раскрывают электронные письма",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 08:05:07"
     }
   ]
 }
