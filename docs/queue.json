@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-21T19:55:56.025374+00:00",
+  "updated_at": "2026-08-21T20:56:49.664014+00:00",
   "posts": [
+    {
+      "id": 250,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Президент Ирана: Пора положить конец войне в «позиции силы»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 249,
       "source": "DW",
@@ -472,14 +480,6 @@
       "title_ru": "В Иране контакты с иностранцами скоро могут стать преступлением",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 190,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/why-are-germany-s-gas-storage-levels-so-low/a-78440677?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Почему уровень хранения газа в Германии такой низкий?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 15:59:59"
     }
   ]
 }
