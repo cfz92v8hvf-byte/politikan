@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-21T09:56:13.988740+00:00",
+  "updated_at": "2026-08-21T11:03:15.810666+00:00",
   "posts": [
+    {
+      "id": 224,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260821-in-senegal-s-saint-louis-traces-of-slave-trading-past-fade-away",
+      "title_ru": "В сенегальском Сен-Луи исчезают следы работорговли",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 223,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260821-cybercriminals-perfect-social-engineering-each-hack-feeds-the-chances-of-the-next-one-succeeding",
+      "title_ru": "Киберпреступники совершенствуют «социальную инженерию»: «Каждый взлом повышает шансы на успех следующего",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 11:03:15"
+    },
+    {
+      "id": 222,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/environment/20260821-this-year-s-el-nino-set-to-be-strongest-in-more-than-a-century-uk-forecasters-say",
+      "title_ru": "В этом году Эль-Ниньо станет самым сильным за более чем столетие, говорят британские синоптики",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 11:03:15"
+    },
+    {
+      "id": 221,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/21/iran-executes-foreign-national-over-alleged-involvement-in-january-protests",
+      "title_ru": "Иран казнил «иностранного гражданина» за предполагаемую причастность к январским протестам",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 220,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/21/russia-conducts-missile-tests-on-disputed-islands-as-japan-protests-drills",
+      "title_ru": "Россия проводит ракетные испытания на спорных островах, поскольку Япония протестует против учений",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 11:03:14"
+    },
+    {
+      "id": 219,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/21/mongolia-hosts-un-desertification-summit-as-drought-crisis-deepens",
+      "title_ru": "В Монголии проходит саммит ООН по опустыниванию, поскольку кризис засухи усугубляется",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 11:03:14"
+    },
     {
       "id": 218,
       "source": "Council of the EU",
@@ -432,54 +480,6 @@
       "title_ru": "Официальные лица США координировали депортационные рейсы с Ираном, раскрывают электронные письма",
       "status": "published",
       "published_to_telegram_at": "2026-08-20 08:05:07"
-    },
-    {
-      "id": 164,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
-      "title_ru": "Северная Корея говорит, что сокращение масштабов совместных военных учений Трампа с Южной Кореей «ничего не меняет»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 05:19:38"
-    },
-    {
-      "id": 163,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/20/lebanon-extradites-ex-assad-military-general-to-syria-for-trial-over-alleged-crimes-commit",
-      "title_ru": "Ливан экстрадирует бывшего генерала Асада в Сирию для суда над предполагаемыми преступлениями, совершенными во время гражданской войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 05:19:37"
-    },
-    {
-      "id": 162,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-morning",
-      "title_ru": "Последние новости | 20 августа 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 05:19:37"
-    },
-    {
-      "id": 161,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина: Несколько человек погибли в результате новых российских ударов по Киеву",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 03:13:47"
-    },
-    {
-      "id": 160,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year",
-      "title_ru": "Трамп говорит, что встретится с Ким Чен Ыном позже в этом году",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 03:13:47"
-    },
-    {
-      "id": 159,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran",
-      "title_ru": "Ближний Восток в прямом эфире: Трамп угрожает экономическим наказанием «любой стране», помогающей Ирану",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-19 23:50:13"
     }
   ]
 }
