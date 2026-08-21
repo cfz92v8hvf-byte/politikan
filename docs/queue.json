@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-21T14:08:35.706249+00:00",
+  "updated_at": "2026-08-21T15:58:39.712216+00:00",
   "posts": [
+    {
+      "id": 241,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/21/weekly-schedule-of-president-antonio-costa/",
+      "title_ru": "Еженедельное расписание президента Антонио Коста",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 15:58:37"
+    },
+    {
+      "id": 240,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия расследует тайник с оружием, найденный в лесу под Берлином",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 239,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260821-e1-israeli-settlement-poses-existential-threat-to-two-state-solution-un-chief-warns",
+      "title_ru": "E1 Израильское поселение представляет «экзистенциальную угрозу» для решения двух государств, предупреждает глава ООН",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 238,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260821-what-a-record-breaking-el-nino-could-mean-for-the-world",
+      "title_ru": "Что может означать для мира рекордный Эль-Ниньо",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 15:58:39"
+    },
+    {
+      "id": 237,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260821-moroccan-families-search-their-missing-children-ceuta-border",
+      "title_ru": "Марокканские семьи отправляются на границу Сеуты в поисках пропавших без вести",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 15:58:39"
+    },
+    {
+      "id": 236,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/who-are-the-eight-candidates-running-to-succeed-antonio-guterres-as-un-chief",
+      "title_ru": "Кто из восьми кандидатов претендует на смену Антониу Гутерришу на посту главы ООН?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-21 15:58:38"
+    },
     {
       "id": 235,
       "source": "DW",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
       "title_ru": "Двум организаторам гонконгского бдения на площади Тяньаньмэнь предъявлены обвинения в подстрекательстве к подрывной деятельности",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260821-hopes-fade-after-central-african-republic-gold-mine-collapse-kills-dozens",
       "title_ru": "Надежды угасают после обрушения золотого рудника в Центральноафриканской Республике, в результате которого",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "АНК Южной Африки столкнулся с негативной реакцией избирателей",
       "status": "published",
       "published_to_telegram_at": "2026-08-20 12:01:28"
-    },
-    {
-      "id": 181,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
-      "title_ru": "Китайский гигант недвижимости Сюй Цзяинь приговорен к пожизненному заключению",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 180,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/live-news/20260820-what-property-giant-evergrande-s-sentence-means-for-china-s-economy",
-      "title_ru": "Что означает приговор имущественного гиганта Evergrande для экономики Китая",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 179,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-icc-says-us-sanctions-flagrant-attack-on-court-independence",
-      "title_ru": "МУС назвал санкции США «вопиющей атакой» на независимость суда",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 178,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region",
-      "title_ru": "Российские авиаудары убили не менее 12 человек в Киеве и прилегающем регионе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 177,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
-      "title_ru": "Последние новости | 20 августа 2026 года – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 12:01:28"
-    },
-    {
-      "id": 176,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-zimbabwe-ferry-disaster-under-scrutiny-as-death-toll-rises-to-94",
-      "title_ru": "Катастрофа на пароме в Зимбабве под пристальным вниманием, поскольку число погибших возросло до 94",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 11:03:50"
     }
   ]
 }
