@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-21T23:55:24.726147+00:00",
+  "updated_at": "2026-08-22T03:10:11.111887+00:00",
   "posts": [
+    {
+      "id": 253,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/canada-says-more-work-needed-as-us-trade-deal-deadline-looms/a-78466352?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Канада говорит, что требуется больше работы, поскольку приближается крайний срок заключения торговой сделки с США",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 03:10:11"
+    },
+    {
+      "id": 252,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pentagon-fires-military-newspaper-leadership-for-insubordination/a-78466373?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Пентагон увольняет руководство военной газеты за «неподчинение»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 03:10:10"
+    },
     {
       "id": 251,
       "source": "France 24",
@@ -464,22 +480,6 @@
       "title_ru": "Испания расширяет приюты для мигрантов в Сеуте, чтобы ослабить кризис",
       "status": "published",
       "published_to_telegram_at": "2026-08-20 17:15:42"
-    },
-    {
-      "id": 193,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-french-pm-announces-creation-of-unit-to-combat-cyberattacks",
-      "title_ru": "Премьер-министр Франции объявил о создании подразделения по борьбе с кибератаками",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 17:15:42"
-    },
-    {
-      "id": 192,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
-      "title_ru": "Северная Корея запускает ракеты, Сеул говорит, после того, как Трамп плавает Ким встретится",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 17:15:41"
     }
   ]
 }
