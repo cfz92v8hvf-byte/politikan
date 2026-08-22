@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-08-22T11:50:24.384135+00:00",
+  "updated_at": "2026-08-22T13:45:04.707889+00:00",
   "posts": [
+    {
+      "id": 270,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260822-turkey-seeks-arrest-warrant-for-israeli-pm-netanyahu-fueling-tensions",
+      "title_ru": "Турция добивается ордера на арест премьер-министра Израиля Нетаньяху, разжигая напряженность",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 269,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
+      "title_ru": "100 британских и французских экс-посланников обвиняют Израиль в этнических чистках в открытом письме",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 13:45:04"
+    },
+    {
+      "id": 268,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban",
+      "title_ru": "«Вопреки закону»: судья США отменил запрет Трампа на визу в 75 стран",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 13:45:04"
+    },
+    {
+      "id": 267,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak",
+      "title_ru": "ДР Конго получает вакцины против Эболы перед лицом «экспоненциальной» вспышки",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 13:45:03"
+    },
+    {
+      "id": 266,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes",
+      "title_ru": "Франция поставит Украине ракеты-перехватчики после новой волны российских ударов",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 13:45:03"
+    },
+    {
+      "id": 265,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
+      "title_ru": "Последние новости | 22 августа 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 264,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/ebola-epidemic-in-dr-congo-is-spreading-18-times-faster-than-deadliest-outbreak-on-record",
       "title_ru": "Эпидемия Эболы в ДР Конго распространяется в 18 раз быстрее, чем самая смертоносная вспышка за всю историю наблюдений",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
       "title_ru": "TikTok соглашается выплатить $ 400 млн для урегулирования иска о неприкосновенности частной жизни детей в США",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Ближний Восток в прямом эфире: судоходство в Ормузе падает, поскольку переговоры между Ираном и США зашли в ту",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 210,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/21/kyiv-residents-search-through-the-wreckage-after-russias-deadly-barrage",
-      "title_ru": "Жители Киева обыскивают обломки после смертоносного шквала России",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 07:54:58"
-    },
-    {
-      "id": 209,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/morrocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Моррокко: мигранты оказались между мечтами Сеуты и реальностью",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 05:17:31"
-    },
-    {
-      "id": 208,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/21/latest-news-bulletin-august-21st-2026-morning",
-      "title_ru": "Последние новости | 21 августа 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 05:17:31"
-    },
-    {
-      "id": 207,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/21/australia-charges-man-over-trying-to-inform-russia-of-ukrainian-military-activities",
-      "title_ru": "Австралия обвиняет мужчину в попытке проинформировать Россию об украинской военной деятельности",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 05:17:30"
-    },
-    {
-      "id": 206,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Гонконг осуждает активистов в суде по национальной безопасности",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 03:32:15"
-    },
-    {
-      "id": 205,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/guatemala-says-it-received-nearly-2-300-us-deported-mexicans/a-78452443?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Гватемала заявила, что приняла почти 2300 депортированных из США мексиканцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 03:32:15"
     }
   ]
 }
