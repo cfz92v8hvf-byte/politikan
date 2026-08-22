@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-22T09:55:19.001181+00:00",
+  "updated_at": "2026-08-22T10:56:01.951532+00:00",
   "posts": [
+    {
+      "id": 264,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ebola-epidemic-in-dr-congo-is-spreading-18-times-faster-than-deadliest-outbreak-on-record",
+      "title_ru": "Эпидемия Эболы в ДР Конго распространяется в 18 раз быстрее, чем самая смертоносная вспышка за всю историю наблюдений",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 263,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/dozens-missing-after-gold-mine-collapse-in-central-african-republic",
+      "title_ru": "Десятки человек пропали без вести после обрушения золотого рудника в Центральноафриканской",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 10:56:01"
+    },
+    {
+      "id": 262,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/fifa-sanctions-argentina-over-brawl-at-world-cup-final-game",
+      "title_ru": "ФИФА наложила санкции на Аргентину за потасовку на финальном матче чемпионата мира",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 10:56:01"
+    },
+    {
+      "id": 261,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator",
+      "title_ru": "Турция обвиняет Нетаньяху в «геноциде», премьер-министр Израиля называет Эрдогана «антисемитским диктатором»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 10:56:00"
+    },
+    {
+      "id": 260,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
+      "title_ru": "TikTok соглашается выплатить $ 400 млн для урегулирования иска о неприкосновенности частной жизни детей в США",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 259,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue",
+      "title_ru": "Бальный зал Белого дома будет стоить почти $ 400 млн, поскольку Верховный суд разрешает продолжить работу",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 10:56:01"
+    },
     {
       "id": 258,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Гватемала заявила, что приняла почти 2300 депортированных из США мексиканцев",
       "status": "published",
       "published_to_telegram_at": "2026-08-21 03:32:15"
-    },
-    {
-      "id": 204,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
-      "title_ru": "США предупреждают союзников и Китай присоединиться к кампании экономического давления на Иран",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 03:32:16"
-    },
-    {
-      "id": 203,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ukraine-a-genuine-fragile-democracy-internal-political-turmoil-will-weaken-political-system",
-      "title_ru": "Украина - «подлинная», «хрупкая» демократия: «Внутренние политические потрясения ослабят политическую систему»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 23:01:52"
-    },
-    {
-      "id": 202,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino",
-      "title_ru": "Панамский канал сократит ежедневное судоходство из-за засухи из-за Эль-Ниньо",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 23:01:52"
-    },
-    {
-      "id": 201,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260820-cameroon-93-year-old-president-paul-biya-returns-after-months-long-absence",
-      "title_ru": "93-летний президент Камеруна Поль Бийя возвращается после многомесячного пребывания за границей",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 20:52:16"
-    },
-    {
-      "id": 200,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Почему растет военное присутствие Израиля в Сирии?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 19:18:33"
-    },
-    {
-      "id": 199,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/extreme-heat-we-re-really-starting-now-to-understand-how-global-climate-is-impacting-our-health",
-      "title_ru": "Экстремальная жара: «Мы действительно начинаем понимать, как глобальный климат влияет на наше здоровье»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 19:18:32"
     }
   ]
 }
