@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-22T07:47:12.999589+00:00",
+  "updated_at": "2026-08-22T09:02:31.450257+00:00",
   "posts": [
+    {
+      "id": 258,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-s-foreign-minister-johann-wadephul-visits-kyiv-as-russia-steps-up-attacks/a-78467414?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Министр иностранных дел Германии Йоханн Вадефул посещает Киев, поскольку Россия усиливает атаки",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 09:02:31"
+    },
     {
       "id": 257,
       "source": "France 24",
@@ -472,14 +480,6 @@
       "title_ru": "Экстремальная жара: «Мы действительно начинаем понимать, как глобальный климат влияет на наше здоровье»",
       "status": "published",
       "published_to_telegram_at": "2026-08-20 19:18:32"
-    },
-    {
-      "id": 198,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
-      "title_ru": "Последние новости | 20 августа 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
