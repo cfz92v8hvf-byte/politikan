@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-22T04:59:49.374977+00:00",
+  "updated_at": "2026-08-22T05:58:58.620930+00:00",
   "posts": [
+    {
+      "id": 256,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "США вводят 50% тарифы на некоторые канадские товары, поскольку торговые переговоры терпят неудачу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 255,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260822-carney-says-canada-will-match-us-tariffs-dollar-for-dollar-after-failed-trade-negotiations",
+      "title_ru": "Карни говорит, что Канада будет соответствовать тарифам США «доллар за доллар» после неудачных торговых переговоров",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 05:58:58"
+    },
+    {
+      "id": 254,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-morning",
+      "title_ru": "Последние новости | 22 августа 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 05:58:57"
+    },
     {
       "id": 253,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Засуха в Германии и Европе увеличивает расходы",
       "status": "published",
       "published_to_telegram_at": "2026-08-20 17:15:41"
-    },
-    {
-      "id": 196,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-kyiv-under-fire-russian-strikes-kill-at-least-16",
-      "title_ru": "Киев под огнем: российские удары убили не менее 16 человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 195,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-border-crisis",
-      "title_ru": "Сотни мигрантов переехали во временные убежища после кризиса на границе с Сеутой",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 194,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260820-spain-expands-ceuta-migrant-shelters-to-ease-crisis",
-      "title_ru": "Испания расширяет приюты для мигрантов в Сеуте, чтобы ослабить кризис",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-20 17:15:42"
     }
   ]
 }
