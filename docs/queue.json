@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-22T14:44:39.612975+00:00",
+  "updated_at": "2026-08-22T15:41:21.062707+00:00",
   "posts": [
+    {
+      "id": 279,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Военный авиаудар по Мьянме убил 14 человек в буддийском монастыре: сообщения",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 278,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
+      "title_ru": "102 высокопоставленных дипломата призывают Западный берег к действиям против израильской «этнической чистки»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 15:41:21"
+    },
+    {
+      "id": 277,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/sport/20260822-infantino-defies-fifa-vice-president-s-request-to-stay-away-from-caribbean-youth-tournament",
+      "title_ru": "Infantino игнорирует просьбу вице-президента ФИФА держаться подальше от Карибского молодежного турнира",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-22 15:41:20"
+    },
     {
       "id": 276,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Россия проводит ракетные испытания на спорных островах, поскольку Япония протестует против учений",
       "status": "published",
       "published_to_telegram_at": "2026-08-21 11:03:14"
-    },
-    {
-      "id": 219,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/21/mongolia-hosts-un-desertification-summit-as-drought-crisis-deepens",
-      "title_ru": "В Монголии проходит саммит ООН по опустыниванию, поскольку кризис засухи усугубляется",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 11:03:14"
-    },
-    {
-      "id": 218,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/21/press-briefing-ahead-of-president-antonio-costa-s-tour-des-capitales/",
-      "title_ru": "Брифинг для прессы в преддверии «Tour des Capitales» президента Антонио Косты",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 09:56:12"
-    },
-    {
-      "id": 217,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: Берлин теряет привлекательность для многих немцев",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
