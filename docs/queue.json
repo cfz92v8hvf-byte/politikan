@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-23T14:51:54.589740+00:00",
+  "updated_at": "2026-08-23T15:53:04.450994+00:00",
   "posts": [
+    {
+      "id": 312,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина: Зеленский отвергает выборы военного времени",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 311,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Может ли растущий топливный кризис России помочь положить конец войне на Украине?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 15:53:04"
+    },
+    {
+      "id": 310,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+      "title_ru": "Зеленский отвергает призыв соперника к выборам, говорит, что это будет «огромный риск» для Украины",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 15:53:03"
+    },
+    {
+      "id": 309,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+      "title_ru": "Зеленский отверг выборы военного времени, заявив, что голосование «расколет» Украину",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 15:53:03"
+    },
+    {
+      "id": 308,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election",
+      "title_ru": "Тысячи людей в Швеции протестуют против климатической политики в преддверии всеобщих выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 15:53:02"
+    },
     {
       "id": 307,
       "source": "DW",
@@ -440,46 +480,6 @@
       "title_ru": "Канада говорит, что требуется больше работы, поскольку приближается крайний срок заключения торговой сделки с США",
       "status": "published",
       "published_to_telegram_at": "2026-08-22 03:10:11"
-    },
-    {
-      "id": 252,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pentagon-fires-military-newspaper-leadership-for-insubordination/a-78466373?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Пентагон увольняет руководство военной газеты за «неподчинение»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 03:10:10"
-    },
-    {
-      "id": 251,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings",
-      "title_ru": "Израильские поселенцы и военные убили 2 палестинцев – одного подростка – в отдельных перестрелках на Западном берегу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 250,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Президент Ирана: Пора положить конец войне в «позиции силы»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 249,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Немецкая армия помогает Польше построить оборонительный барьер против России",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 19:08:38"
-    },
-    {
-      "id": 248,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "«Маша и Медведь»: Украина ввела санкции против российского мультфильма",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 19:08:37"
     }
   ]
 }
