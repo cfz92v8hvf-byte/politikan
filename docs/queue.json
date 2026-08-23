@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-23T13:46:42.892772+00:00",
+  "updated_at": "2026-08-23T14:51:54.589740+00:00",
   "posts": [
+    {
+      "id": 307,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Иран: Президент защищает сделку с США как лучший вариант для мира",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 14:51:53"
+    },
+    {
+      "id": 306,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
+      "title_ru": "Иран обостряет угрозы, поскольку США подталкивают экономическую изоляцию",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 305,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/presidential-campaign-heats-up-in-brazil-as-lula-and-f-bolsonaro-hold-rival-rallies",
+      "title_ru": "Президентская кампания в Бразилии набирает обороты, поскольку Лула и Ф. Болсонару проводят соперничающие митинги",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 304,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/saudi-arabia-asserts-its-dominance-over-esports-as-mbs-arrives-in-paris-for-world-cup",
+      "title_ru": "Саудовская Аравия утверждает свое доминирование над киберспортом, когда MBS прибывает в Париж на «Чемпионат мира»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 303,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260823-china-abruptly-delays-ambitious-chang-e-7-mission-to-find-water-ice-on-moon",
+      "title_ru": "Китай внезапно откладывает амбициозную миссию «Чанъэ-7» по поиску водяного льда на Луне",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 14:51:54"
+    },
+    {
+      "id": 302,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
+      "title_ru": "Трамп утверждает, что Ормуз на Truth Social, Резаи говорит, что «закрыт до тех пор, пока США не изменятся»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 14:51:54"
+    },
     {
       "id": 301,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "«Маша и Медведь»: Украина ввела санкции против российского мультфильма",
       "status": "published",
       "published_to_telegram_at": "2026-08-21 19:08:37"
-    },
-    {
-      "id": 247,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
-      "title_ru": "Турция добивается международного ордера на арест израильского Нетаньяху за задержание флотилии в Газе",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 19:08:40"
-    },
-    {
-      "id": 246,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
-      "title_ru": "Последовательные удары российских беспилотников убили 14 человек в торговом центре Украины",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 19:08:38"
-    },
-    {
-      "id": 245,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/21/latest-news-bulletin-august-21st-2026-evening",
-      "title_ru": "Последние новости | 21 августа 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 244,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/21/international-day-commemorating-the-victims-of-acts-of-violence-based-on-religion-or-belief-statement-by-the-high-representative-on-behalf-of-the-european-union/",
-      "title_ru": "Международный день памяти жертв актов насилия на основе религии или убеждений: заявление Высокого представителя от имени Европейского союза",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 243,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Франция выпустила предупреждение о тысячах некачественных презервативов",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 17:16:07"
-    },
-    {
-      "id": 242,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260821-does-putin-travel-without-security",
-      "title_ru": "Путин путешествует без охраны?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 17:16:08"
     }
   ]
 }
