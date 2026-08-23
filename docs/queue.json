@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-23T09:56:09.458888+00:00",
+  "updated_at": "2026-08-23T10:56:01.430646+00:00",
   "posts": [
+    {
+      "id": 295,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
+      "title_ru": "Торговый спор между США и Канадой обострился после того, как Карни объявил об ответных тарифах",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 294,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/south-korea-tests-arctic-route-with-a-first-container-shipped-to-europe",
+      "title_ru": "Южная Корея тестирует арктический маршрут с первым контейнером, отправленным в Европу",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 293,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ukraine-zelensky-asks-for-more-patriot-interceptors-as-civilian-deaths-hit-highest-level-since-2022",
+      "title_ru": "Украина: Зеленский просит больше перехватчиков Patriot, поскольку смертность среди гражданского населения достигла самого высокого уровня с 2022 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 10:56:01"
+    },
+    {
+      "id": 292,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
+      "title_ru": "Ближний Восток в прямом эфире: президент Ирана говорит, что страна сталкивается со «многими проблемами», поскольку надвигаются санкции США",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 10:56:01"
+    },
+    {
+      "id": 291,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/why-saudi-arabia-is-spending-billions-to-become-a-global-esports-power",
+      "title_ru": "Почему Саудовская Аравия тратит миллиарды, чтобы стать мировой киберспортивной державой?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 10:56:00"
+    },
+    {
+      "id": 290,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/hundreds-of-gaza-children-join-a-mass-swimming-lesson-to-cope-with-trauma",
+      "title_ru": "Сотни детей из Газы посещают массовый урок плавания, чтобы справиться с травмой",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-23 10:56:00"
+    },
     {
       "id": 289,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Кто из восьми кандидатов претендует на смену Антониу Гутерришу на посту главы ООН?",
       "status": "published",
       "published_to_telegram_at": "2026-08-21 15:58:38"
-    },
-    {
-      "id": 235,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украинские фермеры борются за продажу урожая в условиях войны и засухи",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 14:08:34"
-    },
-    {
-      "id": 234,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
-      "title_ru": "Двум организаторам гонконгского бдения на площади Тяньаньмэнь предъявлены обвинения в подстрекательстве к подрывной деятельности",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 233,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260821-hopes-fade-after-central-african-republic-gold-mine-collapse-kills-dozens",
-      "title_ru": "Надежды угасают после обрушения золотого рудника в Центральноафриканской Республике, в результате которого",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 232,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260821-ebola-outbreak-in-dr-congo-growing-exponentially-as-death-toll-passes-2-500",
-      "title_ru": "Вспышка Эболы в ДР Конго растет «экспоненциально», поскольку число погибших превышает 2500 человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 14:08:35"
-    },
-    {
-      "id": 231,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
-      "title_ru": "Нетаньяху сосредоточился на переизбрании, поскольку израильское правительство «меньше беспокоится» о международной изоляции",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 14:08:34"
-    },
-    {
-      "id": 230,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/21/irans-president-calls-for-end-to-war-from-position-of-power-as-us-ups-pressure",
-      "title_ru": "Президент Ирана призывает к прекращению войны с «позиции силы», поскольку США усиливают давление",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-21 14:08:35"
     }
   ]
 }
