@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-24T17:53:31.355466+00:00",
+  "updated_at": "2026-08-24T19:45:41.885054+00:00",
   "posts": [
+    {
+      "id": 365,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "США объявили о попытке дальнейшей экономической изоляции Ирана",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 19:45:41"
+    },
+    {
+      "id": 364,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Судан: США предлагают расширить эмбарго ООН на поставки оружия",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 19:45:40"
+    },
+    {
+      "id": 363,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
+      "title_ru": "Саудовская Аравия инвестирует € 6 млрд в тематические парки под Парижем, заявил Макрон",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 362,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years",
+      "title_ru": "Великобритания и Франция «повторно анонсируют» противоракетные технологии для Украины: «Никто не будет в сети в течение многих лет»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 19:45:41"
+    },
+    {
+      "id": 361,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
+      "title_ru": "Последние новости | 24 августа 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 360,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
+      "title_ru": "Министр финансов США начинает операцию «Экономический изгой», направленную на изоляцию Ирана",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 19:45:40"
+    },
     {
       "id": 359,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Иран обостряет угрозы, поскольку США подталкивают экономическую изоляцию",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 305,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/presidential-campaign-heats-up-in-brazil-as-lula-and-f-bolsonaro-hold-rival-rallies",
-      "title_ru": "Президентская кампания в Бразилии набирает обороты, поскольку Лула и Ф. Болсонару проводят соперничающие митинги",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 304,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/saudi-arabia-asserts-its-dominance-over-esports-as-mbs-arrives-in-paris-for-world-cup",
-      "title_ru": "Саудовская Аравия утверждает свое доминирование над киберспортом, когда MBS прибывает в Париж на «Чемпионат мира»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 303,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260823-china-abruptly-delays-ambitious-chang-e-7-mission-to-find-water-ice-on-moon",
-      "title_ru": "Китай внезапно откладывает амбициозную миссию «Чанъэ-7» по поиску водяного льда на Луне",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 14:51:54"
-    },
-    {
-      "id": 302,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
-      "title_ru": "Трамп утверждает, что Ормуз на Truth Social, Резаи говорит, что «закрыт до тех пор, пока США не изменятся»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 14:51:54"
-    },
-    {
-      "id": 301,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/french-holidaymakers-head-north-to-enjoy-cooler-destinations",
-      "title_ru": "Французские отдыхающие отправляются на север, чтобы насладиться более прохладными местами",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 300,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country",
-      "title_ru": "Президент Зеленский заявил, что выборы в Украине «уничтожат страну»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 13:46:42"
     }
   ]
 }
