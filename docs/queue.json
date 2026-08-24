@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-24T03:32:31.450474+00:00",
+  "updated_at": "2026-08-24T05:26:29.087099+00:00",
   "posts": [
+    {
+      "id": 324,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260824-live-ukraine-backers-gather-as-russian-attacks-escalate-air-defence-runs-low",
+      "title_ru": "Прямая трансляция: сторонники Украины собираются на фоне эскалации российских атак, а противовоздушная оборона",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 05:26:29"
+    },
+    {
+      "id": 323,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/kazakhstans-new-ruling-party-projected-to-win-elections",
+      "title_ru": "Новая правящая партия Казахстана планирует победить на выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 05:26:28"
+    },
+    {
+      "id": 322,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-morning",
+      "title_ru": "Последние новости | 24 августа 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 05:26:28"
+    },
+    {
+      "id": 321,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/indian-police-used-excessive-force-during-protests-amnesty-international-says",
+      "title_ru": "Индийская полиция применила чрезмерную силу во время протестов, заявила Amnesty International",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 05:26:27"
+    },
     {
       "id": 320,
       "source": "DW",
@@ -448,38 +480,6 @@
       "title_ru": "Последние новости | 22 августа 2026 г. – полдень",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 264,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ebola-epidemic-in-dr-congo-is-spreading-18-times-faster-than-deadliest-outbreak-on-record",
-      "title_ru": "Эпидемия Эболы в ДР Конго распространяется в 18 раз быстрее, чем самая смертоносная вспышка за всю историю наблюдений",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 263,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/dozens-missing-after-gold-mine-collapse-in-central-african-republic",
-      "title_ru": "Десятки человек пропали без вести после обрушения золотого рудника в Центральноафриканской",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 10:56:01"
-    },
-    {
-      "id": 262,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/fifa-sanctions-argentina-over-brawl-at-world-cup-final-game",
-      "title_ru": "ФИФА наложила санкции на Аргентину за потасовку на финальном матче чемпионата мира",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 10:56:01"
-    },
-    {
-      "id": 261,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator",
-      "title_ru": "Турция обвиняет Нетаньяху в «геноциде», премьер-министр Израиля называет Эрдогана «антисемитским диктатором»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 10:56:00"
     }
   ]
 }
