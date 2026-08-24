@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-24T05:26:29.087099+00:00",
+  "updated_at": "2026-08-24T08:10:22.900810+00:00",
   "posts": [
+    {
+      "id": 329,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/new-zealand-proposes-social-media-ban-for-under-16s/a-78480389?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новая Зеландия предлагает запретить социальные сети для детей до 16 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 08:10:22"
+    },
+    {
+      "id": 328,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: Государственный премьер посетил VW для переговоров о кризисе",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 08:10:21"
+    },
+    {
+      "id": 327,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/sport/20260824-uefa-chief-ceferin-calls-for-infantino-to-quit-but-not-interested-in-replacing-him",
+      "title_ru": "Глава УЕФА Чеферин призывает Инфантино уйти в отставку, но исключает его замену",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 326,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/thai-pm-meets-security-chiefs-after-coordinated-attacks-in-three-southern-provinces",
+      "title_ru": "Премьер-министр Таиланда встретился с руководителями служб безопасности после скоординированных атак в трех южных провинциях",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 08:10:22"
+    },
+    {
+      "id": 325,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/us-strike-on-alleged-drug-smuggling-boat-in-pacific-ocean-kills-at-least-two",
+      "title_ru": "Удар США по предполагаемому судну для контрабанды наркотиков в Тихом океане убил по меньшей мере двух человек",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 08:10:21"
+    },
     {
       "id": 324,
       "source": "France 24",
@@ -438,46 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260822-turkey-seeks-arrest-warrant-for-israeli-pm-netanyahu-fueling-tensions",
       "title_ru": "Турция добивается ордера на арест премьер-министра Израиля Нетаньяху, разжигая напряженность",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 269,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
-      "title_ru": "100 британских и французских экс-посланников обвиняют Израиль в этнических чистках в открытом письме",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 13:45:04"
-    },
-    {
-      "id": 268,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban",
-      "title_ru": "«Вопреки закону»: судья США отменил запрет Трампа на визу в 75 стран",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 13:45:04"
-    },
-    {
-      "id": 267,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak",
-      "title_ru": "ДР Конго получает вакцины против Эболы перед лицом «экспоненциальной» вспышки",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 13:45:03"
-    },
-    {
-      "id": 266,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes",
-      "title_ru": "Франция поставит Украине ракеты-перехватчики после новой волны российских ударов",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 13:45:03"
-    },
-    {
-      "id": 265,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
-      "title_ru": "Последние новости | 22 августа 2026 г. – полдень",
       "status": "expired",
       "published_to_telegram_at": null
     }
