@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-24T22:00:11.131126+00:00",
+  "updated_at": "2026-08-24T23:00:04.951856+00:00",
   "posts": [
+    {
+      "id": 368,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
+      "title_ru": "Администрация Трампа аннулирует визы иностранцев, ищущих убежища в США, говорят чиновники",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 23:00:04"
+    },
     {
       "id": 367,
       "source": "France 24",
@@ -472,14 +480,6 @@
       "title_ru": "Зеленский отверг выборы военного времени, заявив, что голосование «расколет» Украину",
       "status": "published",
       "published_to_telegram_at": "2026-08-23 15:53:03"
-    },
-    {
-      "id": 308,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election",
-      "title_ru": "Тысячи людей в Швеции протестуют против климатической политики в преддверии всеобщих выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 15:53:02"
     }
   ]
 }
