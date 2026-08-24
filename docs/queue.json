@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-08-24T11:54:38.646516+00:00",
+  "updated_at": "2026-08-24T14:26:59.600376+00:00",
   "posts": [
+    {
+      "id": 347,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy",
+      "title_ru": "Украина демонстрирует «замечательные инновации»: Киев «держит линию фронта», нанося удар по российской экономике",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 14:26:59"
+    },
+    {
+      "id": 346,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-s-left-fractures-further-as-mep-launches-presidential-bid",
+      "title_ru": "Левые переломы во Франции продолжаются, поскольку депутат Европарламента запускает президентскую заявку",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 14:26:59"
+    },
+    {
+      "id": 345,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/what-could-new-us-sanctions-on-iran-entail",
+      "title_ru": "Что могут повлечь за собой новые санкции США в отношении Ирана?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 14:26:58"
+    },
+    {
+      "id": 344,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
+      "title_ru": "С помощью «редких» парижских переговоров Франция надеется заработать на инвестиционной программе Саудовской Аравии",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 14:26:58"
+    },
+    {
+      "id": 343,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
+      "title_ru": "Правительство Новой Зеландии вводит законодательство, запрещающее социальные сети для детей младше 16 лет",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 342,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
+      "title_ru": "Склад сгорает под Санкт-Петербургом, когда Украина нацеливается на объекты Ozon",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 341,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/strategic-talks-in-paris-show-france-and-saudi-arabia-need-each-other-too-much",
       "title_ru": "Стратегические переговоры в Париже показывают, что Франция и Саудовская Аравия «слишком нуждаются друг в друге»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20260824-iran-calls-france-s-decision-to-expel-two-iranian-diplomats-illegal",
       "title_ru": "Иран назвал решение Франции о высылке двух иранских дипломатов «незаконным»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/war-torn-ukraine-celebrates-resilience-on-anniversary-of-its-independence",
       "title_ru": "Раздираемая войной Украина празднует стойкость в годовщину независимости",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -78,7 +126,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
       "title_ru": "США угрожают Ирану «экономическим Днем Д», поскольку рынки ждут объявления о санкциях",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Украина: Может ли экс-министр обороны бросить вызов Зеленскому?",
       "status": "published",
       "published_to_telegram_at": "2026-08-23 07:50:05"
-    },
-    {
-      "id": 287,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп критикует Канаду за ответные тарифы",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 07:50:04"
-    },
-    {
-      "id": 286,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens",
-      "title_ru": "Трамп говорит, что Канада хочет «преимуществ быть государством, не будучи им», поскольку торговая война углубляется",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 07:50:04"
-    },
-    {
-      "id": 285,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-morning",
-      "title_ru": "Последние новости | 23 августа 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 284,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/23/canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-us-and-divide-us",
-      "title_ru": "Премьер-министр Канады Карни говорит, что новые тарифы США «предназначены для того, чтобы навредить нам и разделить нас»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 07:50:05"
-    },
-    {
-      "id": 283,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Иран предостерегает страны от присоединения к «экономической войне» США",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 03:30:04"
-    },
-    {
-      "id": 282,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260822-togo-says-it-has-serious-evidence-against-detained-french-filmmakers",
-      "title_ru": "Того заявляет, что у него есть «серьезные» доказательства против задержанных французских кинематографистов",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 20:50:36"
     }
   ]
 }
