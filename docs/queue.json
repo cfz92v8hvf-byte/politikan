@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-24T08:10:22.900810+00:00",
+  "updated_at": "2026-08-24T10:22:56.338368+00:00",
   "posts": [
+    {
+      "id": 335,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-and-saudi-arabia-hold-talks-ranging-from-middle-east-to-esports",
+      "title_ru": "Франция и Саудовская Аравия ведут переговоры от Ближнего Востока до киберспорта",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 10:22:56"
+    },
+    {
+      "id": 334,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/scared-to-death-over-40-000-people-evacuated-as-nevada-s-hawk-fire-spreads",
+      "title_ru": "«Напуганы до смерти»: более 40 000 человек эвакуированы из-за распространения огня «Ястреба» в Неваде",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 10:22:55"
+    },
+    {
+      "id": 333,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/volkswagen-warns-germany-s-car-making-industry-is-in-jeopardy",
+      "title_ru": "Volkswagen предупреждает, что автомобильная промышленность Германии находится под угрозой",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 10:22:54"
+    },
+    {
+      "id": 332,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
+      "title_ru": "США угрожают Ирану «экономическим Днем Д», поскольку рынки ждут объявления о санкциях",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 331,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
+      "title_ru": "Южная Корея заявляет, что США отменили совместные морские учения из-за силовых ограничений, вызванных войной с Ираном",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 330,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
+      "title_ru": "Иранское государственное телевидение транслирует видео, нацеленное на Бэррона Трампа с вознаграждением в $ 10 млн",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 10:22:55"
+    },
     {
       "id": 329,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Будущее Казахстана после выборов: Россия, ЕС или Китай",
       "status": "published",
       "published_to_telegram_at": "2026-08-22 14:44:39"
-    },
-    {
-      "id": 275,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130",
-      "title_ru": "Россияне нанесли удар по родному городу Зеленского в Украине, убив 15 человек, ранив 130",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 274,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/children-among-wounded-in-zelensky-s-hometown-struck-by-russian-drones",
-      "title_ru": "Дети среди раненых в родном городе Зеленского, сбитых российскими беспилотниками",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 273,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260822-former-french-uk-diplomats-urge-governments-to-act-against-israeli-settlement-policies",
-      "title_ru": "Более 100 бывших французских и британских дипломатов призывают к действиям против израильской поселенческой политики",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 272,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260822-middle-east-live-iran-allows-several-iraqi-oil-tankers-to-pass-through-hormuz",
-      "title_ru": "Ближний Восток в прямом эфире: Иран позволяет нескольким иракским нефтяным танкерам проходить через Ормузский пролив",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 271,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/canada-says-will-match-new-us-50-tariffs-dollar-for-dollar",
-      "title_ru": "Канада заявляет, что будет соответствовать новым тарифам США в размере 50% «доллар за доллар»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 270,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260822-turkey-seeks-arrest-warrant-for-israeli-pm-netanyahu-fueling-tensions",
-      "title_ru": "Турция добивается ордера на арест премьер-министра Израиля Нетаньяху, разжигая напряженность",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
