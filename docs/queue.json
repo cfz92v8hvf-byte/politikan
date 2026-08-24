@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-23T23:41:03.009284+00:00",
+  "updated_at": "2026-08-24T03:32:31.450474+00:00",
   "posts": [
+    {
+      "id": 320,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина: Премьер-министр Великобритании Энди Бернем посетит Киев в знак поддержки",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 03:32:31"
+    },
+    {
+      "id": 319,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/24/landslide-at-landfill-in-guinea-kills-30-people-government-says",
+      "title_ru": "Правительство заявляет, что оползень на свалке в Гвинее убивает 30 человек",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 03:32:31"
+    },
     {
       "id": 318,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Турция обвиняет Нетаньяху в «геноциде», премьер-министр Израиля называет Эрдогана «антисемитским диктатором»",
       "status": "published",
       "published_to_telegram_at": "2026-08-22 10:56:00"
-    },
-    {
-      "id": 260,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
-      "title_ru": "TikTok соглашается выплатить $ 400 млн для урегулирования иска о неприкосновенности частной жизни детей в США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 259,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue",
-      "title_ru": "Бальный зал Белого дома будет стоить почти $ 400 млн, поскольку Верховный суд разрешает продолжить работу",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-22 10:56:01"
     }
   ]
 }
