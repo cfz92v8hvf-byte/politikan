@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-24T16:08:08.968066+00:00",
+  "updated_at": "2026-08-24T17:53:31.355466+00:00",
   "posts": [
+    {
+      "id": 359,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Жертва протеста в Иране: «Они стреляли, чтобы убить»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 358,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп говорит, что Канада столкнется с 50% тарифов на автомобили и сталь с 2027 года",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 357,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Дорожная карта мира в ДР Конго: окончательно ли прекратятся боевые действия?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 17:53:31"
+    },
+    {
+      "id": 356,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-sanctions-unlikely-to-get-tehran-to-bow-down-despite-effect-on-population",
+      "title_ru": "Санкции США «вряд ли заставят Тегеран склониться», несмотря на влияние на население",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 355,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-economic-interests-over-values",
+      "title_ru": "MBS в Городе Света: в мире реальной политики Запад ценит экономические интересы больше, чем ценности?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 17:53:30"
+    },
+    {
+      "id": 354,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
+      "title_ru": "Что означает возобновление блокады Черного моря для украинских фермеров",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-24 17:53:29"
+    },
     {
       "id": 353,
       "source": "France 24",
@@ -94,7 +142,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
       "title_ru": "Склад сгорает под Санкт-Петербургом, когда Украина нацеливается на объекты Ozon",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Президент Зеленский заявил, что выборы в Украине «уничтожат страну»",
       "status": "published",
       "published_to_telegram_at": "2026-08-23 13:46:42"
-    },
-    {
-      "id": 299,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine",
-      "title_ru": "Неделя в фотографиях: француженка в космосе, лесные пожары в Европе и война в Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 13:46:42"
-    },
-    {
-      "id": 298,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/how-will-european-politicians-react-to-a-summer-of-extreme-heat",
-      "title_ru": "Как европейские политики отреагируют на лето экстремальной жары?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 13:46:41"
-    },
-    {
-      "id": 297,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/23/59-magnitude-earthquake-strikes-japan-injuring-at-least-37",
-      "title_ru": "Землетрясение магнитудой 5,9 произошло в Японии, в результате чего пострадали по меньшей мере 37 человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 296,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-midday",
-      "title_ru": "Последние новости | 23 августа 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 295,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
-      "title_ru": "Торговый спор между США и Канадой обострился после того, как Карни объявил об ответных тарифах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 294,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/south-korea-tests-arctic-route-with-a-first-container-shipped-to-europe",
-      "title_ru": "Южная Корея тестирует арктический маршрут с первым контейнером, отправленным в Европу",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
