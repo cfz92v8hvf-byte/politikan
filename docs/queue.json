@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-25T09:56:44.717557+00:00",
+  "updated_at": "2026-08-25T11:05:19.822009+00:00",
   "posts": [
+    {
+      "id": 384,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/25/listening-to-europe-building-its-future-op-ed-article-by-president-costa/",
+      "title_ru": "Слушая Европу, строим ее будущее - обзорная статья президента Коста",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 11:05:19"
+    },
+    {
+      "id": 383,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Ближний Восток: Иран обещает ответить на новые санкции США",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 11:05:19"
+    },
+    {
+      "id": 382,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Разрушат ли более жесткие санкции США теневую экономику Ирана?",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 11:05:18"
+    },
+    {
+      "id": 381,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/thermal-safety-not-just-climate-in-action-it-s-biology-physiological-capacity-to-cope-recover",
+      "title_ru": "«Тепловая безопасность: не только климат в действии; это биология и физиологическая способность справляться и восстанавливаться",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 11:05:18"
+    },
     {
       "id": 380,
       "source": "DW",
@@ -448,38 +480,6 @@
       "title_ru": "Удар США по предполагаемому судну для контрабанды наркотиков в Тихом океане убил по меньшей мере двух человек",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 08:10:21"
-    },
-    {
-      "id": 324,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260824-live-ukraine-backers-gather-as-russian-attacks-escalate-air-defence-runs-low",
-      "title_ru": "Прямая трансляция: сторонники Украины собираются на фоне эскалации российских атак, а противовоздушная оборона",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 05:26:29"
-    },
-    {
-      "id": 323,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/kazakhstans-new-ruling-party-projected-to-win-elections",
-      "title_ru": "Новая правящая партия Казахстана планирует победить на выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 05:26:28"
-    },
-    {
-      "id": 322,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-morning",
-      "title_ru": "Последние новости | 24 августа 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 05:26:28"
-    },
-    {
-      "id": 321,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/indian-police-used-excessive-force-during-protests-amnesty-international-says",
-      "title_ru": "Индийская полиция применила чрезмерную силу во время протестов, заявила Amnesty International",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 05:26:27"
     }
   ]
 }
