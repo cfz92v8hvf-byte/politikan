@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-25T16:18:41.642165+00:00",
+  "updated_at": "2026-08-25T17:50:57.240165+00:00",
   "posts": [
+    {
+      "id": 402,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260825-not-an-isolated-incident-russian-drones-stalk-ukraine-civilians-human-safaris",
+      "title_ru": "«Не единичный случай»: российские беспилотники преследуют мирных жителей Украины в «человеческих сафари»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 401,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260825-cia-director-ratcliffe-visits-moscow-us-media-reports",
+      "title_ru": "Директор ЦРУ Рэтклифф посещает Москву, сообщают американские СМИ",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 400,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260825-france-tornado-ravages-small-village",
+      "title_ru": "Франция: торнадо опустошает маленькую деревню",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 399,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
+      "title_ru": "Повтор: Канада объявляет о контрмерах к новым тарифам США",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 398,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iran-offers-10-million-to-kill-trump-s-son",
+      "title_ru": "Иран предлагает $ 10 млн за убийство сына Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 17:50:57"
+    },
+    {
+      "id": 397,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
+      "title_ru": "Президент Нигерии приказал провести спасательную операцию после массового похищения людей в мечети",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 17:50:55"
+    },
     {
       "id": 396,
       "source": "France 24",
@@ -30,16 +78,16 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/25/mongolia-positions-itself-as-asias-next-data-centre-hub",
       "title_ru": "Монголия позиционирует себя как следующий центр обработки данных в Азии",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 17:50:56"
     },
     {
       "id": 392,
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/08/25/canada-hits-back-with-new-counter-tariffs-on-us-goods",
       "title_ru": "Канада наносит ответный удар новыми контртарифными мерами на товары из США",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 17:50:56"
     },
     {
       "id": 391,
@@ -432,54 +480,6 @@
       "title_ru": "Правительство Новой Зеландии вводит законодательство, запрещающее социальные сети для детей младше 16 лет",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 342,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
-      "title_ru": "Склад сгорает под Санкт-Петербургом, когда Украина нацеливается на объекты Ozon",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 341,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/strategic-talks-in-paris-show-france-and-saudi-arabia-need-each-other-too-much",
-      "title_ru": "Стратегические переговоры в Париже показывают, что Франция и Саудовская Аравия «слишком нуждаются друг в друге»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 340,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260824-iran-calls-france-s-decision-to-expel-two-iranian-diplomats-illegal",
-      "title_ru": "Иран назвал решение Франции о высылке двух иранских дипломатов «незаконным»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 339,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/war-torn-ukraine-celebrates-resilience-on-anniversary-of-its-independence",
-      "title_ru": "Раздираемая войной Украина празднует стойкость в годовщину независимости",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 338,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe-ramps-up-support-to-ukraine-as-its-us-dependent-air-defence-runs-low",
-      "title_ru": "Европа наращивает поддержку Украины, поскольку ее зависимая от США противовоздушная оборона находится на низком уровне",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 11:54:37"
-    },
-    {
-      "id": 337,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-midday",
-      "title_ru": "Последние новости | 24 августа 2026 г. – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 11:54:38"
     }
   ]
 }
