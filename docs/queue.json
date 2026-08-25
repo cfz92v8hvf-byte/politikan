@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-25T03:16:31.321767+00:00",
+  "updated_at": "2026-08-25T05:08:44.159469+00:00",
   "posts": [
+    {
+      "id": 370,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman",
+      "title_ru": "Ближний Восток в прямом эфире: нефтяной танкер, пораженный снарядом в Ормузском проливе у берегов Омана",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 05:08:44"
+    },
+    {
+      "id": 369,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/trump-administration-plans-to-revoke-200000-visas-of-asylum-seekers",
+      "title_ru": "Администрация Трампа планирует отозвать 200 тысяч виз просителей убежища",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 05:08:43"
+    },
     {
       "id": 368,
       "source": "France 24",
@@ -464,22 +480,6 @@
       "title_ru": "Может ли растущий топливный кризис России помочь положить конец войне на Украине?",
       "status": "published",
       "published_to_telegram_at": "2026-08-23 15:53:04"
-    },
-    {
-      "id": 310,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
-      "title_ru": "Зеленский отвергает призыв соперника к выборам, говорит, что это будет «огромный риск» для Украины",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 15:53:03"
-    },
-    {
-      "id": 309,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
-      "title_ru": "Зеленский отверг выборы военного времени, заявив, что голосование «расколет» Украину",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 15:53:03"
     }
   ]
 }
