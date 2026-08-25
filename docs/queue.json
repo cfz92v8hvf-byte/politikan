@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-25T05:08:44.159469+00:00",
+  "updated_at": "2026-08-25T07:57:17.550374+00:00",
   "posts": [
+    {
+      "id": 374,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260825-what-to-know-about-trump-s-tariffs-on-canadian-goods-as-neigbours-spiral-into-trade-war",
+      "title_ru": "Что нужно знать о тарифах Трампа на Канаду и эскалации торговой войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 07:57:16"
+    },
+    {
+      "id": 373,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-morning",
+      "title_ru": "Последние новости | 25 августа 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 07:57:17"
+    },
+    {
+      "id": 372,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/25/london-and-paris-landmarks-light-up-for-ukraines-independence-day",
+      "title_ru": "К Дню Независимости Украины загораются достопримечательности Лондона и Парижа",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 07:57:17"
+    },
+    {
+      "id": 371,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/new-colombian-president-orders-immigration-raids-vowing-deporations-of-migrants-without-le",
+      "title_ru": "Новый колумбийский президент распорядился об иммиграционных рейдах, пообещав депорации мигрантов без легального статуса",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 07:57:16"
+    },
     {
       "id": 370,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Иран обнаружил новые крупные запасы газа на фоне пострадавшего от войны энергетического сектора",
       "status": "published",
       "published_to_telegram_at": "2026-08-23 20:50:45"
-    },
-    {
-      "id": 314,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/23/uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-target-and-stronger-trans-caspian",
-      "title_ru": "Узбекистан и Азербайджан углубляют альянс с целью торговли на $ 1 млрд и более прочными транскаспийскими связями",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 20:50:46"
-    },
-    {
-      "id": 313,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-evening",
-      "title_ru": "Последние новости | 23 августа 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 16:57:54"
-    },
-    {
-      "id": 312,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина: Зеленский отвергает выборы военного времени",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 311,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Может ли растущий топливный кризис России помочь положить конец войне на Украине?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 15:53:04"
     }
   ]
 }
