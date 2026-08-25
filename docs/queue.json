@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-25T07:57:17.550374+00:00",
+  "updated_at": "2026-08-25T09:56:44.717557+00:00",
   "posts": [
+    {
+      "id": 380,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/middle-east-pakistan-sees-progress-in-us-iran-mediation/live-78492098?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Ближний Восток: Пакистан видит прогресс в американо-иранском посредничестве",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 379,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Канада намерена объявить ответные тарифы на товары из США после провала переговоров",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 09:56:44"
+    },
+    {
+      "id": 378,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-inflict-the-us",
+      "title_ru": "Поскольку Канада готовится принять ответные меры в торговой войне, какую боль она может причинить США?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 377,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iran-threatens-retaliation-as-new-us-sanctions-hit-already-struggling-economy",
+      "title_ru": "Иран угрожает возмездием, поскольку новые санкции США наносят удар по уже испытывающей трудности экономике",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 09:56:42"
+    },
+    {
+      "id": 376,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/armenia-announces-historic-intention-to-apply-for-eu-membership",
+      "title_ru": "Армения объявила об историческом намерении подать заявку на членство в ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 09:56:44"
+    },
+    {
+      "id": 375,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/un-and-red-cross-warn-risks-have-intensified-urge-regulation-of-killer-robots",
+      "title_ru": "ООН и Красный Крест предупреждают, что «риски усилились», призывают к регулированию роботов-убийц",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 09:56:43"
+    },
     {
       "id": 374,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Индийская полиция применила чрезмерную силу во время протестов, заявила Amnesty International",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 05:26:27"
-    },
-    {
-      "id": 320,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина: Премьер-министр Великобритании Энди Бернем посетит Киев в знак поддержки",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 03:32:31"
-    },
-    {
-      "id": 319,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/landslide-at-landfill-in-guinea-kills-30-people-government-says",
-      "title_ru": "Правительство заявляет, что оползень на свалке в Гвинее убивает 30 человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 03:32:31"
-    },
-    {
-      "id": 318,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Зеленский повторил, что Украина не стоит за атакой \"Северного потока\"",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 20:50:46"
-    },
-    {
-      "id": 317,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-cements-president-s-power/a-78474598?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Парламентское голосование в Казахстане укрепляет власть президента",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 20:50:45"
-    },
-    {
-      "id": 316,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260823-glucksmann-launches-french-presidential-bid-as-left-seeks-to-challenge-far-right",
-      "title_ru": "Французский левоцентристский кандидат выдвигает свою кандидатуру в президенты на фоне раскола левых",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 21:50:08"
-    },
-    {
-      "id": 315,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector",
-      "title_ru": "Иран обнаружил новые крупные запасы газа на фоне пострадавшего от войны энергетического сектора",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-23 20:50:45"
     }
   ]
 }
