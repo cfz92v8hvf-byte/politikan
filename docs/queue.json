@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-25T17:50:57.240165+00:00",
+  "updated_at": "2026-08-25T19:47:14.486482+00:00",
   "posts": [
+    {
+      "id": 408,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Канада объявляет ответные тарифы на товары США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 407,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Удары хуситов грозят втянуть Йемен в полномасштабную войну",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 406,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Экспорт зерна застопорился, поскольку Украина активизировала атаки на черноморские порты России",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 19:47:14"
+    },
+    {
+      "id": 405,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260825-us-country-music-legend-dolly-parton-dies-at",
+      "title_ru": "Знаменитая американская кантри-музыкантка Долли Партон скончалась в возрасте 80 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 19:47:13"
+    },
+    {
+      "id": 404,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260825-syrian-kurdish-leader-dissolves-force-that-spearheaded-jihadist-fight",
+      "title_ru": "Лидер сирийских курдов объявил о роспуске СДС после их интеграции в армию",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 19:47:12"
+    },
+    {
+      "id": 403,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/armenia-detains-former-president-kocharyan-on-corruption-charges",
+      "title_ru": "Армения задержала экс-президента Кочаряна по обвинению в коррупции",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 19:47:13"
+    },
     {
       "id": 402,
       "source": "France 24",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/europe/20260825-cia-director-ratcliffe-visits-moscow-us-media-reports",
       "title_ru": "Директор ЦРУ Рэтклифф посещает Москву, сообщают американские СМИ",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260825-france-tornado-ravages-small-village",
       "title_ru": "Франция: торнадо опустошает маленькую деревню",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -30,7 +78,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
       "title_ru": "Повтор: Канада объявляет о контрмерах к новым тарифам США",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Трамп пригрозил удвоить тарифы на канадские автомобили до 50% после провала торговых переговоров",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 16:08:08"
-    },
-    {
-      "id": 348,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
-      "title_ru": "Грета Тунберг присоединилась к 10 000 участников климатического марша в Стокгольме",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 16:08:08"
-    },
-    {
-      "id": 347,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy",
-      "title_ru": "Украина демонстрирует «замечательные инновации»: Киев «держит линию фронта», нанося удар по российской экономике",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 14:26:59"
-    },
-    {
-      "id": 346,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-s-left-fractures-further-as-mep-launches-presidential-bid",
-      "title_ru": "Левые переломы во Франции продолжаются, поскольку депутат Европарламента запускает президентскую заявку",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 14:26:59"
-    },
-    {
-      "id": 345,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/what-could-new-us-sanctions-on-iran-entail",
-      "title_ru": "Что могут повлечь за собой новые санкции США в отношении Ирана?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 14:26:58"
-    },
-    {
-      "id": 344,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
-      "title_ru": "С помощью «редких» парижских переговоров Франция надеется заработать на инвестиционной программе Саудовской Аравии",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 14:26:58"
-    },
-    {
-      "id": 343,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
-      "title_ru": "Правительство Новой Зеландии вводит законодательство, запрещающее социальные сети для детей младше 16 лет",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
