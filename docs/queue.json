@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-25T21:36:51.532619+00:00",
+  "updated_at": "2026-08-25T22:03:09.915113+00:00",
   "posts": [
+    {
+      "id": 413,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
+      "title_ru": "Возглавляемая США миротворческая комиссия по Газе предупреждает ХАМАС о воздушных змеях после израильской угрозы",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 22:03:09"
+    },
+    {
+      "id": 412,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/economy/20260825-oil-prices-fall-us-iran-strikes-sanctions",
+      "title_ru": "Цены на нефть падают второй день, поскольку США переходят от Ирана к санкциям",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 22:03:09"
+    },
     {
       "id": 411,
       "source": "Council of the EU",
@@ -464,22 +480,6 @@
       "title_ru": "Что означает возобновление блокады Черного моря для украинских фермеров",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 17:53:29"
-    },
-    {
-      "id": 353,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/guinea-searches-for-survivors-after-landfill-landslides-kill-30",
-      "title_ru": "Гвинея ищет выживших после того, как оползни на свалке убили 30 человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 352,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
-      "title_ru": "Ближний Восток в прямом эфире: Трамп утверждает, что Иран «полностью рушится» , поскольку США готовят новые санкции",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
