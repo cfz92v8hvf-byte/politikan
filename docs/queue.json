@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-25T11:05:19.822009+00:00",
+  "updated_at": "2026-08-25T14:09:51.235336+00:00",
   "posts": [
+    {
+      "id": 390,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-midday",
+      "title_ru": "Последние новости | 25 августа 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 389,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/mobilisation-fears-grip-russians-as-kremlins-forced-recruitment-spikes",
+      "title_ru": "Мобилизационные страхи захватывают россиян по мере всплесков принудительной вербовки Кремля",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 388,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/one-million-afghan-children-suffering-life-threatening-malnutrition-unicef-says",
+      "title_ru": "По словам ЮНИСЕФ, один миллион афганских детей страдает от «опасного для жизни» недоедания",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 14:09:51"
+    },
+    {
+      "id": 387,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/trump-considering-renaming-lake-ontario-to-lake-america-as-trade-war-with-canada-escalates",
+      "title_ru": "Трамп рассматривает возможность переименования озера Онтарио в «Озеро Америка», поскольку торговая война с Канадой обостряется",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 14:09:50"
+    },
+    {
+      "id": 386,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/qatar-says-officials-working-daily-to-revive-us-iran-talks-urges-tehran-to-reopen-hormuz",
+      "title_ru": "Катар заявляет, что официальные лица ежедневно работают над возобновлением переговоров между США и Ираном, и призывает Тегеран вновь открыть Ормуз",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 14:09:50"
+    },
+    {
+      "id": 385,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/25/trump-slams-tehran-for-executing-protesters-at-levels-not-seen-before",
+      "title_ru": "Трамп критикует Тегеран за казни протестующих на уровне, «невиданном ранее»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-25 14:09:49"
+    },
     {
       "id": 384,
       "source": "Council of the EU",
@@ -38,7 +86,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/middle-east-pakistan-sees-progress-in-us-iran-mediation/live-78492098?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Ближний Восток: Пакистан видит прогресс в американо-иранском посредничестве",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -54,7 +102,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-inflict-the-us",
       "title_ru": "Поскольку Канада готовится принять ответные меры в торговой войне, какую боль она может причинить США?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Южная Корея заявляет, что США отменили совместные морские учения из-за силовых ограничений, вызванных войной с Ираном",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 11:54:38"
-    },
-    {
-      "id": 330,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "title_ru": "Иранское государственное телевидение транслирует видео, нацеленное на Бэррона Трампа с вознаграждением в $ 10 млн",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 10:22:55"
-    },
-    {
-      "id": 329,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/new-zealand-proposes-social-media-ban-for-under-16s/a-78480389?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новая Зеландия предлагает запретить социальные сети для детей до 16 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 08:10:22"
-    },
-    {
-      "id": 328,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: Государственный премьер посетил VW для переговоров о кризисе",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 08:10:21"
-    },
-    {
-      "id": 327,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20260824-uefa-chief-ceferin-calls-for-infantino-to-quit-but-not-interested-in-replacing-him",
-      "title_ru": "Глава УЕФА Чеферин призывает Инфантино уйти в отставку, но исключает его замену",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 326,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/thai-pm-meets-security-chiefs-after-coordinated-attacks-in-three-southern-provinces",
-      "title_ru": "Премьер-министр Таиланда встретился с руководителями служб безопасности после скоординированных атак в трех южных провинциях",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 08:10:22"
-    },
-    {
-      "id": 325,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/us-strike-on-alleged-drug-smuggling-boat-in-pacific-ocean-kills-at-least-two",
-      "title_ru": "Удар США по предполагаемому судну для контрабанды наркотиков в Тихом океане убил по меньшей мере двух человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 08:10:21"
     }
   ]
 }
