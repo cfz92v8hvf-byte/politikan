@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-26T04:06:16.866293+00:00",
+  "updated_at": "2026-08-26T04:58:53.972305+00:00",
   "posts": [
+    {
+      "id": 416,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Американские военные убили 4 человек в результате удара карибского судна",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 04:58:52"
+    },
+    {
+      "id": 415,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260826-trump-saudi-civil-nuclear-agreement-congress",
+      "title_ru": "Трамп отправил гражданское ядерное соглашение Саудовской Аравии на рассмотрение в Конгресс",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 04:58:53"
+    },
+    {
+      "id": 414,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/iran-and-oman-discuss-temporary-corridor-in-strait-or-hormuz",
+      "title_ru": "Иран и Оман обсуждают временный коридор в Ормузском проливе",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 04:58:53"
+    },
     {
       "id": 413,
       "source": "France 24",
@@ -456,30 +480,6 @@
       "title_ru": "Дорожная карта мира в ДР Конго: окончательно ли прекратятся боевые действия?",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 17:53:31"
-    },
-    {
-      "id": 356,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-sanctions-unlikely-to-get-tehran-to-bow-down-despite-effect-on-population",
-      "title_ru": "Санкции США «вряд ли заставят Тегеран склониться», несмотря на влияние на население",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 355,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-economic-interests-over-values",
-      "title_ru": "MBS в Городе Света: в мире реальной политики Запад ценит экономические интересы больше, чем ценности?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 17:53:30"
-    },
-    {
-      "id": 354,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
-      "title_ru": "Что означает возобновление блокады Черного моря для украинских фермеров",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 17:53:29"
     }
   ]
 }
