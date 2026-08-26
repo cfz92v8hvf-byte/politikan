@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-26T08:11:22.705508+00:00",
+  "updated_at": "2026-08-26T09:06:33.933919+00:00",
   "posts": [
+    {
+      "id": 426,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260826-trump-scores-much-needed-double-primary-victory-in-south-carolina-oklahoma",
+      "title_ru": "Трамп одержал столь необходимую двойную победу на предварительных выборах в Южной Каролине и Оклахоме.",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 09:06:33"
+    },
+    {
+      "id": 425,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/haze-from-el-nino-fuelled-wildfires-threatens-health-of-millions-in-indonesia-ministry-war",
+      "title_ru": "Дымка от лесных пожаров, вызванных Эль-Ниньо, угрожает здоровью миллионов людей в Индонезии, предупреждает министерство",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 09:06:32"
+    },
+    {
+      "id": 424,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/us-secret-service-probes-iranian-video-threatening-barron-trump",
+      "title_ru": "Секретная служба США исследует иранское видео, угрожающее Бэррону Трампу",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 09:06:32"
+    },
+    {
+      "id": 423,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/ice-arrests-hit-nearly-50000-in-july-highest-of-trumps-mass-deportation-agenda",
+      "title_ru": "Аресты ICE достигли почти 50 000 в июле, что является самым высоким показателем в программе массовой депортации Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 09:06:31"
+    },
     {
       "id": 422,
       "source": "Euronews",
@@ -448,38 +480,6 @@
       "title_ru": "Нетаньяху заявил, что Иран пытался убить одного из его сыновей",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 22:00:11"
-    },
-    {
-      "id": 366,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/24/opening-remarks-by-president-antonio-costa-at-the-meeting-with-president-of-ukraine-volodymyr-zelenskyy/",
-      "title_ru": "Вступительное слово Президента Антонио Косты на встрече с Президентом Украины Владимиром Зеленским",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 21:03:41"
-    },
-    {
-      "id": 365,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США объявили о попытке дальнейшей экономической изоляции Ирана",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 19:45:41"
-    },
-    {
-      "id": 364,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Судан: США предлагают расширить эмбарго ООН на поставки оружия",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 19:45:40"
-    },
-    {
-      "id": 363,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
-      "title_ru": "Саудовская Аравия инвестирует € 6 млрд в тематические парки под Парижем, заявил Макрон",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 21:03:41"
     }
   ]
 }
