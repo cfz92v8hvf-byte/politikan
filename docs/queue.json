@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-26T06:20:43.373341+00:00",
+  "updated_at": "2026-08-26T07:28:29.793857+00:00",
   "posts": [
+    {
+      "id": 422,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/epstein-accomplice-ghislaine-maxwell-loses-frivolous-bid-to-overturn-us-conviction",
+      "title_ru": "Соучастница Эпштейна Гизлейн Максвелл проиграла «легкомысленную» попытку отменить обвинительный приговор США",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 07:28:29"
+    },
     {
       "id": 421,
       "source": "DW",
@@ -38,8 +46,8 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-morning",
       "title_ru": "Последние новости | 26 августа 2026 г. – утро",
-      "status": "pending",
-      "published_to_telegram_at": null
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 07:28:29"
     },
     {
       "id": 416,
@@ -472,14 +480,6 @@
       "title_ru": "Саудовская Аравия инвестирует € 6 млрд в тематические парки под Парижем, заявил Макрон",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 21:03:41"
-    },
-    {
-      "id": 362,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years",
-      "title_ru": "Великобритания и Франция «повторно анонсируют» противоракетные технологии для Украины: «Никто не будет в сети в течение многих лет»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 19:45:41"
     }
   ]
 }
