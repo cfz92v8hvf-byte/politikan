@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-26T19:12:43.957822+00:00",
+  "updated_at": "2026-08-26T22:17:40.434962+00:00",
   "posts": [
+    {
+      "id": 458,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260826-navigation-jurisdiction-costs-iran-oman-attempt-to-hammer-out-hormuz-deal",
+      "title_ru": "Навигация, юрисдикция, расходы: Иран, Оман пытаются заключить Ормузскую сделку",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 22:17:40"
+    },
+    {
+      "id": 457,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/south-africa-kingpin-and-the-corruption-commission",
+      "title_ru": "Южноафриканский вор в законе и комиссия по борьбе с коррупцией",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 22:17:39"
+    },
     {
       "id": 456,
       "source": "Council of the EU",
@@ -464,22 +480,6 @@
       "title_ru": "Повтор: Канада объявляет о контрмерах к новым тарифам США",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 398,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iran-offers-10-million-to-kill-trump-s-son",
-      "title_ru": "Иран предлагает $ 10 млн за убийство сына Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 17:50:57"
-    },
-    {
-      "id": 397,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
-      "title_ru": "Президент Нигерии приказал провести спасательную операцию после массового похищения людей в мечети",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 17:50:55"
     }
   ]
 }
