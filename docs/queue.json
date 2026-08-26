@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-26T05:42:23.414907+00:00",
+  "updated_at": "2026-08-26T06:20:43.373341+00:00",
   "posts": [
+    {
+      "id": 421,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Несмотря на международные запреты, наземные мины снова в силе",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 06:20:43"
+    },
+    {
+      "id": 420,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-15-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Пакистан: в результате пожара в больнице Исламабада погибли 15 младенцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 06:20:42"
+    },
+    {
+      "id": 419,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/live-news/20260826-iceland-to-vote-on-resuming-eu-talks-in-close-referendum",
+      "title_ru": "Исландия проголосует за возобновление переговоров с ЕС на закрытом референдуме",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 06:20:42"
+    },
+    {
+      "id": 418,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman",
+      "title_ru": "Ближний Восток в прямом эфире: Иран говорит, что Ормузский пролив все еще закрыт, несмотря на переговоры о транзитном коридоре с Оманом",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 06:20:42"
+    },
+    {
+      "id": 417,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-morning",
+      "title_ru": "Последние новости | 26 августа 2026 г. – утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 416,
       "source": "DW",
@@ -440,46 +480,6 @@
       "title_ru": "Великобритания и Франция «повторно анонсируют» противоракетные технологии для Украины: «Никто не будет в сети в течение многих лет»",
       "status": "published",
       "published_to_telegram_at": "2026-08-24 19:45:41"
-    },
-    {
-      "id": 361,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
-      "title_ru": "Последние новости | 24 августа 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 360,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
-      "title_ru": "Министр финансов США начинает операцию «Экономический изгой», направленную на изоляцию Ирана",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 19:45:40"
-    },
-    {
-      "id": 359,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Жертва протеста в Иране: «Они стреляли, чтобы убить»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 358,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп говорит, что Канада столкнется с 50% тарифов на автомобили и сталь с 2027 года",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 357,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Дорожная карта мира в ДР Конго: окончательно ли прекратятся боевые действия?",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 17:53:31"
     }
   ]
 }
