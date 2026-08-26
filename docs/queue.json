@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-26T10:00:31.634554+00:00",
+  "updated_at": "2026-08-26T10:45:31.756189+00:00",
   "posts": [
+    {
+      "id": 432,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates",
+      "title_ru": "Канада наносит ответный удар по США ответными тарифами на фоне эскалации торговой войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 10:45:31"
+    },
+    {
+      "id": 431,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition",
+      "title_ru": "Миллион афганских детей страдают от «опасного для жизни» недоедания",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 10:45:30"
+    },
+    {
+      "id": 430,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260826-germany-increasingly-in-the-crosshairs-of-hybrid-attacks",
+      "title_ru": "Германия все чаще попадает под прицел гибридных атак",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 10:45:29"
+    },
+    {
+      "id": 429,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/human-rights-in-myanmar-hit-new-low-fuelled-by-illegal-mining-and-scam-centres-un-warns",
+      "title_ru": "Права человека в Мьянме достигли «нового минимума», подпитываемого незаконной добычей полезных ископаемых и центрами мошенничества, предупреждает ООН",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 428,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/putin-signs-decree-allowing-state-seizure-of-businesses-hit-by-drone-strikes",
+      "title_ru": "Путин подписал указ, разрешающий госзахват предприятий, пострадавших от ударов беспилотников",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 427,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/syrias-main-kurdish-force-sdf-ceases-to-exist-after-army-merger",
+      "title_ru": "Главная курдская группировка Сирии SDF прекращает свое существование после слияния армий",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 10:45:31"
+    },
     {
       "id": 426,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 25 августа 2026 г. – утро",
       "status": "published",
       "published_to_telegram_at": "2026-08-25 07:57:17"
-    },
-    {
-      "id": 372,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/25/london-and-paris-landmarks-light-up-for-ukraines-independence-day",
-      "title_ru": "К Дню Независимости Украины загораются достопримечательности Лондона и Парижа",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 07:57:17"
-    },
-    {
-      "id": 371,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/25/new-colombian-president-orders-immigration-raids-vowing-deporations-of-migrants-without-le",
-      "title_ru": "Новый колумбийский президент распорядился об иммиграционных рейдах, пообещав депорации мигрантов без легального статуса",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 07:57:16"
-    },
-    {
-      "id": 370,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman",
-      "title_ru": "Ближний Восток в прямом эфире: нефтяной танкер, пораженный снарядом в Ормузском проливе у берегов Омана",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 05:08:44"
-    },
-    {
-      "id": 369,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/25/trump-administration-plans-to-revoke-200000-visas-of-asylum-seekers",
-      "title_ru": "Администрация Трампа планирует отозвать 200 тысяч виз просителей убежища",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 05:08:43"
-    },
-    {
-      "id": 368,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
-      "title_ru": "Администрация Трампа аннулирует визы иностранцев, ищущих убежища в США, говорят чиновники",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 23:00:04"
-    },
-    {
-      "id": 367,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260824-israel-netanyahu-says-iran-tried-kill-son",
-      "title_ru": "Нетаньяху заявил, что Иран пытался убить одного из его сыновей",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-24 22:00:11"
     }
   ]
 }
