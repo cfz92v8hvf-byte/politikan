@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-26T11:14:25.902633+00:00",
+  "updated_at": "2026-08-26T11:49:32.832831+00:00",
   "posts": [
+    {
+      "id": 438,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260826-kremlin-says-cia-chief-met-russian-counterparts-not-putin-in-moscow",
+      "title_ru": "Кремль говорит, что глава ЦРУ встретился с российскими коллегами, а не с Путиным, в Москве",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 437,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260826-us-proposes-expanding-un-sudan-arms-embargo-to-entire-country",
+      "title_ru": "США предлагают распространить эмбарго ООН на поставки оружия в Судан на всю страну",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 436,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260826-a-new-chapter-for-syria-s-kurds-what-integration-really-means",
+      "title_ru": "Новая глава для сирийских курдов: что на самом деле означает интеграция",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 11:49:32"
+    },
+    {
+      "id": 435,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260826-mawlid-festivities-cancelled-in-ethiopia-s-tigray-region-over-fears-of-drone-strikes",
+      "title_ru": "Празднование Маулида отменено в регионе Тиграй в Эфиопии из-за опасений ударов беспилотников",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 11:49:32"
+    },
+    {
+      "id": 434,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260826-pakistan-at-least-14-newborns-die-in-hospital-fire",
+      "title_ru": "Пакистан: при пожаре в больнице погибло не менее 14 новорожденных",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 11:49:31"
+    },
+    {
+      "id": 433,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/26/the-data-centre-trap-trumps-ai-ambition-puts-republicans-on-the-defensive",
+      "title_ru": "Ловушка центра обработки данных: амбиции ИИ Трампа заставляют республиканцев защищаться",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 11:49:31"
+    },
     {
       "id": 432,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Канада намерена объявить ответные тарифы на товары из США после провала переговоров",
       "status": "published",
       "published_to_telegram_at": "2026-08-25 09:56:44"
-    },
-    {
-      "id": 378,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-inflict-the-us",
-      "title_ru": "Поскольку Канада готовится принять ответные меры в торговой войне, какую боль она может причинить США?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 377,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iran-threatens-retaliation-as-new-us-sanctions-hit-already-struggling-economy",
-      "title_ru": "Иран угрожает возмездием, поскольку новые санкции США наносят удар по уже испытывающей трудности экономике",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 09:56:42"
-    },
-    {
-      "id": 376,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/25/armenia-announces-historic-intention-to-apply-for-eu-membership",
-      "title_ru": "Армения объявила об историческом намерении подать заявку на членство в ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 09:56:44"
-    },
-    {
-      "id": 375,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/25/un-and-red-cross-warn-risks-have-intensified-urge-regulation-of-killer-robots",
-      "title_ru": "ООН и Красный Крест предупреждают, что «риски усилились», призывают к регулированию роботов-убийц",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 09:56:43"
-    },
-    {
-      "id": 374,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260825-what-to-know-about-trump-s-tariffs-on-canadian-goods-as-neigbours-spiral-into-trade-war",
-      "title_ru": "Что нужно знать о тарифах Трампа на Канаду и эскалации торговой войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 07:57:16"
-    },
-    {
-      "id": 373,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-morning",
-      "title_ru": "Последние новости | 25 августа 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 07:57:17"
     }
   ]
 }
