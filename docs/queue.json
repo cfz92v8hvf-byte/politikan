@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-08-26T16:55:20.448651+00:00",
+  "updated_at": "2026-08-26T19:12:43.957822+00:00",
   "posts": [
+    {
+      "id": 456,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/26/press-statement-by-president-costa-following-the-meeting-with-president-of-lithuania-gitanas-nauseda/",
+      "title_ru": "Заявление для прессы Президента Коста по итогам встречи с Президентом Литвы Гитанасом Науседа",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 455,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/26/press-statement-by-president-costa-following-the-meeting-with-prime-minister-of-latvia-andris-kulbergs/",
+      "title_ru": "Заявление для прессы Президента Коста по итогам встречи с Премьер-министром Латвии Андрисом Кульбергсом",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 19:12:42"
+    },
+    {
+      "id": 454,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Нет, это было не «совершенно нормальное лето», несмотря на отрицание крайне правых",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 19:12:43"
+    },
+    {
+      "id": 453,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-airstrike-on-bus-in-russian-occupied-luhansk-kills-9/a-78516673?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украинский авиаудар по автобусу в оккупированном Россией Луганске унес жизни 9 человек",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-26 19:12:43"
+    },
+    {
+      "id": 452,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/shockwaves-throughout-the-country-following-gruesome-killings-in-haitian-mountain-retreat",
+      "title_ru": "«Ударные волны по всей стране» после «ужасных» убийств в горном отступлении на Гаити",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 451,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-evening",
+      "title_ru": "Последние новости | 26 августа 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 450,
       "source": "DW",
       "source_url": "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Может ли Сирия стать центром израильско-турецкого конфликта?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -46,7 +94,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/video/2026/08/26/hundreds-missing-as-flash-floods-tear-through-nepal",
       "title_ru": "Сотни людей пропали без вести из-за внезапных наводнений в Непале",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Президент Нигерии приказал провести спасательную операцию после массового похищения людей в мечети",
       "status": "published",
       "published_to_telegram_at": "2026-08-25 17:50:55"
-    },
-    {
-      "id": 396,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/canada-s-tariffs-on-us-about-sovereignty-to-get-people-on-board-with-trade-war",
-      "title_ru": "Тарифы Канады на США о «суверенитете, чтобы привлечь людей на борт» с торговой войной",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 16:18:41"
-    },
-    {
-      "id": 395,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates",
-      "title_ru": "Канада наносит ответный удар по Трампу ответными тарифами на фоне эскалации торговой войны США",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 16:18:40"
-    },
-    {
-      "id": 394,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260825-cyberattacks-target-french-government-agencies",
-      "title_ru": "Кибератаки нацелены на французские правительственные учреждения",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 16:18:40"
-    },
-    {
-      "id": 393,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/25/mongolia-positions-itself-as-asias-next-data-centre-hub",
-      "title_ru": "Монголия позиционирует себя как следующий центр обработки данных в Азии",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 17:50:56"
-    },
-    {
-      "id": 392,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/25/canada-hits-back-with-new-counter-tariffs-on-us-goods",
-      "title_ru": "Канада наносит ответный удар новыми контртарифными мерами на товары из США",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 17:50:56"
-    },
-    {
-      "id": 391,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-evening",
-      "title_ru": "Последние новости | 25 августа 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 16:18:41"
     }
   ]
 }
