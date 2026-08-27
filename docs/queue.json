@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-26T22:17:40.434962+00:00",
+  "updated_at": "2026-08-27T03:22:48.989059+00:00",
   "posts": [
+    {
+      "id": 459,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260827-live-at-least-160-dead-and-400-tourists-missing-in-nepal-landslide",
+      "title_ru": "Live: По меньшей мере 160 погибших и 400 туристов пропали без вести в результате оползня в Непале",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-27 03:22:48"
+    },
     {
       "id": 458,
       "source": "France 24",
@@ -470,14 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260825-france-tornado-ravages-small-village",
       "title_ru": "Франция: торнадо опустошает маленькую деревню",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 399,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
-      "title_ru": "Повтор: Канада объявляет о контрмерах к новым тарифам США",
       "status": "expired",
       "published_to_telegram_at": null
     }
