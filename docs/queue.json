@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-27T03:22:48.989059+00:00",
+  "updated_at": "2026-08-27T14:33:50.959812+00:00",
   "posts": [
+    {
+      "id": 465,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/27/trump-says-mojtaba-khamenei-alive-but-very-seriously-wounded-in-february-strikes",
+      "title_ru": "Трамп говорит, что Мойтаба Хаменеи жив, но «очень серьезно ранен» в результате февральских ударов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 464,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/27/us-democratic-partys-progressives-and-moderates-face-off-in-pre-midterms-civil-war",
+      "title_ru": "Прогрессивные и умеренные представители Демократической партии США противостоят друг другу в преддверии гражданской войны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 463,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/27/kilometre-long-petrol-queues-in-iran-signal-further-strain-on-tehran",
+      "title_ru": "Километровые очереди за бензином в Иране сигнализируют о дальнейшей нагрузке на Тегеран",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 462,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/27/latest-news-bulletin-august-27th-2026-midday",
+      "title_ru": "Последние новости | 27 августа 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 461,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/27/gamescom-2026-opens-in-cologne-with-record-exhibitors-and-visitors",
+      "title_ru": "Gamescom 2026 открывается в Кельне с рекордными экспонентами и посетителями",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-27 14:33:50"
+    },
+    {
+      "id": 460,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/27/russias-overnight-drone-barrage-ignites-fires-across-ukrainian-cities",
+      "title_ru": "Ночной шквал беспилотников в России зажигает пожары в украинских городах",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-27 14:33:50"
+    },
     {
       "id": 459,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Экспорт зерна застопорился, поскольку Украина активизировала атаки на черноморские порты России",
       "status": "published",
       "published_to_telegram_at": "2026-08-25 19:47:14"
-    },
-    {
-      "id": 405,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260825-us-country-music-legend-dolly-parton-dies-at",
-      "title_ru": "Знаменитая американская кантри-музыкантка Долли Партон скончалась в возрасте 80 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 19:47:13"
-    },
-    {
-      "id": 404,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260825-syrian-kurdish-leader-dissolves-force-that-spearheaded-jihadist-fight",
-      "title_ru": "Лидер сирийских курдов объявил о роспуске СДС после их интеграции в армию",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 19:47:12"
-    },
-    {
-      "id": 403,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/25/armenia-detains-former-president-kocharyan-on-corruption-charges",
-      "title_ru": "Армения задержала экс-президента Кочаряна по обвинению в коррупции",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 19:47:13"
-    },
-    {
-      "id": 402,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260825-not-an-isolated-incident-russian-drones-stalk-ukraine-civilians-human-safaris",
-      "title_ru": "«Не единичный случай»: российские беспилотники преследуют мирных жителей Украины в «человеческих сафари»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 401,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260825-cia-director-ratcliffe-visits-moscow-us-media-reports",
-      "title_ru": "Директор ЦРУ Рэтклифф посещает Москву, сообщают американские СМИ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 400,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260825-france-tornado-ravages-small-village",
-      "title_ru": "Франция: торнадо опустошает маленькую деревню",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
