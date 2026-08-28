@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-08-28T11:12:37.084872+00:00",
+  "updated_at": "2026-08-28T21:26:47.682337+00:00",
   "posts": [
+    {
+      "id": 483,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260828-greenland-to-open-truth-commission-over-forced-contraception-scheme",
+      "title_ru": "Гренландия откроет комиссию по установлению истины в отношении схемы принудительной контрацепции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 482,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists",
+      "title_ru": "Израильская армия наносит редкий авиаудар по Западному берегу, убив «трех террористов»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 481,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260828-drc-president-tshisekedi-calls-for-national-dialogue-excluding-m23-rebels",
+      "title_ru": "Президент ДРК Чисекеди призывает к национальному диалогу, исключая повстанцев М23",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-28 21:26:47"
+    },
+    {
+      "id": 480,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/28/israeli-activists-urge-eu-in-jerusalem-protest-silence-is-complicity-on-gaza",
+      "title_ru": "Израильские активисты протестуют перед офисами ЕС в Иерусалиме из-за войны в Газе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 479,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/28/latest-news-bulletin-august-28th-2026-evening",
+      "title_ru": "Последние новости | 28 августа 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 478,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/28/norway-mourns-king-harald-v-as-crown-prince-haakon-becomes-king",
+      "title_ru": "Норвегия оплакивает короля Харальда V, когда наследный принц Хокон становится королем",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-28 21:26:47"
+    },
     {
       "id": 477,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/nepal-flood-disaster-reconstructed-minute-by-minute",
       "title_ru": "Восстановление после наводнения в Непале минута за минутой",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260828-el-ni%C3%B1o-paired-with-climate-change-just-makes-everything-so-much-more-dangerous",
       "title_ru": "Эль-Ниньо в сочетании с изменением климата «делает все намного опаснее»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Секретная служба США исследует иранское видео, угрожающее Бэррону Трампу",
       "status": "published",
       "published_to_telegram_at": "2026-08-26 09:06:32"
-    },
-    {
-      "id": 423,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/ice-arrests-hit-nearly-50000-in-july-highest-of-trumps-mass-deportation-agenda",
-      "title_ru": "Аресты ICE достигли почти 50 000 в июле, что является самым высоким показателем в программе массовой депортации Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 09:06:31"
-    },
-    {
-      "id": 422,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/epstein-accomplice-ghislaine-maxwell-loses-frivolous-bid-to-overturn-us-conviction",
-      "title_ru": "Соучастница Эпштейна Гизлейн Максвелл проиграла «легкомысленную» попытку отменить обвинительный приговор США",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 07:28:29"
-    },
-    {
-      "id": 421,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Несмотря на международные запреты, наземные мины снова в силе",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 06:20:43"
-    },
-    {
-      "id": 420,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-15-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Пакистан: в результате пожара в больнице Исламабада погибли 15 младенцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 06:20:42"
-    },
-    {
-      "id": 419,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/live-news/20260826-iceland-to-vote-on-resuming-eu-talks-in-close-referendum",
-      "title_ru": "Исландия проголосует за возобновление переговоров с ЕС на закрытом референдуме",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 06:20:42"
-    },
-    {
-      "id": 418,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman",
-      "title_ru": "Ближний Восток в прямом эфире: Иран говорит, что Ормузский пролив все еще закрыт, несмотря на переговоры о транзитном коридоре с Оманом",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 06:20:42"
     }
   ]
 }
