@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-27T23:57:07.934953+00:00",
+  "updated_at": "2026-08-28T11:12:37.084872+00:00",
   "posts": [
+    {
+      "id": 477,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/nepal-flood-disaster-reconstructed-minute-by-minute",
+      "title_ru": "Восстановление после наводнения в Непале минута за минутой",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 476,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260828-el-ni%C3%B1o-paired-with-climate-change-just-makes-everything-so-much-more-dangerous",
+      "title_ru": "Эль-Ниньо в сочетании с изменением климата «делает все намного опаснее»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 475,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260828-uganda-s-king-of-tooro-once-world-s-youngest-reigning-monarch-dies-at-34",
+      "title_ru": "Король Уганды Тооро, когда-то самый молодой правящий монарх в мире, умер в возрасте 34 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-28 11:12:37"
+    },
+    {
+      "id": 474,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/28/latest-news-bulletin-august-28th-2026-midday",
+      "title_ru": "Последние новости | 28 августа 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-28 11:12:36"
+    },
+    {
+      "id": 473,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/28/russia-plans-to-mobilise-600000-troops-this-year-and-next-ukraine-says",
+      "title_ru": "Россия планирует мобилизовать 600 000 военнослужащих в этом и следующем году, говорит Украина",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-28 11:12:36"
+    },
+    {
+      "id": 472,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/28/syrias-top-druze-leader-calls-community-integral-part-of-israel",
+      "title_ru": "Лидер друзов Сирии называет общину «неотъемлемой частью Израиля»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-28 11:12:35"
+    },
     {
       "id": 471,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Ближний Восток в прямом эфире: Иран говорит, что Ормузский пролив все еще закрыт, несмотря на переговоры о транзитном коридоре с Оманом",
       "status": "published",
       "published_to_telegram_at": "2026-08-26 06:20:42"
-    },
-    {
-      "id": 417,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-morning",
-      "title_ru": "Последние новости | 26 августа 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 07:28:29"
-    },
-    {
-      "id": 416,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Американские военные убили 4 человек в результате удара карибского судна",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 04:58:52"
-    },
-    {
-      "id": 415,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260826-trump-saudi-civil-nuclear-agreement-congress",
-      "title_ru": "Трамп отправил гражданское ядерное соглашение Саудовской Аравии на рассмотрение в Конгресс",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 04:58:53"
-    },
-    {
-      "id": 414,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/iran-and-oman-discuss-temporary-corridor-in-strait-or-hormuz",
-      "title_ru": "Иран и Оман обсуждают временный коридор в Ормузском проливе",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 04:58:53"
-    },
-    {
-      "id": 413,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
-      "title_ru": "Возглавляемая США миротворческая комиссия по Газе предупреждает ХАМАС о воздушных змеях после израильской угрозы",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 22:03:09"
-    },
-    {
-      "id": 412,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/economy/20260825-oil-prices-fall-us-iran-strikes-sanctions",
-      "title_ru": "Цены на нефть падают второй день, поскольку США переходят от Ирана к санкциям",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-25 22:03:09"
     }
   ]
 }
