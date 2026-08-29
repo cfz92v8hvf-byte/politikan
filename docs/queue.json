@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-29T03:18:48.435470+00:00",
+  "updated_at": "2026-08-29T10:14:25.109656+00:00",
   "posts": [
+    {
+      "id": 491,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260829-icelanders-vote-in-referendum-on-whether-to-resume-eu-membership-talks",
+      "title_ru": "Исландцы голосуют на жестком референдуме о возобновлении переговоров о членстве в ЕС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 490,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-to-control-one-fifth-of-venezuela-s-oil-reserves-trump-says",
+      "title_ru": "США будут контролировать пятую часть запасов нефти Венесуэлы, заявил Трамп",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 10:14:24"
+    },
+    {
+      "id": 489,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iceland-votes-on-whether-to-resume-eu-membership-negotiations",
+      "title_ru": "Исландия голосует за возобновление переговоров о членстве в ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 10:14:24"
+    },
+    {
+      "id": 488,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
+      "title_ru": "🔴 Российский удар по складу под Киевом унес жизни не менее 27 человек, сотни эвакуированы",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 10:14:23"
+    },
+    {
+      "id": 487,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-morning",
+      "title_ru": "Последние новости | 29 августа 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 486,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/29/guinea-bissau-junta-puts-new-constitution-to-referendum-as-opposition-urges-boycott",
+      "title_ru": "Хунта Гвинеи-Бисау выносит на референдум новую конституцию, поскольку оппозиция призывает к бойкоту",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 485,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Канада наносит ответный удар по США ответными тарифами на фоне эскалации торговой войны",
       "status": "published",
       "published_to_telegram_at": "2026-08-26 10:45:31"
-    },
-    {
-      "id": 431,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition",
-      "title_ru": "Миллион афганских детей страдают от «опасного для жизни» недоедания",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 10:45:30"
-    },
-    {
-      "id": 430,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-germany-increasingly-in-the-crosshairs-of-hybrid-attacks",
-      "title_ru": "Германия все чаще попадает под прицел гибридных атак",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 10:45:29"
-    },
-    {
-      "id": 429,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/human-rights-in-myanmar-hit-new-low-fuelled-by-illegal-mining-and-scam-centres-un-warns",
-      "title_ru": "Права человека в Мьянме достигли «нового минимума», подпитываемого незаконной добычей полезных ископаемых и центрами мошенничества, предупреждает ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 428,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/putin-signs-decree-allowing-state-seizure-of-businesses-hit-by-drone-strikes",
-      "title_ru": "Путин подписал указ, разрешающий госзахват предприятий, пострадавших от ударов беспилотников",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 427,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/syrias-main-kurdish-force-sdf-ceases-to-exist-after-army-merger",
-      "title_ru": "Главная курдская группировка Сирии SDF прекращает свое существование после слияния армий",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 10:45:31"
-    },
-    {
-      "id": 426,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260826-trump-scores-much-needed-double-primary-victory-in-south-carolina-oklahoma",
-      "title_ru": "Трамп одержал столь необходимую двойную победу на предварительных выборах в Южной Каролине и Оклахоме.",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 09:06:33"
     }
   ]
 }
