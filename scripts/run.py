@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 from typing import Optional
 from storage import claim_collection_slot, connect, is_seen, is_semantic_duplicate
 from common import settings
-from translator import translate, TranslationError
+from translator import is_complete_headline, translate, TranslationError
 from telegram import publish
 
 
@@ -84,7 +84,11 @@ def collect():
                     print(f"Skipped similar recent story: {title[:60]}")
                     continue
                 try:
-                    title_ru, summary_ru = translate(title), translate(summary or title)
+                    title_ru = translate(title)
+                    if not is_complete_headline(title_ru):
+                        print(f"Skipped incomplete headline translation: {title[:60]}")
+                        continue
+                    summary_ru = translate(summary or title)
                 except TranslationError as exc:
                     print(f"Skipped translation: {title[:60]} ({exc})")
                     continue
