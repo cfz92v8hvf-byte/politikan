@@ -1,4 +1,5 @@
 import json
+import re
 import urllib.parse
 import urllib.request
 from common import env
@@ -6,6 +7,17 @@ from common import env
 
 class TranslationError(Exception):
     pass
+
+
+_INCOMPLETE_HEADLINE_ENDINGS = ("ый", "ий", "ая", "ое", "ые", "ого", "ому", "ыми", "ых")
+
+
+def is_complete_headline(text: str) -> bool:
+    """Reject a visibly truncated Russian headline before it reaches the channel."""
+    words = re.findall(r"[А-Яа-яЁё-]+", text or "")
+    if len(words) < 3:
+        return False
+    return not words[-1].casefold().endswith(_INCOMPLETE_HEADLINE_ENDINGS)
 
 
 def translate(text: str) -> str:
