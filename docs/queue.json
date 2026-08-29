@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-29T18:36:28.776635+00:00",
+  "updated_at": "2026-08-29T21:19:33.343259+00:00",
   "posts": [
+    {
+      "id": 505,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Индии: Премьер-министр Моди в Узбекистане на пути к саммиту ШОС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 504,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Израильские поселенцы нападают на палестинские дома на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 21:19:33"
+    },
     {
       "id": 503,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Россия: директор ЦРУ посещает Москву",
       "status": "published",
       "published_to_telegram_at": "2026-08-26 16:02:54"
-    },
-    {
-      "id": 445,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/26/hundreds-missing-as-flash-floods-tear-through-nepal",
-      "title_ru": "Сотни людей пропали без вести из-за внезапных наводнений в Непале",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 444,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-israel-takes-control-of-un-training-centre-for-palestinians",
-      "title_ru": "Израиль взял под контроль учебный центр ООН для палестинцев",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
