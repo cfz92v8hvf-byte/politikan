@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-29T21:19:33.343259+00:00",
+  "updated_at": "2026-08-29T23:25:46.051202+00:00",
   "posts": [
+    {
+      "id": 506,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: Меркель призывает избирателей «встать на защиту» демократии",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 23:25:45"
+    },
     {
       "id": 505,
       "source": "DW",
@@ -472,14 +480,6 @@
       "title_ru": "От тарифов до французов: торговая война Трампа с Канадой принимает культурный оборот",
       "status": "published",
       "published_to_telegram_at": "2026-08-26 16:02:55"
-    },
-    {
-      "id": 446,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-russia-cia-director-visits-moscow",
-      "title_ru": "Россия: директор ЦРУ посещает Москву",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 16:02:54"
     }
   ]
 }
