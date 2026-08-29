@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-29T10:14:25.109656+00:00",
+  "updated_at": "2026-08-29T15:06:52.336743+00:00",
   "posts": [
+    {
+      "id": 497,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/warehouse-hit-by-russian-attack-stored-munitions-zelensky-says",
+      "title_ru": "Склад, пораженный российским ударом, хранил боеприпасы, говорит Зеленский",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 15:06:52"
+    },
+    {
+      "id": 496,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/referendum-on-eu-membership-an-existential-question-for-icelanders",
+      "title_ru": "Референдум о членстве в ЕС: «экзистенциальный вопрос» для исландцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 15:06:51"
+    },
+    {
+      "id": 495,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-midday",
+      "title_ru": "Последние новости | 29 августа 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 494,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/29/heavy-gunfire-in-niger-capital-as-clashes-reported-at-presidential-palace",
+      "title_ru": "Ожесточенная стрельба в столице Нигера после сообщений о столкновениях у президентского дворца",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 493,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/29/uzbekistan-marks-35-years-of-independence-as-president-outlines-plans-for-next-decade",
+      "title_ru": "Узбекистан отмечает 35-летие независимости, поскольку президент наметил планы на следующее десятилетие",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 492,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/29/kazakhstans-government-steps-down-as-newly-elected-kurultai-holds-first-session",
+      "title_ru": "Правительство Казахстана уходит в отставку, поскольку новоизбранный Курултай проводит первое заседание",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 15:06:51"
+    },
     {
       "id": 491,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Кремль говорит, что глава ЦРУ встретился с российскими коллегами, а не с Путиным, в Москве",
       "status": "published",
       "published_to_telegram_at": "2026-08-26 13:36:54"
-    },
-    {
-      "id": 437,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-us-proposes-expanding-un-sudan-arms-embargo-to-entire-country",
-      "title_ru": "США предлагают распространить эмбарго ООН на поставки оружия в Судан на всю страну",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 13:36:53"
-    },
-    {
-      "id": 436,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-a-new-chapter-for-syria-s-kurds-what-integration-really-means",
-      "title_ru": "Новая глава для сирийских курдов: что на самом деле означает интеграция",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 11:49:32"
-    },
-    {
-      "id": 435,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-mawlid-festivities-cancelled-in-ethiopia-s-tigray-region-over-fears-of-drone-strikes",
-      "title_ru": "Празднование Маулида отменено в регионе Тиграй в Эфиопии из-за опасений ударов беспилотников",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 11:49:32"
-    },
-    {
-      "id": 434,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-pakistan-at-least-14-newborns-die-in-hospital-fire",
-      "title_ru": "Пакистан: при пожаре в больнице погибло не менее 14 новорожденных",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 11:49:31"
-    },
-    {
-      "id": 433,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/the-data-centre-trap-trumps-ai-ambition-puts-republicans-on-the-defensive",
-      "title_ru": "Ловушка центра обработки данных: амбиции ИИ Трампа заставляют республиканцев защищаться",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 11:49:31"
-    },
-    {
-      "id": 432,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates",
-      "title_ru": "Канада наносит ответный удар по США ответными тарифами на фоне эскалации торговой войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 10:45:31"
     }
   ]
 }
