@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-29T15:06:52.336743+00:00",
+  "updated_at": "2026-08-29T18:36:28.776635+00:00",
   "posts": [
+    {
+      "id": 503,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Саксонии-Анхальт: почему АдГ так сильна",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 18:36:28"
+    },
+    {
+      "id": 502,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Российско-американский возглавляет запланированный Трампом Кавказский торговый",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 18:36:28"
+    },
+    {
+      "id": 501,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/situation-in-niger-not-stabilised-yet-as-security-forces-deploy-around-airport",
+      "title_ru": "Ситуация в Нигере «еще не стабилизировалась», поскольку силы безопасности развернуты вокруг аэропорта",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 500,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iran-war-reaches-6-month-mark-conflict-cost-1-100-per-us-taxpayer",
+      "title_ru": "Война в Иране достигла 6-месячной отметки: конфликт стоит $ 1100 на одного налогоплательщика США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 499,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages",
+      "title_ru": "Нетаньяху осуждает «преступные акты насилия» со стороны поселенцев в деревнях на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 18:36:27"
+    },
+    {
+      "id": 498,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-evening",
+      "title_ru": "Последние новости | 29 августа 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-29 18:36:28"
+    },
     {
       "id": 497,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Израиль взял под контроль учебный центр ООН для палестинцев",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 443,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-syria-s-kurdish-led-sdf-dissolves-as-part-of-integration-with-damascus",
-      "title_ru": "Сирийские курдские СДС распускаются в рамках интеграции с Дамаском",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 442,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-america-unites-in-mourning-for-dolly-parton",
-      "title_ru": "Америка объединилась в трауре по Долли Партон",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 441,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-at-least-14-infants-killed-in-islamabad-hospital-fire",
-      "title_ru": "По меньшей мере 14 младенцев погибли в результате пожара в больнице Исламабада",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 13:36:53"
-    },
-    {
-      "id": 440,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-midday",
-      "title_ru": "Последние новости | 26 августа 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 439,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/26/us-will-achieve-nothing-with-its-economic-chokehold-tehran-says",
-      "title_ru": "США «ничего не добьются» своим экономическим удушением, говорит Тегеран",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 13:36:52"
-    },
-    {
-      "id": 438,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260826-kremlin-says-cia-chief-met-russian-counterparts-not-putin-in-moscow",
-      "title_ru": "Кремль говорит, что глава ЦРУ встретился с российскими коллегами, а не с Путиным, в Москве",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 13:36:54"
     }
   ]
 }
