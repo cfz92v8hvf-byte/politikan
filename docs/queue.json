@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-30T13:13:29.197940+00:00",
+  "updated_at": "2026-08-30T17:34:41.268851+00:00",
   "posts": [
+    {
+      "id": 522,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-far-right-and-far-left-lead-polls",
+      "title_ru": "Франция: крайне правые и крайне левые лидируют в опросах общественного мнения",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 521,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260830-iceland-rejects-eu-accession-talks",
+      "title_ru": "Исландия отвергает переговоры о вступлении в ЕС",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 520,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
+      "title_ru": "Нигерская хунта подавляет мятеж с помощью Африканского корпуса России",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 17:34:41"
+    },
+    {
+      "id": 519,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260830-trump-says-nbc-journalist-to-be-reported-to-fcc-for-punishment-over-endorsement-coverage",
+      "title_ru": "Трамп говорит, что журналист NBC будет сообщен в FCC за «наказание» за освещение",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 17:34:39"
+    },
+    {
+      "id": 518,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/30/latest-news-bulletin-august-30th-2026-evening",
+      "title_ru": "Последние новости | 30 августа 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 17:34:40"
+    },
+    {
+      "id": 517,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/30/india-and-uzbekistan-deepen-ties-eye-5bn-trade-and-long-term-uranium-supplies",
+      "title_ru": "Индия и Узбекистан углубляют связи, рассматривают торговлю на $ 5 млрд и долгосрочные поставки урана",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 17:34:40"
+    },
     {
       "id": 516,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Километровые очереди за бензином в Иране сигнализируют о дальнейшей нагрузке на Тегеран",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 462,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/27/latest-news-bulletin-august-27th-2026-midday",
-      "title_ru": "Последние новости | 27 августа 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 461,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/27/gamescom-2026-opens-in-cologne-with-record-exhibitors-and-visitors",
-      "title_ru": "Gamescom 2026 открывается в Кельне с рекордными экспонентами и посетителями",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-27 14:33:50"
-    },
-    {
-      "id": 460,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/27/russias-overnight-drone-barrage-ignites-fires-across-ukrainian-cities",
-      "title_ru": "Ночной шквал беспилотников в России зажигает пожары в украинских городах",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-27 14:33:50"
-    },
-    {
-      "id": 459,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260827-live-at-least-160-dead-and-400-tourists-missing-in-nepal-landslide",
-      "title_ru": "Live: По меньшей мере 160 погибших и 400 туристов пропали без вести в результате оползня в Непале",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-27 03:22:48"
-    },
-    {
-      "id": 458,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260826-navigation-jurisdiction-costs-iran-oman-attempt-to-hammer-out-hormuz-deal",
-      "title_ru": "Навигация, юрисдикция, расходы: Иран, Оман пытаются заключить Ормузскую сделку",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 22:17:40"
-    },
-    {
-      "id": 457,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/south-africa-kingpin-and-the-corruption-commission",
-      "title_ru": "Южноафриканский вор в законе и комиссия по борьбе с коррупцией",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 22:17:39"
     }
   ]
 }
