@@ -10,6 +10,7 @@ class TranslationError(Exception):
 
 
 _INCOMPLETE_HEADLINE_ENDINGS = ("ый", "ий", "ая", "ое", "ые", "ого", "ому", "ыми", "ых")
+_INCOMPLETE_HEADLINE_WORDS = {"числя"}
 
 
 def is_complete_headline(text: str) -> bool:
@@ -17,7 +18,8 @@ def is_complete_headline(text: str) -> bool:
     words = re.findall(r"[А-Яа-яЁё-]+", text or "")
     if len(words) < 3:
         return False
-    return not words[-1].casefold().endswith(_INCOMPLETE_HEADLINE_ENDINGS)
+    last = words[-1].casefold()
+    return last not in _INCOMPLETE_HEADLINE_WORDS and not last.endswith(_INCOMPLETE_HEADLINE_ENDINGS)
 
 
 def translate(text: str) -> str:
