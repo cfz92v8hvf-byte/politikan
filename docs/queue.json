@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-08-30T17:34:41.268851+00:00",
+  "updated_at": "2026-08-30T20:00:58.394964+00:00",
   "posts": [
+    {
+      "id": 526,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "ЕС хочет, чтобы дроны распыляли пестициды, но это может иметь неприятные последствия",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 525,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-merz-warns-of-problems-in-saxony-anhalt-under-afd/live-78555302?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: Мерц предупреждает о «проблемах» в Саксонии-Анхальт под АдГ",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 20:00:58"
+    },
+    {
+      "id": 524,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Проверка фактов: немецкий Merz искажает запись в интервью ARD",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 20:00:57"
+    },
+    {
+      "id": 523,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/30/venezuela-says-it-will-retain-sovereignty-over-its-oil-reserves-despite-us-deal",
+      "title_ru": "Венесуэла заявляет, что сохранит «суверенитет» над своими запасами нефти, несмотря на сделку с США",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 20:00:57"
+    },
     {
       "id": 522,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france-far-right-and-far-left-lead-polls",
       "title_ru": "Франция: крайне правые и крайне левые лидируют в опросах общественного мнения",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +46,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260830-iceland-rejects-eu-accession-talks",
       "title_ru": "Исландия отвергает переговоры о вступлении в ЕС",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -446,38 +478,6 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/video/2026/08/27/china-video-shows-mudslide-surging-through-gyirong-port",
       "title_ru": "Китай: на видео видно, как оползень проносится через порт Гьиронг",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 466,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/27/trump-signs-order-to-rename-lake-ontario-lake-america-amid-rising-trade-tensions-with-cana",
-      "title_ru": "Трамп подписал указ о переименовании озера Онтарио в «Озеро Америка» на фоне растущей торговой напряженности с Канадой",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 465,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/27/trump-says-mojtaba-khamenei-alive-but-very-seriously-wounded-in-february-strikes",
-      "title_ru": "Трамп говорит, что Мойтаба Хаменеи жив, но «очень серьезно ранен» в результате февральских ударов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 464,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/27/us-democratic-partys-progressives-and-moderates-face-off-in-pre-midterms-civil-war",
-      "title_ru": "Прогрессивные и умеренные представители Демократической партии США противостоят друг другу в преддверии гражданской войны",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 463,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/27/kilometre-long-petrol-queues-in-iran-signal-further-strain-on-tehran",
-      "title_ru": "Километровые очереди за бензином в Иране сигнализируют о дальнейшей нагрузке на Тегеран",
       "status": "expired",
       "published_to_telegram_at": null
     }
