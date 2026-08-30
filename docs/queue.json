@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-30T07:30:40.330832+00:00",
+  "updated_at": "2026-08-30T13:13:29.197940+00:00",
   "posts": [
+    {
+      "id": 516,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260830-iceland-rejects-restarting-eu-accession-talks-in-referendum",
+      "title_ru": "🔴 Исландия отвергает возобновление переговоров о вступлении в ЕС на референдуме",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 515,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/argentines-march-on-peter-thiel-s-mansion",
+      "title_ru": "Аргентинцы маршируют по особняку Питера Тиля",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 514,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-and-venezuela-seal-25-year-oil-deal",
+      "title_ru": "США и Венесуэла заключают 25-летнюю нефтяную сделку",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 13:13:28"
+    },
+    {
+      "id": 513,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/pacific-summit-opens-amid-taiwan-row",
+      "title_ru": "Тихоокеанский саммит открывается на фоне скандала на Тай",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 13:13:28"
+    },
+    {
+      "id": 512,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/30/nepal-warns-of-more-possible-floods-as-communities-grapple-with-devastation",
+      "title_ru": "Непал предупреждает о возможных наводнениях, поскольку сообщества борются с опустошением и ростом числа погибших",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 511,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/30/icelanders-react-as-the-eu-referendum-results-come-in",
+      "title_ru": "Исландцы реагируют на результаты референдума ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 13:13:29"
+    },
     {
       "id": 510,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Южноафриканский вор в законе и комиссия по борьбе с коррупцией",
       "status": "published",
       "published_to_telegram_at": "2026-08-26 22:17:39"
-    },
-    {
-      "id": 456,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/26/press-statement-by-president-costa-following-the-meeting-with-president-of-lithuania-gitanas-nauseda/",
-      "title_ru": "Заявление для прессы Президента Коста по итогам встречи с Президентом Литвы Гитанасом Науседа",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 455,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/08/26/press-statement-by-president-costa-following-the-meeting-with-prime-minister-of-latvia-andris-kulbergs/",
-      "title_ru": "Заявление для прессы Президента Коста по итогам встречи с Премьер-министром Латвии Андрисом Кульбергсом",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 19:12:42"
-    },
-    {
-      "id": 454,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Нет, это было не «совершенно нормальное лето», несмотря на отрицание крайне правых",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 19:12:43"
-    },
-    {
-      "id": 453,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-airstrike-on-bus-in-russian-occupied-luhansk-kills-9/a-78516673?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украинский авиаудар по автобусу в оккупированном Россией Луганске унес жизни 9 человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 19:12:43"
-    },
-    {
-      "id": 452,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/shockwaves-throughout-the-country-following-gruesome-killings-in-haitian-mountain-retreat",
-      "title_ru": "«Ударные волны по всей стране» после «ужасных» убийств в горном отступлении на Гаити",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 451,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-evening",
-      "title_ru": "Последние новости | 26 августа 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
