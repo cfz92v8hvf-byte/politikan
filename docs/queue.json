@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-30T20:00:58.394964+00:00",
+  "updated_at": "2026-08-30T22:40:08.821324+00:00",
   "posts": [
+    {
+      "id": 529,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Иранская война: американские военные нанесли удар по иранскому острову Ларак",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 22:40:08"
+    },
+    {
+      "id": 528,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory",
+      "title_ru": "Силы США наносят удары по иранским ракетным установкам в Ормузском проливе, поскольку КСИР предупреждает об «ответном ответе»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 22:40:08"
+    },
+    {
+      "id": 527,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/30/trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-her-to-face-rebuke-or-punishme",
+      "title_ru": "Трамп нападает на журналистку NBC Кристен Уэлкер, призывая ее столкнуться с «упреком или наказанием»",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 22:40:07"
+    },
     {
       "id": 526,
       "source": "DW",
@@ -454,30 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/nigeria-the-lucrative-business-of-kidnappings",
       "title_ru": "Нигерия: прибыльный бизнес похищений людей",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 469,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260827-us-military-faces-beyond-critical-shortage-of-patriot-missiles-in-europe",
-      "title_ru": "Американские военные сталкиваются с «критической» нехваткой ракет Patriot в Европе",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-27 23:57:07"
-    },
-    {
-      "id": 468,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260827-kherson-residents-urged-to-leave-as-russian-attacks-threaten-power-and-heating",
-      "title_ru": "Херсонцев призвали уехать, так как российские атаки угрожают власти и отоплению",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-27 23:57:07"
-    },
-    {
-      "id": 467,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/27/china-video-shows-mudslide-surging-through-gyirong-port",
-      "title_ru": "Китай: на видео видно, как оползень проносится через порт Гьиронг",
       "status": "expired",
       "published_to_telegram_at": null
     }
