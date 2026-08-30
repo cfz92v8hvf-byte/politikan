@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-30T01:35:30.643300+00:00",
+  "updated_at": "2026-08-30T07:30:40.330832+00:00",
   "posts": [
+    {
+      "id": 510,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iceland-eu-referendum-sees-slim-early-lead-for-yes-camp/a-78560633?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Исландский референдум по ЕС видит тонкое, раннее лидерство для лагеря «да»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 509,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Непал выпустил предупреждение о новых наводнениях, поскольку 3000 человек все еще числя",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 07:30:39"
+    },
+    {
+      "id": 508,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
+      "title_ru": "Путин, Си Цзиньпин готовятся к саммиту в Центральной Азии, поскольку Россия и Китай стремятся противостоять западному влиянию",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 07:30:39"
+    },
+    {
+      "id": 507,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/30/latest-news-bulletin-august-30th-2026-morning",
+      "title_ru": "Последние новости | 30 августа 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-30 07:30:40"
+    },
     {
       "id": 506,
       "source": "DW",
@@ -448,38 +480,6 @@
       "title_ru": "Последние новости | 26 августа 2026 года – вечер",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 450,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Может ли Сирия стать центром израильско-турецкого конфликта?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 449,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-gang-attack-in-haiti-anger-mounts-over-police-failures",
-      "title_ru": "Нападение банды на Гаити: гнев растет из-за провалов полиции",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 16:02:56"
-    },
-    {
-      "id": 448,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-turkey-says-dissolution-of-kurdish-led-group-crucial-for-syrian-stability",
-      "title_ru": "Турция заявляет, что роспуск возглавляемой курдами группы имеет решающее значение для стабильности в Сирии",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 16:02:55"
-    },
-    {
-      "id": 447,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260826-from-tariffs-to-french-trump-s-trade-war-with-canada-takes-a-cultural-turn",
-      "title_ru": "От тарифов до французов: торговая война Трампа с Канадой принимает культурный оборот",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-26 16:02:55"
     }
   ]
 }
