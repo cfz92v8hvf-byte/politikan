@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-30T22:40:08.821324+00:00",
+  "updated_at": "2026-08-31T00:54:14.648350+00:00",
   "posts": [
+    {
+      "id": 531,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20",
+      "title_ru": "Минфин США отстранил некоторых журналистов от встречи G20 в Северной Каролине",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 00:54:14"
+    },
+    {
+      "id": 530,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month",
+      "title_ru": "Ближний Восток в прямом эфире: США наносят удар по Ирану впервые за месяц, поскольку Тегеран наносит ответный удар по базе в Иордании",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 00:54:14"
+    },
     {
       "id": 529,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Лидер друзов Сирии называет общину «неотъемлемой частью Израиля»",
       "status": "published",
       "published_to_telegram_at": "2026-08-28 11:12:35"
-    },
-    {
-      "id": 471,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections",
-      "title_ru": "Кандидаты в президенты Франции столкнулись на первых дебатах перед предстоящими выборами",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 470,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/nigeria-the-lucrative-business-of-kidnappings",
-      "title_ru": "Нигерия: прибыльный бизнес похищений людей",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
