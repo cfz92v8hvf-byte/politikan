@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-31T06:56:16.445409+00:00",
+  "updated_at": "2026-08-31T15:01:26.007091+00:00",
   "posts": [
+    {
+      "id": 543,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
+      "title_ru": "🔴 Футбол: французский форвард Брэдли Баркола переходит в «Ливерпуль» из «ПСЖ» в рекордном трансфере в Лигу 1",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 15:01:25"
+    },
+    {
+      "id": 542,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-and-sweden-look-to-boost-european-sovereignty-through-stronger-defence-ties",
+      "title_ru": "Франция и Швеция стремятся укрепить европейский суверенитет за счет укрепления оборонных связей",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 15:01:25"
+    },
+    {
+      "id": 541,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-s-politicians-look-to-close-gap-with-far-right-ahead-of-key-election",
+      "title_ru": "Французские политики надеются сократить разрыв с крайне правыми в преддверии ключевых выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 15:01:25"
+    },
+    {
+      "id": 540,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/with-no-clear-contender-everyone-thinks-they-have-a-shot-at-succeeding-to-macron",
+      "title_ru": "Без четкого претендента «все думают, что у них есть шанс» на победу над Макроном",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 15:01:24"
+    },
+    {
+      "id": 539,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-midday",
+      "title_ru": "Последние новости | 31 августа 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 538,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/31/exclusive-us-naval-blockade-is-paralysing-daily-life-iranians-tell-euronews",
+      "title_ru": "Эксклюзив: Морская блокада США парализует повседневную жизнь, сообщили Euronews иранцы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 537,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "США и Венесуэла объявили об «исторической» нефтяной сделке",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 483,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260828-greenland-to-open-truth-commission-over-forced-contraception-scheme",
-      "title_ru": "Гренландия откроет комиссию по установлению истины в отношении схемы принудительной контрацепции",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 482,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists",
-      "title_ru": "Израильская армия наносит редкий авиаудар по Западному берегу, убив «трех террористов»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 481,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260828-drc-president-tshisekedi-calls-for-national-dialogue-excluding-m23-rebels",
-      "title_ru": "Президент ДРК Чисекеди призывает к национальному диалогу, исключая повстанцев М23",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-28 21:26:47"
-    },
-    {
-      "id": 480,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/28/israeli-activists-urge-eu-in-jerusalem-protest-silence-is-complicity-on-gaza",
-      "title_ru": "Израильские активисты протестуют перед офисами ЕС в Иерусалиме из-за войны в Газе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 479,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/28/latest-news-bulletin-august-28th-2026-evening",
-      "title_ru": "Последние новости | 28 августа 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 478,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/28/norway-mourns-king-harald-v-as-crown-prince-haakon-becomes-king",
-      "title_ru": "Норвегия оплакивает короля Харальда V, когда наследный принц Хокон становится королем",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-28 21:26:47"
     }
   ]
 }
