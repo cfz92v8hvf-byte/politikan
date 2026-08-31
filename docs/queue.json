@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-31T15:01:26.007091+00:00",
+  "updated_at": "2026-08-31T20:46:26.660342+00:00",
   "posts": [
+    {
+      "id": 549,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260831-macron-seals-%E2%82%AC4-3-bn-french-frigate-deal-in-sweden",
+      "title_ru": "Макрон заключил сделку с французским фрегатом на € 4,3 млрд в Швеции",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 20:46:26"
+    },
+    {
+      "id": 548,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/marine-le-pen-s-national-rally-plans-to-sanction-the-wearing-of-the-veil-with-a-fine",
+      "title_ru": "Национальное ралли Марин Ле Пен планирует «санкционировать» ношение вуали штрафом",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 20:46:25"
+    },
+    {
+      "id": 547,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull",
+      "title_ru": "Трамп угрожает «сильно ударить по Ирану», поскольку забастовки возобновляются после месячного затишья",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 20:46:25"
+    },
+    {
+      "id": 546,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-evening",
+      "title_ru": "Последние новости | 31 августа 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 545,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/31/algerian-president-seeks-to-impose-death-penalty-on-arsonists",
+      "title_ru": "Президент Алжира хочет приговорить поджигателей к смертной казни",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 544,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/08/31/eurasian-nations-gather-in-bishkek-to-forge-stronger-ties-new-alliances",
+      "title_ru": "Евразийские страны собираются в Бишкеке, чтобы наладить более прочные связи, новые альянсы",
+      "status": "published",
+      "published_to_telegram_at": "2026-08-31 20:46:26"
+    },
     {
       "id": 543,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "США будут контролировать пятую часть запасов нефти Венесуэлы, заявил Трамп",
       "status": "published",
       "published_to_telegram_at": "2026-08-29 10:14:24"
-    },
-    {
-      "id": 489,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iceland-votes-on-whether-to-resume-eu-membership-negotiations",
-      "title_ru": "Исландия голосует за возобновление переговоров о членстве в ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-29 10:14:24"
-    },
-    {
-      "id": 488,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
-      "title_ru": "🔴 Российский удар по складу под Киевом унес жизни не менее 27 человек, сотни эвакуированы",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-29 10:14:23"
-    },
-    {
-      "id": 487,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-morning",
-      "title_ru": "Последние новости | 29 августа 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 486,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/29/guinea-bissau-junta-puts-new-constitution-to-referendum-as-opposition-urges-boycott",
-      "title_ru": "Хунта Гвинеи-Бисау выносит на референдум новую конституцию, поскольку оппозиция призывает к бойкоту",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 485,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-arrests-far-right-provocateur-milo-yiannopoulos/a-78553559?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США арестовали крайне правого провокатора Мило Яннопулоса",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 484,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США и Венесуэла объявили об «исторической» нефтяной сделке",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
