@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-01T21:16:22.772995+00:00",
+  "updated_at": "2026-09-01T23:22:25.327685+00:00",
   "posts": [
+    {
+      "id": 584,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Война с Ираном: США и Тегеран обмениваются огнем в новой вспышке",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 23:22:24"
+    },
+    {
+      "id": 583,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260901-global-bond-selloff-deepens-as-us-launches-fresh-attacks-on-iran",
+      "title_ru": "Глобальная распродажа облигаций углубляется, поскольку США начинают новые атаки на Иран",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 23:22:25"
+    },
     {
       "id": 582,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Новости Германии: Мерц предупреждает о «проблемах» в Саксонии-Анхальт под АдГ",
       "status": "published",
       "published_to_telegram_at": "2026-08-30 20:00:58"
-    },
-    {
-      "id": 524,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Проверка фактов: немецкий Merz искажает запись в интервью ARD",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 20:00:57"
-    },
-    {
-      "id": 523,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/30/venezuela-says-it-will-retain-sovereignty-over-its-oil-reserves-despite-us-deal",
-      "title_ru": "Венесуэла заявляет, что сохранит «суверенитет» над своими запасами нефти, несмотря на сделку с США",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 20:00:57"
     }
   ]
 }
