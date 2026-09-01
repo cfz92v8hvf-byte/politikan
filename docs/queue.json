@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-01T18:22:45.363621+00:00",
+  "updated_at": "2026-09-01T21:16:22.772995+00:00",
   "posts": [
+    {
+      "id": 582,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия расторгает договор аренды берлинского «Русского дома»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 581,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/the-us-and-iran-are-trading-fresh-strikes-as-hostilities-flare-up-once-again-dw-has-the-latest/live-78656656?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "США и Иран обмениваются новыми ударами, поскольку военные действия снова вспыхивают. У DW есть последние.",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 21:16:21"
+    },
+    {
+      "id": 580,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-firm-to-take-over-some-venezuela-oilfields-previously-run-by-chinese-russian-firms",
+      "title_ru": "Американская фирма возьмет под контроль некоторые нефтяные месторождения Венесуэлы, ранее принадлежавшие китайским и российским фирмам",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 21:16:22"
+    },
+    {
+      "id": 579,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
+      "title_ru": "Центры обработки данных ИИ стали неожиданной проблемой на промежуточных выборах в США",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 21:16:22"
+    },
+    {
+      "id": 578,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/burnham-pledges-to-restore-hope-as-he-makes-his-house-of-commons-debut-as-uk-leader",
+      "title_ru": "Бернем обещает вернуть надежду, когда он дебютирует в Палате общин в качестве лидера Великобритании",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 21:16:22"
+    },
     {
       "id": 577,
       "source": "France 24",
@@ -440,46 +480,6 @@
       "title_ru": "Венесуэла заявляет, что сохранит «суверенитет» над своими запасами нефти, несмотря на сделку с США",
       "status": "published",
       "published_to_telegram_at": "2026-08-30 20:00:57"
-    },
-    {
-      "id": 522,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-far-right-and-far-left-lead-polls",
-      "title_ru": "Франция: крайне правые и крайне левые лидируют в опросах общественного мнения",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 521,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260830-iceland-rejects-eu-accession-talks",
-      "title_ru": "Исландия отвергает переговоры о вступлении в ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 520,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
-      "title_ru": "Нигерская хунта подавляет мятеж с помощью Африканского корпуса России",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 17:34:41"
-    },
-    {
-      "id": 519,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260830-trump-says-nbc-journalist-to-be-reported-to-fcc-for-punishment-over-endorsement-coverage",
-      "title_ru": "Трамп говорит, что журналист NBC будет сообщен в FCC за «наказание» за освещение",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 17:34:39"
-    },
-    {
-      "id": 518,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/30/latest-news-bulletin-august-30th-2026-evening",
-      "title_ru": "Последние новости | 30 августа 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 17:34:40"
     }
   ]
 }
