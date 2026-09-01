@@ -58,7 +58,12 @@ def is_semantic_duplicate(db, title: str, max_age_hours: int) -> bool:
         existing = _title_terms(row["original_title"])
         common = candidate & existing
         union = candidate | existing
-        if len(common) >= 4 and len(common) / len(union) >= 0.45:
+        # Different editorial wording of the same breaking event often shares
+        # a compact core (place, actors, casualty count, event type), while
+        # the extra descriptive terms make a strict Jaccard threshold too weak.
+        # Require both a four-term core and meaningful coverage of the shorter title.
+        overlap = len(common) / min(len(candidate), len(existing))
+        if len(common) >= 4 and (len(common) / len(union) >= 0.45 or overlap >= 0.50):
             return True
     return False
 
