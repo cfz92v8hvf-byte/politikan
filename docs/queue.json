@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-31T20:46:26.660342+00:00",
+  "updated_at": "2026-09-01T00:07:24.499003+00:00",
   "posts": [
+    {
+      "id": 554,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/poland-launches-sabotage-probe-in-drone-factory-fire/a-78580918?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Польша запускает диверсионный зонд в пожаре на заводе беспилотников",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 553,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Верховный суд США разрешил продолжить проект бального зала Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 00:07:24"
+    },
+    {
+      "id": 552,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks",
+      "title_ru": "Трамп обещает нанести «жесткий» ответный удар после первой за несколько недель перестрелки с Ираном",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 551,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260831-former-french-prime-minister-%C3%A9douard-balladur-dies-at-97",
+      "title_ru": "🔴 Бывший премьер-министр Франции Эдуард Балладюр скончался в возрасте 97 лет",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 550,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit",
+      "title_ru": "Си Цзиньпин и Путин провели переговоры в преддверии саммита Шанхайской организации сотрудничества",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 549,
       "source": "France 24",
@@ -440,46 +480,6 @@
       "title_ru": "Последние новости | 29 августа 2026 г. – полдень",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 494,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/29/heavy-gunfire-in-niger-capital-as-clashes-reported-at-presidential-palace",
-      "title_ru": "Ожесточенная стрельба в столице Нигера после сообщений о столкновениях у президентского дворца",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 493,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/29/uzbekistan-marks-35-years-of-independence-as-president-outlines-plans-for-next-decade",
-      "title_ru": "Узбекистан отмечает 35-летие независимости, поскольку президент наметил планы на следующее десятилетие",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 492,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/29/kazakhstans-government-steps-down-as-newly-elected-kurultai-holds-first-session",
-      "title_ru": "Правительство Казахстана уходит в отставку, поскольку новоизбранный Курултай проводит первое заседание",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-29 15:06:51"
-    },
-    {
-      "id": 491,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260829-icelanders-vote-in-referendum-on-whether-to-resume-eu-membership-talks",
-      "title_ru": "Исландцы голосуют на жестком референдуме о возобновлении переговоров о членстве в ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 490,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-to-control-one-fifth-of-venezuela-s-oil-reserves-trump-says",
-      "title_ru": "США будут контролировать пятую часть запасов нефти Венесуэлы, заявил Трамп",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-29 10:14:24"
     }
   ]
 }
