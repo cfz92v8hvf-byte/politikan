@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-01T10:13:38.112169+00:00",
+  "updated_at": "2026-09-01T14:57:33.541151+00:00",
   "posts": [
+    {
+      "id": 571,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260901-dr-congo-s-opposition-rejects-president-s-dialogue-offer-and-calls-for-demonstration",
+      "title_ru": "Оппозиция ДР Конго отвергает предложение президента о диалоге и призывает к демонстрации",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 14:57:33"
+    },
+    {
+      "id": 570,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/russia-s-g20-us-invitation-severely-criticised-by-european-countries",
+      "title_ru": "Приглашение России в G20 США подверглось жесткой критике со стороны европейских стран",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 14:57:32"
+    },
+    {
+      "id": 569,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260901-ghana-cocoa-farmers-reject-new-punitive-land-conversion-law",
+      "title_ru": "Фермеры, выращивающие какао в Гане, отвергают новый «карательный» закон о конверсии земель",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 14:57:32"
+    },
+    {
+      "id": 568,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/french-astronaut-takes-third-spacewalk-outside-iss-in-all-female-mission",
+      "title_ru": "Французский астронавт в третий раз вышел в открытый космос за пределами МКС в женской миссии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-01 14:57:31"
+    },
+    {
+      "id": 567,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/01/exclusive-uns-guterres-urges-world-leaders-to-stop-this-madness-and-end-all-wars",
+      "title_ru": "Эксклюзив: Гутерриш призывает мировых лидеров «остановить это безумие» и положить конец всем войнам",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 566,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/01/fake-goods-real-danger-the-83-billion-business-behind-europes-illicit-trade",
+      "title_ru": "Поддельные товары, реальная опасность: бизнес на € 83 млрд стоит за незаконной торговлей в Европе",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 565,
       "source": "France 24",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/09/01/us-north-korea-summit-appears-to-be-possible-at-any-time-seoul-spy-agency-says",
       "title_ru": "По словам Сеульского шпионского агентства, саммит между США и Северной Кореей «возможен в любое время»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Непал предупреждает о возможных наводнениях, поскольку сообщества борются с опустошением и ростом числа погибших",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 511,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/30/icelanders-react-as-the-eu-referendum-results-come-in",
-      "title_ru": "Исландцы реагируют на результаты референдума ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 13:13:29"
-    },
-    {
-      "id": 510,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iceland-eu-referendum-sees-slim-early-lead-for-yes-camp/a-78560633?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Исландский референдум по ЕС видит тонкое, раннее лидерство для лагеря «да»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 509,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Непал выпустил предупреждение о новых наводнениях, поскольку 3000 человек все еще числя",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 07:30:39"
-    },
-    {
-      "id": 508,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
-      "title_ru": "Путин, Си Цзиньпин готовятся к саммиту в Центральной Азии, поскольку Россия и Китай стремятся противостоять западному влиянию",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 07:30:39"
-    },
-    {
-      "id": 507,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/30/latest-news-bulletin-august-30th-2026-morning",
-      "title_ru": "Последние новости | 30 августа 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 07:30:40"
-    },
-    {
-      "id": 506,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: Меркель призывает избирателей «встать на защиту» демократии",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-29 23:25:45"
     }
   ]
 }
