@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-02T05:56:35.355725+00:00",
+  "updated_at": "2026-09-02T11:08:59.346695+00:00",
   "posts": [
+    {
+      "id": 599,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-hollywood-in-retreat-as-venice-film-festival-kicks-off",
+      "title_ru": "Голливуд отступает перед Венецианским кинофестивалем",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 11:08:59"
+    },
+    {
+      "id": 598,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-what-we-know-about-alleged-us-strike-on-iran-wedding",
+      "title_ru": "Что мы знаем о предполагаемом ударе США по свадьбе в Иране",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 11:08:58"
+    },
+    {
+      "id": 597,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-military-buildup-seen-in-ethiopia-near-sudanese-border",
+      "title_ru": "В Эфиопии вблизи суданской границы замечено наращивание военной мощи",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 11:08:58"
+    },
+    {
+      "id": 596,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/02/us-and-sri-lankan-agents-bust-pakistan-drug-network-and-seize-18m-of-meth-police-say",
+      "title_ru": "Американские и шри-ланкийские агенты разоблачили пакистанскую наркосеть и конфисковали € 18 млн метамфетамина, сообщает полиция",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 595,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/02/sharp-rise-in-utility-bills-pushes-russias-inflation-further-off-target",
+      "title_ru": "Резкий рост коммунальных платежей еще больше отталкивает инфляцию в России от цели",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 594,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/09/02/kyiv-school-year-begins-under-the-shadow-of-air-raid-sirens",
+      "title_ru": "Киевский учебный год начинается под сенью сирен воздушного налета",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 11:08:58"
+    },
     {
       "id": 593,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Без четкого претендента «все думают, что у них есть шанс» на победу над Макроном",
       "status": "published",
       "published_to_telegram_at": "2026-08-31 15:01:24"
-    },
-    {
-      "id": 539,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-midday",
-      "title_ru": "Последние новости | 31 августа 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 538,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/31/exclusive-us-naval-blockade-is-paralysing-daily-life-iranians-tell-euronews",
-      "title_ru": "Эксклюзив: Морская блокада США парализует повседневную жизнь, сообщили Euronews иранцы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 537,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260831-nato-arctic-activity-direct-threat-russia-lavrov",
-      "title_ru": "Активность НАТО в Арктике представляет «прямую угрозу» для России, предупреждает Лавров",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 536,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/31/iran-fires-retaliatory-strikes-following-us-attacks-on-larak-island-in-the-strait-of-hormu",
-      "title_ru": "Иран нанес ответные удары после атак США на остров Ларак в Ормузском проливе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 535,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/business/2026/08/31/what-we-know-about-trumps-deal-giving-the-us-access-to-venezuelas-oil",
-      "title_ru": "Что мы знаем о сделке Трампа, предоставляющей США доступ к нефти Венесуэлы",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 06:56:16"
-    },
-    {
-      "id": 534,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/business/2026/08/31/oil-prices-higher-as-us-iran-tensions-flare-and-warsh-fans-rate-hikes",
-      "title_ru": "Цены на нефть растут, поскольку напряженность между США и Ираном усиливается, а поклонники Warsh повышают ставки",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 06:56:15"
     }
   ]
 }
