@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-01T23:22:25.327685+00:00",
+  "updated_at": "2026-09-02T01:18:29.096440+00:00",
   "posts": [
+    {
+      "id": 587,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина: Россия угрожает «разрушительным» ответом стран Балтии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 01:18:29"
+    },
+    {
+      "id": 586,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
+      "title_ru": "Германия обвиняет Россию в инциденте с беспилотником в аэропорту и наносит ответный удар санкциями",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 585,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260901-subtle-changes-pointing-to-consumer-fatigue-a-challenge-for-fast-fashion-retailers-expert-says",
+      "title_ru": "«Тонкие изменения, указывающие на усталость потребителей», бросают вызов ритейлерам быстрой моды, говорит эксперт",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 584,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Силы США наносят удары по иранским ракетным установкам в Ормузском проливе, поскольку КСИР предупреждает об «ответном ответе»",
       "status": "published",
       "published_to_telegram_at": "2026-08-30 22:40:08"
-    },
-    {
-      "id": 527,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/30/trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-her-to-face-rebuke-or-punishme",
-      "title_ru": "Трамп нападает на журналистку NBC Кристен Уэлкер, призывая ее столкнуться с «упреком или наказанием»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 22:40:07"
-    },
-    {
-      "id": 526,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "ЕС хочет, чтобы дроны распыляли пестициды, но это может иметь неприятные последствия",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 525,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-merz-warns-of-problems-in-saxony-anhalt-under-afd/live-78555302?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: Мерц предупреждает о «проблемах» в Саксонии-Анхальт под АдГ",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 20:00:58"
     }
   ]
 }
