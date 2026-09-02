@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-02T21:21:44.683714+00:00",
+  "updated_at": "2026-09-02T23:31:39.161107+00:00",
   "posts": [
+    {
+      "id": 621,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-iran-war-old-videos-falsely-claim-to-show-new-attacks-on-american-bases-1",
+      "title_ru": "Американо-иранская война: старые видео ложно утверждают, что показывают новые атаки на американские базы",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 23:31:39"
+    },
+    {
+      "id": 620,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/outrage-as-maltese-tycoon-acquitted-of-reporter-daphne-caruana-galizia-s-murder",
+      "title_ru": "Возмущение, когда мальтийский магнат оправдал убийство репортера Дафны Каруаны Галиции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 23:31:38"
+    },
+    {
+      "id": 619,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
+      "title_ru": "Венецианский кинофестиваль открывается Джорджем Клуни, фильмом Мердока и геополитикой",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 23:31:38"
+    },
+    {
+      "id": 618,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20260902-palantir-france-digital-sovereignty",
+      "title_ru": "Генеральный директор Palantir Алекс Карп говорит, что французские ограничения на американское программное обеспечение «имеют неприятные последствия»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 23:31:37"
+    },
     {
       "id": 617,
       "source": "DW",
@@ -448,38 +480,6 @@
       "title_ru": "Россия выпустила более 2800 беспилотников по Украине в августе на фоне изменения тактики ведения войны",
       "status": "published",
       "published_to_telegram_at": "2026-09-01 10:13:36"
-    },
-    {
-      "id": 561,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/01/us-north-korea-summit-appears-to-be-possible-at-any-time-seoul-spy-agency-says",
-      "title_ru": "По словам Сеульского шпионского агентства, саммит между США и Северной Кореей «возможен в любое время»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 560,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/01/ultra-orthodox-jews-celebrate-yeshiva-students-release-in-elad-amid-draft-dispute",
-      "title_ru": "Ультраортодоксальные евреи празднуют освобождение студента ешивы в Эладе на фоне спора о призыве",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 10:13:38"
-    },
-    {
-      "id": 559,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/afd-s-ulrich-siegmund-has-plans-for-saxony-anhalt-and-beyond/a-78579499?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "У Ульриха Зигмунда из AfD есть планы на Саксонию-Анхальт и за ее пределами",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 05:18:11"
-    },
-    {
-      "id": 558,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260901-eu-suspends-brazilian-meat-imports-over-antibiotic-compliance-concerns",
-      "title_ru": "ЕС приостанавливает импорт бразильского мяса из-за проблем с соблюдением требований к антибиотикам",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
