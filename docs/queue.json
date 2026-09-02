@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-02T01:18:29.096440+00:00",
+  "updated_at": "2026-09-02T05:56:35.355725+00:00",
   "posts": [
+    {
+      "id": 593,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
+      "title_ru": "Ближний Восток в прямом эфире: Иран заявляет, что последние удары США убили 11 человек",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 592,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260902-uss-abraham-lincoln-aircraft-carrier-docks-in-thailand-after-nine-months-at-sea",
+      "title_ru": "Авианосец USS Abraham Lincoln пришвартовался в Таиланде после девяти месяцев в море",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 591,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260902-us-postal-service-whistleblower-warns-new-system-could-disrupt-midterm-election-voting",
+      "title_ru": "Информатор Почтовой службы США предупреждает, что новая система может сорвать промежуточное голосование на выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 05:56:35"
+    },
+    {
+      "id": 590,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/09/02/latest-news-bulletin-september-2nd-2026-morning",
+      "title_ru": "Последние новости | 2 сентября 2026 года – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 589,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/02/prominent-pro-democracy-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-se",
+      "title_ru": "Выдающийся продемократический активист из Гонконга Джошуа Вонг признал себя виновным во втором деле по закону о национальной безопасности",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 05:56:34"
+    },
+    {
+      "id": 588,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/02/tyler-robinson-pleads-not-guilty-as-judge-clears-path-for-death-penalty-in-charlie-kirk-as",
+      "title_ru": "Тайлер Робинсон не признает себя виновным, поскольку судья расчищает путь для смертной казни в деле об убийстве Чарли Кирка",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 05:56:34"
+    },
     {
       "id": 587,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Цены на нефть растут, поскольку напряженность между США и Ираном усиливается, а поклонники Warsh повышают ставки",
       "status": "published",
       "published_to_telegram_at": "2026-08-31 06:56:15"
-    },
-    {
-      "id": 533,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-morning",
-      "title_ru": "Последние новости | 31 августа 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 06:56:15"
-    },
-    {
-      "id": 532,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/31/six-wounded-after-car-bomb-explodes-in-front-of-mexico-police-station-officials-say",
-      "title_ru": "Шесть человек получили ранения после взрыва заминированного автомобиля перед полицейским участком в Мексике, говорят чиновники",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 06:56:15"
-    },
-    {
-      "id": 531,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20",
-      "title_ru": "Минфин США отстранил некоторых журналистов от встречи G20 в Северной Каролине",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 00:54:14"
-    },
-    {
-      "id": 530,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month",
-      "title_ru": "Ближний Восток в прямом эфире: США наносят удар по Ирану впервые за месяц, поскольку Тегеран наносит ответный удар по базе в Иордании",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 00:54:14"
-    },
-    {
-      "id": 529,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Иранская война: американские военные нанесли удар по иранскому острову Ларак",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 22:40:08"
-    },
-    {
-      "id": 528,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory",
-      "title_ru": "Силы США наносят удары по иранским ракетным установкам в Ормузском проливе, поскольку КСИР предупреждает об «ответном ответе»",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-30 22:40:08"
     }
   ]
 }
