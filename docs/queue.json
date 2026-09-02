@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-02T15:08:28.637640+00:00",
+  "updated_at": "2026-09-02T18:46:46.476158+00:00",
   "posts": [
+    {
+      "id": 611,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-dangerous-consequences-iran-warns-us-after-alleged-strike-on-wedding",
+      "title_ru": "«Опасные последствия»: Иран предупреждает США после предполагаемого удара по свадьбе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 610,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-us-postal-whistleblower-warns-thousands-of-midterm-ballots-could-be-lost",
+      "title_ru": "Почтовый информатор США предупреждает, что тысячи промежуточных бюллетеней могут быть потеряны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 609,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-egypt-welcomes-xi-as-beijing-expands-influence-in-region",
+      "title_ru": "Египет приветствует Си, поскольку Пекин расширяет влияние в регионе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 608,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-russia-blamed-for-explosive-laden-drone-found-at-german-airport",
+      "title_ru": "Россию обвинили в обнаружении в немецком аэропорту начиненного взрывчаткой беспилотника",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 18:46:46"
+    },
+    {
+      "id": 607,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260902-videos-and-debris-raise-questions-over-alleged-us-strike-on-iranian-wedding",
+      "title_ru": "Видео и обломки поднимают вопросы по поводу предполагаемого удара США по иранской свадьбе",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 18:46:45"
+    },
+    {
+      "id": 606,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260902-israeli-fm-gideon-sa-ar-i-hope-iran-will-not-make-the-mistake-of-attacking-us",
+      "title_ru": "Глава МИД Израиля Гидеон Саар: «Я надеюсь, что Иран не совершит ошибку, напав на нас»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 18:46:45"
+    },
     {
       "id": 605,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260902-macron-set-to-unveil-bayeux-tapestry-in-once-in-a-generation-uk-loan",
       "title_ru": "Макрон собирается представить гобелен Bayeux в британском кредите «один раз в поколение»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks",
       "title_ru": "Трамп обещает нанести «жесткий» ответный удар после первой за несколько недель перестрелки с Ираном",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 551,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260831-former-french-prime-minister-%C3%A9douard-balladur-dies-at-97",
-      "title_ru": "🔴 Бывший премьер-министр Франции Эдуард Балладюр скончался в возрасте 97 лет",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 550,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit",
-      "title_ru": "Си Цзиньпин и Путин провели переговоры в преддверии саммита Шанхайской организации сотрудничества",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 549,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260831-macron-seals-%E2%82%AC4-3-bn-french-frigate-deal-in-sweden",
-      "title_ru": "Макрон заключил сделку с французским фрегатом на € 4,3 млрд в Швеции",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 20:46:26"
-    },
-    {
-      "id": 548,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/marine-le-pen-s-national-rally-plans-to-sanction-the-wearing-of-the-veil-with-a-fine",
-      "title_ru": "Национальное ралли Марин Ле Пен планирует «санкционировать» ношение вуали штрафом",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 20:46:25"
-    },
-    {
-      "id": 547,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull",
-      "title_ru": "Трамп угрожает «сильно ударить по Ирану», поскольку забастовки возобновляются после месячного затишья",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 20:46:25"
-    },
-    {
-      "id": 546,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-evening",
-      "title_ru": "Последние новости | 31 августа 2026 года – вечер",
       "status": "expired",
       "published_to_telegram_at": null
     }
