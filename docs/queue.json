@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-02T18:46:46.476158+00:00",
+  "updated_at": "2026-09-02T21:21:44.683714+00:00",
   "posts": [
+    {
+      "id": 617,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Единство, наконец: заканчивается ли разрушительная борьба за власть в Ливии?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 616,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Карательные меры Берлина вряд ли сдержат Путина - эксперты",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 615,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260902-spanish-report-flags-moroccan-police-s-total-permissiveness-in-ceuta-migrant-rush",
+      "title_ru": "Испанский отчет отмечает «полную вседозволенность» марокканской полиции в спешке мигрантов в Сеуте",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 21:21:44"
+    },
+    {
+      "id": 614,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/zelensky-warns-airlines-russian-skies-not-safe-due-to-ukraine-drones",
+      "title_ru": "Зеленский предупредил авиакомпании, что российское небо небезопасно из-за украинских беспилотников",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 21:21:44"
+    },
+    {
+      "id": 613,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/chevron-eni-commit-to-expand-oil-projects-in-venezuela-under-us-eye",
+      "title_ru": "Chevron и Eni обязуются расширять нефтяные проекты в Венесуэле под эгидой США",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 21:21:43"
+    },
+    {
+      "id": 612,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260902-us-oversees-signing-of-billions-in-deals-between-venezuela-and-chevron-eni-ge",
+      "title_ru": "США контролируют подписание «миллиардных» сделок между Венесуэлой и Chevron, ENI, GE",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 21:21:43"
+    },
     {
       "id": 611,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/europe/20260901-eu-suspends-brazilian-meat-imports-over-antibiotic-compliance-concerns",
       "title_ru": "ЕС приостанавливает импорт бразильского мяса из-за проблем с соблюдением требований к антибиотикам",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 557,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260901-russian-missile-and-drone-attack-on-kyiv-kills-at-least-four",
-      "title_ru": "Российский ракетно-дроновый удар по Киеву унес жизни как минимум четырех человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 05:18:12"
-    },
-    {
-      "id": 556,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/01/at-least-four-people-killed-as-russia-launches-nighttime-ballistic-missile-attacks-targeti",
-      "title_ru": "По меньшей мере четыре человека погибли, когда Россия начала ночные удары баллистическими ракетами по столице Украины",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 05:18:12"
-    },
-    {
-      "id": 555,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/01/latest-news-bulletin-september-1st-2026-morning",
-      "title_ru": "Последние новости | 1 сентября 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 05:18:11"
-    },
-    {
-      "id": 554,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/poland-launches-sabotage-probe-in-drone-factory-fire/a-78580918?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Польша запускает диверсионный зонд в пожаре на заводе беспилотников",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 553,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Верховный суд США разрешил продолжить проект бального зала Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 00:07:24"
-    },
-    {
-      "id": 552,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks",
-      "title_ru": "Трамп обещает нанести «жесткий» ответный удар после первой за несколько недель перестрелки с Ираном",
       "status": "expired",
       "published_to_telegram_at": null
     }
