@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-02T11:08:59.346695+00:00",
+  "updated_at": "2026-09-02T15:08:28.637640+00:00",
   "posts": [
+    {
+      "id": 605,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-macron-set-to-unveil-bayeux-tapestry-in-once-in-a-generation-uk-loan",
+      "title_ru": "Макрон собирается представить гобелен Bayeux в британском кредите «один раз в поколение»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 604,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260902-french-president-to-open-bayeux-tapestry-exhibition-as-he-starts-uk-visit",
+      "title_ru": "Президент Франции откроет выставку гобеленов Bayeux, когда начнет визит в Великобританию",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 15:08:28"
+    },
+    {
+      "id": 603,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260902-xi-calls-on-mideast-nations-to-be-masters-of-their-own-affairs-in-rare-egypt-visit",
+      "title_ru": "Си Цзиньпин призывает ближневосточные страны быть «хозяевами своих дел» в редком визите в Египет",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 15:08:28"
+    },
+    {
+      "id": 602,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/paradox-of-balladur-s-legacy-highly-popular-gaullist-elite-yet-too-far-away-from-the-people",
+      "title_ru": "Парадокс наследия Балладюра: «Очень популярная» голлистская элита все же «слишком далеко от народа»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 15:08:27"
+    },
+    {
+      "id": 601,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260902-israel-organised-and-prepared-to-remove-gaza-population-if-us-gives-green-light-katz",
+      "title_ru": "Израиль «организовал и подготовил» удаление населения Газы, если США дадут зеленый свет, Кац",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-02 15:08:27"
+    },
+    {
+      "id": 600,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/business/2026/09/02/from-infrastructure-to-military-drills-china-deepens-footprint-in-egypt-as-xi-visits-cairo",
+      "title_ru": "От инфраструктуры до военных учений, Китай углубляет присутствие в Египте, поскольку Си Цзиньпин посещает Каир",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 599,
       "source": "France 24",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/09/02/sharp-rise-in-utility-bills-pushes-russias-inflation-further-off-target",
       "title_ru": "Резкий рост коммунальных платежей еще больше отталкивает инфляцию в России от цели",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 31 августа 2026 года – вечер",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 545,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/31/algerian-president-seeks-to-impose-death-penalty-on-arsonists",
-      "title_ru": "Президент Алжира хочет приговорить поджигателей к смертной казни",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 544,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/08/31/eurasian-nations-gather-in-bishkek-to-forge-stronger-ties-new-alliances",
-      "title_ru": "Евразийские страны собираются в Бишкеке, чтобы наладить более прочные связи, новые альянсы",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 20:46:26"
-    },
-    {
-      "id": 543,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-      "title_ru": "🔴 Футбол: французский форвард Брэдли Баркола переходит в «Ливерпуль» из «ПСЖ» в рекордном трансфере в Лигу 1",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 15:01:25"
-    },
-    {
-      "id": 542,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-and-sweden-look-to-boost-european-sovereignty-through-stronger-defence-ties",
-      "title_ru": "Франция и Швеция стремятся укрепить европейский суверенитет за счет укрепления оборонных связей",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 15:01:25"
-    },
-    {
-      "id": 541,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-s-politicians-look-to-close-gap-with-far-right-ahead-of-key-election",
-      "title_ru": "Французские политики надеются сократить разрыв с крайне правыми в преддверии ключевых выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 15:01:25"
-    },
-    {
-      "id": 540,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/with-no-clear-contender-everyone-thinks-they-have-a-shot-at-succeeding-to-macron",
-      "title_ru": "Без четкого претендента «все думают, что у них есть шанс» на победу над Макроном",
-      "status": "published",
-      "published_to_telegram_at": "2026-08-31 15:01:24"
     }
   ]
 }
