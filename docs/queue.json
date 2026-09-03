@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-02T23:31:39.161107+00:00",
+  "updated_at": "2026-09-03T01:24:16.411413+00:00",
   "posts": [
+    {
+      "id": 622,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/spain-tens-of-thousands-rally-over-ceuta-crisis/a-78814756?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Испания: десятки тысяч людей протестуют против кризиса в Сеуте",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 01:24:16"
+    },
     {
       "id": 621,
       "source": "France 24",
@@ -472,14 +480,6 @@
       "title_ru": "Россия атакует Киев и регион уже шестую ночь подряд",
       "status": "published",
       "published_to_telegram_at": "2026-09-01 10:13:37"
-    },
-    {
-      "id": 562,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/russia-fired-over-2-800-drones-at-ukraine-in-august-amid-war-tactic-change",
-      "title_ru": "Россия выпустила более 2800 беспилотников по Украине в августе на фоне изменения тактики ведения войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 10:13:36"
     }
   ]
 }
