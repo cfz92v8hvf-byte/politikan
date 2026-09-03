@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-03T15:14:40.310202+00:00",
+  "updated_at": "2026-09-03T18:44:03.343763+00:00",
   "posts": [
+    {
+      "id": 645,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-france-agriculture-production-sees-economic-hit-from-heatwaves",
+      "title_ru": "Сельскохозяйственное производство Франции видит экономический удар от волн тепла",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 644,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-us-energy-firms-dominate-venezuela-deals-worth-billions",
+      "title_ru": "Энергетические компании США доминируют в сделках Венесуэлы на миллиарды",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 18:44:02"
+    },
+    {
+      "id": 643,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-two-palestinian-teens-killed-in-west-bank-raid-by-israeli-settlers-and-army",
+      "title_ru": "Два палестинских подростка убиты в ходе рейда израильских поселенцев и армии на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 18:44:02"
+    },
+    {
+      "id": 642,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-wmo-chief-says-el-nino-could-be-strongest-in-four-decades",
+      "title_ru": "Глава ВМО говорит, что Эль-Ниньо может стать самым сильным за последние четыре десятилетия",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 18:44:02"
+    },
+    {
+      "id": 641,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/03/iranian-cafe-chain-mogul-jailed-and-stripped-of-assets-for-backing-january-protests",
+      "title_ru": "Иранский магнат сети кафе заключен в тюрьму и лишен активов за поддержку январских протестов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 640,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/03/russians-skewer-authorities-for-ordering-citizens-to-register-their-chicken",
+      "title_ru": "Россияне шампура власти за приказ гражданам зарегистрировать свою курицу",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 18:44:03"
+    },
     {
       "id": 639,
       "source": "France 24",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france/20260903-france-recorded-hottest-summer-ever-in-2026-environment-minister-says",
       "title_ru": "Во Франции зафиксировано «самое жаркое лето» в 2026 году, говорит министр окружающей среды",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Германия обвиняет Россию в инциденте с беспилотником в аэропорту и наносит ответный удар санкциями",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 585,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260901-subtle-changes-pointing-to-consumer-fatigue-a-challenge-for-fast-fashion-retailers-expert-says",
-      "title_ru": "«Тонкие изменения, указывающие на усталость потребителей», бросают вызов ритейлерам быстрой моды, говорит эксперт",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 584,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Война с Ираном: США и Тегеран обмениваются огнем в новой вспышке",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 23:22:24"
-    },
-    {
-      "id": 583,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260901-global-bond-selloff-deepens-as-us-launches-fresh-attacks-on-iran",
-      "title_ru": "Глобальная распродажа облигаций углубляется, поскольку США начинают новые атаки на Иран",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 23:22:25"
-    },
-    {
-      "id": 582,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия расторгает договор аренды берлинского «Русского дома»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 581,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/the-us-and-iran-are-trading-fresh-strikes-as-hostilities-flare-up-once-again-dw-has-the-latest/live-78656656?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США и Иран обмениваются новыми ударами, поскольку военные действия снова вспыхивают. У DW есть последние.",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 21:16:21"
-    },
-    {
-      "id": 580,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-firm-to-take-over-some-venezuela-oilfields-previously-run-by-chinese-russian-firms",
-      "title_ru": "Американская фирма возьмет под контроль некоторые нефтяные месторождения Венесуэлы, ранее принадлежавшие китайским и российским фирмам",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 21:16:22"
     }
   ]
 }
