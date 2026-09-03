@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-03T11:39:23.396779+00:00",
+  "updated_at": "2026-09-03T15:14:40.310202+00:00",
   "posts": [
+    {
+      "id": 639,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-spain-s-sanchez-says-no-solid-proof-that-morocco-planned-ceuta-crisis",
+      "title_ru": "Испанский Санчес говорит, что нет «твердых доказательств» того, что Марокко планировало кризис в Сеуте",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 638,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260903-france-recorded-hottest-summer-ever-in-2026-environment-minister-says",
+      "title_ru": "Во Франции зафиксировано «самое жаркое лето» в 2026 году, говорит министр окружающей среды",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 637,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says",
+      "title_ru": "Израильские атаки на Западном берегу на «беспрецедентном» уровне, говорит лидер PNI Баргути",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 15:14:40"
+    },
+    {
+      "id": 636,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-france-s-macron-meets-uk-pm-burnham-at-downing-street",
+      "title_ru": "Макрон встретился с премьер-министром Великобритании Бернемом на Даунинг-стрит",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 15:14:39"
+    },
+    {
+      "id": 635,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-tunisia-water-crisis-deepens-as-temperatures-approach-50%C2%B0c",
+      "title_ru": "Водный кризис в Тунисе усугубляется по мере приближения температуры к 50°C",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 15:14:39"
+    },
+    {
+      "id": 634,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/03/general-charged-over-kyiv-childrens-hospital-strike-shot-in-russia",
+      "title_ru": "В России генерала обвинили в организации забастовки в киевской детской больнице",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 15:14:39"
+    },
     {
       "id": 633,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks",
       "title_ru": "Гобеленовая дипломатия: связи между Великобританией и Францией в центре внимания, поскольку Макрон и Бернем проводят первые переговоры",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Американская фирма возьмет под контроль некоторые нефтяные месторождения Венесуэлы, ранее принадлежавшие китайским и российским фирмам",
       "status": "published",
       "published_to_telegram_at": "2026-09-01 21:16:22"
-    },
-    {
-      "id": 579,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
-      "title_ru": "Центры обработки данных ИИ стали неожиданной проблемой на промежуточных выборах в США",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 21:16:22"
-    },
-    {
-      "id": 578,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/burnham-pledges-to-restore-hope-as-he-makes-his-house-of-commons-debut-as-uk-leader",
-      "title_ru": "Бернем обещает вернуть надежду, когда он дебютирует в Палате общин в качестве лидера Великобритании",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 21:16:22"
-    },
-    {
-      "id": 577,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/arts24/20260901-from-north-korea-to-ice-photojournalist-david-guttenfelder-on-the-front-lines-in-minneapolis",
-      "title_ru": "От Северной Кореи до ICE: фотожурналист Дэвид Гуттенфельдер на передовой в Миннеаполисе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 576,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260901-what-russia-helping-niger-junta-stop-mutiny-means-for-its-sovereignty",
-      "title_ru": "Сорванный мятеж в Нигере подчеркивает зависимость хунты от России",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 575,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office",
-      "title_ru": "Повтор: премьер-министр Великобритании Энди Бернхэм впервые столкнулся с законодателями после вступления в должность",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 18:22:45"
-    },
-    {
-      "id": 574,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed",
-      "title_ru": "Германия обвиняет Россию в атаке беспилотников в аэропорту Лейпцига и приказывает закрыть российское консульство",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-01 18:22:44"
     }
   ]
 }
