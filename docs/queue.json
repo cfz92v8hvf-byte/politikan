@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-03T18:44:03.343763+00:00",
+  "updated_at": "2026-09-03T21:23:59.409350+00:00",
   "posts": [
+    {
+      "id": 651,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-giorgia-meloni-government-becomes-italy-s-longest-lasting-since-world-war-ii",
+      "title_ru": "Правительство Джорджии Мелони стало самым продолжительным в Италии со времен Второй мировой войны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 650,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
+      "title_ru": "Почему осушенная украинская Каховская плотина является стратегической для России",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 649,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260903-us-feminist-icon-and-journalist-gloria-steinem-dies-aged-92",
+      "title_ru": "Американская феминистка и журналистка Глория Стайнем умерла в возрасте 92 лет",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 648,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260903-el-ni%C3%B1o-weather-phenomenon-set-to-deliver-massive-blow-to-global-economy",
+      "title_ru": "Погодное явление Эль-Ниньо нанесет огромный удар по мировой экономике",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 21:23:58"
+    },
+    {
+      "id": 647,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/shady-surgeons-and-nigeria-organ-harvesting",
+      "title_ru": "Теневые хирурги и извлечение органов в Нигерии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 21:23:58"
+    },
+    {
+      "id": 646,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/03/trump-hints-us-may-not-back-uk-over-falkland-islands-citing-lack-of-iran-support",
+      "title_ru": "Трамп намекает, что США могут не поддержать Великобританию из-за Фолклендских островов, ссылаясь на отсутствие поддержки Ирана",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 21:23:59"
+    },
     {
       "id": 645,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260903-france-agriculture-production-sees-economic-hit-from-heatwaves",
       "title_ru": "Сельскохозяйственное производство Франции видит экономический удар от волн тепла",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/asia-pacific/20260902-uss-abraham-lincoln-aircraft-carrier-docks-in-thailand-after-nine-months-at-sea",
       "title_ru": "Авианосец USS Abraham Lincoln пришвартовался в Таиланде после девяти месяцев в море",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 591,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260902-us-postal-service-whistleblower-warns-new-system-could-disrupt-midterm-election-voting",
-      "title_ru": "Информатор Почтовой службы США предупреждает, что новая система может сорвать промежуточное голосование на выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 05:56:35"
-    },
-    {
-      "id": 590,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/02/latest-news-bulletin-september-2nd-2026-morning",
-      "title_ru": "Последние новости | 2 сентября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 589,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/02/prominent-pro-democracy-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-se",
-      "title_ru": "Выдающийся продемократический активист из Гонконга Джошуа Вонг признал себя виновным во втором деле по закону о национальной безопасности",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 05:56:34"
-    },
-    {
-      "id": 588,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/02/tyler-robinson-pleads-not-guilty-as-judge-clears-path-for-death-penalty-in-charlie-kirk-as",
-      "title_ru": "Тайлер Робинсон не признает себя виновным, поскольку судья расчищает путь для смертной казни в деле об убийстве Чарли Кирка",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 05:56:34"
-    },
-    {
-      "id": 587,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина: Россия угрожает «разрушительным» ответом стран Балтии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 01:18:29"
-    },
-    {
-      "id": 586,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
-      "title_ru": "Германия обвиняет Россию в инциденте с беспилотником в аэропорту и наносит ответный удар санкциями",
       "status": "expired",
       "published_to_telegram_at": null
     }
