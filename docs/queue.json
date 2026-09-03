@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-03T21:23:59.409350+00:00",
+  "updated_at": "2026-09-03T23:30:21.628258+00:00",
   "posts": [
+    {
+      "id": 657,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/press-statement-by-president-costa-following-the-meeting-with-prime-minister-of-greece-kyriakos-mitsotakis/",
+      "title_ru": "Заявление для прессы президента Коста по итогам встречи с премьер-министром Греции Кириакосом Мицотакисом",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 656,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Стратегия Трампа в отношении Ирана: может ли это стать вечной войной?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 655,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/indonesia-thousands-fall-sick-from-free-school-meals/a-78894485?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Индонезия: Тысячи людей заболевают от бесплатного школьного питания",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 654,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Берлин: Терминал 1 аэропорта BER вновь открыт после угрозы безопасности",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 23:30:21"
+    },
+    {
+      "id": 653,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260903-50-savvy-political-tactics-50-extraordinarily-good-luck-the-formula-to-meloni-s-success",
+      "title_ru": "«50% здравомыслящая политическая тактика, 50% необычайная удача» - формула успеха Мелони?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 23:30:21"
+    },
+    {
+      "id": 652,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260903-tunisia-court-upholds-prison-sentences-of-up-to-45-years-for-opposition-figures",
+      "title_ru": "Суд Туниса оставил в силе тюремные сроки до 45 лет для оппозиционных деятелей",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-03 23:30:20"
+    },
     {
       "id": 651,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Что мы знаем о предполагаемом ударе США по свадьбе в Иране",
       "status": "published",
       "published_to_telegram_at": "2026-09-02 11:08:58"
-    },
-    {
-      "id": 597,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-military-buildup-seen-in-ethiopia-near-sudanese-border",
-      "title_ru": "В Эфиопии вблизи суданской границы замечено наращивание военной мощи",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 11:08:58"
-    },
-    {
-      "id": 596,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/02/us-and-sri-lankan-agents-bust-pakistan-drug-network-and-seize-18m-of-meth-police-say",
-      "title_ru": "Американские и шри-ланкийские агенты разоблачили пакистанскую наркосеть и конфисковали € 18 млн метамфетамина, сообщает полиция",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 595,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/02/sharp-rise-in-utility-bills-pushes-russias-inflation-further-off-target",
-      "title_ru": "Резкий рост коммунальных платежей еще больше отталкивает инфляцию в России от цели",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 594,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/02/kyiv-school-year-begins-under-the-shadow-of-air-raid-sirens",
-      "title_ru": "Киевский учебный год начинается под сенью сирен воздушного налета",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 11:08:58"
-    },
-    {
-      "id": 593,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
-      "title_ru": "Ближний Восток в прямом эфире: Иран заявляет, что последние удары США убили 11 человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 592,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260902-uss-abraham-lincoln-aircraft-carrier-docks-in-thailand-after-nine-months-at-sea",
-      "title_ru": "Авианосец USS Abraham Lincoln пришвартовался в Таиланде после девяти месяцев в море",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
