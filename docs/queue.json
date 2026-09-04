@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-04T11:07:26.562735+00:00",
+  "updated_at": "2026-09-04T15:00:28.011863+00:00",
   "posts": [
+    {
+      "id": 675,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists",
+      "title_ru": "Что означает для журналистов оправдательный приговор по делу Дафны Каруаны Галиции?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 674,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/strength-of-meloni-less-linked-to-policy-more-about-her-party-s-dominance-within-govt-coalition",
+      "title_ru": "Сила Мелони менее связана с политикой, больше о доминировании ее партии в правительственной коалиции",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 673,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260904-israel-says-it-has-seized-lebanon-key-ali-al-taher-ridge-from-hezbollah",
+      "title_ru": "Израильская армия захватила у «Хезболлы» ключевой хребет Али-эт-Тахер в Ливане",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 15:00:27"
+    },
+    {
+      "id": 672,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260904-struggling-to-make-its-voice-heard-can-the-eu-forge-a-true-foreign-policy",
+      "title_ru": "Борьба за то, чтобы его голос был услышан: может ли ЕС выработать настоящую внешнюю политику?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 15:00:27"
+    },
+    {
+      "id": 671,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-meloni-celebrates-milestone-as-italy-s-longest-lasting-government",
+      "title_ru": "Мелони отмечает знаменательную дату: он стал самым долгоживущим правительством Италии.",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 15:00:26"
+    },
+    {
+      "id": 670,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-an-inside-look-at-lucas-museum-of-narrative-art-in-los-angeles",
+      "title_ru": "Музей нарративного искусства Лукаса в Лос-Анджелесе",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 15:00:26"
+    },
     {
       "id": 669,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Карательные меры Берлина вряд ли сдержат Путина - эксперты",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 615,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260902-spanish-report-flags-moroccan-police-s-total-permissiveness-in-ceuta-migrant-rush",
-      "title_ru": "Испанский отчет отмечает «полную вседозволенность» марокканской полиции в спешке мигрантов в Сеуте",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 21:21:44"
-    },
-    {
-      "id": 614,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/zelensky-warns-airlines-russian-skies-not-safe-due-to-ukraine-drones",
-      "title_ru": "Зеленский предупредил авиакомпании, что российское небо небезопасно из-за украинских беспилотников",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 21:21:44"
-    },
-    {
-      "id": 613,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/chevron-eni-commit-to-expand-oil-projects-in-venezuela-under-us-eye",
-      "title_ru": "Chevron и Eni обязуются расширять нефтяные проекты в Венесуэле под эгидой США",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 21:21:43"
-    },
-    {
-      "id": 612,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260902-us-oversees-signing-of-billions-in-deals-between-venezuela-and-chevron-eni-ge",
-      "title_ru": "США контролируют подписание «миллиардных» сделок между Венесуэлой и Chevron, ENI, GE",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 21:21:43"
-    },
-    {
-      "id": 611,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-dangerous-consequences-iran-warns-us-after-alleged-strike-on-wedding",
-      "title_ru": "«Опасные последствия»: Иран предупреждает США после предполагаемого удара по свадьбе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 610,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-us-postal-whistleblower-warns-thousands-of-midterm-ballots-could-be-lost",
-      "title_ru": "Почтовый информатор США предупреждает, что тысячи промежуточных бюллетеней могут быть потеряны",
       "status": "expired",
       "published_to_telegram_at": null
     }
