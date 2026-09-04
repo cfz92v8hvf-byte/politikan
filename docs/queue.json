@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-03T23:30:21.628258+00:00",
+  "updated_at": "2026-09-04T01:16:29.695499+00:00",
   "posts": [
+    {
+      "id": 658,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20260904-volkswagen-to-cut-another-50-000-jobs-to-counter-tariffs-and-chinese-competition",
+      "title_ru": "Volkswagen сократит еще 50 000 рабочих мест, чтобы противостоять тарифам и китайской конкуренции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 01:16:29"
+    },
     {
       "id": 657,
       "source": "Council of the EU",
@@ -472,14 +480,6 @@
       "title_ru": "Голливуд отступает перед Венецианским кинофестивалем",
       "status": "published",
       "published_to_telegram_at": "2026-09-02 11:08:59"
-    },
-    {
-      "id": 598,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-what-we-know-about-alleged-us-strike-on-iran-wedding",
-      "title_ru": "Что мы знаем о предполагаемом ударе США по свадьбе в Иране",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 11:08:58"
     }
   ]
 }
