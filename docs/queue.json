@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-04T01:16:29.695499+00:00",
+  "updated_at": "2026-09-04T05:59:58.000346+00:00",
   "posts": [
+    {
+      "id": 663,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20260904-openai-begins-rollout-of-gpt-6-with-focus-on-cyber-security-safeguards",
+      "title_ru": "OpenAI начинает развертывание GPT-6 на фоне растущего внимания к безопасности",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 662,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260904-middle-east-live-south-korea-prepares-for-military-deployment-in-strait-of-hormuz",
+      "title_ru": "Ближний Восток в прямом эфире: Южная Корея обдумывает военное развертывание в Ормузском проливе, сообщают СМИ",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 661,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-pragmatic-international-relations-s%C3%A1nchez-seeks-to-avoid-further-conflict-with-rabat",
+      "title_ru": "«Прагматичные международные отношения: Санчес стремится избежать «дальнейшего конфликта с Рабатом»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 05:59:57"
+    },
+    {
+      "id": 660,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/09/04/latest-news-bulletin-september-4th-2026-morning",
+      "title_ru": "Последние новости | 4 сентября 2026 года – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 659,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/04/iran-hits-us-military-targets-in-the-region-as-washington-probes-deadly-wedding-strike",
+      "title_ru": "Иран поражает военные цели США в регионе, поскольку Вашингтон исследует смертельный свадебный удар",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 05:59:57"
+    },
     {
       "id": 658,
       "source": "France 24",
@@ -440,46 +480,6 @@
       "title_ru": "Президент Франции откроет выставку гобеленов Bayeux, когда начнет визит в Великобританию",
       "status": "published",
       "published_to_telegram_at": "2026-09-02 15:08:28"
-    },
-    {
-      "id": 603,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260902-xi-calls-on-mideast-nations-to-be-masters-of-their-own-affairs-in-rare-egypt-visit",
-      "title_ru": "Си Цзиньпин призывает ближневосточные страны быть «хозяевами своих дел» в редком визите в Египет",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 15:08:28"
-    },
-    {
-      "id": 602,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/paradox-of-balladur-s-legacy-highly-popular-gaullist-elite-yet-too-far-away-from-the-people",
-      "title_ru": "Парадокс наследия Балладюра: «Очень популярная» голлистская элита все же «слишком далеко от народа»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 15:08:27"
-    },
-    {
-      "id": 601,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260902-israel-organised-and-prepared-to-remove-gaza-population-if-us-gives-green-light-katz",
-      "title_ru": "Израиль «организовал и подготовил» удаление населения Газы, если США дадут зеленый свет, Кац",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 15:08:27"
-    },
-    {
-      "id": 600,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/business/2026/09/02/from-infrastructure-to-military-drills-china-deepens-footprint-in-egypt-as-xi-visits-cairo",
-      "title_ru": "От инфраструктуры до военных учений, Китай углубляет присутствие в Египте, поскольку Си Цзиньпин посещает Каир",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 599,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-hollywood-in-retreat-as-venice-film-festival-kicks-off",
-      "title_ru": "Голливуд отступает перед Венецианским кинофестивалем",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 11:08:59"
     }
   ]
 }
