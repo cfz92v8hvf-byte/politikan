@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-04T15:00:28.011863+00:00",
+  "updated_at": "2026-09-04T18:18:01.485393+00:00",
   "posts": [
+    {
+      "id": 681,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
+      "title_ru": "Франция объявляет о помощи фермерам в размере € 1 млрд после лета, пострадавшего от климата",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 680,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv",
+      "title_ru": "На земле: российский беспилотник наносит удар по штабу Службы безопасности Украины в Киеве",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 679,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-days",
+      "title_ru": "Посланники Трампа Виткофф и Кушнер посетят Россию и Украину в ближайшие дни",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 18:18:01"
+    },
+    {
+      "id": 678,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260904-germany-hans-thomas-tillschneider-the-ideologist-behind-the-afd-s-plans-in-saxony-anhalt",
+      "title_ru": "Германия: Ханс-Томас Тильшнайдер, идеолог, стоящий за планами AFD в Саксонии-Анхальт",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 18:18:01"
+    },
+    {
+      "id": 677,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1",
+      "title_ru": "«Итальянская оппозиция фрагментирована: нет альтернативного лидера, нет другого возможного лидера, кроме Джорджии Мелони»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 18:18:00"
+    },
+    {
+      "id": 676,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
+      "title_ru": "По словам ООН, перемещение израильских лагерей на Западном берегу может быть преступлением против человечности",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 18:18:00"
+    },
     {
       "id": 675,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists",
       "title_ru": "Что означает для журналистов оправдательный приговор по делу Дафны Каруаны Галиции?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/strength-of-meloni-less-linked-to-policy-more-about-her-party-s-dominance-within-govt-coalition",
       "title_ru": "Сила Мелони менее связана с политикой, больше о доминировании ее партии в правительственной коалиции",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Испания: десятки тысяч людей протестуют против кризиса в Сеуте",
       "status": "published",
       "published_to_telegram_at": "2026-09-03 01:24:16"
-    },
-    {
-      "id": 621,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-iran-war-old-videos-falsely-claim-to-show-new-attacks-on-american-bases-1",
-      "title_ru": "Американо-иранская война: старые видео ложно утверждают, что показывают новые атаки на американские базы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 23:31:39"
-    },
-    {
-      "id": 620,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/outrage-as-maltese-tycoon-acquitted-of-reporter-daphne-caruana-galizia-s-murder",
-      "title_ru": "Возмущение, когда мальтийский магнат оправдал убийство репортера Дафны Каруаны Галиции",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 23:31:38"
-    },
-    {
-      "id": 619,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
-      "title_ru": "Венецианский кинофестиваль открывается Джорджем Клуни, фильмом Мердока и геополитикой",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 23:31:38"
-    },
-    {
-      "id": 618,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20260902-palantir-france-digital-sovereignty",
-      "title_ru": "Генеральный директор Palantir Алекс Карп говорит, что французские ограничения на американское программное обеспечение «имеют неприятные последствия»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 23:31:37"
-    },
-    {
-      "id": 617,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Единство, наконец: заканчивается ли разрушительная борьба за власть в Ливии?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 616,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Карательные меры Берлина вряд ли сдержат Путина - эксперты",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
