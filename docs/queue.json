@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-04T05:59:58.000346+00:00",
+  "updated_at": "2026-09-04T11:07:26.562735+00:00",
   "posts": [
+    {
+      "id": 669,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-new-fears-of-oil-supply-disruption-as-us-iran-hostilities-resume",
+      "title_ru": "Новые опасения по поводу перебоев с поставками нефти по мере возобновления военных действий между США и Ираном",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 11:07:26"
+    },
+    {
+      "id": 668,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
+      "title_ru": "Аргентинская Milei обостряет спор о Фолклендских островах в борьбе за суверенитет против Великобритании",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 11:07:25"
+    },
+    {
+      "id": 667,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260904-stability-or-fiasco-giorgia-meloni-becomes-longest-serving-italian-pm",
+      "title_ru": "Стабильность или фиаско? Джорджия Мелони занимает пост премьер-министра Италии дольше всех",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 11:07:25"
+    },
+    {
+      "id": 666,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/04/milei-touts-winds-of-change-as-he-reasserts-argentinas-claim-to-the-falklands",
+      "title_ru": "Великобритания подтверждает «непоколебимую» приверженность Фолклендским островам после того, как Майли подтвердил претензии Аргентины на острова",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 665,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/04/trump-presses-supreme-court-to-curb-mail-voting-as-ballots-begin-reaching-americans",
+      "title_ru": "Трамп настаивает на том, чтобы Верховный суд ограничил голосование по почте, поскольку бюллетени начинают доходить до американцев",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 664,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/04/investigation-into-air-india-flight-plunge-highlights-triple-hydraulic-failure-and-pilot-d",
+      "title_ru": "Расследование падения самолета Air India выявило тройной гидравлический сбой и испытание пилота на наркотики",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 11:07:26"
+    },
     {
       "id": 663,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Почтовый информатор США предупреждает, что тысячи промежуточных бюллетеней могут быть потеряны",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 609,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-egypt-welcomes-xi-as-beijing-expands-influence-in-region",
-      "title_ru": "Египет приветствует Си, поскольку Пекин расширяет влияние в регионе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 608,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-russia-blamed-for-explosive-laden-drone-found-at-german-airport",
-      "title_ru": "Россию обвинили в обнаружении в немецком аэропорту начиненного взрывчаткой беспилотника",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 18:46:46"
-    },
-    {
-      "id": 607,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260902-videos-and-debris-raise-questions-over-alleged-us-strike-on-iranian-wedding",
-      "title_ru": "Видео и обломки поднимают вопросы по поводу предполагаемого удара США по иранской свадьбе",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 18:46:45"
-    },
-    {
-      "id": 606,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260902-israeli-fm-gideon-sa-ar-i-hope-iran-will-not-make-the-mistake-of-attacking-us",
-      "title_ru": "Глава МИД Израиля Гидеон Саар: «Я надеюсь, что Иран не совершит ошибку, напав на нас»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 18:46:45"
-    },
-    {
-      "id": 605,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-macron-set-to-unveil-bayeux-tapestry-in-once-in-a-generation-uk-loan",
-      "title_ru": "Макрон собирается представить гобелен Bayeux в британском кредите «один раз в поколение»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 604,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260902-french-president-to-open-bayeux-tapestry-exhibition-as-he-starts-uk-visit",
-      "title_ru": "Президент Франции откроет выставку гобеленов Bayeux, когда начнет визит в Великобританию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-02 15:08:28"
     }
   ]
 }
