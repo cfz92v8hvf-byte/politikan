@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-04T18:18:01.485393+00:00",
+  "updated_at": "2026-09-04T20:50:53.061111+00:00",
   "posts": [
+    {
+      "id": 687,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown",
+      "title_ru": "Промежуточные выборы в США начинаются с раздачи бюллетеней для голосования по почте в Северной Каролине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 686,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd",
+      "title_ru": "«Самый опасный человек» Германии: PR-подарок для AfD?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 685,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260904-german-power-grid-sabotage-attack-linked-to-climate-extremism",
+      "title_ru": "Атака саботажа в энергосистеме Германии связана с «климатическим экстремизмом»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 20:50:53"
+    },
+    {
+      "id": 684,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
+      "title_ru": "«Основные потенциальные нарушения британского избирательного законодательства»: расследование Channel 4 в отношении Reform UK",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 20:50:52"
+    },
+    {
+      "id": 683,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/uber-withdraws-from-nigeria",
+      "title_ru": "Uber уходит из Нигерии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 20:50:51"
+    },
+    {
+      "id": 682,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/04/meloni-marks-government-longevity-at-bari-rally-with-2027-vote-in-sight",
+      "title_ru": "Мелони отмечает долголетие правительства на митинге в Бари с голосованием в 2027 году",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-04 20:50:52"
+    },
     {
       "id": 681,
       "source": "France 24",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv",
       "title_ru": "На земле: российский беспилотник наносит удар по штабу Службы безопасности Украины в Киеве",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Роботы с искусственным интеллектом представлены в Европейском парламенте в Брюсселе",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 627,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Россия закроет филиалы немецкого Goethe-Institut",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 06:25:27"
-    },
-    {
-      "id": 626,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260903-iran-us-trade-threats-wedding-strike",
-      "title_ru": "Иран и торговые угрозы США, поскольку Тегеран обвиняет Вашингтон в свадебной забастовке",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 625,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260903-mideast-live-kuwait-army-says-intercepting-missile-drone-attack-from-iran",
-      "title_ru": "Ближний Восток в прямом эфире: армия Кувейта заявляет, что перехватывает ракеты и атакует беспилотники из Ирана",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 624,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260903-has-iran-modified-its-rocket-systems-to-fire-mines-into-the-strait-of-hormuz",
-      "title_ru": "Модифицировал ли Иран свои ракетные системы для запуска мин в Ормузский пролив?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 06:25:26"
-    },
-    {
-      "id": 623,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/03/former-venezuelan-president-nicolas-maduro-and-his-wife-look-to-end-drug-charges-on-immuni",
-      "title_ru": "Бывший президент Венесуэлы Николас Мадуро и его жена надеются положить конец обвинениям в наркотиках на основании иммунитета",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 06:25:27"
-    },
-    {
-      "id": 622,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/spain-tens-of-thousands-rally-over-ceuta-crisis/a-78814756?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Испания: десятки тысяч людей протестуют против кризиса в Сеуте",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 01:24:16"
     }
   ]
 }
