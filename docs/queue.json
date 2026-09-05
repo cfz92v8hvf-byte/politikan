@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-05T08:58:02.994766+00:00",
+  "updated_at": "2026-09-05T12:36:19.314676+00:00",
   "posts": [
+    {
+      "id": 705,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win",
+      "title_ru": "Германия: АдГ видит историческую государственную победу на выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 12:36:19"
+    },
+    {
+      "id": 704,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260905-bangladesh-measles-toll-nears-grim-1-000-child-mark",
+      "title_ru": "Число заболевших корью в Бангладеш приближается к мрачной отметке в 1000 детей",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 12:36:18"
+    },
+    {
+      "id": 703,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260905-us-ambassador-to-israel-visits-palestinian-town-hit-by-west-bank-settler-violence",
+      "title_ru": "Посол США в Израиле посетил палестинский город, пострадавший от насилия со стороны поселенцев на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 12:36:17"
+    },
+    {
+      "id": 702,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/05/three-killed-in-israeli-strikes-on-lebanon-health-ministry-says",
+      "title_ru": "Три человека погибли в результате израильских ударов по Ливану, сообщает министерство здравоохранения",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 701,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/05/iranian-media-report-us-strike-on-iranian-oil-tanker-near-kharg-island",
+      "title_ru": "Иранские СМИ сообщают об ударе США по иранскому нефтяному танкеру возле острова Харк",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 700,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/05/bosnian-serb-war-criminal-mladic-commemorated-in-belgrade-but-no-state-honours",
+      "title_ru": "В Белграде почтили память боснийского сербского военного преступника Младича, но нет государственных почестей",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 12:36:18"
+    },
     {
       "id": 699,
       "source": "DW",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/09/05/us-peace-envoys-witkoff-and-kushner-to-visit-kyiv-and-moscow-with-plan-to-end-war",
       "title_ru": "Миротворцы США Виткофф и Кушнер посетят Киев и Москву с планом «прекращения войны»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Трамп намекает, что США могут не поддержать Великобританию из-за Фолклендских островов, ссылаясь на отсутствие поддержки Ирана",
       "status": "published",
       "published_to_telegram_at": "2026-09-03 21:23:59"
-    },
-    {
-      "id": 645,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-france-agriculture-production-sees-economic-hit-from-heatwaves",
-      "title_ru": "Сельскохозяйственное производство Франции видит экономический удар от волн тепла",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 644,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-us-energy-firms-dominate-venezuela-deals-worth-billions",
-      "title_ru": "Энергетические компании США доминируют в сделках Венесуэлы на миллиарды",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 18:44:02"
-    },
-    {
-      "id": 643,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-two-palestinian-teens-killed-in-west-bank-raid-by-israeli-settlers-and-army",
-      "title_ru": "Два палестинских подростка убиты в ходе рейда израильских поселенцев и армии на Западном берегу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 18:44:02"
-    },
-    {
-      "id": 642,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-wmo-chief-says-el-nino-could-be-strongest-in-four-decades",
-      "title_ru": "Глава ВМО говорит, что Эль-Ниньо может стать самым сильным за последние четыре десятилетия",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 18:44:02"
-    },
-    {
-      "id": 641,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/03/iranian-cafe-chain-mogul-jailed-and-stripped-of-assets-for-backing-january-protests",
-      "title_ru": "Иранский магнат сети кафе заключен в тюрьму и лишен активов за поддержку январских протестов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 640,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/03/russians-skewer-authorities-for-ordering-citizens-to-register-their-chicken",
-      "title_ru": "Россияне шампура власти за приказ гражданам зарегистрировать свою курицу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 18:44:03"
     }
   ]
 }
