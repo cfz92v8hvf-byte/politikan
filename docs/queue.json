@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-05T00:49:47.435920+00:00",
+  "updated_at": "2026-09-05T04:58:56.815091+00:00",
   "posts": [
+    {
+      "id": 693,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Посланники США посетят Россию и Украину с планом «положить конец войне»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 692,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/bolivia-deadly-explosion-rocks-military-base-in-viacha/a-79040892?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Боливия: смертельный взрыв поразил военную базу на Виаче",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 04:58:56"
+    },
+    {
+      "id": 691,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Тунис: судья распорядился об аресте журналиста Мохамеда Юсфи",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 04:58:56"
+    },
     {
       "id": 690,
       "source": "Council of the EU",
@@ -456,30 +480,6 @@
       "title_ru": "В России генерала обвинили в организации забастовки в киевской детской больнице",
       "status": "published",
       "published_to_telegram_at": "2026-09-03 15:14:39"
-    },
-    {
-      "id": 633,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks",
-      "title_ru": "Гобеленовая дипломатия: связи между Великобританией и Францией в центре внимания, поскольку Макрон и Бернем проводят первые переговоры",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 632,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-tunisia-s-top-court-set-to-rule-in-conspiracy-against-the-state-case",
-      "title_ru": "Высший суд Туниса вынесет решение по делу о «заговоре против государства»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 11:39:23"
-    },
-    {
-      "id": 631,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260903-supreme-court-corruption-scandal-rocks-brazil",
-      "title_ru": "Коррупционный скандал в Верховном суде потряс Бразилию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 11:39:22"
     }
   ]
 }
