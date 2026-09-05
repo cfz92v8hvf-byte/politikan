@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-05T17:43:08.820523+00:00",
+  "updated_at": "2026-09-05T19:34:58.740121+00:00",
   "posts": [
+    {
+      "id": 717,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/syria-s-former-dictator-bashar-assad-was-sentenced-to-death-for-crimes-against-his-own-people-but-for-many-civil-war-survivors-it-s-not-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Бывшего диктатора Сирии Башара Асада приговорили к смертной казни за преступления против собственного народа. Но для многих выживших в гражданской войне этого недостаточно",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 19:34:58"
+    },
     {
       "id": 716,
       "source": "DW",
@@ -14,7 +22,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/culture-of-fear-within-us-defence-department-slow-leakage-of-dissent-against-the-administration",
       "title_ru": "«Культура страха в Министерстве обороны США: медленная утечка инакомыслия против администрации»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -472,14 +480,6 @@
       "title_ru": "Volkswagen сократит еще 50 000 рабочих мест, чтобы противостоять тарифам и китайской конкуренции",
       "status": "published",
       "published_to_telegram_at": "2026-09-04 01:16:29"
-    },
-    {
-      "id": 657,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/press-statement-by-president-costa-following-the-meeting-with-prime-minister-of-greece-kyriakos-mitsotakis/",
-      "title_ru": "Заявление для прессы президента Коста по итогам встречи с премьер-министром Греции Кириакосом Мицотакисом",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
