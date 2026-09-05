@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-05T04:58:56.815091+00:00",
+  "updated_at": "2026-09-05T08:58:02.994766+00:00",
   "posts": [
+    {
+      "id": 699,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/why-many-syrians-feel-assad-s-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Почему многие сирийцы считают, что смертного приговора Асаду недостаточно",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 08:58:02"
+    },
+    {
+      "id": 698,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия: от эмиграции до иммиграции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 08:58:01"
+    },
+    {
+      "id": 697,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
+      "title_ru": "Ближний Восток в прямом эфире: возле иранского острова Харк слышны взрывы неизвестного происхождения",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 696,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal",
+      "title_ru": "Два высокопоставленных чиновника Reform UK уходят в отставку, поскольку Фарадж сталкивается со скандалом с новыми иностранными пожертвованиями",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 08:58:02"
+    },
+    {
+      "id": 695,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/05/us-peace-envoys-witkoff-and-kushner-to-visit-kyiv-and-moscow-with-plan-to-end-war",
+      "title_ru": "Миротворцы США Виткофф и Кушнер посетят Киев и Москву с планом «прекращения войны»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 694,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/05/at-least-two-killed-and-81-injured-after-explosions-at-bolivian-army-base",
+      "title_ru": "По меньшей мере двое убитых и 81 раненый после взрывов на базе боливийской армии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 08:58:02"
+    },
     {
       "id": 693,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Россияне шампура власти за приказ гражданам зарегистрировать свою курицу",
       "status": "published",
       "published_to_telegram_at": "2026-09-03 18:44:03"
-    },
-    {
-      "id": 639,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-spain-s-sanchez-says-no-solid-proof-that-morocco-planned-ceuta-crisis",
-      "title_ru": "Испанский Санчес говорит, что нет «твердых доказательств» того, что Марокко планировало кризис в Сеуте",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 638,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260903-france-recorded-hottest-summer-ever-in-2026-environment-minister-says",
-      "title_ru": "Во Франции зафиксировано «самое жаркое лето» в 2026 году, говорит министр окружающей среды",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 637,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says",
-      "title_ru": "Израильские атаки на Западном берегу на «беспрецедентном» уровне, говорит лидер PNI Баргути",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 15:14:40"
-    },
-    {
-      "id": 636,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-france-s-macron-meets-uk-pm-burnham-at-downing-street",
-      "title_ru": "Макрон встретился с премьер-министром Великобритании Бернемом на Даунинг-стрит",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 15:14:39"
-    },
-    {
-      "id": 635,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260903-tunisia-water-crisis-deepens-as-temperatures-approach-50%C2%B0c",
-      "title_ru": "Водный кризис в Тунисе усугубляется по мере приближения температуры к 50°C",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 15:14:39"
-    },
-    {
-      "id": 634,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/03/general-charged-over-kyiv-childrens-hospital-strike-shot-in-russia",
-      "title_ru": "В России генерала обвинили в организации забастовки в киевской детской больнице",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 15:14:39"
     }
   ]
 }
