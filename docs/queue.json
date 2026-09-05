@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-09-05T15:36:29.098412+00:00",
+  "updated_at": "2026-09-05T17:43:08.820523+00:00",
   "posts": [
+    {
+      "id": 716,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Хорватия: протест против токсичных отходов привлекает десятки тысяч",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 17:43:07"
+    },
+    {
+      "id": 715,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/culture-of-fear-within-us-defence-department-slow-leakage-of-dissent-against-the-administration",
+      "title_ru": "«Культура страха в Министерстве обороны США: медленная утечка инакомыслия против администрации»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 714,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes",
+      "title_ru": "Война в Украине: Путин и Зеленский заказали паузу в забастовках",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 17:43:08"
+    },
+    {
+      "id": 713,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260905-rain-man-france-ex-president-francois-hollande-unlikely-comeback-presidential-election",
+      "title_ru": "«Человек дождя» на помощь? Экс-президент Франции Олланд замышляет маловероятное возвращение",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 17:43:08"
+    },
+    {
+      "id": 712,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260905-un-approves-resolution-in-support-of-map-that-shows-africa-s-true-size",
+      "title_ru": "ООН одобряет резолюцию в поддержку карты, которая показывает истинный размер Африки",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 17:43:07"
+    },
     {
       "id": 711,
       "source": "DW",
       "source_url": "https://www.dw.com/en/russia-to-pause-strikes-against-kyiv-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Россия приостановит удары по Киеву на фоне переговоров по Украине",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +54,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Проверка фактов: почтовая система голосования в Германии не сфальсифицирована",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "Заявление для прессы президента Коста по итогам встречи с премьер-министром Греции Кириакосом Мицотакисом",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 656,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Стратегия Трампа в отношении Ирана: может ли это стать вечной войной?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 655,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/indonesia-thousands-fall-sick-from-free-school-meals/a-78894485?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Индонезия: Тысячи людей заболевают от бесплатного школьного питания",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 654,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Берлин: Терминал 1 аэропорта BER вновь открыт после угрозы безопасности",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 23:30:21"
-    },
-    {
-      "id": 653,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260903-50-savvy-political-tactics-50-extraordinarily-good-luck-the-formula-to-meloni-s-success",
-      "title_ru": "«50% здравомыслящая политическая тактика, 50% необычайная удача» - формула успеха Мелони?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 23:30:21"
-    },
-    {
-      "id": 652,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260903-tunisia-court-upholds-prison-sentences-of-up-to-45-years-for-opposition-figures",
-      "title_ru": "Суд Туниса оставил в силе тюремные сроки до 45 лет для оппозиционных деятелей",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-03 23:30:20"
     }
   ]
 }
