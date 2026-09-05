@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-05T19:34:58.740121+00:00",
+  "updated_at": "2026-09-05T21:40:46.108952+00:00",
   "posts": [
+    {
+      "id": 719,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Почему многие сирийцы считают, что смертного приговора Асаду недостаточно",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-05 21:40:46"
+    },
+    {
+      "id": 718,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260905-us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine",
+      "title_ru": "Спецпредставители США Виткофф и Кушнер прибыли в Москву для переговоров о мире на Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 717,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Последние новости | 4 сентября 2026 года – утро",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 659,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/04/iran-hits-us-military-targets-in-the-region-as-washington-probes-deadly-wedding-strike",
-      "title_ru": "Иран поражает военные цели США в регионе, поскольку Вашингтон исследует смертельный свадебный удар",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 05:59:57"
-    },
-    {
-      "id": 658,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20260904-volkswagen-to-cut-another-50-000-jobs-to-counter-tariffs-and-chinese-competition",
-      "title_ru": "Volkswagen сократит еще 50 000 рабочих мест, чтобы противостоять тарифам и китайской конкуренции",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 01:16:29"
     }
   ]
 }
