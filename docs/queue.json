@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-05T23:23:23.128241+00:00",
+  "updated_at": "2026-09-06T01:17:34.856625+00:00",
   "posts": [
+    {
+      "id": 720,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Спецпредставители США встречаются с Путиным, уезжают из России в Киев",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-06 01:17:34"
+    },
     {
       "id": 719,
       "source": "DW",
@@ -472,14 +480,6 @@
       "title_ru": "«Прагматичные международные отношения: Санчес стремится избежать «дальнейшего конфликта с Рабатом»",
       "status": "published",
       "published_to_telegram_at": "2026-09-04 05:59:57"
-    },
-    {
-      "id": 660,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/04/latest-news-bulletin-september-4th-2026-morning",
-      "title_ru": "Последние новости | 4 сентября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
