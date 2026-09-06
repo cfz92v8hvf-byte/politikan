@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-06T16:29:18.326554+00:00",
+  "updated_at": "2026-09-06T18:35:46.866869+00:00",
   "posts": [
+    {
+      "id": 743,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Спецпредставители США Виткофф и Кушнер прибыли в Киев после переговоров с Путиным",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 742,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Израильские удары по Ливану убили несколько человек, несмотря на перемирие",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 741,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Саксония-Анхальт: крайне правая АдГ получает огромное преимущество в ключевых голосованиях",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-06 18:35:46"
+    },
     {
       "id": 740,
       "source": "France 24",
@@ -14,7 +38,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260906-ukraine-russia-talks-what-are-the-us-objectives",
       "title_ru": "Переговоры Украина-Россия: Каковы цели США?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -456,30 +480,6 @@
       "title_ru": "«Основные потенциальные нарушения британского избирательного законодательства»: расследование Channel 4 в отношении Reform UK",
       "status": "published",
       "published_to_telegram_at": "2026-09-04 20:50:52"
-    },
-    {
-      "id": 683,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/uber-withdraws-from-nigeria",
-      "title_ru": "Uber уходит из Нигерии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 20:50:51"
-    },
-    {
-      "id": 682,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/04/meloni-marks-government-longevity-at-bari-rally-with-2027-vote-in-sight",
-      "title_ru": "Мелони отмечает долголетие правительства на митинге в Бари с голосованием в 2027 году",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 20:50:52"
-    },
-    {
-      "id": 681,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
-      "title_ru": "Франция объявляет о помощи фермерам в размере € 1 млрд после лета, пострадавшего от климата",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
