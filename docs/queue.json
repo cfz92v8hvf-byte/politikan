@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-06T13:49:37.545050+00:00",
+  "updated_at": "2026-09-06T16:29:18.326554+00:00",
   "posts": [
+    {
+      "id": 740,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260906-us-army-secretary-dan-driscoll-quits-what-we-ve-seen-is-almost-a-factional-clash",
+      "title_ru": "Министр армии США Дэн Дрисколл уходит в отставку: «То, что мы видели, - это почти фракционное столкновение»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 739,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260906-ukraine-russia-talks-what-are-the-us-objectives",
+      "title_ru": "Переговоры Украина-Россия: Каковы цели США?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 738,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260906-germany-afd-s-ulrich-siegmund-eyes-outright-majority",
+      "title_ru": "Германия: Ульрих Зигмунд из AfD видит прямое большинство",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-06 16:29:18"
+    },
+    {
+      "id": 737,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260906-the-week-in-pictures-nepal-rescue-operations-world-nomad-games-and-russian-strikes-on-kyiv",
+      "title_ru": "Неделя в фотографиях: спасательные операции в Непале, Всемирные игры кочевников и российские удары по Киеву",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-06 16:29:16"
+    },
+    {
+      "id": 736,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260906-deauville-film-festival-what-s-your-favourite-american-film",
+      "title_ru": "Кинофестиваль в Довиле: Какой ваш любимый американский фильм?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-06 16:29:15"
+    },
+    {
+      "id": 735,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
+      "title_ru": "АдГ может возглавить «первое ультраправое государственное правительство со времен темных дней нацизма»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-06 16:29:15"
+    },
     {
       "id": 734,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260906-ethan-hawke-receives-the-deauville-talent-award",
       "title_ru": "Итан Хоук получает премию Deauville Talent Award",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/09/06/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran",
       "title_ru": "Нетаньяху назвал Катар «враждебным государством», поскольку Доха сопротивляется Ирану",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
       "title_ru": "Франция объявляет о помощи фермерам в размере € 1 млрд после лета, пострадавшего от климата",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 680,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv",
-      "title_ru": "На земле: российский беспилотник наносит удар по штабу Службы безопасности Украины в Киеве",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 679,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260904-trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-days",
-      "title_ru": "Посланники Трампа Виткофф и Кушнер посетят Россию и Украину в ближайшие дни",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 18:18:01"
-    },
-    {
-      "id": 678,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260904-germany-hans-thomas-tillschneider-the-ideologist-behind-the-afd-s-plans-in-saxony-anhalt",
-      "title_ru": "Германия: Ханс-Томас Тильшнайдер, идеолог, стоящий за планами AFD в Саксонии-Анхальт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 18:18:01"
-    },
-    {
-      "id": 677,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1",
-      "title_ru": "«Итальянская оппозиция фрагментирована: нет альтернативного лидера, нет другого возможного лидера, кроме Джорджии Мелони»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 18:18:00"
-    },
-    {
-      "id": 676,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
-      "title_ru": "По словам ООН, перемещение израильских лагерей на Западном берегу может быть преступлением против человечности",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-04 18:18:00"
-    },
-    {
-      "id": 675,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists",
-      "title_ru": "Что означает для журналистов оправдательный приговор по делу Дафны Каруаны Галиции?",
       "status": "expired",
       "published_to_telegram_at": null
     }
