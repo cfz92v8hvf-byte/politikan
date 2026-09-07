@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-07T05:57:25.769676+00:00",
+  "updated_at": "2026-09-07T12:18:48.151958+00:00",
   "posts": [
+    {
+      "id": 761,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-nepal-holds-a-day-of-mourning-as-rescuers-continue-search-for-flood-missing",
+      "title_ru": "В Непале объявлен день траура, поскольку спасатели продолжают поиски пропавших без вести",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 760,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-jamaica-s-legal-approach-were-forced-transportation-african-enslavement-lawful-under-english-law",
+      "title_ru": "Юридический подход Ямайки: были ли принудительная транспортировка и африканское порабощение законными в соответствии с английским законодательством?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 759,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
+      "title_ru": "«Ликование и боль»: немецкие ультраправые маршируют к победе на ключевых государственных выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 12:18:48"
+    },
+    {
+      "id": 758,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-segregated-schools-and-citizen-watch-groups-the-afd-s-plans-for-saxony-anhalt",
+      "title_ru": "Сегрегированные школы и «группы наблюдения за гражданами»: планы АдГ для Саксонии-Анхальт",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 12:18:47"
+    },
+    {
+      "id": 757,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "title_ru": "Президент Ливана призывает США помочь после смертоносных ударов Израиля",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 12:18:46"
+    },
+    {
+      "id": 756,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/07/un-rights-chief-urges-accountability-after-23-die-in-us-immigration-custody-in-2026",
+      "title_ru": "Глава ООН по правам человека призывает к «ответственности» после того, как 23 человека умерли в иммиграционном заключении в США в 2026 году",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 12:18:46"
+    },
     {
       "id": 755,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Три человека погибли в результате израильских ударов по Ливану, сообщает министерство здравоохранения",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 701,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/05/iranian-media-report-us-strike-on-iranian-oil-tanker-near-kharg-island",
-      "title_ru": "Иранские СМИ сообщают об ударе США по иранскому нефтяному танкеру возле острова Харк",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 700,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/05/bosnian-serb-war-criminal-mladic-commemorated-in-belgrade-but-no-state-honours",
-      "title_ru": "В Белграде почтили память боснийского сербского военного преступника Младича, но нет государственных почестей",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 12:36:18"
-    },
-    {
-      "id": 699,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/why-many-syrians-feel-assad-s-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Почему многие сирийцы считают, что смертного приговора Асаду недостаточно",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 08:58:02"
-    },
-    {
-      "id": 698,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия: от эмиграции до иммиграции",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 08:58:01"
-    },
-    {
-      "id": 697,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
-      "title_ru": "Ближний Восток в прямом эфире: возле иранского острова Харк слышны взрывы неизвестного происхождения",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 696,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal",
-      "title_ru": "Два высокопоставленных чиновника Reform UK уходят в отставку, поскольку Фарадж сталкивается со скандалом с новыми иностранными пожертвованиями",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 08:58:02"
     }
   ]
 }
