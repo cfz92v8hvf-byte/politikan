@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-07T17:46:44.834111+00:00",
+  "updated_at": "2026-09-07T20:47:47.610631+00:00",
   "posts": [
+    {
+      "id": 773,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Может ли АдГ сформировать правительство в Саксонии-Анхальт?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 772,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Саксония-Анхальт: Германия просыпается с «тревожной» победой АдГ",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 771,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+      "title_ru": "Израиль предупреждает о «полномасштабной войне», если Палестинская администрация начнет атаку в стиле 7 октября",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 20:47:47"
+    },
+    {
+      "id": 770,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/what-we-see-right-now-is-that-putin-has-zero-interest-in-ending-the-war-ukrainian-mp-yasko-says",
+      "title_ru": "«Сейчас мы видим, что Путин не заинтересован в прекращении войны», - говорит украинский депутат Ясько",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 20:47:47"
+    },
+    {
+      "id": 769,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260907-tunisians-tell-story-their-summer-shortages",
+      "title_ru": "Тунисцы рассказывают историю своего летнего дефицита",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 20:47:46"
+    },
+    {
+      "id": 768,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260907-polarised-brazil-lula-remains-a-strong-candidate-despite-the-challenges-of-incumbency",
+      "title_ru": "«Поляризованная Бразилия»: Лула остается «сильным кандидатом», несмотря на проблемы с властью",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 20:47:46"
+    },
     {
       "id": 767,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Война в Украине: Путин и Зеленский заказали паузу в забастовках",
       "status": "published",
       "published_to_telegram_at": "2026-09-05 17:43:08"
-    },
-    {
-      "id": 713,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260905-rain-man-france-ex-president-francois-hollande-unlikely-comeback-presidential-election",
-      "title_ru": "«Человек дождя» на помощь? Экс-президент Франции Олланд замышляет маловероятное возвращение",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 17:43:08"
-    },
-    {
-      "id": 712,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260905-un-approves-resolution-in-support-of-map-that-shows-africa-s-true-size",
-      "title_ru": "ООН одобряет резолюцию в поддержку карты, которая показывает истинный размер Африки",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 17:43:07"
-    },
-    {
-      "id": 711,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/russia-to-pause-strikes-against-kyiv-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Россия приостановит удары по Киеву на фоне переговоров по Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 710,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Проверка фактов: почтовая система голосования в Германии не сфальсифицирована",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 709,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260905-presidential-campaigning-kicks-off-in-france-ahead-of-2027-elections",
-      "title_ru": "Во Франции стартует президентская кампания в преддверии выборов 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 15:36:28"
-    },
-    {
-      "id": 708,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260905-france-emmanuel-macron-unveils-new-disability-strategy",
-      "title_ru": "Франция: Эммануэль Макрон представляет новую стратегию в отношении инвалидов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 15:36:28"
     }
   ]
 }
