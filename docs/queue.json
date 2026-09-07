@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-06T22:51:28.956069+00:00",
+  "updated_at": "2026-09-07T00:52:08.064311+00:00",
   "posts": [
+    {
+      "id": 751,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260907-eu-greenland-investment-trump-annexation",
+      "title_ru": "ЕС увеличит инвестиции в Гренландию на фоне претензий Трампа на аннексию",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 00:52:08"
+    },
+    {
+      "id": 750,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260907-us-envoys-more-effective-ukraine-peace-proposals-kyiv",
+      "title_ru": "По словам чиновника, посланники США приносят Киеву «более эффективные» мирные предложения по Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 00:52:07"
+    },
     {
       "id": 749,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Боливия: смертельный взрыв поразил военную базу на Виаче",
       "status": "published",
       "published_to_telegram_at": "2026-09-05 04:58:56"
-    },
-    {
-      "id": 691,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Тунис: судья распорядился об аресте журналиста Мохамеда Юсфи",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 04:58:56"
-    },
-    {
-      "id": 690,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/04/forward-look-2026/",
-      "title_ru": "Перспективы: 7 - 20 сентября 2026 г.",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
