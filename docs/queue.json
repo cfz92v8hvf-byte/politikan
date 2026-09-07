@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-07T00:52:08.064311+00:00",
+  "updated_at": "2026-09-07T05:57:25.769676+00:00",
   "posts": [
+    {
+      "id": 755,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/saxony-anhalt-preliminary-official-results-show-afd-tops-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Саксония-Анхальт: Предварительные официальные результаты показывают, что АдГ возглавляет голосование",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 754,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes",
+      "title_ru": "Ближний Восток в прямом эфире: Израильская армия приказала эвакуировать зону на юге Ливана в преддверии ударов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 753,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/environment/20260907-wildfires-heatwaves-global-air-quality-health-un",
+      "title_ru": "Лесные пожары и волны тепла угрожают глобальному качеству воздуха и здоровью, предупреждает ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 05:57:25"
+    },
+    {
+      "id": 752,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/09/07/latest-news-bulletin-september-7th-2026-morning",
+      "title_ru": "Последние новости | 7 сентября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 751,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Два высокопоставленных чиновника Reform UK уходят в отставку, поскольку Фарадж сталкивается со скандалом с новыми иностранными пожертвованиями",
       "status": "published",
       "published_to_telegram_at": "2026-09-05 08:58:02"
-    },
-    {
-      "id": 695,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/05/us-peace-envoys-witkoff-and-kushner-to-visit-kyiv-and-moscow-with-plan-to-end-war",
-      "title_ru": "Миротворцы США Виткофф и Кушнер посетят Киев и Москву с планом «прекращения войны»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 694,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/05/at-least-two-killed-and-81-injured-after-explosions-at-bolivian-army-base",
-      "title_ru": "По меньшей мере двое убитых и 81 раненый после взрывов на базе боливийской армии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 08:58:02"
-    },
-    {
-      "id": 693,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Посланники США посетят Россию и Украину с планом «положить конец войне»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 692,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/bolivia-deadly-explosion-rocks-military-base-in-viacha/a-79040892?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Боливия: смертельный взрыв поразил военную базу на Виаче",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 04:58:56"
     }
   ]
 }
