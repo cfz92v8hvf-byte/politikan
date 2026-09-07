@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-07T12:18:48.151958+00:00",
+  "updated_at": "2026-09-07T17:46:44.834111+00:00",
   "posts": [
+    {
+      "id": 767,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-what-now-for-germany-s-merz-after-afd-win",
+      "title_ru": "Что теперь будет с немецким Merz после победы AfD?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 766,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-israeli-strikes-on-southern-lebanon-kill-11",
+      "title_ru": "Израильские удары по южному Ливану убивают 11",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 765,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-will-afd-win-in-germany-boost-france-s-far-right",
+      "title_ru": "Будет ли победа АдГ в Германии способствовать росту крайне правых сил Франции?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 764,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260907-avalanche-kills-at-least-11-climbers-in-southern-russia",
+      "title_ru": "Лавина убила не менее 11 альпинистов на юге России",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 17:46:44"
+    },
+    {
+      "id": 763,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/07/thousands-attend-bosnian-serb-war-criminals-funeral-despite-eu-warnings",
+      "title_ru": "Тысячи людей приняли участие в похоронах боснийских сербов в Белграде, несмотря на предупреждения ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 17:46:44"
+    },
+    {
+      "id": 762,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/07/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount",
+      "title_ru": "МАГАТЭ заявляет, что Иран блокирует ядерных инспекторов, поскольку угрозы Ормуза растут",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-07 17:46:44"
+    },
     {
       "id": 761,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260907-nepal-holds-a-day-of-mourning-as-rescuers-continue-search-for-flood-missing",
       "title_ru": "В Непале объявлен день траура, поскольку спасатели продолжают поиски пропавших без вести",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260907-jamaica-s-legal-approach-were-forced-transportation-african-enslavement-lawful-under-english-law",
       "title_ru": "Юридический подход Ямайки: были ли принудительная транспортировка и африканское порабощение законными в соответствии с английским законодательством?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Франция: Эммануэль Макрон представляет новую стратегию в отношении инвалидов",
       "status": "published",
       "published_to_telegram_at": "2026-09-05 15:36:28"
-    },
-    {
-      "id": 707,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260905-witkoff-and-kushner-are-in-moscow-in-a-new-push-for-peace-between-russia-and-ukraine",
-      "title_ru": "Виткофф и Кушнер в Москве в новом толчке к миру между Россией и Украиной",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 15:36:27"
-    },
-    {
-      "id": 706,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/05/us-drafting-post-war-plan-for-the-middle-east-report-says",
-      "title_ru": "США разрабатывают послевоенный план для Ближнего Востока, говорится в докладе",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 15:36:29"
-    },
-    {
-      "id": 705,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win",
-      "title_ru": "Германия: АдГ видит историческую государственную победу на выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 12:36:19"
-    },
-    {
-      "id": 704,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260905-bangladesh-measles-toll-nears-grim-1-000-child-mark",
-      "title_ru": "Число заболевших корью в Бангладеш приближается к мрачной отметке в 1000 детей",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 12:36:18"
-    },
-    {
-      "id": 703,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260905-us-ambassador-to-israel-visits-palestinian-town-hit-by-west-bank-settler-violence",
-      "title_ru": "Посол США в Израиле посетил палестинский город, пострадавший от насилия со стороны поселенцев на Западном берегу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 12:36:17"
-    },
-    {
-      "id": 702,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/05/three-killed-in-israeli-strikes-on-lebanon-health-ministry-says",
-      "title_ru": "Три человека погибли в результате израильских ударов по Ливану, сообщает министерство здравоохранения",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
