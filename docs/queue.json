@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-08T11:08:04.587057+00:00",
+  "updated_at": "2026-09-08T15:10:27.908043+00:00",
   "posts": [
+    {
+      "id": 787,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260908-canada-s-counter-tariffs-take-effect-as-trade-war-with-us-heats-up",
+      "title_ru": "Контртарифы Канады вступают в силу по мере разжигания торговой войны с США",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 786,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/perspective/20260908-be-kind-to-yourself-us-expat-robin-allison-davis-on-surviving-cancer-in-paris",
+      "title_ru": "«Будьте добры к себе»: американский эмигрант Робин Эллисон Дэвис о выживании после рака в Париже",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 785,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260908-who-is-sarah-khalifa-the-egyptian-tv-presenter-sentenced-to-death",
+      "title_ru": "Кто такая Сара Халифа, египетская телеведущая, приговоренная к смертной казни?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 15:10:27"
+    },
+    {
+      "id": 784,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260908-new-hampshire-voters-pick-2026-midterm-candidates",
+      "title_ru": "Избиратели Нью-Гэмпшира выбирают промежуточных кандидатов на 2026 год",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 15:10:27"
+    },
+    {
+      "id": 783,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/08/qatar-and-uae-say-gulf-cannot-rely-on-us-alone-for-regions-security",
+      "title_ru": "Катар и ОАЭ говорят, что Персидский залив не может полагаться только на США в вопросах безопасности региона",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 15:10:26"
+    },
+    {
+      "id": 782,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/08/12-nations-announce-trade-sanctions-on-israeli-settlements-in-the-west-bank",
+      "title_ru": "12 стран объявили о торговых санкциях в отношении израильских поселений на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 15:10:26"
+    },
     {
       "id": 781,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/09/08/argentina-sues-israeli-oil-firm-as-ben-gvir-urges-netanyahu-to-back-its-falklands-claim",
       "title_ru": "Аргентина подала в суд на израильскую нефтяную компанию, поскольку Бен Гвир призывает Нетаньяху поддержать его претензии на Фолклендские острова",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Новости Индии: Рахул Ганди поддерживает студенческие протесты в Махараштре",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 727,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Как изменение климата и отсутствие продовольственной безопасности могут подпитывать будущие конфликты",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 726,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия и Косово объединяются против клещей, несущих смертельный вирус",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 10:49:20"
-    },
-    {
-      "id": 725,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260906-israeli-strikes-kill-four-in-lebanon-after-alleged-hezbollah-drone-launch",
-      "title_ru": "Израильские удары убили четверых в Ливане после предполагаемого запуска беспилотника Хезболлы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 10:49:21"
-    },
-    {
-      "id": 724,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/06/iranian-forces-target-us-naval-drone-attempting-to-enter-strait-of-hormuz",
-      "title_ru": "Иранские силы нацелены на военно-морской беспилотник США, пытающийся войти в Ормузский пролив",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 10:49:21"
-    },
-    {
-      "id": 723,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Венгрия начинает охоту за миллиардами коррумпированного режима",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 06:03:12"
-    },
-    {
-      "id": 722,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
-      "title_ru": "Прямой эфир: посланники Трампа отправляются на Украину после «предметных» переговоров с Путиным",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 06:03:13"
     }
   ]
 }
