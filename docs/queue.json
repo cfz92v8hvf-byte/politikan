@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-08T06:03:38.970289+00:00",
+  "updated_at": "2026-09-08T11:08:04.587057+00:00",
   "posts": [
+    {
+      "id": 781,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260908-nepal-s-gen-z-protests-one-year-on",
+      "title_ru": "Протесты поколения Z в Непале год спустя",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 11:08:04"
+    },
+    {
+      "id": 780,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260908-pheromone-maxxing-men-avoid-showers-before-dates-to-boost-attraction",
+      "title_ru": "«Максимизация феромонов»: мужчины избегают душа перед свиданиями, чтобы повысить привлекательность",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 11:08:03"
+    },
+    {
+      "id": 779,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/08/whats-in-a-name-trump-suggests-renaming-new-mexico-state-new-america",
+      "title_ru": "Что в имени? Трамп предлагает переименовать штат Нью-Мексико в «Новую Америку»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 778,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/08/argentina-sues-israeli-oil-firm-as-ben-gvir-urges-netanyahu-to-back-its-falklands-claim",
+      "title_ru": "Аргентина подала в суд на израильскую нефтяную компанию, поскольку Бен Гвир призывает Нетаньяху поддержать его претензии на Фолклендские острова",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 777,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/09/08/rusya-ve-kuzey-kore-sinir-boyunca-ilk-karayolu-koprusunu-acti",
+      "title_ru": "Россия и Северная Корея открыли первый автомобильный мост через границу",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 11:08:04"
+    },
+    {
+      "id": 776,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/08/turkeys-kilicdaroglu-opens-door-to-imamoglu-presidential-bid-in-euronews-interview",
+      "title_ru": "Турецкий кандидат Кылычдароглу открывает двери для участия в президентской гонке Имамоглу в интервью Euronews",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-08 11:08:03"
+    },
     {
       "id": 775,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Прямой эфир: посланники Трампа отправляются на Украину после «предметных» переговоров с Путиным",
       "status": "published",
       "published_to_telegram_at": "2026-09-06 06:03:13"
-    },
-    {
-      "id": 721,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
-      "title_ru": "Крайне правая АдГ видит историческую государственную победу на выборах в Саксонии-Анхальт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 06:03:13"
-    },
-    {
-      "id": 720,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Спецпредставители США встречаются с Путиным, уезжают из России в Киев",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 01:17:34"
-    },
-    {
-      "id": 719,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Почему многие сирийцы считают, что смертного приговора Асаду недостаточно",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 21:40:46"
-    },
-    {
-      "id": 718,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260905-us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine",
-      "title_ru": "Спецпредставители США Виткофф и Кушнер прибыли в Москву для переговоров о мире на Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 717,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/syria-s-former-dictator-bashar-assad-was-sentenced-to-death-for-crimes-against-his-own-people-but-for-many-civil-war-survivors-it-s-not-enough/a-78985915?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Бывшего диктатора Сирии Башара Асада приговорили к смертной казни за преступления против собственного народа. Но для многих выживших в гражданской войне этого недостаточно",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 19:34:58"
-    },
-    {
-      "id": 716,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Хорватия: протест против токсичных отходов привлекает десятки тысяч",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-05 17:43:07"
     }
   ]
 }
