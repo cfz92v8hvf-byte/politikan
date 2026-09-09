@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-09T11:57:32.073273+00:00",
+  "updated_at": "2026-09-09T16:30:40.423689+00:00",
   "posts": [
+    {
+      "id": 824,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260909-modern-warfare-ukraine-racing-to-develop-new-interceptor-drones",
+      "title_ru": "Современная война: Украина мчится к разработке новых беспилотников-перехватчиков",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 823,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260909-france-s-far-right-national-rally-fires-policeman-from-security-team-over-racist-sexist-comments",
+      "title_ru": "Французский ультраправый Национальный митинг уволил полицейского из службы безопасности за расистские и сексистские комментарии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 16:30:40"
+    },
+    {
+      "id": 822,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260909-macron-summit-seeks-boost-for-european-space-despite-no-shows",
+      "title_ru": "Саммит Макрона ищет стимул для европейского пространства, несмотря на неявку",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 16:30:39"
+    },
+    {
+      "id": 821,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260909-kenya-s-crackdown-on-foreign-workers-raises-concern-among-burundians",
+      "title_ru": "Репрессии Кении против иностранных рабочих вызывают обеспокоенность среди бурундийцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 16:30:39"
+    },
+    {
+      "id": 820,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260909-how-a-french-foreign-legion-soldier-dramatically-escaped-colombian-captors",
+      "title_ru": "Как солдат французского Иностранного легиона драматически избежал колумбийских захватчиков",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 16:30:38"
+    },
+    {
+      "id": 819,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/09/china-reiterates-its-one-china-principle-on-taiwan-over-un-resolution",
+      "title_ru": "Китай подтверждает свой принцип «одного Китая» в отношении Тайваня в связи с резолюцией ООН",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 818,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/2026/09/09/us-destroys-five-iranian-tankers-as-tehran-launches-retaliatory-strikes-on-jordan",
       "title_ru": "США уничтожили пять иранских танкеров, когда Тегеран нацелился на Иорданию",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "http://www.euronews.com/video/2026/09/09/latest-news-bulletin-september-9th-2026-midday",
       "title_ru": "Последние новости | 9 сентября 2026 г. – полдень",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Будет ли победа АдГ в Германии способствовать росту крайне правых сил Франции?",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 764,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260907-avalanche-kills-at-least-11-climbers-in-southern-russia",
-      "title_ru": "Лавина убила не менее 11 альпинистов на юге России",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 17:46:44"
-    },
-    {
-      "id": 763,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/07/thousands-attend-bosnian-serb-war-criminals-funeral-despite-eu-warnings",
-      "title_ru": "Тысячи людей приняли участие в похоронах боснийских сербов в Белграде, несмотря на предупреждения ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 17:46:44"
-    },
-    {
-      "id": 762,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/07/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount",
-      "title_ru": "МАГАТЭ заявляет, что Иран блокирует ядерных инспекторов, поскольку угрозы Ормуза растут",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 17:46:44"
-    },
-    {
-      "id": 761,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260907-nepal-holds-a-day-of-mourning-as-rescuers-continue-search-for-flood-missing",
-      "title_ru": "В Непале объявлен день траура, поскольку спасатели продолжают поиски пропавших без вести",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 760,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260907-jamaica-s-legal-approach-were-forced-transportation-african-enslavement-lawful-under-english-law",
-      "title_ru": "Юридический подход Ямайки: были ли принудительная транспортировка и африканское порабощение законными в соответствии с английским законодательством?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 759,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
-      "title_ru": "«Ликование и боль»: немецкие ультраправые маршируют к победе на ключевых государственных выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 12:18:48"
     }
   ]
 }
