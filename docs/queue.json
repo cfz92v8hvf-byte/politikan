@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-09T01:37:09.916943+00:00",
+  "updated_at": "2026-09-09T06:46:08.048143+00:00",
   "posts": [
+    {
+      "id": 812,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/dallas-republican-convention-how-trump-looms-over-midterms/a-79189744?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Республиканский съезд в Далласе: как Трамп вырисовывается на промежуточных выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 06:46:07"
+    },
+    {
+      "id": 811,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/putin-rejects-mobilization-rumors-many-russians-unconvinced/a-79193386?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Путин отвергает мобилизационные слухи, многие россияне не убеждены",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 06:46:07"
+    },
+    {
+      "id": 810,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260909-us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat-escalates",
+      "title_ru": "США запрещают канадский алкоголь, мотоциклы и молочные продукты, поскольку торговый спор обостряется",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 809,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260909-travellers-in-uk-face-ongoing-disruption-after-air-traffic-control-glitch",
+      "title_ru": "Путешественники в Великобритании сталкиваются с постоянными сбоями после сбоя управления воздушным движением",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 808,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260909-rubio-hails-colombia-new-pro-trump-leader-de-la-espriella-first-stop-of-latin-american-tour",
+      "title_ru": "Рубио приветствует нового протрамповского лидера Колумбии Де ла Эсприэллу на первой остановке латиноамериканского тура",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 06:46:07"
+    },
+    {
+      "id": 807,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260909-eiffel-tower-row-over-hindu-sect-baps-unites-french-politicians-%E2%80%93-but-divides-indian-diaspora",
+      "title_ru": "Скандал вокруг Эйфелевой башни из-за индуистской секты BAPS объединяет французских политиков, но разделяет индийскую диаспору",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 06:46:06"
+    },
     {
       "id": 806,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Лесные пожары и волны тепла угрожают глобальному качеству воздуха и здоровью, предупреждает ООН",
       "status": "published",
       "published_to_telegram_at": "2026-09-07 05:57:25"
-    },
-    {
-      "id": 752,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/07/latest-news-bulletin-september-7th-2026-morning",
-      "title_ru": "Последние новости | 7 сентября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 751,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260907-eu-greenland-investment-trump-annexation",
-      "title_ru": "ЕС увеличит инвестиции в Гренландию на фоне претензий Трампа на аннексию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 00:52:08"
-    },
-    {
-      "id": 750,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260907-us-envoys-more-effective-ukraine-peace-proposals-kyiv",
-      "title_ru": "По словам чиновника, посланники США приносят Киеву «более эффективные» мирные предложения по Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 00:52:07"
-    },
-    {
-      "id": 749,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Саксония-Анхальт: перевариваем знаменательную победу АдГ на выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 22:51:28"
-    },
-    {
-      "id": 748,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "АдГ хочет сформировать правительство в Саксонии-Анхальт — но как?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 22:51:28"
-    },
-    {
-      "id": 747,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Спецпредставители США Виткофф и Кушнер провели переговоры по Украине после встречи с Путиным",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-06 22:51:28"
     }
   ]
 }
