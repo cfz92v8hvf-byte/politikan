@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-09T06:46:08.048143+00:00",
+  "updated_at": "2026-09-09T11:57:32.073273+00:00",
   "posts": [
+    {
+      "id": 818,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes",
+      "title_ru": "Хуситы сообщают о репрессиях Саудовской Аравии после того, как нефтяные объекты подожгли волной ударов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 11:57:32"
+    },
+    {
+      "id": 817,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/new-escalation-in-yemen-deeply-concerning-everyone-in-the-region",
+      "title_ru": "«Новая эскалация в Йемене глубоко касается всех в регионе»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 11:57:31"
+    },
+    {
+      "id": 816,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260909-iran-attacks-us-base-after-american-strikes-on-tankers",
+      "title_ru": "Иран атакует базу США после американских ударов по танкерам",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 11:57:31"
+    },
+    {
+      "id": 815,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/09/us-destroys-five-iranian-tankers-as-tehran-launches-retaliatory-strikes-on-jordan",
+      "title_ru": "США уничтожили пять иранских танкеров, когда Тегеран нацелился на Иорданию",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 814,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/09/09/latest-news-bulletin-september-9th-2026-midday",
+      "title_ru": "Последние новости | 9 сентября 2026 г. – полдень",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 813,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/2026/09/09/exclusive-investigation-finds-evidence-of-possible-chemical-weapons-use-in-sudan",
+      "title_ru": "Эксклюзив: Расследование находит доказательства возможного использования химического оружия в Судане",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-09 11:57:31"
+    },
     {
       "id": 812,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "«Ликование и боль»: немецкие ультраправые маршируют к победе на ключевых государственных выборах",
       "status": "published",
       "published_to_telegram_at": "2026-09-07 12:18:48"
-    },
-    {
-      "id": 758,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260907-segregated-schools-and-citizen-watch-groups-the-afd-s-plans-for-saxony-anhalt",
-      "title_ru": "Сегрегированные школы и «группы наблюдения за гражданами»: планы АдГ для Саксонии-Анхальт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 12:18:47"
-    },
-    {
-      "id": 757,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
-      "title_ru": "Президент Ливана призывает США помочь после смертоносных ударов Израиля",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 12:18:46"
-    },
-    {
-      "id": 756,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/07/un-rights-chief-urges-accountability-after-23-die-in-us-immigration-custody-in-2026",
-      "title_ru": "Глава ООН по правам человека призывает к «ответственности» после того, как 23 человека умерли в иммиграционном заключении в США в 2026 году",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 12:18:46"
-    },
-    {
-      "id": 755,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/saxony-anhalt-preliminary-official-results-show-afd-tops-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Саксония-Анхальт: Предварительные официальные результаты показывают, что АдГ возглавляет голосование",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 754,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes",
-      "title_ru": "Ближний Восток в прямом эфире: Израильская армия приказала эвакуировать зону на юге Ливана в преддверии ударов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 753,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/environment/20260907-wildfires-heatwaves-global-air-quality-health-un",
-      "title_ru": "Лесные пожары и волны тепла угрожают глобальному качеству воздуха и здоровью, предупреждает ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-07 05:57:25"
     }
   ]
 }
