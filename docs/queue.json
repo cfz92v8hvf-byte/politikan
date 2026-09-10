@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-10T17:16:48.885075+00:00",
+  "updated_at": "2026-09-10T19:49:03.936127+00:00",
   "posts": [
+    {
+      "id": 868,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260910-what-to-know-about-trump-s-5-000-dividend-pledge",
+      "title_ru": "Что нужно знать о «дивидендном» залоге Трампа в $ 5000",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 867,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260910-french-govt-warns-right-wing-tv-channel-about-using-expelled-pro-putin-pundit",
+      "title_ru": "Французское правительство предупредило правый телеканал о ретрансляции изгнанного пропутинского эксперта",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 866,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iran-raises-fuel-prices-for-heavy-users",
+      "title_ru": "Иран повышает цены на топливо для тяжелых потребителей",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 19:49:03"
+    },
+    {
+      "id": 865,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping",
+      "title_ru": "Поддерживаемые Ираном повстанцы-хуситы захватили стратегический портовый город в Йемене, создав угрозу для судоходства в Красном море",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 19:49:03"
+    },
+    {
+      "id": 864,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush",
+      "title_ru": "«Нет фактов»: Марокко отрицает причастность к смертельной спешке мигрантов в Сеуте",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 19:49:02"
+    },
+    {
+      "id": 863,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
+      "title_ru": "Французские пожарные проводят шестинедельную забастовку после рекордных летних пожаров",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 19:49:02"
+    },
     {
       "id": 862,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/arts24/20260910-sandra-h%C3%BCller-from-european-cinema-to-working-with-tom-cruise-and-ryan-gosling",
       "title_ru": "Сандра Хюллер: от европейского кино до работы с Томом Крузом и Райаном Гослингом",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support",
       "title_ru": "Предложение Инфантино о переизбрании в ФИФА сталкивается с препятствием, поскольку Франция отзывает поддержку",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/europe/20260909-travellers-in-uk-face-ongoing-disruption-after-air-traffic-control-glitch",
       "title_ru": "Путешественники в Великобритании сталкиваются с постоянными сбоями после сбоя управления воздушным движением",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 808,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260909-rubio-hails-colombia-new-pro-trump-leader-de-la-espriella-first-stop-of-latin-american-tour",
-      "title_ru": "Рубио приветствует нового протрамповского лидера Колумбии Де ла Эсприэллу на первой остановке латиноамериканского тура",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 06:46:07"
-    },
-    {
-      "id": 807,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260909-eiffel-tower-row-over-hindu-sect-baps-unites-french-politicians-%E2%80%93-but-divides-indian-diaspora",
-      "title_ru": "Скандал вокруг Эйфелевой башни из-за индуистской секты BAPS объединяет французских политиков, но разделяет индийскую диаспору",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 06:46:06"
-    },
-    {
-      "id": 806,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/israel-s-netanyahu-denies-uae-warned-him-of-october-7-attack/a-79194436?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Израильский Нетаньяху отрицает, что ОАЭ предупредили его о нападении 7 октября",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 01:37:09"
-    },
-    {
-      "id": 805,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-strikes-oil-tankers-off-coast-of-iran/a-79194562?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США нанесли удар по нефтяным танкерам у берегов Ирана",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 23:36:55"
-    },
-    {
-      "id": 804,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260908-missiles-or-mediation-trump-envoys-shuttle-between-russia-and-ukraine",
-      "title_ru": "Ракеты или посредничество? Шаттл посланников Трампа между Россией и Украиной",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 803,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260908-trump-tells-putin-he-wants-swift-end-to-ukraine-war-kremlin-says",
-      "title_ru": "Трамп говорит Путину, что хочет скорейшего прекращения войны на Украине, говорит Кремль",
       "status": "expired",
       "published_to_telegram_at": null
     }
