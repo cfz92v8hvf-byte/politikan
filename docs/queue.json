@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-10T00:04:41.526769+00:00",
+  "updated_at": "2026-09-10T04:33:05.986072+00:00",
   "posts": [
+    {
+      "id": 844,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп обещает американцам $ 5000, если республиканцы выиграют промежуточные выборы",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 04:33:05"
+    },
+    {
+      "id": 843,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines",
+      "title_ru": "По меньшей мере пять человек погибли, 87 пропали без вести после пожара на пароме на Филиппинах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 842,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
+      "title_ru": "Ближний Восток в прямом эфире: Трамп предупреждает Иран «не быть милым» из-за активности на горе Кирка",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 04:33:05"
+    },
     {
       "id": 841,
       "source": "Council of the EU",
@@ -456,30 +480,6 @@
       "title_ru": "Кто такая Сара Халифа, египетская телеведущая, приговоренная к смертной казни?",
       "status": "published",
       "published_to_telegram_at": "2026-09-08 15:10:27"
-    },
-    {
-      "id": 784,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260908-new-hampshire-voters-pick-2026-midterm-candidates",
-      "title_ru": "Избиратели Нью-Гэмпшира выбирают промежуточных кандидатов на 2026 год",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 15:10:27"
-    },
-    {
-      "id": 783,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/08/qatar-and-uae-say-gulf-cannot-rely-on-us-alone-for-regions-security",
-      "title_ru": "Катар и ОАЭ говорят, что Персидский залив не может полагаться только на США в вопросах безопасности региона",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 15:10:26"
-    },
-    {
-      "id": 782,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/08/12-nations-announce-trade-sanctions-on-israeli-settlements-in-the-west-bank",
-      "title_ru": "12 стран объявили о торговых санкциях в отношении израильских поселений на Западном берегу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 15:10:26"
     }
   ]
 }
