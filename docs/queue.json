@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-10T04:33:05.986072+00:00",
+  "updated_at": "2026-09-10T09:08:26.988008+00:00",
   "posts": [
+    {
+      "id": 850,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ecuador-ex-president-bucaram-sentenced-in-corruption-case/a-79209321?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Эквадор: экс-президенту Букараму вынесен приговор по делу о коррупции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 09:08:26"
+    },
+    {
+      "id": 849,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-s-zelenskyy-arrives-in-canada-seeking-air-support/a-79209534?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Зеленский прибыл в Канаду в поисках поддержки с воздуха",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 09:08:26"
+    },
+    {
+      "id": 848,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-can-see-the-writing-on-the-wall-here-republicans-hold-midterm-convention",
+      "title_ru": "«Трамп может видеть надпись на стене здесь»: республиканцы проводят промежуточный съезд",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 847,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260910-netanyahu-visits-troops-occupied-syria-damascus-slams-blatant-violation-sovereignty",
+      "title_ru": "Нетаньяху посещает войска в оккупированной Сирии, поскольку Дамаск критикует «вопиющее нарушение» суверенитета",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 09:08:26"
+    },
+    {
+      "id": 846,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260910-macron-calls-for-shared-governance-space-paris-space-summit",
+      "title_ru": "Макрон призывает к «совместному управлению» космосом на саммите в Париже",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 09:08:25"
+    },
+    {
+      "id": 845,
+      "source": "Euronews",
+      "source_url": "http://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-morning",
+      "title_ru": "Последние новости | 10 сентября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 844,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "«Промежуточные выборы в США, как правило, являются референдумами о непопулярности президента»",
       "status": "published",
       "published_to_telegram_at": "2026-09-08 18:46:00"
-    },
-    {
-      "id": 790,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20260908-messi-mbappe-kane-headline-ballon-d-or-shortlist-vozinha-named-yashin-award",
-      "title_ru": "Месси, Мбаппе и Кейн возглавляют шорт-лист «Золотогомяча», Возинья названа в честь премии Яшина",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 18:45:59"
-    },
-    {
-      "id": 789,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/08/pressure-mounts-on-israeli-pm-netanyahu-after-report-uae-warned-of-hamas-7-october-attack",
-      "title_ru": "ОАЭ предупредили Нетаньяху о нападении 7 октября, сообщает израильская газета",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 18:46:00"
-    },
-    {
-      "id": 788,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/08/turning-blind-eye-to-afd-win-further-angers-voters-political-scientist-warns",
-      "title_ru": "«Закрытие глаз» на победу АдГ еще больше разозлило избирателей, предупреждает политолог",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 18:45:59"
-    },
-    {
-      "id": 787,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260908-canada-s-counter-tariffs-take-effect-as-trade-war-with-us-heats-up",
-      "title_ru": "Контртарифы Канады вступают в силу по мере разжигания торговой войны с США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 786,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/perspective/20260908-be-kind-to-yourself-us-expat-robin-allison-davis-on-surviving-cancer-in-paris",
-      "title_ru": "«Будьте добры к себе»: американский эмигрант Робин Эллисон Дэвис о выживании после рака в Париже",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 785,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260908-who-is-sarah-khalifa-the-egyptian-tv-presenter-sentenced-to-death",
-      "title_ru": "Кто такая Сара Халифа, египетская телеведущая, приговоренная к смертной казни?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 15:10:27"
     }
   ]
 }
