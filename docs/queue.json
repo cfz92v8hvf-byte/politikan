@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-09-09T21:55:03.591393+00:00",
+  "updated_at": "2026-09-10T00:04:41.526769+00:00",
   "posts": [
+    {
+      "id": 841,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/10/press-statement-by-president-costa-following-the-meeting-with-prime-minister-of-poland-donald-tusk/",
+      "title_ru": "Заявление для прессы президента Коста по итогам встречи с премьер-министром Польши Дональдом Туском",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 00:04:39"
+    },
+    {
+      "id": 840,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/norway-s-pm-zelenskyy-s-plane-almost-hit-by-drone/a-79207528?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Премьер-министр Норвегии: самолет Зеленского едва не сбил беспилотник",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 839,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/finland-google-announces-€13-billion-ai-energy-investment/a-79208034?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Финляндия: Google объявляет об инвестициях в энергетику в размере € 13 млрд",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 00:04:41"
+    },
+    {
+      "id": 838,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260909-rubio-to-seek-45-million-in-additional-security-funding-for-ecuador",
+      "title_ru": "Рубио запросит $ 45 млн на дополнительное финансирование безопасности для Эквадора",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 00:04:40"
+    },
+    {
+      "id": 837,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260909-brazil-supreme-court-chief-suspends-rival-rulings-amid-election-row",
+      "title_ru": "Глава Верховного суда Бразилии приостановил конкурирующие решения на фоне избирательного скандала",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 00:04:40"
+    },
     {
       "id": 836,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/eu-gives-spain-115-mn-euros-aid-over-ceuta-crisis",
       "title_ru": "ЕС предоставил Испании 115 млн евро помощи в связи с кризисом в Сеуте",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +54,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/houthi-offensive-on-bab-al-mandeb-may-bring-tremendous-leverage-analyst-explains",
       "title_ru": "Наступление хуситов на Баб-эль-Мандебский пролив может дать «огромные рычаги», объясняет аналитик",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "12 стран объявили о торговых санкциях в отношении израильских поселений на Западном берегу",
       "status": "published",
       "published_to_telegram_at": "2026-09-08 15:10:26"
-    },
-    {
-      "id": 781,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260908-nepal-s-gen-z-protests-one-year-on",
-      "title_ru": "Протесты поколения Z в Непале год спустя",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 11:08:04"
-    },
-    {
-      "id": 780,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260908-pheromone-maxxing-men-avoid-showers-before-dates-to-boost-attraction",
-      "title_ru": "«Максимизация феромонов»: мужчины избегают душа перед свиданиями, чтобы повысить привлекательность",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 11:08:03"
-    },
-    {
-      "id": 779,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/08/whats-in-a-name-trump-suggests-renaming-new-mexico-state-new-america",
-      "title_ru": "Что в имени? Трамп предлагает переименовать штат Нью-Мексико в «Новую Америку»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 778,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/08/argentina-sues-israeli-oil-firm-as-ben-gvir-urges-netanyahu-to-back-its-falklands-claim",
-      "title_ru": "Аргентина подала в суд на израильскую нефтяную компанию, поскольку Бен Гвир призывает Нетаньяху поддержать его претензии на Фолклендские острова",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 777,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/08/rusya-ve-kuzey-kore-sinir-boyunca-ilk-karayolu-koprusunu-acti",
-      "title_ru": "Россия и Северная Корея открыли первый автомобильный мост через границу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 11:08:04"
     }
   ]
 }
