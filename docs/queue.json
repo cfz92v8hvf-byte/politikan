@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-10T13:40:02.137862+00:00",
+  "updated_at": "2026-09-10T17:16:48.885075+00:00",
   "posts": [
+    {
+      "id": 862,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/arts24/20260910-sandra-h%C3%BCller-from-european-cinema-to-working-with-tom-cruise-and-ryan-gosling",
+      "title_ru": "Сандра Хюллер: от европейского кино до работы с Томом Крузом и Райаном Гослингом",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 861,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support",
+      "title_ru": "Предложение Инфантино о переизбрании в ФИФА сталкивается с препятствием, поскольку Франция отзывает поддержку",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 860,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says",
+      "title_ru": "По словам премьер-министра Норвегии, самолет Зеленского «почти сбил» беспилотник на пути в Осло",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 17:16:48"
+    },
+    {
+      "id": 859,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges",
+      "title_ru": "Самый жаркий месяц августа, когда-либо зарегистрированный во всем мире, когда появляется огромное Эль-Ниньо",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 17:16:48"
+    },
+    {
+      "id": 858,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us",
+      "title_ru": "Индуистская секта BAPS находится под пристальным вниманием во Франции, США",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 17:16:47"
+    },
+    {
+      "id": 857,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-evening",
+      "title_ru": "Последние новости | 10 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-10 17:16:48"
+    },
     {
       "id": 856,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Трамп говорит Путину, что хочет скорейшего прекращения войны на Украине, говорит Кремль",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 802,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/canada-will-move-faster-from-us-reliance-as-tariffs-take-effect-and-trump-response-looms",
-      "title_ru": "Канада будет быстрее освобождаться от зависимости от США, поскольку тарифы вступают в силу, а реакция Трампа вырисовывается",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 801,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260908-was-this-a-state-visit-indian-opposition-leader-raises-serious-questions-over-paris-baps-temple",
-      "title_ru": "- Это был государственный визит? «Лидер индийской оппозиции поднимает серьезные вопросы о парижском храме BAPS",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 23:36:55"
-    },
-    {
-      "id": 800,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260908-middle-east-live-us-destroys-five-iranian-oil-tankers-as-iran-threatens-kuwait-and-bahrain",
-      "title_ru": "Ближний Восток в прямом эфире: США уничтожили пять иранских нефтяных танкеров, поскольку Иран угрожает Кувейту и Бахрейну",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 23:36:54"
-    },
-    {
-      "id": 799,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe-s-museums-are-under-siege-art-recovery-expert-says",
-      "title_ru": "«Музеи Европы находятся в осаде», - говорит эксперт по восстановлению искусства",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 798,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1",
-      "title_ru": "Трамп опубликовал карту ИИ, показывающую «захват» США Северной Америки, Исландии и Карибского бассейна",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 797,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260908-canada-pm-stands-his-ground-as-ottawa-s-retaliatory-tariffs-on-us-goods-take-effect",
-      "title_ru": "Премьер-министр Канады отстаивает свою позицию, поскольку ответные тарифы Оттавы на товары из США вступают в силу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-08 21:28:22"
     }
   ]
 }
