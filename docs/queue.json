@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T19:47:52.501324+00:00",
+  "updated_at": "2026-09-11T22:01:20.940406+00:00",
   "posts": [
+    {
+      "id": 906,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/11/forward-look-2026/",
+      "title_ru": "Прогноз на будущее: 14 - 27 сентября 2026 г.",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 905,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260911-iran-backed-houthis-seize-near-control-of-vital-bab-el-mandeb-shipping-lane",
+      "title_ru": "Поддерживаемые Ираном хуситы захватили близлежащий контроль над жизненно важным судоходным маршрутом Баб-эль-Мандеб",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 22:01:20"
+    },
     {
       "id": 904,
       "source": "France 24",
@@ -464,22 +480,6 @@
       "title_ru": "Нетаньяху посещает войска в оккупированной Сирии, поскольку Дамаск критикует «вопиющее нарушение» суверенитета",
       "status": "published",
       "published_to_telegram_at": "2026-09-10 09:08:26"
-    },
-    {
-      "id": 846,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260910-macron-calls-for-shared-governance-space-paris-space-summit",
-      "title_ru": "Макрон призывает к «совместному управлению» космосом на саммите в Париже",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 09:08:25"
-    },
-    {
-      "id": 845,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-morning",
-      "title_ru": "Последние новости | 10 сентября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
