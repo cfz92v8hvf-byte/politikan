@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-11T09:06:38.574685+00:00",
+  "updated_at": "2026-09-11T13:30:17.894729+00:00",
   "posts": [
+    {
+      "id": 892,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260911-venice-gives-25-minute-ovation-for-film-on-israel-s-mass-killing-of-gaza-civilians",
+      "title_ru": "Венеция аплодирует 25-минутному фильму о массовом убийстве Израилем мирных жителей Газы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 891,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260911-massive-security-operation-in-place-for-9-11-anniversary",
+      "title_ru": "«Массовая» операция по обеспечению безопасности в годовщину 9/11",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 890,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/11/latest-news-bulletin-september-11th-2026-midday",
+      "title_ru": "Последние новости | 11 сентября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 889,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/russias-foreign-recruit-drive-amounts-to-human-trafficking-amnesty-international-says",
+      "title_ru": "Иностранная вербовка в России равносильна торговле людьми, заявляет Amnesty International",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 13:30:17"
+    },
+    {
+      "id": 888,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/russian-leader-vladimir-putin-arrives-in-india-ahead-of-brics-summit",
+      "title_ru": "Лидеры БРИКС прибыли в Индию в преддверии двухдневного саммита, поскольку глобальные конфликты должны занять центральное место",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 13:30:17"
+    },
+    {
+      "id": 887,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
+      "title_ru": "Хуситы захватили ключевой йеменский остров в Баб-эль-Мандебском проливе",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 13:30:16"
+    },
     {
       "id": 886,
       "source": "DW",
@@ -30,7 +78,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/americas/20260911-vance-tries-label-democrats-as-party-of-hatred-seizes-maga-spotlight",
       "title_ru": "Вэнс пытается назвать демократов «партией ненависти» , захватывая центр внимания MAGA",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Помощь сокращает принудительное закрытие клиник по всему Судану",
       "status": "published",
       "published_to_telegram_at": "2026-09-09 21:55:03"
-    },
-    {
-      "id": 832,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-claims-firefighters-carried-him-to-safety-right-after-9-11-but-his-account-is-disputed-1",
-      "title_ru": "Трамп утверждает, что пожарные увезли его в безопасное место «сразу после 11 сентября», но его рассказ оспаривается",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 21:55:02"
-    },
-    {
-      "id": 831,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260909-trump-believes-in-the-power-of-his-own-charisma-analyst-says",
-      "title_ru": "Трамп «верит в силу собственной харизмы», говорит аналитик",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 21:55:02"
-    },
-    {
-      "id": 830,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260909-putin-and-trump-discuss-ukraine-in-extremely-frank-call",
-      "title_ru": "Путин и Трамп обсуждают Украину в «предельно откровенном» разговоре",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 829,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iran-strikes-ships-expands-no-go-zone-outside-hormuz-strait",
-      "title_ru": "Иран наносит удары по кораблям и расширяет запретную зону за пределами Ормузского пролива",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 19:25:51"
-    },
-    {
-      "id": 828,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260909-whose-space-is-it-europe-scrambles-as-us-rules-satellite-race",
-      "title_ru": "Чье это жилье? Европа борется, поскольку США управляют сателлитной гонкой",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 19:25:51"
-    },
-    {
-      "id": 827,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/republicans-put-trump-center-stage-in-us-midterms-gamble",
-      "title_ru": "Республиканцы поставили Трампа в центр игры на промежуточных выборах в США",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 19:25:51"
     }
   ]
 }
