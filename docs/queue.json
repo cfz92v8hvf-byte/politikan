@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-11T00:00:06.990277+00:00",
+  "updated_at": "2026-09-11T04:26:01.320742+00:00",
   "posts": [
+    {
+      "id": 880,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
+      "title_ru": "Поддерживаемые Ираном йеменские повстанцы-хуситы захватили стратегический портовый город Красного моря Мокка",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 879,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260911-trump-new-york-25-years-9-11-muslim-mayor",
+      "title_ru": "Трамп отсутствует, поскольку Нью-Йорк отмечает 25 лет со дня 11 сентября с первым мусульманским мэром",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 04:26:01"
+    },
+    {
+      "id": 878,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
+      "title_ru": "Путин и Си в Индии на саммите БРИКС, поскольку Украина, ближневосточные войны вырисовываются",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 04:26:00"
+    },
+    {
+      "id": 877,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/israeli-strike-in-gaza-kills-family-of-four-including-two-children",
+      "title_ru": "Израильский удар в Газе убил семью из четырех человек, в том числе двоих детей",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 04:26:00"
+    },
+    {
+      "id": 876,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/hong-kong-gives-tiananmen-vigil-activists-between-5-and-7-year",
+      "title_ru": "Гонконг дает активистам «Тяньаньмэнь» от 5 до 7 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 04:26:00"
+    },
     {
       "id": 875,
       "source": "DW",
@@ -440,46 +480,6 @@
       "title_ru": "Репрессии Кении против иностранных рабочих вызывают обеспокоенность среди бурундийцев",
       "status": "published",
       "published_to_telegram_at": "2026-09-09 16:30:39"
-    },
-    {
-      "id": 820,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260909-how-a-french-foreign-legion-soldier-dramatically-escaped-colombian-captors",
-      "title_ru": "Как солдат французского Иностранного легиона драматически избежал колумбийских захватчиков",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 16:30:38"
-    },
-    {
-      "id": 819,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/09/china-reiterates-its-one-china-principle-on-taiwan-over-un-resolution",
-      "title_ru": "Китай подтверждает свой принцип «одного Китая» в отношении Тайваня в связи с резолюцией ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 818,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes",
-      "title_ru": "Хуситы сообщают о репрессиях Саудовской Аравии после того, как нефтяные объекты подожгли волной ударов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 11:57:32"
-    },
-    {
-      "id": 817,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/new-escalation-in-yemen-deeply-concerning-everyone-in-the-region",
-      "title_ru": "«Новая эскалация в Йемене глубоко касается всех в регионе»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 11:57:31"
-    },
-    {
-      "id": 816,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260909-iran-attacks-us-base-after-american-strikes-on-tankers",
-      "title_ru": "Иран атакует базу США после американских ударов по танкерам",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 11:57:31"
     }
   ]
 }
