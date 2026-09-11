@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-11T17:08:32.410020+00:00",
+  "updated_at": "2026-09-11T19:47:52.501324+00:00",
   "posts": [
+    {
+      "id": 904,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-observers/20260911-hate-speech-rohingya-refugees-rise-malaysia",
+      "title_ru": "В Малайзии растет число ненавистнических высказываний в адрес беженцев-рохинджа",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 903,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260911-replay-hegseth-warns-of-islamist-threat-at-9-11-25th-anniversary-commemorations",
+      "title_ru": "ПОВТОР: Хегсет предупреждает об «исламистской угрозе» на торжествах по случаю 25-й годовщины 11 сентября",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 902,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden",
+      "title_ru": "Я крайне обеспокоен экстремистами, которые побеждают на выборах в Европе: премьер-министр Люксембурга Люк Фриден",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 901,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/access-asia/20260911-my-feed-my-way-australia-takes-on-the-algorithm",
+      "title_ru": "«My Feed My Way»: Австралия берет на себя алгоритм",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 900,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes",
+      "title_ru": "Зеленский призывает Трампа ввести новые санкции против России «сейчас» после смертоносных ударов по Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 19:47:51"
+    },
+    {
+      "id": 899,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
+      "title_ru": "США отмечают 25-ю годовщину разрушительных атак 11 сентября, поскольку их наследие сохраняется",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 19:47:52"
+    },
     {
       "id": 898,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran",
       "title_ru": "Трамп использует мемориальную речь 9/11 для защиты войны в Иране",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11",
       "title_ru": "Трамп выступил с речью на церемонии в Пентагоне по случаю 25-й годовщины 11 сентября",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 10 сентября 2026 г. – утро",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 844,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп обещает американцам $ 5000, если республиканцы выиграют промежуточные выборы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 04:33:05"
-    },
-    {
-      "id": 843,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines",
-      "title_ru": "По меньшей мере пять человек погибли, 87 пропали без вести после пожара на пароме на Филиппинах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 842,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
-      "title_ru": "Ближний Восток в прямом эфире: Трамп предупреждает Иран «не быть милым» из-за активности на горе Кирка",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 04:33:05"
-    },
-    {
-      "id": 841,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/10/press-statement-by-president-costa-following-the-meeting-with-prime-minister-of-poland-donald-tusk/",
-      "title_ru": "Заявление для прессы президента Коста по итогам встречи с премьер-министром Польши Дональдом Туском",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 00:04:39"
-    },
-    {
-      "id": 840,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/norway-s-pm-zelenskyy-s-plane-almost-hit-by-drone/a-79207528?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Премьер-министр Норвегии: самолет Зеленского едва не сбил беспилотник",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 839,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/finland-google-announces-€13-billion-ai-energy-investment/a-79208034?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Финляндия: Google объявляет об инвестициях в энергетику в размере € 13 млрд",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 00:04:41"
     }
   ]
 }
