@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-11T13:30:17.894729+00:00",
+  "updated_at": "2026-09-11T17:08:32.410020+00:00",
   "posts": [
+    {
+      "id": 898,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran",
+      "title_ru": "Трамп использует мемориальную речь 9/11 для защиты войны в Иране",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 897,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11",
+      "title_ru": "Трамп выступил с речью на церемонии в Пентагоне по случаю 25-й годовщины 11 сентября",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 896,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates",
+      "title_ru": "Выборы в России: 1001 трюк для удаления неудобных кандидатов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 17:08:31"
+    },
+    {
+      "id": 895,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens",
+      "title_ru": "Флавио Болсонару обвинили в коррупции на фоне ужесточения выборов в Бразилии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 17:08:31"
+    },
+    {
+      "id": 894,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/11/latest-news-bulletin-september-11th-2026-evening",
+      "title_ru": "Последние новости | 11 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 17:08:32"
+    },
+    {
+      "id": 893,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/russia-sends-sanctioned-ships-to-mediterranean-as-nato-tracks-syrian-express-convoy",
+      "title_ru": "Россия отправляет санкционные корабли в Средиземное море, поскольку НАТО отслеживает конвой «Сирийский экспресс»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 17:08:30"
+    },
     {
       "id": 892,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Финляндия: Google объявляет об инвестициях в энергетику в размере € 13 млрд",
       "status": "published",
       "published_to_telegram_at": "2026-09-10 00:04:41"
-    },
-    {
-      "id": 838,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260909-rubio-to-seek-45-million-in-additional-security-funding-for-ecuador",
-      "title_ru": "Рубио запросит $ 45 млн на дополнительное финансирование безопасности для Эквадора",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 00:04:40"
-    },
-    {
-      "id": 837,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260909-brazil-supreme-court-chief-suspends-rival-rulings-amid-election-row",
-      "title_ru": "Глава Верховного суда Бразилии приостановил конкурирующие решения на фоне избирательного скандала",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 00:04:40"
-    },
-    {
-      "id": 836,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/eu-gives-spain-115-mn-euros-aid-over-ceuta-crisis",
-      "title_ru": "ЕС предоставил Испании 115 млн евро помощи в связи с кризисом в Сеуте",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 835,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/houthi-offensive-on-bab-al-mandeb-may-bring-tremendous-leverage-analyst-explains",
-      "title_ru": "Наступление хуситов на Баб-эль-Мандебский пролив может дать «огромные рычаги», объясняет аналитик",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 834,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260909-iran-and-us-strike-tankers-in-biggest-shipping-attack-since-war-began",
-      "title_ru": "Иран и США нанесли удар по танкерам в крупнейшем нападении на судоходство с начала войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 21:55:03"
-    },
-    {
-      "id": 833,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/aid-cuts-force-clinic-closures-across-sudan",
-      "title_ru": "Помощь сокращает принудительное закрытие клиник по всему Судану",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 21:55:03"
     }
   ]
 }
