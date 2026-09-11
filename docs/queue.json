@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-11T04:26:01.320742+00:00",
+  "updated_at": "2026-09-11T09:06:38.574685+00:00",
   "posts": [
+    {
+      "id": 886,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/magyar-vs-moscow-hungary-s-new-tough-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Мадьяр против Москвы: новая жесткая позиция Венгрии в отношении России",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 09:06:38"
+    },
+    {
+      "id": 885,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия: ультраправые лидируют в предстоящих государственных избирательных опросах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 09:06:37"
+    },
+    {
+      "id": 884,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
+      "title_ru": "Ближний Восток в прямом эфире: йеменские хуситы захватили ключевой остров в Баб-эль-Мандебском проливе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 883,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260911-vance-tries-label-democrats-as-party-of-hatred-seizes-maga-spotlight",
+      "title_ru": "Вэнс пытается назвать демократов «партией ненависти» , захватывая центр внимания MAGA",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 882,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20260911-anthropic-ai-surveillance-targeting-dissidents-china-iran-west-africa",
+      "title_ru": "По данным издания Anthropic, Китай и Иран входят в число стран, использующих ИИ для слежки за диссидентами и меньшинствами.",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 09:06:38"
+    },
+    {
+      "id": 881,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/11/tributes-paid-to-911-victims-at-republican-midterm-convention-in-dallas",
+      "title_ru": "На съезде Республиканской партии в Далласе почтили память жертв терактов 11 сентября.",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-11 09:06:37"
+    },
     {
       "id": 880,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Республиканцы поставили Трампа в центр игры на промежуточных выборах в США",
       "status": "published",
       "published_to_telegram_at": "2026-09-09 19:25:51"
-    },
-    {
-      "id": 826,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/video/2026/09/09/latest-news-bulletin-september-9th-2026-evening",
-      "title_ru": "Последние новости | 9 сентября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 825,
-      "source": "Euronews",
-      "source_url": "http://www.euronews.com/2026/09/09/temporary-wartime-weapons-depot-explosion-kills-14-outside-syrias-idlib",
-      "title_ru": "Временный взрыв на складе оружия военного времени убил 14 человек за пределами сирийского Идлиба",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 19:25:52"
-    },
-    {
-      "id": 824,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260909-modern-warfare-ukraine-racing-to-develop-new-interceptor-drones",
-      "title_ru": "Современная война: Украина мчится к разработке новых беспилотников-перехватчиков",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 823,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260909-france-s-far-right-national-rally-fires-policeman-from-security-team-over-racist-sexist-comments",
-      "title_ru": "Французский ультраправый Национальный митинг уволил полицейского из службы безопасности за расистские и сексистские комментарии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 16:30:40"
-    },
-    {
-      "id": 822,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260909-macron-summit-seeks-boost-for-european-space-despite-no-shows",
-      "title_ru": "Саммит Макрона ищет стимул для европейского пространства, несмотря на неявку",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 16:30:39"
-    },
-    {
-      "id": 821,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260909-kenya-s-crackdown-on-foreign-workers-raises-concern-among-burundians",
-      "title_ru": "Репрессии Кении против иностранных рабочих вызывают обеспокоенность среди бурундийцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-09 16:30:39"
     }
   ]
 }
