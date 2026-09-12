@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-12T12:48:51.327457+00:00",
+  "updated_at": "2026-09-12T15:53:05.055983+00:00",
   "posts": [
+    {
+      "id": 923,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-niger-kafra-oil-block-could-hold-2-5-billion-barrels",
+      "title_ru": "Нигер: нефтяной блок Кафра может содержать 2,5 миллиарда баррелей",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 922,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-germany-afd-leads-in-mecklenburg-western-pomerania-merz-s-cdu-slumps-to-7",
+      "title_ru": "Германия: АдГ лидирует в Мекленбурге-Передней Померании, ХДС Мерца падает до 7%",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 921,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-germany-protests-follow-afd-election-victory",
+      "title_ru": "Германия: протесты после победы АдГ на выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 15:53:05"
+    },
+    {
+      "id": 920,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-brics-nations-urge-maximum-restraint-in-middle-east-war",
+      "title_ru": "Страны БРИКС призывают к «максимальной сдержанности» в ближневосточной войне",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 15:53:04"
+    },
+    {
+      "id": 919,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-brics-what-is-in-the-joint-statement-from-the-11-members",
+      "title_ru": "БРИКС: Что в совместном заявлении 11 членов?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 15:53:04"
+    },
+    {
+      "id": 918,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-trump-in-ireland-what-are-irish-people-saying-about-the-visit",
+      "title_ru": "Трамп в Ирландии: Что говорят ирландцы о визите?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 15:53:03"
+    },
     {
       "id": 917,
       "source": "France 24",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20260912-jewish-supercop-runs-on-arab-ticket-in-israeli-polls-%E2%80%93-and-sparks-a-storm",
       "title_ru": "Еврейский «суперкоп» бежит по арабскому билету в израильских опросах – и разжигает бурю",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "«Нет фактов»: Марокко отрицает причастность к смертельной спешке мигрантов в Сеуте",
       "status": "published",
       "published_to_telegram_at": "2026-09-10 19:49:02"
-    },
-    {
-      "id": 863,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
-      "title_ru": "Французские пожарные проводят шестинедельную забастовку после рекордных летних пожаров",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 19:49:02"
-    },
-    {
-      "id": 862,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/arts24/20260910-sandra-h%C3%BCller-from-european-cinema-to-working-with-tom-cruise-and-ryan-gosling",
-      "title_ru": "Сандра Хюллер: от европейского кино до работы с Томом Крузом и Райаном Гослингом",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 861,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support",
-      "title_ru": "Предложение Инфантино о переизбрании в ФИФА сталкивается с препятствием, поскольку Франция отзывает поддержку",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 860,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says",
-      "title_ru": "По словам премьер-министра Норвегии, самолет Зеленского «почти сбил» беспилотник на пути в Осло",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 17:16:48"
-    },
-    {
-      "id": 859,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges",
-      "title_ru": "Самый жаркий месяц августа, когда-либо зарегистрированный во всем мире, когда появляется огромное Эль-Ниньо",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 17:16:48"
-    },
-    {
-      "id": 858,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us",
-      "title_ru": "Индуистская секта BAPS находится под пристальным вниманием во Франции, США",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 17:16:47"
     }
   ]
 }
