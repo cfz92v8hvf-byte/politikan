@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-12T04:42:13.731841+00:00",
+  "updated_at": "2026-09-12T08:52:18.472872+00:00",
   "posts": [
+    {
+      "id": 911,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Эксклюзив DW: Зеленский предлагает встретиться с Путиным на G20 в Майами",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 910,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Российская беспилотная война идет в Молдову и Румынию",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 08:52:18"
+    },
+    {
+      "id": 909,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
+      "title_ru": "Ближний Восток в прямом эфире: Саудовская Аравия закрывает критически важный нефтепровод после терактов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 908,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260912-brics-summit-set-to-be-dominated-by-wars-in-ukraine-and-iran",
+      "title_ru": "Лидеры БРИКС собираются в Индии, поскольку войны и напряженность в США проверяют единство",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 08:52:17"
+    },
+    {
+      "id": 907,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-morning",
+      "title_ru": "Последние новости | 12 сентября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 906,
       "source": "Council of the EU",
@@ -440,46 +480,6 @@
       "title_ru": "«Страна разваливается»: иранцы рассказали Euronews, как война опустошила их кошельки",
       "status": "published",
       "published_to_telegram_at": "2026-09-10 13:40:02"
-    },
-    {
-      "id": 851,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/10/houthis-seize-red-sea-port-city-in-push-to-seize-bab-el-mandeb",
-      "title_ru": "Хуситы захватили йеменский портовый город на Красном море, чтобы захватить Баб-эль-Мандеб",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 13:40:01"
-    },
-    {
-      "id": 850,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ecuador-ex-president-bucaram-sentenced-in-corruption-case/a-79209321?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Эквадор: экс-президенту Букараму вынесен приговор по делу о коррупции",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 09:08:26"
-    },
-    {
-      "id": 849,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-s-zelenskyy-arrives-in-canada-seeking-air-support/a-79209534?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Зеленский прибыл в Канаду в поисках поддержки с воздуха",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 09:08:26"
-    },
-    {
-      "id": 848,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-can-see-the-writing-on-the-wall-here-republicans-hold-midterm-convention",
-      "title_ru": "«Трамп может видеть надпись на стене здесь»: республиканцы проводят промежуточный съезд",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 847,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260910-netanyahu-visits-troops-occupied-syria-damascus-slams-blatant-violation-sovereignty",
-      "title_ru": "Нетаньяху посещает войска в оккупированной Сирии, поскольку Дамаск критикует «вопиющее нарушение» суверенитета",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 09:08:26"
     }
   ]
 }
