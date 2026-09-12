@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T18:17:59.101663+00:00",
+  "updated_at": "2026-09-12T20:39:39.851162+00:00",
   "posts": [
+    {
+      "id": 930,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/culture/20260912-danish-wwii-drama-wins-golden-lion-at-venice-film-festival",
+      "title_ru": "Датская драма о Второй мировой войне получила «Золотого льва» на Венецианском кинофестивале",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 20:39:39"
+    },
+    {
+      "id": 929,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
+      "title_ru": "Последние новости | 12 сентября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 928,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Канада и Украина обещают 100-летнее партнерство",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 870,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/meta-tests-out-putting-fact-checking-in-users-hands-across-latin-america-1",
-      "title_ru": "Meta тестирует передачу проверки фактов в руки пользователей по всей Латинской Америке",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 21:59:09"
-    },
-    {
-      "id": 869,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
-      "title_ru": "Израиль уничтожил сеть туннелей Хезболлы на юге Ливана, вызвав подземные толчки магнитудой 4,1",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 21:59:09"
     }
   ]
 }
