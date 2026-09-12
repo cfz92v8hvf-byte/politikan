@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-12T08:52:18.472872+00:00",
+  "updated_at": "2026-09-12T12:48:51.327457+00:00",
   "posts": [
+    {
+      "id": 917,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260912-trump-arrives-in-dublin-for-talks-with-ireland-s-leaders-before-attending-golf-tournament",
+      "title_ru": "Трамп говорит, что объединенная Ирландия «будет фантастической» во время поездки в Дублин",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 916,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260912-jewish-supercop-runs-on-arab-ticket-in-israeli-polls-%E2%80%93-and-sparks-a-storm",
+      "title_ru": "Еврейский «суперкоп» бежит по арабскому билету в израильских опросах – и разжигает бурю",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 915,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-trump-will-meet-with-ireland-s-leaders-before-heading-to-his-golf-club-in-doonbeg",
+      "title_ru": "Трамп встретится с лидерами Ирландии, прежде чем отправиться в свой гольф-клуб в Дунбеге",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 12:48:50"
+    },
+    {
+      "id": 914,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-russia-s-putin-arrives-in-india-as-brics-leaders-begin-talks",
+      "title_ru": "Путин прибыл в Индию на фоне начала переговоров лидеров стран БРИКС",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 12:48:50"
+    },
+    {
+      "id": 913,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-houthis-seize-key-sites-around-bab-el-mandeb-as-saudi-oil-exports-face-disruption",
+      "title_ru": "Хуситы захватывают ключевые объекты вокруг Баб-эль-Мандебского пролива, поскольку экспорт саудовской нефти сталкивается с перебоями",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 12:48:49"
+    },
+    {
+      "id": 912,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-midday",
+      "title_ru": "Последние новости | 12 сентября 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 12:48:51"
+    },
     {
       "id": 911,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Индуистская секта BAPS находится под пристальным вниманием во Франции, США",
       "status": "published",
       "published_to_telegram_at": "2026-09-10 17:16:47"
-    },
-    {
-      "id": 857,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-evening",
-      "title_ru": "Последние новости | 10 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 17:16:48"
-    },
-    {
-      "id": 856,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260910-25-years-on-america-seeks-to-keep-9-11-memories-alive",
-      "title_ru": "25 лет спустя Америка стремится сохранить память о 9/11",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 13:40:01"
-    },
-    {
-      "id": 855,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260910-houthis-seize-key-yemeni-red-sea-port-sources-say-threatening-global-energy-flows",
-      "title_ru": "Источники говорят, что хуситы захватили ключевой йеменский порт в Красном море, угрожая глобальным энергетическим потокам",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 13:40:00"
-    },
-    {
-      "id": 854,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/10/the-days-of-safety-are-over-russian-airports-face-record-closures",
-      "title_ru": "«Дни безопасности прошли»: российские аэропорты столкнулись с рекордным закрытием",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 853,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-midday",
-      "title_ru": "Последние новости | 10 сентября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 852,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/10/the-country-is-falling-apart-iranians-tell-euronews-how-war-emptied-their-wallets",
-      "title_ru": "«Страна разваливается»: иранцы рассказали Euronews, как война опустошила их кошельки",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 13:40:02"
     }
   ]
 }
