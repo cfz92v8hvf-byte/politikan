@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-09-12T15:53:05.055983+00:00",
+  "updated_at": "2026-09-12T18:17:59.101663+00:00",
   "posts": [
+    {
+      "id": 928,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина: в серии российских ударов погибли несколько человек",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 927,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Багдад подтверждает, что атака на саудовский трубопровод произошла из Ирака",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 18:17:58"
+    },
+    {
+      "id": 926,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-trump-begins-two-day-ireland-visit-security-operation-costs-%E2%82%AC20-million",
+      "title_ru": "Трамп начинает двухдневный визит в Ирландию, операция по обеспечению безопасности стоит € 20 млн",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 925,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260912-kenya-crocodiles-pushed-towards-homes-by-rising-lakes",
+      "title_ru": "Кения: Крокодилов подталкивают к домам поднимающиеся озера",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 18:17:59"
+    },
+    {
+      "id": 924,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd",
+      "title_ru": "Десятки тысяч протестуют против крайне правой партии АдГ в Германии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-12 18:17:58"
+    },
     {
       "id": 923,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260912-niger-kafra-oil-block-could-hold-2-5-billion-barrels",
       "title_ru": "Нигер: нефтяной блок Кафра может содержать 2,5 миллиарда баррелей",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +54,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260912-germany-afd-leads-in-mecklenburg-western-pomerania-merz-s-cdu-slumps-to-7",
       "title_ru": "Германия: АдГ лидирует в Мекленбурге-Передней Померании, ХДС Мерца падает до 7%",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "Израиль уничтожил сеть туннелей Хезболлы на юге Ливана, вызвав подземные толчки магнитудой 4,1",
       "status": "published",
       "published_to_telegram_at": "2026-09-10 21:59:09"
-    },
-    {
-      "id": 868,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260910-what-to-know-about-trump-s-5-000-dividend-pledge",
-      "title_ru": "Что нужно знать о «дивидендном» залоге Трампа в $ 5000",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 867,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260910-french-govt-warns-right-wing-tv-channel-about-using-expelled-pro-putin-pundit",
-      "title_ru": "Французское правительство предупредило правый телеканал о ретрансляции изгнанного пропутинского эксперта",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 866,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iran-raises-fuel-prices-for-heavy-users",
-      "title_ru": "Иран повышает цены на топливо для тяжелых потребителей",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 19:49:03"
-    },
-    {
-      "id": 865,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping",
-      "title_ru": "Поддерживаемые Ираном повстанцы-хуситы захватили стратегический портовый город в Йемене, создав угрозу для судоходства в Красном море",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 19:49:03"
-    },
-    {
-      "id": 864,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush",
-      "title_ru": "«Нет фактов»: Марокко отрицает причастность к смертельной спешке мигрантов в Сеуте",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-10 19:49:02"
     }
   ]
 }
