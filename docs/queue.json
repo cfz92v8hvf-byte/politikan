@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-13T00:26:21.972187+00:00",
+  "updated_at": "2026-09-13T05:17:54.991447+00:00",
   "posts": [
+    {
+      "id": 934,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Швеции: сила крайне правых глаз в первый раз",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 05:17:54"
+    },
+    {
+      "id": 933,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "title_ru": "Ближний Восток в прямом эфире: хуситы говорят, что атаковали саудовскую базу после возобновления боевых действий с йеменскими силами",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 05:17:54"
+    },
+    {
+      "id": 932,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/13/latest-news-bulletin-september-13th-2026-morning",
+      "title_ru": "Последние новости | 13 сентября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 05:17:54"
+    },
     {
       "id": 931,
       "source": "France 24",
@@ -456,30 +480,6 @@
       "title_ru": "Алжир разрывает дипломатические отношения с ОАЭ",
       "status": "published",
       "published_to_telegram_at": "2026-09-11 00:00:06"
-    },
-    {
-      "id": 874,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "В России закрывается немецкий Goethe-Institut. Россияне рассказали DW, как отмененные экзамены разрушают их планы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 873,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Кибератака в Берлине: 1,4 млн файлов в даркнете",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 872,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия нацелилась на теневой флот России",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
