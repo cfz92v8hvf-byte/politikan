@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-13T10:22:40.274781+00:00",
+  "updated_at": "2026-09-13T14:37:47.642037+00:00",
   "posts": [
+    {
+      "id": 946,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+      "title_ru": "Сотрудники Radio France бастуют из-за назначения редактора крайне правого еженедельника",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 14:37:47"
+    },
+    {
+      "id": 945,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/swedish-far-right-eyes-role-in-government",
+      "title_ru": "Роль шведских крайне правых глаз в правительстве",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 14:37:47"
+    },
+    {
+      "id": 944,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait",
+      "title_ru": "Йемен: боевые действия обостряются вокруг Баб-эль-Мандебского пролива",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 14:37:46"
+    },
+    {
+      "id": 943,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence",
+      "title_ru": "Йемен: хуситы проверяют региональное влияние Ирана",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 14:37:46"
+    },
+    {
+      "id": 942,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/13/latest-news-bulletin-september-13th-2026-midday",
+      "title_ru": "Последние новости | 13 сентября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 941,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/13/uae-and-iran-leaders-meet-at-the-brics-summit-for-the-first-time-since-the-war",
+      "title_ru": "Лидеры ОАЭ и Ирана впервые после войны встретились на саммите БРИКС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 940,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france/20260913-france-apologises-for-diplomatic-spat-with-us-to-lift-block-on-new-ambassador-to-washington",
       "title_ru": "Франция извинилась за дипломатическую размолвку с США о снятии блокады с нового посла в Вашингтоне",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -46,7 +94,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/13/one-person-killed-after-ship-struck-in-the-strait-of-hormuz-iranian-authorities-say",
       "title_ru": "Один человек погиб после удара корабля в Ормузском проливе, сообщают иранские власти",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Хуситы захватили ключевой йеменский остров в Баб-эль-Мандебском проливе",
       "status": "published",
       "published_to_telegram_at": "2026-09-11 13:30:16"
-    },
-    {
-      "id": 886,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/magyar-vs-moscow-hungary-s-new-tough-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Мадьяр против Москвы: новая жесткая позиция Венгрии в отношении России",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 09:06:38"
-    },
-    {
-      "id": 885,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия: ультраправые лидируют в предстоящих государственных избирательных опросах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 09:06:37"
-    },
-    {
-      "id": 884,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
-      "title_ru": "Ближний Восток в прямом эфире: йеменские хуситы захватили ключевой остров в Баб-эль-Мандебском проливе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 883,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260911-vance-tries-label-democrats-as-party-of-hatred-seizes-maga-spotlight",
-      "title_ru": "Вэнс пытается назвать демократов «партией ненависти» , захватывая центр внимания MAGA",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 882,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20260911-anthropic-ai-surveillance-targeting-dissidents-china-iran-west-africa",
-      "title_ru": "По данным издания Anthropic, Китай и Иран входят в число стран, использующих ИИ для слежки за диссидентами и меньшинствами.",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 09:06:38"
-    },
-    {
-      "id": 881,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/11/tributes-paid-to-911-victims-at-republican-midterm-convention-in-dallas",
-      "title_ru": "На съезде Республиканской партии в Далласе почтили память жертв терактов 11 сентября.",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 09:06:37"
     }
   ]
 }
