@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-13T05:17:54.991447+00:00",
+  "updated_at": "2026-09-13T10:22:40.274781+00:00",
   "posts": [
+    {
+      "id": 940,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260913-france-apologises-for-diplomatic-spat-with-us-to-lift-block-on-new-ambassador-to-washington",
+      "title_ru": "Франция извинилась за дипломатическую размолвку с США о снятии блокады с нового посла в Вашингтоне",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 939,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis",
+      "title_ru": "Йемен: наступление хуситов вызывает новый кризис перемещения",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 10:22:40"
+    },
+    {
+      "id": 938,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk",
+      "title_ru": "Великобритания: полиция расследует пожертвование в размере £ 72 млн для Reform UK",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 10:22:39"
+    },
+    {
+      "id": 937,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting",
+      "title_ru": "Саммит БРИКС: что получилось по итогам встречи в Нью-Дели",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 10:22:39"
+    },
+    {
+      "id": 936,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/germany-thousands-rally-against-far-right-after-afd-victory",
+      "title_ru": "Германия: Тысячи людей протестуют против ультраправых после победы АдГ",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 10:22:39"
+    },
+    {
+      "id": 935,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/13/one-person-killed-after-ship-struck-in-the-strait-of-hormuz-iranian-authorities-say",
+      "title_ru": "Один человек погиб после удара корабля в Ормузском проливе, сообщают иранские власти",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 934,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "На съезде Республиканской партии в Далласе почтили память жертв терактов 11 сентября.",
       "status": "published",
       "published_to_telegram_at": "2026-09-11 09:06:37"
-    },
-    {
-      "id": 880,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
-      "title_ru": "Поддерживаемые Ираном йеменские повстанцы-хуситы захватили стратегический портовый город Красного моря Мокка",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 879,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260911-trump-new-york-25-years-9-11-muslim-mayor",
-      "title_ru": "Трамп отсутствует, поскольку Нью-Йорк отмечает 25 лет со дня 11 сентября с первым мусульманским мэром",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 04:26:01"
-    },
-    {
-      "id": 878,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
-      "title_ru": "Путин и Си в Индии на саммите БРИКС, поскольку Украина, ближневосточные войны вырисовываются",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 04:26:00"
-    },
-    {
-      "id": 877,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/11/israeli-strike-in-gaza-kills-family-of-four-including-two-children",
-      "title_ru": "Израильский удар в Газе убил семью из четырех человек, в том числе двоих детей",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 04:26:00"
-    },
-    {
-      "id": 876,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/11/hong-kong-gives-tiananmen-vigil-activists-between-5-and-7-year",
-      "title_ru": "Гонконг дает активистам «Тяньаньмэнь» от 5 до 7 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 04:26:00"
-    },
-    {
-      "id": 875,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Алжир разрывает дипломатические отношения с ОАЭ",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 00:00:06"
     }
   ]
 }
