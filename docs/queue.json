@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-13T14:37:47.642037+00:00",
+  "updated_at": "2026-09-13T17:44:00.471930+00:00",
   "posts": [
+    {
+      "id": 952,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Русские в Гёте-Институте: «Заложники политики»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 951,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина и Польша заявили, что Россия сбила пассажирский поезд, направлявшийся в Варшаву",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 950,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/surfing-france-tests-olympic-venue-ahead-of-la-2028",
+      "title_ru": "Серфинг: Франция тестирует олимпийский объект в преддверии LA 2028",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 17:44:00"
+    },
+    {
+      "id": 949,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/the-race-to-make-ai-safer",
+      "title_ru": "Гонка за повышение безопасности ИИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 17:43:59"
+    },
+    {
+      "id": 948,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-s-far-right-marine-le-pen-kicks-off-2027-presidential-campaign",
+      "title_ru": "Крайне правая Марин Ле Пен начинает президентскую кампанию 2027 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 17:43:59"
+    },
+    {
+      "id": 947,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/13/latest-news-bulletin-september-13th-2026-evening",
+      "title_ru": "Последние новости | 13 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-13 17:43:59"
+    },
     {
       "id": 946,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Россия отправляет санкционные корабли в Средиземное море, поскольку НАТО отслеживает конвой «Сирийский экспресс»",
       "status": "published",
       "published_to_telegram_at": "2026-09-11 17:08:30"
-    },
-    {
-      "id": 892,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260911-venice-gives-25-minute-ovation-for-film-on-israel-s-mass-killing-of-gaza-civilians",
-      "title_ru": "Венеция аплодирует 25-минутному фильму о массовом убийстве Израилем мирных жителей Газы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 891,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260911-massive-security-operation-in-place-for-9-11-anniversary",
-      "title_ru": "«Массовая» операция по обеспечению безопасности в годовщину 9/11",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 890,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/11/latest-news-bulletin-september-11th-2026-midday",
-      "title_ru": "Последние новости | 11 сентября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 889,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/11/russias-foreign-recruit-drive-amounts-to-human-trafficking-amnesty-international-says",
-      "title_ru": "Иностранная вербовка в России равносильна торговле людьми, заявляет Amnesty International",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 13:30:17"
-    },
-    {
-      "id": 888,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/11/russian-leader-vladimir-putin-arrives-in-india-ahead-of-brics-summit",
-      "title_ru": "Лидеры БРИКС прибыли в Индию в преддверии двухдневного саммита, поскольку глобальные конфликты должны занять центральное место",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 13:30:17"
-    },
-    {
-      "id": 887,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/11/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
-      "title_ru": "Хуситы захватили ключевой йеменский остров в Баб-эль-Мандебском проливе",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 13:30:16"
     }
   ]
 }
