@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-14T20:52:55.040754+00:00",
+  "updated_at": "2026-09-14T23:49:35.295848+00:00",
   "posts": [
+    {
+      "id": 988,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
+      "title_ru": "«Само существование ЛГБТКИ-людей рассматривается как непристойное», - говорит турецкий активист",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 987,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
+      "title_ru": "Йемен: видеоролики с проверкой фактов, подтверждающие нападения повстанцев-хуситов",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 986,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
+      "title_ru": "Правозащитная группа обвиняет Израиль в уничтожении «палестинского существования» на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 23:49:35"
+    },
+    {
+      "id": 985,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260914-us-space-force-confirms-weapons-deployed-in-space-for-first-time",
+      "title_ru": "Космические силы США впервые подтвердили развертывание оружия в космосе",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 23:49:34"
+    },
+    {
+      "id": 984,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes",
+      "title_ru": "Зеленский: Украина готова к деэскалации, если Россия прекратит удары",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 23:49:34"
+    },
+    {
+      "id": 983,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/14/united-states-space-force-says-us-has-weapons-in-orbit",
+      "title_ru": "Космические силы США заявляют, что у США есть оружие на орбите",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 23:49:34"
+    },
     {
       "id": 982,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
       "title_ru": "Последние новости | 12 сентября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 928,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина: в серии российских ударов погибли несколько человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 927,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Багдад подтверждает, что атака на саудовский трубопровод произошла из Ирака",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 18:17:58"
-    },
-    {
-      "id": 926,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-trump-begins-two-day-ireland-visit-security-operation-costs-%E2%82%AC20-million",
-      "title_ru": "Трамп начинает двухдневный визит в Ирландию, операция по обеспечению безопасности стоит € 20 млн",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 925,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-kenya-crocodiles-pushed-towards-homes-by-rising-lakes",
-      "title_ru": "Кения: Крокодилов подталкивают к домам поднимающиеся озера",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 18:17:59"
-    },
-    {
-      "id": 924,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd",
-      "title_ru": "Десятки тысяч протестуют против крайне правой партии АдГ в Германии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 18:17:58"
-    },
-    {
-      "id": 923,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-niger-kafra-oil-block-could-hold-2-5-billion-barrels",
-      "title_ru": "Нигер: нефтяной блок Кафра может содержать 2,5 миллиарда баррелей",
       "status": "expired",
       "published_to_telegram_at": null
     }
