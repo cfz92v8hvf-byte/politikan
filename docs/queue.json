@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T22:20:21.044717+00:00",
+  "updated_at": "2026-09-14T00:22:28.117801+00:00",
   "posts": [
+    {
+      "id": 959,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Швеции «очень близки», поскольку левый блок претендует на жесткое лидерство",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 00:22:28"
+    },
+    {
+      "id": 958,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-cdu-ahead-in-lower-saxony-local-election/live-79223427?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия: ХДС впереди на местных выборах в Нижней Саксонии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 00:22:27"
+    },
     {
       "id": 957,
       "source": "France 24",
@@ -464,22 +480,6 @@
       "title_ru": "Зеленский призывает Трампа ввести новые санкции против России «сейчас» после смертоносных ударов по Украине",
       "status": "published",
       "published_to_telegram_at": "2026-09-11 19:47:51"
-    },
-    {
-      "id": 899,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
-      "title_ru": "США отмечают 25-ю годовщину разрушительных атак 11 сентября, поскольку их наследие сохраняется",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 19:47:52"
-    },
-    {
-      "id": 898,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran",
-      "title_ru": "Трамп использует мемориальную речь 9/11 для защиты войны в Иране",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
