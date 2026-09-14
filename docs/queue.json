@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-14T16:56:00.537069+00:00",
+  "updated_at": "2026-09-14T20:52:55.040754+00:00",
   "posts": [
+    {
+      "id": 982,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260914-polls-put-france-s-le-pen-in-lead-as-presidential-campaign-kicks-off",
+      "title_ru": "Опрос ставит на первое место французскую Ле Пен в преддверии президентской кампании",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 981,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260914-turkey-police-arrested-at-least-63-people-in-anti-lgbt-crackdown",
+      "title_ru": "Турция: полиция арестовала по меньшей мере 63 человека в рамках репрессий против ЛГБТ+",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 980,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260914-where-is-the-kill-switch-ai-doomsday-warnings-trigger-calls-to-regulate",
+      "title_ru": "Где аварийный выключатель? Предупреждения о судном дне ИИ вызывают призывы к регулированию",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 20:52:54"
+    },
+    {
+      "id": 979,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/leaders-urge-eu-to-boost-arctic-role-to-tackle-russia-threat",
+      "title_ru": "Лидеры призывают ЕС повысить роль Арктики в борьбе с «угрозой» России",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 20:52:54"
+    },
+    {
+      "id": 978,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/axis-of-iranian-centrality-remains-one-of-more-destabilising-forces-in-the-region-expert-says",
+      "title_ru": "«Ось иранского центра» остается «одной из наиболее дестабилизирующих сил в регионе», говорит эксперт",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 20:52:54"
+    },
+    {
+      "id": 977,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/nigerian-oil-refinery-dangote-aims-to-raise-1-6-billion-dollars",
+      "title_ru": "Нигерийский нефтеперерабатывающий завод Dangote намерен привлечь 1,6 миллиарда долларов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 20:52:53"
+    },
     {
       "id": 976,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260912-niger-kafra-oil-block-could-hold-2-5-billion-barrels",
       "title_ru": "Нигер: нефтяной блок Кафра может содержать 2,5 миллиарда баррелей",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 922,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-germany-afd-leads-in-mecklenburg-western-pomerania-merz-s-cdu-slumps-to-7",
-      "title_ru": "Германия: АдГ лидирует в Мекленбурге-Передней Померании, ХДС Мерца падает до 7%",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 921,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-germany-protests-follow-afd-election-victory",
-      "title_ru": "Германия: протесты после победы АдГ на выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 15:53:05"
-    },
-    {
-      "id": 920,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-brics-nations-urge-maximum-restraint-in-middle-east-war",
-      "title_ru": "Страны БРИКС призывают к «максимальной сдержанности» в ближневосточной войне",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 15:53:04"
-    },
-    {
-      "id": 919,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-brics-what-is-in-the-joint-statement-from-the-11-members",
-      "title_ru": "БРИКС: Что в совместном заявлении 11 членов?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 15:53:04"
-    },
-    {
-      "id": 918,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260912-trump-in-ireland-what-are-irish-people-saying-about-the-visit",
-      "title_ru": "Трамп в Ирландии: Что говорят ирландцы о визите?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 15:53:03"
-    },
-    {
-      "id": 917,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260912-trump-arrives-in-dublin-for-talks-with-ireland-s-leaders-before-attending-golf-tournament",
-      "title_ru": "Трамп говорит, что объединенная Ирландия «будет фантастической» во время поездки в Дублин",
       "status": "expired",
       "published_to_telegram_at": null
     }
