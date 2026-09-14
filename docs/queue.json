@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-14T00:22:28.117801+00:00",
+  "updated_at": "2026-09-14T05:22:19.872194+00:00",
   "posts": [
+    {
+      "id": 964,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/cuban-dance-teacher-ordered-eu-sabotage-attacks-from-russia/a-79225946?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Кубинский учитель танцев приказал саботировать атаки ЕС из России",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 05:22:18"
+    },
+    {
+      "id": 963,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260914-us-g20-energy-talks-iran-war",
+      "title_ru": "США проводят энергетические переговоры G20 в Техасе, поскольку война с Ираном нарушает глобальные рынки топлива",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 962,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260914-iranian-ship-qeshm-island-tehran-hormuz",
+      "title_ru": "Иранское грузовое судно нанесло удар возле острова Кешм, поскольку Оман задерживает переговоры между Тегераном и Персидским заливом",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 05:22:19"
+    },
+    {
+      "id": 961,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "title_ru": "Ближний Восток в прямом эфире: Оман откладывает переговоры Ормуза с Ираном и странами региона",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 05:22:19"
+    },
+    {
+      "id": 960,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/14/latest-news-bulletin-september-14th-2026-morning",
+      "title_ru": "Последние новости | 14 сентября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-14 05:22:19"
+    },
     {
       "id": 959,
       "source": "DW",
@@ -440,46 +480,6 @@
       "title_ru": "Поддерживаемые Ираном хуситы захватили близлежащий контроль над жизненно важным судоходным маршрутом Баб-эль-Мандеб",
       "status": "published",
       "published_to_telegram_at": "2026-09-11 22:01:20"
-    },
-    {
-      "id": 904,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-observers/20260911-hate-speech-rohingya-refugees-rise-malaysia",
-      "title_ru": "В Малайзии растет число ненавистнических высказываний в адрес беженцев-рохинджа",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 903,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260911-replay-hegseth-warns-of-islamist-threat-at-9-11-25th-anniversary-commemorations",
-      "title_ru": "ПОВТОР: Хегсет предупреждает об «исламистской угрозе» на торжествах по случаю 25-й годовщины 11 сентября",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 902,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden",
-      "title_ru": "Я крайне обеспокоен экстремистами, которые побеждают на выборах в Европе: премьер-министр Люксембурга Люк Фриден",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 901,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/access-asia/20260911-my-feed-my-way-australia-takes-on-the-algorithm",
-      "title_ru": "«My Feed My Way»: Австралия берет на себя алгоритм",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 900,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes",
-      "title_ru": "Зеленский призывает Трампа ввести новые санкции против России «сейчас» после смертоносных ударов по Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-11 19:47:51"
     }
   ]
 }
