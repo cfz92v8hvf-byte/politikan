@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-15T07:37:12.417684+00:00",
+  "updated_at": "2026-09-15T12:54:34.857741+00:00",
   "posts": [
+    {
+      "id": 1003,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-think-tank-s-military-plan-alarms-allies-in-asia/a-79275554?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Военный план аналитического центра США встревожил союзников в Азии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 12:54:34"
+    },
+    {
+      "id": 1002,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260915-corruption-endemic-in-trump-administration-checks-and-balances-only-in-effect-at-lower-courts",
+      "title_ru": "Коррупция «эндемична» в администрации Трампа: «Сдержки и противовесы действуют только в судах низшей инстанции»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1001,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/amid-france-s-political-fragmentation-a-case-needs-to-be-made-for-participatory-democracy",
+      "title_ru": "На фоне политической «фрагментации» Франции «необходимо привести доводы в пользу демократии, основанной на участии»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1000,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/15/irans-new-ayatollah-is-a-nolan-fan-interested-in-start-ups-family-says",
+      "title_ru": "Новый аятолла Ирана - фанат Нолана, интересующийся стартапами, говорят родственники мужа и жены",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 999,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/15/un-urges-full-access-for-investigators-as-gaza-death-toll-mounts",
+      "title_ru": "ООН призывает к полному доступу для следователей по мере роста числа погибших в Газе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 998,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/15/escalation-is-on-the-way-but-region-must-keep-calm-syrias-al-shaara-tells-euronews",
+      "title_ru": "Эскалация «на пути», но регион должен сохранять спокойствие, сказал Euronews сирийский аль-Шараа",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 12:54:34"
+    },
     {
       "id": 997,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-morning",
       "title_ru": "Последние новости | 15 сентября 2026 г. – утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Йемен: боевые действия обостряются вокруг Баб-эль-Мандебского пролива",
       "status": "published",
       "published_to_telegram_at": "2026-09-13 14:37:46"
-    },
-    {
-      "id": 943,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence",
-      "title_ru": "Йемен: хуситы проверяют региональное влияние Ирана",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 14:37:46"
-    },
-    {
-      "id": 942,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/13/latest-news-bulletin-september-13th-2026-midday",
-      "title_ru": "Последние новости | 13 сентября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 941,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/13/uae-and-iran-leaders-meet-at-the-brics-summit-for-the-first-time-since-the-war",
-      "title_ru": "Лидеры ОАЭ и Ирана впервые после войны встретились на саммите БРИКС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 940,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260913-france-apologises-for-diplomatic-spat-with-us-to-lift-block-on-new-ambassador-to-washington",
-      "title_ru": "Франция извинилась за дипломатическую размолвку с США о снятии блокады с нового посла в Вашингтоне",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 939,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis",
-      "title_ru": "Йемен: наступление хуситов вызывает новый кризис перемещения",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 10:22:40"
-    },
-    {
-      "id": 938,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk",
-      "title_ru": "Великобритания: полиция расследует пожертвование в размере £ 72 млн для Reform UK",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 10:22:39"
     }
   ]
 }
