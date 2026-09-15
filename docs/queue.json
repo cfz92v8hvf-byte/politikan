@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-15T12:54:34.857741+00:00",
+  "updated_at": "2026-09-15T17:38:22.532329+00:00",
   "posts": [
+    {
+      "id": 1009,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/15/europes-fake-pesticide-crisis-inside-a-20-billion-illegal-trade",
+      "title_ru": "Поддельный кризис пестицидов в Европе: внутри незаконной торговли на $ 20 млрд",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1008,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/15/romanian-farmers-clash-with-police-in-bucharest-over-eu-livestock-ban",
+      "title_ru": "Румынские фермеры столкнулись с полицией в Бухаресте из-за запрета ЕС на животноводство",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1007,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/15/losing-access-to-bab-el-mandeb-would-be-catastrophic-for-the-entire-world-qatar-warns",
+      "title_ru": "Потеря доступа к Баб-эль-Мандебскому проливу станет «катастрофой для всего мира», предупреждает Катар",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1006,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/15/trump-blasts-supreme-court-over-mail-in-ballot-ruling",
+      "title_ru": "Трамп раскритиковал Верховный суд за решение о голосовании по почте",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 17:38:22"
+    },
+    {
+      "id": 1005,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-evening",
+      "title_ru": "Последние новости | 15 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 17:38:22"
+    },
+    {
+      "id": 1004,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/15/canada-still-a-crucial-partner-for-us-in-many-key-areas-pm-carney-says",
+      "title_ru": "Канада по-прежнему является важным партнером для США во «многих ключевых областях», говорит премьер-министр Карни",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 17:38:21"
+    },
     {
       "id": 1003,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Серфинг: Франция тестирует олимпийский объект в преддверии LA 2028",
       "status": "published",
       "published_to_telegram_at": "2026-09-13 17:44:00"
-    },
-    {
-      "id": 949,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/the-race-to-make-ai-safer",
-      "title_ru": "Гонка за повышение безопасности ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 17:43:59"
-    },
-    {
-      "id": 948,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-s-far-right-marine-le-pen-kicks-off-2027-presidential-campaign",
-      "title_ru": "Крайне правая Марин Ле Пен начинает президентскую кампанию 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 17:43:59"
-    },
-    {
-      "id": 947,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/13/latest-news-bulletin-september-13th-2026-evening",
-      "title_ru": "Последние новости | 13 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 17:43:59"
-    },
-    {
-      "id": 946,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
-      "title_ru": "Сотрудники Radio France бастуют из-за назначения редактора крайне правого еженедельника",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 14:37:47"
-    },
-    {
-      "id": 945,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/swedish-far-right-eyes-role-in-government",
-      "title_ru": "Роль шведских крайне правых глаз в правительстве",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 14:37:47"
-    },
-    {
-      "id": 944,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait",
-      "title_ru": "Йемен: боевые действия обостряются вокруг Баб-эль-Мандебского пролива",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-13 14:37:46"
     }
   ]
 }
