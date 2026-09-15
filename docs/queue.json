@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-14T23:49:35.295848+00:00",
+  "updated_at": "2026-09-15T01:56:21.471440+00:00",
   "posts": [
+    {
+      "id": 991,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Связанный с Кремлем российский олигарх помог финансировать свадьбу Трампа-младшего",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 01:56:21"
+    },
+    {
+      "id": 990,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
+      "title_ru": "Трамп называет опасения по поводу мошеннического ИИ «мистификацией», продвигаемой «БОЛЬНЫМ заговором»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 01:56:21"
+    },
+    {
+      "id": 989,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins",
+      "title_ru": "Верховный суд США отклонил заявку Трампа на ограничение почтовых бюллетеней после начала голосования",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-15 01:56:20"
+    },
     {
       "id": 988,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
       "title_ru": "«Само существование ЛГБТКИ-людей рассматривается как непристойное», - говорит турецкий активист",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +38,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
       "title_ru": "Йемен: видеоролики с проверкой фактов, подтверждающие нападения повстанцев-хуситов",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -456,30 +480,6 @@
       "title_ru": "Последние новости | 13 сентября 2026 г. – утро",
       "status": "published",
       "published_to_telegram_at": "2026-09-13 05:17:54"
-    },
-    {
-      "id": 931,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
-      "title_ru": "Саудовская Аравия закрывает трубопровод Восток-Запад, поскольку хуситы ужесточают контроль над Красным морем",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 22:37:09"
-    },
-    {
-      "id": 930,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/culture/20260912-danish-wwii-drama-wins-golden-lion-at-venice-film-festival",
-      "title_ru": "Датская драма о Второй мировой войне получила «Золотого льва» на Венецианском кинофестивале",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-12 20:39:39"
-    },
-    {
-      "id": 929,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
-      "title_ru": "Последние новости | 12 сентября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
