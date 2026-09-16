@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-16T12:11:11.371021+00:00",
+  "updated_at": "2026-09-16T17:06:06.104212+00:00",
   "posts": [
+    {
+      "id": 1041,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/syrias-al-sharaa-opens-the-biggest-arab-media-summit-yet",
+      "title_ru": "Сирийский Аль-Шараа открывает крупнейший арабский медиа-саммит",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1040,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/16/eu-canada-standing-ovation-for-mark-carney-at-european-parliament",
+      "title_ru": "ЕС - Канада: Аплодисменты Марку Карни в Европейском парламенте",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1039,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/rules-tying-doctors-to-rural-posts-leave-russian-medical-schools-short-of-students",
+      "title_ru": "Правила, привязывающие врачей к сельским постам, лишают российские медицинские школы студентов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 17:06:06"
+    },
+    {
+      "id": 1038,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/russia-used-claude-ai-for-espionage-disinformation-and-drone-swarms",
+      "title_ru": "Россия использовала ИИ Клода для шпионажа, дезинформации и роя дронов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 17:06:05"
+    },
+    {
+      "id": 1037,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/silk-road-spirit-meets-supply-chains-at-korea-central-asia-summit",
+      "title_ru": "«Дух Шелкового пути» встречает цепочки поставок на саммите Корея-Центральная Азия",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 17:06:04"
+    },
+    {
+      "id": 1036,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/16/latest-news-bulletin-september-16th-2026-evening",
+      "title_ru": "Последние новости | 16 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 17:06:04"
+    },
     {
       "id": 1035,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Опрос ставит на первое место французскую Ле Пен в преддверии президентской кампании",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 981,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260914-turkey-police-arrested-at-least-63-people-in-anti-lgbt-crackdown",
-      "title_ru": "Турция: полиция арестовала по меньшей мере 63 человека в рамках репрессий против ЛГБТ+",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 980,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260914-where-is-the-kill-switch-ai-doomsday-warnings-trigger-calls-to-regulate",
-      "title_ru": "Где аварийный выключатель? Предупреждения о судном дне ИИ вызывают призывы к регулированию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 20:52:54"
-    },
-    {
-      "id": 979,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/leaders-urge-eu-to-boost-arctic-role-to-tackle-russia-threat",
-      "title_ru": "Лидеры призывают ЕС повысить роль Арктики в борьбе с «угрозой» России",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 20:52:54"
-    },
-    {
-      "id": 978,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/axis-of-iranian-centrality-remains-one-of-more-destabilising-forces-in-the-region-expert-says",
-      "title_ru": "«Ось иранского центра» остается «одной из наиболее дестабилизирующих сил в регионе», говорит эксперт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 20:52:54"
-    },
-    {
-      "id": 977,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/nigerian-oil-refinery-dangote-aims-to-raise-1-6-billion-dollars",
-      "title_ru": "Нигерийский нефтеперерабатывающий завод Dangote намерен привлечь 1,6 миллиарда долларов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 20:52:53"
-    },
-    {
-      "id": 976,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260914-french-candidates-race-to-claim-the-cost-of-living-issue-ahead-of-2027-vote",
-      "title_ru": "Французские кандидаты претендуют на решение проблемы стоимости жизни в преддверии голосования 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 16:55:59"
     }
   ]
 }
