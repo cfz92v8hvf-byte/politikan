@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-16T06:38:27.604193+00:00",
+  "updated_at": "2026-09-16T12:11:11.371021+00:00",
   "posts": [
+    {
+      "id": 1035,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
+      "title_ru": "По меньшей мере 60 человек погибли в результате обрушения золотого рудника в отдаленном районе Судана",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 12:11:09"
+    },
+    {
+      "id": 1034,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/iran-war-has-cost-the-us-more-than-38-billion-so-far-says-congressional-budget-office",
+      "title_ru": "Война с Ираном обошлась США более чем в $ 38 млрд, заявляет Бюджетное управление Конгресса",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1033,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/16/from-nail-hammering-to-drilling-japans-new-robots-push-physical-ai-forward",
+      "title_ru": "От забивания гвоздей до сверления - новые японские роботы продвигают физический ИИ вперед",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1032,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/my-europe/2026/09/16/canada-to-become-first-associate-member-of-the-eu",
+      "title_ru": "Канада приглашена стать первым «ассоциированным членом» ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 12:11:11"
+    },
+    {
+      "id": 1031,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/kosovos-former-president-thaci-convicted-of-war-crimes-at-hague-court",
+      "title_ru": "Бывший президент Косово Тачи признан виновным в военных преступлениях в Гаагском суде",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 12:11:10"
+    },
+    {
+      "id": 1030,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/eu-needs-georgia-foreign-minister-tells-euronews-reigniting-enlargement-question",
+      "title_ru": "ЕС нуждается в Грузии, заявил министр иностранных дел Euronews, вновь поднимая вопрос о расширении",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 12:11:10"
+    },
     {
       "id": 1029,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Французские кандидаты претендуют на решение проблемы стоимости жизни в преддверии голосования 2027 года",
       "status": "published",
       "published_to_telegram_at": "2026-09-14 16:55:59"
-    },
-    {
-      "id": 975,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/14/houthis-capture-more-yemeni-red-sea-islands-tightening-grip-on-bab-el-mandeb",
-      "title_ru": "Хуситы захватили больше йеменских островов в Красном море, усилив контроль над Баб-эль-Мандебским проливом",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 974,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/14/iran-seizes-assets-of-240-dissidents-and-journalists-as-protest-arrests-top-6000",
-      "title_ru": "Иран конфисковал активы 240 диссидентов и журналистов, поскольку протестующие арестовали 6000 человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 973,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/14/latest-news-bulletin-september-14th-2026-evening",
-      "title_ru": "Последние новости | 14 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 16:56:00"
-    },
-    {
-      "id": 972,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/14/fuel-price-protests-spread-across-syria-as-parliament-summons-energy-minister",
-      "title_ru": "Протесты против цен на топливо распространились по всей Сирии, поскольку парламент призывает министра энергетики",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 16:56:00"
-    },
-    {
-      "id": 971,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/14/trump-says-ukraine-and-russia-agree-to-halt-strikes-on-energy-targets",
-      "title_ru": "Трамп заявил, что Украина и Россия договорились прекратить удары по энергетическим целям",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 16:55:59"
-    },
-    {
-      "id": 970,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260914-can-sweden-restore-welfare-system-amid-increased-defense-spending",
-      "title_ru": "Может ли Швеция восстановить систему социального обеспечения на фоне увеличения расходов на оборону?",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
