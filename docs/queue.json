@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-16T17:06:06.104212+00:00",
+  "updated_at": "2026-09-16T20:13:04.502137+00:00",
   "posts": [
+    {
+      "id": 1047,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/sweden-s-centre-left-opposition-wins-election-svt-says",
+      "title_ru": "Шведская левоцентристская оппозиция побеждает на выборах, говорит СВТ",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1046,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/lgbtq-a-threat-to-erdogan-s-ideal-of-a-strong-masculine-state-expert-says",
+      "title_ru": "ЛГБТ «угроза идеалу Эрдогана сильного, мужественного государства», считает эксперт",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 20:13:04"
+    },
+    {
+      "id": 1045,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war",
+      "title_ru": "Путин призвал россиян голосовать на парламентских выборах в знак поддержки войны на Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 20:13:04"
+    },
+    {
+      "id": 1044,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
+      "title_ru": "Саудовская Аравия обвиняет хуситов в нападении на Мекку и называет это «красной линией»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 20:13:03"
+    },
+    {
+      "id": 1043,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/amnesty-says-iran-committed-crimes-against-humanity-in-protests-crackdown",
+      "title_ru": "Amnesty International заявляет, что Иран совершил «преступления против человечности» в ходе подавления протестов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 20:13:03"
+    },
+    {
+      "id": 1042,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/16/kosovo-war-crimes-court-jails-ex-president-hashim-thaci-for-25-years-sparking-mass-protest",
+      "title_ru": "Суд по военным преступлениям в Косово приговорил экс-президента Хашима Тачи к 25 годам тюрьмы, что вызвало массовые протесты",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1041,
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/16/syrias-al-sharaa-opens-the-biggest-arab-media-summit-yet",
       "title_ru": "Сирийский Аль-Шараа открывает крупнейший арабский медиа-саммит",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/16/eu-canada-standing-ovation-for-mark-carney-at-european-parliament",
       "title_ru": "ЕС - Канада: Аплодисменты Марку Карни в Европейском парламенте",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
       "title_ru": "«Само существование ЛГБТКИ-людей рассматривается как непристойное», - говорит турецкий активист",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 987,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
-      "title_ru": "Йемен: видеоролики с проверкой фактов, подтверждающие нападения повстанцев-хуситов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 986,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
-      "title_ru": "Правозащитная группа обвиняет Израиль в уничтожении «палестинского существования» на Западном берегу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 23:49:35"
-    },
-    {
-      "id": 985,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260914-us-space-force-confirms-weapons-deployed-in-space-for-first-time",
-      "title_ru": "Космические силы США впервые подтвердили развертывание оружия в космосе",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 23:49:34"
-    },
-    {
-      "id": 984,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes",
-      "title_ru": "Зеленский: Украина готова к деэскалации, если Россия прекратит удары",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 23:49:34"
-    },
-    {
-      "id": 983,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/14/united-states-space-force-says-us-has-weapons-in-orbit",
-      "title_ru": "Космические силы США заявляют, что у США есть оружие на орбите",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 23:49:34"
-    },
-    {
-      "id": 982,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260914-polls-put-france-s-le-pen-in-lead-as-presidential-campaign-kicks-off",
-      "title_ru": "Опрос ставит на первое место французскую Ле Пен в преддверии президентской кампании",
       "status": "expired",
       "published_to_telegram_at": null
     }
