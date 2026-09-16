@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-09-15T23:08:27.663315+00:00",
+  "updated_at": "2026-09-16T01:28:21.896990+00:00",
   "posts": [
+    {
+      "id": 1023,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Лидеры ИИ призывают к регулированию, Трамп отвергает «мистификации»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 01:28:21"
+    },
+    {
+      "id": 1022,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "title_ru": "НАТО сбивает беспилотник над Литвой, когда российский корабль обстреливает датский вертолет",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1021,
       "source": "France 24",
       "source_url": "http://www.france24.com/en/tv-shows/business/20260915-horizontal-or-vertical-europeans-invited-to-vote-on-future-banknote-designs",
       "title_ru": "Горизонтально или вертикально? Европейцев приглашают голосовать за будущий дизайн банкнот",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +30,7 @@
       "source": "France 24",
       "source_url": "http://www.france24.com/en/tv-shows/a-propos/20260915-china-projecting-image-of-stabilising-force-in-world-politics-expert-says",
       "title_ru": "Китай проецирует образ «стабилизирующей силы в мировой политике», считает эксперт",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -464,22 +480,6 @@
       "title_ru": "Кубинский учитель танцев приказал саботировать атаки ЕС из России",
       "status": "published",
       "published_to_telegram_at": "2026-09-14 05:22:18"
-    },
-    {
-      "id": 963,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260914-us-g20-energy-talks-iran-war",
-      "title_ru": "США проводят энергетические переговоры G20 в Техасе, поскольку война с Ираном нарушает глобальные рынки топлива",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 962,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260914-iranian-ship-qeshm-island-tehran-hormuz",
-      "title_ru": "Иранское грузовое судно нанесло удар возле острова Кешм, поскольку Оман задерживает переговоры между Тегераном и Персидским заливом",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-14 05:22:19"
     }
   ]
 }
