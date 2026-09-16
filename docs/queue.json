@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-16T20:13:04.502137+00:00",
+  "updated_at": "2026-09-16T23:00:36.764831+00:00",
   "posts": [
+    {
+      "id": 1053,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/tv-shows/the-debate/20260916-the-28th-state-carney-s-canada-draws-closer-to-european-union",
+      "title_ru": "28-й штат? Канада Карни приближается к Европейскому Союзу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1052,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/washington-set-to-approve-2-8-bn-arms-package-for-israel",
+      "title_ru": "Вашингтон собирается одобрить $ 2,8-миллиардный пакет вооружений для Израиля",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1051,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/tv-shows/a-propos/20260916-ed-sheeran-s-tour-in-trouble-after-opening-acts-drop-out-in-solidarity-with-rapper-macklemore",
+      "title_ru": "Гастроли Эда Ширана в беде после разогрева выпадают в знак солидарности с рэпером Macklemore",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 23:00:35"
+    },
+    {
+      "id": 1050,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/us-federal-reserve-defies-trump-with-interest-rate-hike",
+      "title_ru": "Федеральная резервная система США бросает вызов Трампу повышением процентной ставки",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 23:00:35"
+    },
+    {
+      "id": 1049,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/us-house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on",
+      "title_ru": "Палата представителей США в третий раз проголосовала за прекращение войны с Ираном, поскольку конфликт затягивается",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 23:00:36"
+    },
+    {
+      "id": 1048,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/16/azerbaijan-insists-it-will-preserve-christian-heritage-as-part-of-its-history",
+      "title_ru": "Азербайджан настаивает на сохранении христианского наследия как части своей истории",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-16 23:00:36"
+    },
     {
       "id": 1047,
       "source": "France 24",
       "source_url": "http://www.france24.com/en/sweden-s-centre-left-opposition-wins-election-svt-says",
       "title_ru": "Шведская левоцентристская оппозиция побеждает на выборах, говорит СВТ",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-morning",
       "title_ru": "Последние новости | 15 сентября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 993,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/15/university-students-launch-student-list-to-shake-up-serbias-elections",
-      "title_ru": "Студенты университета запускают «список студентов», чтобы встряхнуть выборы в Сербии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 07:37:12"
-    },
-    {
-      "id": 992,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/us-military-says-it-is-facing-a-shortfall-in-ammunition-as-a-result-of-iran-war",
-      "title_ru": "Американские военные говорят, что сталкиваются с нехваткой боеприпасов в результате войны с Ираном",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 07:37:11"
-    },
-    {
-      "id": 991,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Связанный с Кремлем российский олигарх помог финансировать свадьбу Трампа-младшего",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 01:56:21"
-    },
-    {
-      "id": 990,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
-      "title_ru": "Трамп называет опасения по поводу мошеннического ИИ «мистификацией», продвигаемой «БОЛЬНЫМ заговором»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 01:56:21"
-    },
-    {
-      "id": 989,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins",
-      "title_ru": "Верховный суд США отклонил заявку Трампа на ограничение почтовых бюллетеней после начала голосования",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 01:56:20"
-    },
-    {
-      "id": 988,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
-      "title_ru": "«Само существование ЛГБТКИ-людей рассматривается как непристойное», - говорит турецкий активист",
       "status": "expired",
       "published_to_telegram_at": null
     }
