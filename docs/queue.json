@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-16T23:00:36.764831+00:00",
+  "updated_at": "2026-09-17T01:18:05.737826+00:00",
   "posts": [
+    {
+      "id": 1057,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Шведский левоцентристский блок намерен победить на выборах, сообщает STV",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 01:18:05"
+    },
+    {
+      "id": 1056,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Конгресс США принял законопроект о санкциях против России",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 01:18:05"
+    },
+    {
+      "id": 1055,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Как изменение климата усугубило смертельный обвал гор в Непале",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 01:18:04"
+    },
+    {
+      "id": 1054,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/middle-east/20260917-israel-morocco-embassies-new-york",
+      "title_ru": "Израиль и Марокко договорились об открытии посольств после переговоров в Нью-Йорке",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 01:18:04"
+    },
     {
       "id": 1053,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Эскалация «на пути», но регион должен сохранять спокойствие, сказал Euronews сирийский аль-Шараа",
       "status": "published",
       "published_to_telegram_at": "2026-09-15 12:54:34"
-    },
-    {
-      "id": 997,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation",
-      "title_ru": "Венесуэла присоединится к энергетическим переговорам G20 в Техасе по приглашению США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 996,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "title_ru": "Война с Ираном разоблачает дефицит боеприпасов США и узкие места в промышленности, говорится в докладе Пентагона",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 07:37:11"
-    },
-    {
-      "id": 995,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/lack-of-enforcement-of-eu-laws-consumer-products-contain-illegal-levels-of-restricted-chemicals",
-      "title_ru": "Отсутствие «соблюдения законов ЕС»: Потребительские товары содержат «незаконные уровни ограниченных химических веществ»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 07:37:11"
-    },
-    {
-      "id": 994,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-morning",
-      "title_ru": "Последние новости | 15 сентября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
