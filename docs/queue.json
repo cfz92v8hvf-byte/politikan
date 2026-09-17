@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-17T01:18:05.737826+00:00",
+  "updated_at": "2026-09-17T06:12:20.116243+00:00",
   "posts": [
+    {
+      "id": 1062,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-russian-strikes-injure-several-in-kyiv-odesa/a-79299579?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина: российские авиаудары ранили нескольких человек в Киеве и Одессе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1061,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/europe/20260917-live-explosions-kyiv-us-congress-sanctions-moscow",
+      "title_ru": "В прямом эфире: взрывы сотрясают Киев, поскольку Конгресс США продвигает новые санкции против Москвы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1060,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/americas/20260917-us-palestinian-leader-visa-un-general-assembly-new-york",
+      "title_ru": "США вновь отказали палестинскому лидеру в визе на Генассамблею ООН",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1059,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/trump-suggests-eu-allowing-canada-as-associate-member-could-be-hostile-act",
+      "title_ru": "Трамп угрожает ЕС сокращением торговли из-за «враждебного» предложения сделать Канаду ассоциированным членом",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 06:12:20"
+    },
+    {
+      "id": 1058,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-morning",
+      "title_ru": "Последние новости | 17 сентября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 06:12:19"
+    },
     {
       "id": 1057,
       "source": "DW",
@@ -438,46 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/us-think-tank-s-military-plan-alarms-allies-in-asia/a-79275554?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Военный план аналитического центра США встревожил союзников в Азии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 12:54:34"
-    },
-    {
-      "id": 1002,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260915-corruption-endemic-in-trump-administration-checks-and-balances-only-in-effect-at-lower-courts",
-      "title_ru": "Коррупция «эндемична» в администрации Трампа: «Сдержки и противовесы действуют только в судах низшей инстанции»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1001,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/amid-france-s-political-fragmentation-a-case-needs-to-be-made-for-participatory-democracy",
-      "title_ru": "На фоне политической «фрагментации» Франции «необходимо привести доводы в пользу демократии, основанной на участии»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1000,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/irans-new-ayatollah-is-a-nolan-fan-interested-in-start-ups-family-says",
-      "title_ru": "Новый аятолла Ирана - фанат Нолана, интересующийся стартапами, говорят родственники мужа и жены",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 999,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/un-urges-full-access-for-investigators-as-gaza-death-toll-mounts",
-      "title_ru": "ООН призывает к полному доступу для следователей по мере роста числа погибших в Газе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 998,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/escalation-is-on-the-way-but-region-must-keep-calm-syrias-al-shaara-tells-euronews",
-      "title_ru": "Эскалация «на пути», но регион должен сохранять спокойствие, сказал Euronews сирийский аль-Шараа",
       "status": "published",
       "published_to_telegram_at": "2026-09-15 12:54:34"
     }
