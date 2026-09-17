@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-17T06:12:20.116243+00:00",
+  "updated_at": "2026-09-17T11:49:59.718209+00:00",
   "posts": [
+    {
+      "id": 1068,
+      "source": "France 24",
+      "source_url": "http://www.france24.com/en/video/20260917-mark-carney-s-eu-speech-highlights-canada-s-shifting-alliances-1",
+      "title_ru": "Выступление Марка Карни в ЕС подчеркивает меняющиеся альянсы Канады",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 11:49:58"
+    },
+    {
+      "id": 1067,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/17/war-in-ukraine-odesa-and-sumy-suffer-fires-and-casualties-in-new-russian-attacks",
+      "title_ru": "Война в Украине: Одесса и Сумы страдают от пожаров и потерь в новых российских атаках",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1066,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/us-congress-approves-russia-sanctions-that-impact-china-and-india",
+      "title_ru": "Конгресс США одобрил санкции против России, которые затрагивают Китай и Индию",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1065,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/anger-over-thaci-war-crimes-sentence-spills-into-protests-at-kosovo-eu-mission",
+      "title_ru": "Гнев по поводу приговора Тачи за военные преступления вылился в протесты в миссии ЕС в Косово",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 11:49:59"
+    },
+    {
+      "id": 1064,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/us-denies-palestine-leader-abbas-a-visa-to-un-summit-for-second-year-running",
+      "title_ru": "США второй год подряд отказывают палестинскому лидеру Аббасу в визе на саммит ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 11:49:59"
+    },
+    {
+      "id": 1063,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/gazas-bicycle-couriers-refuse-to-stop-despite-danger-and-pittance-pay",
+      "title_ru": "Велосипедные курьеры Газы отказываются останавливаться, несмотря на опасность и гроши",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 11:49:58"
+    },
     {
       "id": 1062,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Поддельный кризис пестицидов в Европе: внутри незаконной торговли на $ 20 млрд",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1008,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/15/romanian-farmers-clash-with-police-in-bucharest-over-eu-livestock-ban",
-      "title_ru": "Румынские фермеры столкнулись с полицией в Бухаресте из-за запрета ЕС на животноводство",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1007,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/losing-access-to-bab-el-mandeb-would-be-catastrophic-for-the-entire-world-qatar-warns",
-      "title_ru": "Потеря доступа к Баб-эль-Мандебскому проливу станет «катастрофой для всего мира», предупреждает Катар",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1006,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/trump-blasts-supreme-court-over-mail-in-ballot-ruling",
-      "title_ru": "Трамп раскритиковал Верховный суд за решение о голосовании по почте",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 17:38:22"
-    },
-    {
-      "id": 1005,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-evening",
-      "title_ru": "Последние новости | 15 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 17:38:22"
-    },
-    {
-      "id": 1004,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/canada-still-a-crucial-partner-for-us-in-many-key-areas-pm-carney-says",
-      "title_ru": "Канада по-прежнему является важным партнером для США во «многих ключевых областях», говорит премьер-министр Карни",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 17:38:21"
-    },
-    {
-      "id": 1003,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-think-tank-s-military-plan-alarms-allies-in-asia/a-79275554?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Военный план аналитического центра США встревожил союзников в Азии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 12:54:34"
     }
   ]
 }
