@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-17T15:41:46.061924+00:00",
+  "updated_at": "2026-09-17T19:19:34.571959+00:00",
   "posts": [
+    {
+      "id": 1080,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/english-village-holds-symbolic-vote-to-leave-uk",
+      "title_ru": "Английская деревня провела символическое голосование за выход из Великобритании",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1079,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260917-gaza-documentary-naza-sparks-political-storm-in-israel",
+      "title_ru": "Документальный фильм о Газе «NAZA» вызвал политическую бурю и угрозы в адрес режиссеров в Израиле",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1078,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/perspective/20260917-sanctions-won-t-prevent-us-from-doing-our-job-says-icc-prosecutor-mame-mandiaye-niang",
+      "title_ru": "«Санкции не помешают нам выполнять свою работу», - говорит прокурор МУС Маме Мандиае Нианг",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1077,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260917-climate-change-glacier-loss-and-dry-rivers-threaten-water-security",
+      "title_ru": "Изменение климата: потеря ледников и сухие реки угрожают водной безопасности",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1076,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-evening",
+      "title_ru": "Последние новости | 17 сентября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1075,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/trump-determined-to-end-iran-war-soon-us-presidents-senior-adviser-tells-euronews",
+      "title_ru": "Трамп намерен положить конец войне в Иране в ближайшее время, сообщил Euronews старший советник президента США",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 19:19:34"
+    },
     {
       "id": 1074,
       "source": "Euronews",
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/17/euronews-debates-unlocking-kazakhstans-potential-as-a-regional-trade-hub",
       "title_ru": "Дебаты Euronews: раскрытие потенциала Казахстана как регионального торгового хаба",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "http://www.france24.com/en/tv-shows/business/20260915-horizontal-or-vertical-europeans-invited-to-vote-on-future-banknote-designs",
       "title_ru": "Горизонтально или вертикально? Европейцев приглашают голосовать за будущий дизайн банкнот",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1020,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/tv-shows/a-propos/20260915-china-projecting-image-of-stabilising-force-in-world-politics-expert-says",
-      "title_ru": "Китай проецирует образ «стабилизирующей силы в мировой политике», считает эксперт",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1019,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/france-stalls-eu-russia-sanctions-renewal-over-oligarch-de-listing",
-      "title_ru": "Франция приостановила продление санкций ЕС против России из-за исключения олигархов из списка",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 23:08:27"
-    },
-    {
-      "id": 1018,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/russian-war-african-recruits",
-      "title_ru": "Русская война, африканские новобранцы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 23:08:26"
-    },
-    {
-      "id": 1017,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/americas/20260915-trump-threatens-to-not-reopen-kennedy-center-after-board-blocks-renaming",
-      "title_ru": "Трамп угрожает не открывать Кеннеди-центр после переименования доски",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 23:08:26"
-    },
-    {
-      "id": 1016,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/us-to-divert-52-million-in-military-aid-from-europe-and-middle-east-to-trump-friendly-nati",
-      "title_ru": "США перенаправят $ 52 млн военной помощи из Европы и Ближнего Востока дружественным Трампу странам Северной и Южной Америки",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 23:08:27"
-    },
-    {
-      "id": 1015,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/tv-shows/spotlight/20260915-revolutionary-change-in-american-foreign-policy-canada-pivoting-towards-eu-india-and-china",
-      "title_ru": "«Революционные изменения в американской внешней политике»: Канада поворачивается к ЕС, Индии и Китаю",
       "status": "expired",
       "published_to_telegram_at": null
     }
