@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-17T11:49:59.718209+00:00",
+  "updated_at": "2026-09-17T15:41:46.061924+00:00",
   "posts": [
+    {
+      "id": 1074,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/day-two-in-dubai-the-region-makes-its-case-for-telling-its-own-story",
+      "title_ru": "День второй в Дубае: регион рассказывает свою историю",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1073,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/euronews-debates-unlocking-kazakhstans-potential-as-a-regional-trade-hub",
+      "title_ru": "Дебаты Euronews: раскрытие потенциала Казахстана как регионального торгового хаба",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1072,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/tripoli-busts-gaddafi-shaped-pill-shipment-as-al-assads-captagon-appears-in-libyas-east",
+      "title_ru": "Триполи арестовывает партию таблеток в форме Каддафи, когда каптагон Асада появляется на востоке Ливии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 15:41:46"
+    },
+    {
+      "id": 1071,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/iran-expels-swedish-diplomat-in-tit-for-tat-after-stockholm-move",
+      "title_ru": "Иран высылает шведского дипломата по принципу «око за око» после решения Стокгольма",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 15:41:45"
+    },
+    {
+      "id": 1070,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/17/watch-carney-backs-closer-eu-ties-draws-applause-at-european-parliament",
+      "title_ru": "Смотрите: Карни поддерживает более тесные связи с ЕС, вызывает аплодисменты в Европейском парламенте",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 15:41:45"
+    },
+    {
+      "id": 1069,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/17/uae-presidential-adviser-gargash-says-trust-with-iran-will-take-years-to-rebuild",
+      "title_ru": "Советник президента ОАЭ Гаргаш говорит, что для восстановления доверия с Ираном потребуются годы",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-17 15:41:44"
+    },
     {
       "id": 1068,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "http://www.france24.com/en/tv-shows/spotlight/20260915-revolutionary-change-in-american-foreign-policy-canada-pivoting-towards-eu-india-and-china",
       "title_ru": "«Революционные изменения в американской внешней политике»: Канада поворачивается к ЕС, Индии и Китаю",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1014,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/analysts-call-for-step-up-in-response-to-russia-after-denmark-lithuania-incidents",
-      "title_ru": "Аналитики призывают к усилению реагирования на инциденты с Россией в Дании и Литве",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 20:28:47"
-    },
-    {
-      "id": 1013,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/canada-can-offer-a-more-reliable-route-for-energy-exports-to-the-eu-expert-says",
-      "title_ru": "«Канада может предложить более надежный маршрут для экспорта энергоносителей в ЕС», - считает эксперт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 20:28:47"
-    },
-    {
-      "id": 1012,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/tv-shows/truth-or-fake/20260915-viral-putin-modi-and-xi-selfie-at-brics-summit-is-ai-generated",
-      "title_ru": "Вирусное селфи Путина, Моди и Си на саммите БРИКС сгенерировано ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 20:28:46"
-    },
-    {
-      "id": 1011,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/carney-bound-for-europe-as-ottawa-seeks-closer-ties-with-eu",
-      "title_ru": "Карни направляется в Европу, поскольку Оттава стремится к более тесным связям с ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1010,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/15/russia-stages-early-voting-in-occupied-ukraine-ahead-of-national-election",
-      "title_ru": "Россия проводит досрочное голосование на оккупированной Украине накануне общенациональных выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-15 20:28:47"
-    },
-    {
-      "id": 1009,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/15/europes-fake-pesticide-crisis-inside-a-20-billion-illegal-trade",
-      "title_ru": "Поддельный кризис пестицидов в Европе: внутри незаконной торговли на $ 20 млрд",
       "status": "expired",
       "published_to_telegram_at": null
     }
