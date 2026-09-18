@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-18T17:50:10.893577+00:00",
+  "updated_at": "2026-09-18T20:01:09.937199+00:00",
   "posts": [
+    {
+      "id": 1120,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/macron-convenes-french-party-leaders-as-soaring-energy-prices-put-focus-on-wars-in-iran-and-ukraine",
+      "title_ru": "Макрон созывает лидеров французской партии, поскольку растущие цены на энергоносители сосредоточены на войнах в Иране и Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1119,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-ursula-von-der-leyen-s-sixth-state-of-the-union-speech-a-grand-sweep-but-thin-on-details",
+      "title_ru": "Шестая речь Урсулы фон дер Ляйен о положении в стране: большой размах, но тонкие детали?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1118,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-we-re-ideally-placed-to-chair-eu-budget-negotiations-says-irish-minister-of-state",
+      "title_ru": "Мы идеально подходим для председательства на переговорах по бюджету ЕС, говорит государственный министр Ирландии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1117,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260918-time-to-stop-suggesting-ai-is-conscious-riyadh-calling-saudi-s-hour-of-news-russian-elections",
+      "title_ru": "Пора перестать предполагать, что ИИ сознателен?, Эр-Рияд Призыв: Час новостей Саудовской Аравии, российские выборы",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 20:01:09"
+    },
+    {
+      "id": 1116,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/live-news/20260918-trump-bans-media-outlets-cnn-msnow-politico-from-white-house",
+      "title_ru": "Трамп запретил в Белом доме СМИ CNN, MSNOW, Politico",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 20:01:09"
+    },
+    {
+      "id": 1115,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/sport/20260918-uefa-concacaf-demand-fifa-make-2-1-billion-payout-to-member-groups-amid-funding-row",
+      "title_ru": "УЕФА, КОНКАКАФ требуют, чтобы ФИФА выплатила $ 2,1 млрд группам участников в рамках финансирования",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 20:01:09"
+    },
     {
       "id": 1114,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/access-asia/20260918-ai-safety-no-china-will-not-hit-the-brakes",
       "title_ru": "Безопасность ИИ: Нет, Китай не будет тормозить",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/18/three-dead-and-eight-injured-in-philippines-school-shooting",
       "title_ru": "Три человека погибли и восемь получили ранения в результате стрельбы в школе на Филиппинах",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "В прямом эфире: взрывы сотрясают Киев, поскольку Конгресс США продвигает новые санкции против Москвы",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1060,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/americas/20260917-us-palestinian-leader-visa-un-general-assembly-new-york",
-      "title_ru": "США вновь отказали палестинскому лидеру в визе на Генассамблею ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1059,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/17/trump-suggests-eu-allowing-canada-as-associate-member-could-be-hostile-act",
-      "title_ru": "Трамп угрожает ЕС сокращением торговли из-за «враждебного» предложения сделать Канаду ассоциированным членом",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 06:12:20"
-    },
-    {
-      "id": 1058,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-morning",
-      "title_ru": "Последние новости | 17 сентября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 06:12:19"
-    },
-    {
-      "id": 1057,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Шведский левоцентристский блок намерен победить на выборах, сообщает STV",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 01:18:05"
-    },
-    {
-      "id": 1056,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Конгресс США принял законопроект о санкциях против России",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 01:18:05"
-    },
-    {
-      "id": 1055,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Как изменение климата усугубило смертельный обвал гор в Непале",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 01:18:04"
     }
   ]
 }
