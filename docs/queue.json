@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-18T09:51:30.707184+00:00",
+  "updated_at": "2026-09-18T14:21:29.132926+00:00",
   "posts": [
+    {
+      "id": 1108,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pakistan-suicide-bombing-targets-police-facility-in-kohat/a-79327432?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Взрыв террориста-смертника в Пакистане нацелен на полицейский участок в Кохате",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 14:21:28"
+    },
+    {
+      "id": 1107,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/beethoven-and-andy-warhol-rebel-icons-on-show-in-bonn/a-79296944?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Бетховен и Энди Уорхол: иконы повстанцев на выставке в Бонне",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 14:21:28"
+    },
+    {
+      "id": 1106,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Франция: Макрон отдал приказ о защите от российских гибридных атак",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 14:21:27"
+    },
+    {
+      "id": 1105,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/tanker-attacks-in-the-strait-of-hormuz-are-spilling-oil-into-the-persian-gulf/a-79327092?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Танкерные атаки в Ормузском проливе проливают нефть в Персидский залив",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 14:21:27"
+    },
+    {
+      "id": 1104,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/18/russian-drones-devastate-shopping-mall-in-zaporizhzhia-city",
+      "title_ru": "Российские беспилотники опустошили торговый центр в Запорожье",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1103,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/18/latest-news-bulletin-september-18th-2026-midday",
+      "title_ru": "Последние новости | 18 сентября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1102,
       "source": "Euronews",
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/18/missile-shaped-signs-and-netanyahu-masks-as-israelis-rally-to-protect-october-vote",
       "title_ru": "Ракетные вывески и маски Нетаньяху в то время, как израильтяне проводят митинг в защиту октябрьского голосования",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Палата представителей США в третий раз проголосовала за прекращение войны с Ираном, поскольку конфликт затягивается",
       "status": "published",
       "published_to_telegram_at": "2026-09-16 23:00:36"
-    },
-    {
-      "id": 1048,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/16/azerbaijan-insists-it-will-preserve-christian-heritage-as-part-of-its-history",
-      "title_ru": "Азербайджан настаивает на сохранении христианского наследия как части своей истории",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 23:00:36"
-    },
-    {
-      "id": 1047,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/sweden-s-centre-left-opposition-wins-election-svt-says",
-      "title_ru": "Шведская левоцентристская оппозиция побеждает на выборах, говорит СВТ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1046,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/lgbtq-a-threat-to-erdogan-s-ideal-of-a-strong-masculine-state-expert-says",
-      "title_ru": "ЛГБТ «угроза идеалу Эрдогана сильного, мужественного государства», считает эксперт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 20:13:04"
-    },
-    {
-      "id": 1045,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war",
-      "title_ru": "Путин призвал россиян голосовать на парламентских выборах в знак поддержки войны на Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 20:13:04"
-    },
-    {
-      "id": 1044,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
-      "title_ru": "Саудовская Аравия обвиняет хуситов в нападении на Мекку и называет это «красной линией»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 20:13:03"
-    },
-    {
-      "id": 1043,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/amnesty-says-iran-committed-crimes-against-humanity-in-protests-crackdown",
-      "title_ru": "Amnesty International заявляет, что Иран совершил «преступления против человечности» в ходе подавления протестов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 20:13:03"
     }
   ]
 }
