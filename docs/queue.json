@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-18T14:21:29.132926+00:00",
+  "updated_at": "2026-09-18T17:50:10.893577+00:00",
   "posts": [
+    {
+      "id": 1114,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/access-asia/20260918-ai-safety-no-china-will-not-hit-the-brakes",
+      "title_ru": "Безопасность ИИ: Нет, Китай не будет тормозить",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1113,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260918-sweden-s-centre-left-leader-andersson-tasked-with-forming-government-after-election",
+      "title_ru": "Левоцентристский лидер Швеции Андерссон поставил задачу сформировать правительство после выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 17:50:10"
+    },
+    {
+      "id": 1112,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260918-replay-zidane-names-first-squad-as-france-manager",
+      "title_ru": "ПОВТОР: Зидан назначает первый состав тренером сборной Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 17:50:10"
+    },
+    {
+      "id": 1111,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260918-war-in-iran-jeopardises-the-trump-presidency-ex-obama-national-security-council-member-says",
+      "title_ru": "Война в Иране «ставит под угрозу президентство Трампа», говорит бывший член Совета национальной безопасности Обамы",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 17:50:09"
+    },
+    {
+      "id": 1110,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/18/three-dead-and-eight-injured-in-philippines-school-shooting",
+      "title_ru": "Три человека погибли и восемь получили ранения в результате стрельбы в школе на Филиппинах",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1109,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/18/latest-news-bulletin-september-18th-2026-evening",
+      "title_ru": "Последние новости | 18 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 17:50:10"
+    },
     {
       "id": 1108,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Как изменение климата усугубило смертельный обвал гор в Непале",
       "status": "published",
       "published_to_telegram_at": "2026-09-17 01:18:04"
-    },
-    {
-      "id": 1054,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/middle-east/20260917-israel-morocco-embassies-new-york",
-      "title_ru": "Израиль и Марокко договорились об открытии посольств после переговоров в Нью-Йорке",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 01:18:04"
-    },
-    {
-      "id": 1053,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/tv-shows/the-debate/20260916-the-28th-state-carney-s-canada-draws-closer-to-european-union",
-      "title_ru": "28-й штат? Канада Карни приближается к Европейскому Союзу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1052,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/washington-set-to-approve-2-8-bn-arms-package-for-israel",
-      "title_ru": "Вашингтон собирается одобрить $ 2,8-миллиардный пакет вооружений для Израиля",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1051,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/tv-shows/a-propos/20260916-ed-sheeran-s-tour-in-trouble-after-opening-acts-drop-out-in-solidarity-with-rapper-macklemore",
-      "title_ru": "Гастроли Эда Ширана в беде после разогрева выпадают в знак солидарности с рэпером Macklemore",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 23:00:35"
-    },
-    {
-      "id": 1050,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/us-federal-reserve-defies-trump-with-interest-rate-hike",
-      "title_ru": "Федеральная резервная система США бросает вызов Трампу повышением процентной ставки",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 23:00:35"
-    },
-    {
-      "id": 1049,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/16/us-house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on",
-      "title_ru": "Палата представителей США в третий раз проголосовала за прекращение войны с Ираном, поскольку конфликт затягивается",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 23:00:36"
     }
   ]
 }
