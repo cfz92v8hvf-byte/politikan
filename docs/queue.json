@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-17T22:17:01.217470+00:00",
+  "updated_at": "2026-09-18T00:27:40.560781+00:00",
   "posts": [
+    {
+      "id": 1092,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/guess-who-didn-t-like-mark-carney-s-speech-today-the-far-right",
+      "title_ru": "«Угадайте, кому сегодня не понравилась речь Марка Карни? Крайне правым»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1091,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-threatens-eu-over-hostile-canada-association-plan",
+      "title_ru": "Трамп угрожает ЕС из-за «враждебного» плана ассоциации с Канадой",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1090,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/afp-photo-shows-trump-examining-image-of-apparent-kennedy-center-razing",
+      "title_ru": "Фото AFP показывает, как Трамп изучает изображение очевидного разрушения Кеннеди-центра",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1089,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/french-fishermen-to-end-blockades-over-fuel-prices",
+      "title_ru": "Французские рыбаки прекратят блокаду из-за цен на топливо",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1088,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260917-the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
+      "title_ru": "Партнерство между Канадой и ЕС - «классическая беспроигрышная ситуация», считает экономист",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1087,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260917-us-midterms-russian-disinformation-campaign-targets-democrats",
+      "title_ru": "Промежуточные выборы в США: российская кампания дезинформации нацелена на демократов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1086,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/16/from-nail-hammering-to-drilling-japans-new-robots-push-physical-ai-forward",
       "title_ru": "От забивания гвоздей до сверления - новые японские роботы продвигают физический ИИ вперед",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1032,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/my-europe/2026/09/16/canada-to-become-first-associate-member-of-the-eu",
-      "title_ru": "Канада приглашена стать первым «ассоциированным членом» ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 12:11:11"
-    },
-    {
-      "id": 1031,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/16/kosovos-former-president-thaci-convicted-of-war-crimes-at-hague-court",
-      "title_ru": "Бывший президент Косово Тачи признан виновным в военных преступлениях в Гаагском суде",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 12:11:10"
-    },
-    {
-      "id": 1030,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/16/eu-needs-georgia-foreign-minister-tells-euronews-reigniting-enlargement-question",
-      "title_ru": "ЕС нуждается в Грузии, заявил министр иностранных дел Euronews, вновь поднимая вопрос о расширении",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 12:11:10"
-    },
-    {
-      "id": 1029,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Саудовская Аравия говорит, что хуситы нацелены на Мекку, предупреждает о «красной линии»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 06:38:26"
-    },
-    {
-      "id": 1028,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "title_ru": "Ближний Восток в прямом эфире: повстанцы-хуситы отрицают заявление Саудовской Аравии о нападении беспилотников на Мекку",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1027,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/americas/20260916-new-french-ambassador-to-us-cleared-to-take-up-post-after-diplomatic-spat",
-      "title_ru": "Новый посол Франции в США получил разрешение занять пост после дипломатической ссоры",
       "status": "expired",
       "published_to_telegram_at": null
     }
