@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-18T00:27:40.560781+00:00",
+  "updated_at": "2026-09-18T05:06:15.684553+00:00",
   "posts": [
+    {
+      "id": 1096,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Миссия ООН отмечает возможные военные преступления США в Иране",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1095,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
+      "title_ru": "Трамп говорит о «значительном прогрессе» в отношении военной базы США в Польше",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1094,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/18/russia-and-china-veto-us-backed-resolution-to-monitor-iran-nuclear-sanctions",
+      "title_ru": "Россия и Китай наложили вето на поддерживаемую США резолюцию по мониторингу ядерных санкций против Ирана",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 05:06:15"
+    },
+    {
+      "id": 1093,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/18/latest-news-bulletin-september-18th-2026-morning",
+      "title_ru": "Последние новости | 18 сентября 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-18 05:06:15"
+    },
     {
       "id": 1092,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "«Дух Шелкового пути» встречает цепочки поставок на саммите Корея-Центральная Азия",
       "status": "published",
       "published_to_telegram_at": "2026-09-16 17:06:04"
-    },
-    {
-      "id": 1036,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/16/latest-news-bulletin-september-16th-2026-evening",
-      "title_ru": "Последние новости | 16 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 17:06:04"
-    },
-    {
-      "id": 1035,
-      "source": "France 24",
-      "source_url": "http://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
-      "title_ru": "По меньшей мере 60 человек погибли в результате обрушения золотого рудника в отдаленном районе Судана",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-16 12:11:09"
-    },
-    {
-      "id": 1034,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/16/iran-war-has-cost-the-us-more-than-38-billion-so-far-says-congressional-budget-office",
-      "title_ru": "Война с Ираном обошлась США более чем в $ 38 млрд, заявляет Бюджетное управление Конгресса",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1033,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/16/from-nail-hammering-to-drilling-japans-new-robots-push-physical-ai-forward",
-      "title_ru": "От забивания гвоздей до сверления - новые японские роботы продвигают физический ИИ вперед",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
