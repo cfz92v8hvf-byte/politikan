@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-19T13:21:07.263216+00:00",
+  "updated_at": "2026-09-19T16:45:18.063912+00:00",
   "posts": [
+    {
+      "id": 1147,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ukrainian-children-learn-ancient-warrior-skills-amid-modern-war",
+      "title_ru": "Украинские дети учатся древним навыкам воина в условиях современной войны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1146,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/37-die-in-nigerian-custody-reports-blame-overcrowding-government-disputes-claim",
+      "title_ru": "37 человек умерли в заключении в Нигерии: сообщения о переполненности, претензии правительства",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1145,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-s-macron-hosts-canadian-pm-carney-amid-us-tensions",
+      "title_ru": "Макрон принял премьер-министра Канады Карни на фоне напряженности в США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1144,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/19/contrast-in-tehran-as-unveiled-women-race-marathon-alongside-regime-military-display",
+      "title_ru": "Контраст в Тегеране в виде обнародованного женского забега-марафона наряду с военной демонстрацией режима",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1143,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/19/flames-and-smoke-spotted-at-riyadhs-king-khalid-airport-after-overnight-air-raid-alert",
+      "title_ru": "Пламя и дым были замечены в аэропорту короля Эр-Рияда Халида после ночного воздушного рейда",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 16:45:18"
+    },
+    {
+      "id": 1142,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-evening",
+      "title_ru": "Последние новости | 19 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 16:45:17"
+    },
     {
       "id": 1141,
       "source": "France 24",
@@ -46,7 +94,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/19/un-condemns-shocking-pattern-of-sexual-violence-by-russian-troops-in-ukraine",
       "title_ru": "ООН осуждает «шокирующую картину» сексуального насилия со стороны российских войск в Украине",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260917-the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
       "title_ru": "Партнерство между Канадой и ЕС - «классическая беспроигрышная ситуация», считает экономист",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1087,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260917-us-midterms-russian-disinformation-campaign-targets-democrats",
-      "title_ru": "Промежуточные выборы в США: российская кампания дезинформации нацелена на демократов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1086,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-hails-major-progress-in-setting-up-us-base-in-poland/a-79316328?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп приветствует «значительный прогресс» в создании базы США в Польше",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 22:17:00"
-    },
-    {
-      "id": 1085,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260917-the-ceuta-effect-how-far-will-europe-s-anti-migrant-backlash-go",
-      "title_ru": "Эффект Сеуты: как далеко зайдет антимигрантская реакция Европы?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1084,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/stalemate-in-lebanon-hezbollah-justifies-weapons-citing-israeli-occupation-and-ongoing-attacks",
-      "title_ru": "«Тупик» в Ливане: Хезболла оправдывает оружие, ссылаясь на израильскую оккупацию и продолжающиеся атаки",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1083,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-declines-to-back-saudi-arabia-as-us-officials-reportedly-meet-iran-backed-houthis-in-oman",
-      "title_ru": "Трамп отказывается поддержать Саудовскую Аравию, поскольку официальные лица США, как сообщается, встречаются с поддерживаемыми Ираном хуситами в Омане",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1082,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil",
-      "title_ru": "Индия обещает защищать энергетическую безопасность после новых тарифов США на российскую нефть",
       "status": "expired",
       "published_to_telegram_at": null
     }
