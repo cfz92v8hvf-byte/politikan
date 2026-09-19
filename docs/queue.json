@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-19T09:23:59.933146+00:00",
+  "updated_at": "2026-09-19T13:21:07.263216+00:00",
   "posts": [
+    {
+      "id": 1141,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tunisia-s-booming-boat-industry-from-pleasure-craft-to-luxury-yachts",
+      "title_ru": "Бурно развивающаяся лодочная индустрия Туниса: от прогулочных судов до роскошных яхт",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 13:21:07"
+    },
+    {
+      "id": 1140,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260919-israel-naza-documentary-sparks-political-storm",
+      "title_ru": "Израиль: документальный фильм «NAZA» вызвал политическую бурю",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 13:21:06"
+    },
+    {
+      "id": 1139,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
+      "title_ru": "Дым, пламя возле аэропорта Эр-Рияда, «серьезные» сбои в полетах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 13:21:06"
+    },
+    {
+      "id": 1138,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
+      "title_ru": "Путин заявил, что Европа «готовится к войне»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 13:21:06"
+    },
+    {
+      "id": 1137,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-midday",
+      "title_ru": "Последние новости | 19 сентября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1136,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/19/un-condemns-shocking-pattern-of-sexual-violence-by-russian-troops-in-ukraine",
+      "title_ru": "ООН осуждает «шокирующую картину» сексуального насилия со стороны российских войск в Украине",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1135,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil",
       "title_ru": "Индия обещает защищать энергетическую безопасность после новых тарифов США на российскую нефть",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1081,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/the-harms-have-come-to-outweigh-the-benefits-of-social-media-researcher-says",
-      "title_ru": "«Вред стал перевешивать преимущества» социальных сетей, говорит исследователь",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-17 22:17:01"
-    },
-    {
-      "id": 1080,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/english-village-holds-symbolic-vote-to-leave-uk",
-      "title_ru": "Английская деревня провела символическое голосование за выход из Великобритании",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1079,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260917-gaza-documentary-naza-sparks-political-storm-in-israel",
-      "title_ru": "Документальный фильм о Газе «NAZA» вызвал политическую бурю и угрозы в адрес режиссеров в Израиле",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1078,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/perspective/20260917-sanctions-won-t-prevent-us-from-doing-our-job-says-icc-prosecutor-mame-mandiaye-niang",
-      "title_ru": "«Санкции не помешают нам выполнять свою работу», - говорит прокурор МУС Маме Мандиае Нианг",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1077,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260917-climate-change-glacier-loss-and-dry-rivers-threaten-water-security",
-      "title_ru": "Изменение климата: потеря ледников и сухие реки угрожают водной безопасности",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1076,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-evening",
-      "title_ru": "Последние новости | 17 сентября 2026 года – вечер",
       "status": "expired",
       "published_to_telegram_at": null
     }
