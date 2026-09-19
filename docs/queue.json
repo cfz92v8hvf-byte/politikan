@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-19T18:58:49.371204+00:00",
+  "updated_at": "2026-09-19T21:24:56.042025+00:00",
   "posts": [
+    {
+      "id": 1157,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина активизирует меры по защите железных дорог",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1156,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германо-российские отношения на грани замерзания",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1155,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп объявляет о новой «силе ИИ» на фоне растущего давления",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1154,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
+      "title_ru": "Французский форпост у берегов Канады в центре внимания, когда Макрон принимает Карни с символическим визитом",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 21:24:55"
+    },
     {
       "id": 1153,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Россия проводит общенациональные выборы в Думу, поскольку война в Украине меняет голосование",
       "status": "published",
       "published_to_telegram_at": "2026-09-18 09:51:29"
-    },
-    {
-      "id": 1097,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/18/canadians-react-to-eus-associate-member-proposal",
-      "title_ru": "Канадцы отреагировали на предложение «ассоциированного члена» ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 09:51:28"
-    },
-    {
-      "id": 1096,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Миссия ООН отмечает возможные военные преступления США в Иране",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1095,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
-      "title_ru": "Трамп говорит о «значительном прогрессе» в отношении военной базы США в Польше",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1094,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/18/russia-and-china-veto-us-backed-resolution-to-monitor-iran-nuclear-sanctions",
-      "title_ru": "Россия и Китай наложили вето на поддерживаемую США резолюцию по мониторингу ядерных санкций против Ирана",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 05:06:15"
     }
   ]
 }
