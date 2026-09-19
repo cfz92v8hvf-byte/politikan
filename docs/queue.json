@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-19T16:45:18.063912+00:00",
+  "updated_at": "2026-09-19T18:58:49.371204+00:00",
   "posts": [
+    {
+      "id": 1153,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
+      "title_ru": "Черный дым замечен возле Эр-Рияда на фоне воздушных тревог в Саудовской Аравии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1152,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/macron-visits-remote-french-territory-in-the-north-america-a-first-in-over-a-decade",
+      "title_ru": "Макрон впервые за более чем десятилетие посетил отдаленную французскую территорию в Северной Америке",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1151,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough",
+      "title_ru": "Германия готовится к ключевым государственным выборам, где крайне правая партия АдГ стремится к еще одному прорыву",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1150,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban",
+      "title_ru": "Журналистов CNN, MS NOW, Politico заблокировали в Белом доме после запрета Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 18:58:49"
+    },
+    {
+      "id": 1149,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260919-greenland-deal-greenland-a-trump-win-or-danish-masterclass",
+      "title_ru": "Сделка по Гренландии: Гренландия: победа Трампа или датский мастер-класс?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 18:58:48"
+    },
+    {
+      "id": 1148,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/19/police-clash-with-far-right-protesters-at-anti-immigration-rally-in-the-hague",
+      "title_ru": "Столкновение полиции с крайне правыми демонстрантами на антииммиграционном митинге в Гааге",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-19 18:58:48"
+    },
     {
       "id": 1147,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Россия и Китай наложили вето на поддерживаемую США резолюцию по мониторингу ядерных санкций против Ирана",
       "status": "published",
       "published_to_telegram_at": "2026-09-18 05:06:15"
-    },
-    {
-      "id": 1093,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/18/latest-news-bulletin-september-18th-2026-morning",
-      "title_ru": "Последние новости | 18 сентября 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 05:06:15"
-    },
-    {
-      "id": 1092,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/guess-who-didn-t-like-mark-carney-s-speech-today-the-far-right",
-      "title_ru": "«Угадайте, кому сегодня не понравилась речь Марка Карни? Крайне правым»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1091,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-threatens-eu-over-hostile-canada-association-plan",
-      "title_ru": "Трамп угрожает ЕС из-за «враждебного» плана ассоциации с Канадой",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1090,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/afp-photo-shows-trump-examining-image-of-apparent-kennedy-center-razing",
-      "title_ru": "Фото AFP показывает, как Трамп изучает изображение очевидного разрушения Кеннеди-центра",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1089,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/french-fishermen-to-end-blockades-over-fuel-prices",
-      "title_ru": "Французские рыбаки прекратят блокаду из-за цен на топливо",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1088,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260917-the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
-      "title_ru": "Партнерство между Канадой и ЕС - «классическая беспроигрышная ситуация», считает экономист",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
