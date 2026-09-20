@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-20T16:13:48.490076+00:00",
+  "updated_at": "2026-09-20T18:52:06.407303+00:00",
   "posts": [
+    {
+      "id": 1182,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Германия сталкивается с потерями налога на энергию, поскольку продажи электромобилей растут",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1181,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ukraine-fires-over-1-000-drones-at-russia-in-largest-ever-attack-on-moscow",
+      "title_ru": "Украина выпустила более 1000 беспилотников по России в ходе «крупнейшей в истории» атаки на Москву",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1180,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections",
+      "title_ru": "Немецкий Мерц признает «катастрофу» на государственных выборах и обещает продвигать реформы",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 18:52:06"
+    },
+    {
+      "id": 1179,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/exit-polls-show-disaster-for-merz-cdu-party-in-two-state-elections",
+      "title_ru": "Экзит-полы показывают «катастрофу» для партии ХДС «Мерц» на двух выборах в штатах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 18:52:05"
+    },
+    {
+      "id": 1178,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260920-germany-merz-vows-to-push-on-despite-setbacks",
+      "title_ru": "Германия: Мерц обещает «продвигаться вперед, несмотря на неудачи»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 18:52:05"
+    },
+    {
+      "id": 1177,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
+      "title_ru": "Макрон и Карни приветствуют новую главу в отношениях между Францией и Канадой на символической встрече на архипелаге",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 18:52:04"
+    },
     {
       "id": 1176,
       "source": "France 24",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
       "title_ru": "Неделя в фотографиях: протесты в Сирии, выступление Селин Дион на сцене и лесные пожары в Кито",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Ормузский пролив атакует разлив нефти в Персидский залив",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1122,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Иранская «новая Хезболла»: «Насколько могущественны хуситы сейчас?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1121,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly",
-      "title_ru": "Трамп заявил, что США и Дания достигли соглашения о расширении военного присутствия в Гренландии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 22:30:21"
-    },
-    {
-      "id": 1120,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/macron-convenes-french-party-leaders-as-soaring-energy-prices-put-focus-on-wars-in-iran-and-ukraine",
-      "title_ru": "Макрон созывает лидеров французской партии, поскольку растущие цены на энергоносители сосредоточены на войнах в Иране и Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1119,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-ursula-von-der-leyen-s-sixth-state-of-the-union-speech-a-grand-sweep-but-thin-on-details",
-      "title_ru": "Шестая речь Урсулы фон дер Ляйен о положении в стране: большой размах, но тонкие детали?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1118,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-we-re-ideally-placed-to-chair-eu-budget-negotiations-says-irish-minister-of-state",
-      "title_ru": "Мы идеально подходим для председательства на переговорах по бюджету ЕС, говорит государственный министр Ирландии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1117,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260918-time-to-stop-suggesting-ai-is-conscious-riyadh-calling-saudi-s-hour-of-news-russian-elections",
-      "title_ru": "Пора перестать предполагать, что ИИ сознателен?, Эр-Рияд Призыв: Час новостей Саудовской Аравии, российские выборы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 20:01:09"
     }
   ]
 }
