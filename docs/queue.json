@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-20T06:54:43.097172+00:00",
+  "updated_at": "2026-09-20T12:13:57.991837+00:00",
   "posts": [
+    {
+      "id": 1170,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/nine-women-found-dead-near-johannesburg-sends-shockwaves-through-south-africa",
+      "title_ru": "Девять женщин, найденных мертвыми недалеко от Йоханнесбурга, посылают ударные волны через Южную Африку",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 12:13:57"
+    },
+    {
+      "id": 1169,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery",
+      "title_ru": "Украина поразила Россию крупной атакой беспилотников, нацелившись на нефтеперерабатывающий завод",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 12:13:57"
+    },
+    {
+      "id": 1168,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
+      "title_ru": "Германия: Могут ли региональные опросы заморозить уход Фридриха Мерца?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 12:13:57"
+    },
+    {
+      "id": 1167,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display",
+      "title_ru": "Северная Корея запускает две баллистические ракеты в море в новейшей демонстрации оружия",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 12:13:56"
+    },
+    {
+      "id": 1166,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/20/us-military-says-four-killed-in-strike-on-suspected-drug-trafficking-boat-in-caribbean",
+      "title_ru": "Американские военные заявили о четырех погибших в результате забастовки на судне, подозреваемом в торговле наркотиками в Карибском бассейне",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1165,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/20/cnn-ms-now-politico-journalists-denied-access-to-the-white-house-after-trump-said-hed-bar-",
+      "title_ru": "CNN, MS ТЕПЕРЬ, журналисты POLITICO отказали в доступе в Белый дом после того, как Трамп сказал, что запретит их",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1164,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Война в Иране «ставит под угрозу президентство Трампа», говорит бывший член Совета национальной безопасности Обамы",
       "status": "published",
       "published_to_telegram_at": "2026-09-18 17:50:09"
-    },
-    {
-      "id": 1110,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/18/three-dead-and-eight-injured-in-philippines-school-shooting",
-      "title_ru": "Три человека погибли и восемь получили ранения в результате стрельбы в школе на Филиппинах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1109,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/18/latest-news-bulletin-september-18th-2026-evening",
-      "title_ru": "Последние новости | 18 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 17:50:10"
-    },
-    {
-      "id": 1108,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pakistan-suicide-bombing-targets-police-facility-in-kohat/a-79327432?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Взрыв террориста-смертника в Пакистане нацелен на полицейский участок в Кохате",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 14:21:28"
-    },
-    {
-      "id": 1107,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/beethoven-and-andy-warhol-rebel-icons-on-show-in-bonn/a-79296944?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Бетховен и Энди Уорхол: иконы повстанцев на выставке в Бонне",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 14:21:28"
-    },
-    {
-      "id": 1106,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Франция: Макрон отдал приказ о защите от российских гибридных атак",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 14:21:27"
-    },
-    {
-      "id": 1105,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/tanker-attacks-in-the-strait-of-hormuz-are-spilling-oil-into-the-persian-gulf/a-79327092?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Танкерные атаки в Ормузском проливе проливают нефть в Персидский залив",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 14:21:27"
     }
   ]
 }
