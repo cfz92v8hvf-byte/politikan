@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-20T12:13:57.991837+00:00",
+  "updated_at": "2026-09-20T16:13:48.490076+00:00",
   "posts": [
+    {
+      "id": 1176,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "title_ru": "Нападения хуситов и отсутствие поддержки Запада: каковы варианты Саудовской Аравии?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1175,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
+      "title_ru": "Неделя в фотографиях: протесты в Сирии, выступление Селин Дион на сцене и лесные пожары в Кито",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1174,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260920-iran-closes-french-language-centre-in-tehran-for-illegal-acts",
+      "title_ru": "Иран закрывает центр французского языка в Тегеране за «незаконные действия»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 16:13:48"
+    },
+    {
+      "id": 1173,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260920-israeli-settler-and-palestinian-driver-killed-in-west-bank-shootings",
+      "title_ru": "В перестрелках на Западном берегу погибли израильский поселенец и палестинский водитель",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 16:13:47"
+    },
+    {
+      "id": 1172,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/20/russians-vote-in-final-day-of-parliamentary-elections",
+      "title_ru": "Россияне голосуют в последний день парламентских выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 16:13:48"
+    },
+    {
+      "id": 1171,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-evening",
+      "title_ru": "Последние новости | 20 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 16:13:47"
+    },
     {
       "id": 1170,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Пора перестать предполагать, что ИИ сознателен?, Эр-Рияд Призыв: Час новостей Саудовской Аравии, российские выборы",
       "status": "published",
       "published_to_telegram_at": "2026-09-18 20:01:09"
-    },
-    {
-      "id": 1116,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/live-news/20260918-trump-bans-media-outlets-cnn-msnow-politico-from-white-house",
-      "title_ru": "Трамп запретил в Белом доме СМИ CNN, MSNOW, Politico",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 20:01:09"
-    },
-    {
-      "id": 1115,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20260918-uefa-concacaf-demand-fifa-make-2-1-billion-payout-to-member-groups-amid-funding-row",
-      "title_ru": "УЕФА, КОНКАКАФ требуют, чтобы ФИФА выплатила $ 2,1 млрд группам участников в рамках финансирования",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 20:01:09"
-    },
-    {
-      "id": 1114,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/access-asia/20260918-ai-safety-no-china-will-not-hit-the-brakes",
-      "title_ru": "Безопасность ИИ: Нет, Китай не будет тормозить",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1113,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260918-sweden-s-centre-left-leader-andersson-tasked-with-forming-government-after-election",
-      "title_ru": "Левоцентристский лидер Швеции Андерссон поставил задачу сформировать правительство после выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 17:50:10"
-    },
-    {
-      "id": 1112,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260918-replay-zidane-names-first-squad-as-france-manager",
-      "title_ru": "ПОВТОР: Зидан назначает первый состав тренером сборной Франции",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 17:50:10"
-    },
-    {
-      "id": 1111,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260918-war-in-iran-jeopardises-the-trump-presidency-ex-obama-national-security-council-member-says",
-      "title_ru": "Война в Иране «ставит под угрозу президентство Трампа», говорит бывший член Совета национальной безопасности Обамы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 17:50:09"
     }
   ]
 }
