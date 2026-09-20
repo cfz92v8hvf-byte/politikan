@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T23:27:05.661461+00:00",
+  "updated_at": "2026-09-20T01:31:55.663137+00:00",
   "posts": [
+    {
+      "id": 1159,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Голландская полиция разогнала насильственную ультраправую акцию протеста в Гааге",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-20 01:31:55"
+    },
+    {
+      "id": 1158,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260919-pop-protests-palestine-ed-sheeran-s-moral-maze",
+      "title_ru": "Поп, протесты и Палестина: моральный лабиринт Эда Ширана",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1157,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Администрация Трампа предпринимает шаги по сокращению защиты исчезающих видов",
       "status": "published",
       "published_to_telegram_at": "2026-09-18 09:51:30"
-    },
-    {
-      "id": 1099,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/18/south-korean-president-urges-trump-dialogue-with-pyongyang",
-      "title_ru": "Президент Южной Кореи призвал Трампа к диалогу с Пхеньяном",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 09:51:29"
-    },
-    {
-      "id": 1098,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/18/russia-holds-nationwide-duma-elections-as-war-in-ukraine-reshapes-vote",
-      "title_ru": "Россия проводит общенациональные выборы в Думу, поскольку война в Украине меняет голосование",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-18 09:51:29"
     }
   ]
 }
