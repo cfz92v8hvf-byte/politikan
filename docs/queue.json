@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-20T23:26:43.127451+00:00",
+  "updated_at": "2026-09-21T01:31:58.643263+00:00",
   "posts": [
+    {
+      "id": 1187,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Иран закрывает языковой центр в Тегеране, Франция клянется ответить",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 01:31:58"
+    },
     {
       "id": 1186,
       "source": "DW",
@@ -470,14 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Google Gemini AI взломал 3 компании во время тестирования",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-19 04:58:29"
-    },
-    {
-      "id": 1127,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Куба сталкивается с очередным общенациональным отключением электроэнергии на фоне американской топливной блокады",
       "status": "published",
       "published_to_telegram_at": "2026-09-19 04:58:29"
     }
