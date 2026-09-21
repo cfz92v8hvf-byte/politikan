@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-21T07:02:48.945887+00:00",
+  "updated_at": "2026-09-21T13:58:37.757413+00:00",
   "posts": [
+    {
+      "id": 1199,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
+      "title_ru": "Западный берег реки Иордан: израильский поселенец, палестинец, убитый в",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 13:58:37"
+    },
+    {
+      "id": 1198,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/21/oktoberfest-kicks-off-with-beer-cheers-and-a-traditional-first-tap",
+      "title_ru": "Октоберфест начинается с пива, веселья и традиционного первого крана",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1197,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-midday",
+      "title_ru": "Последние новости | 21 сентября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1196,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/21/us-and-iran-trade-threats-as-fears-of-return-to-all-out-war-mount",
+      "title_ru": "Торговые угрозы США и Ирана как опасения возвращения к тотальной войне",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1195,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/21/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-access",
+      "title_ru": "CNN, MS NOW, Politico подадут в суд на администрацию Трампа за доступ в Белый дом",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 13:58:37"
+    },
+    {
+      "id": 1194,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/21/former-enemies-form-alliance-to-overthrow-ethiopias-abiy-ahmed",
+      "title_ru": "Бывшие враги объединяются, чтобы свергнуть Абия Ахмеда в Эфиопии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 13:58:37"
+    },
     {
       "id": 1193,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-morning",
       "title_ru": "Последние новости | 21 сентября 2026 года – утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Израиль: документальный фильм «NAZA» вызвал политическую бурю",
       "status": "published",
       "published_to_telegram_at": "2026-09-19 13:21:06"
-    },
-    {
-      "id": 1139,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
-      "title_ru": "Дым, пламя возле аэропорта Эр-Рияда, «серьезные» сбои в полетах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-19 13:21:06"
-    },
-    {
-      "id": 1138,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
-      "title_ru": "Путин заявил, что Европа «готовится к войне»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-19 13:21:06"
-    },
-    {
-      "id": 1137,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-midday",
-      "title_ru": "Последние новости | 19 сентября 2026 года – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1136,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/19/un-condemns-shocking-pattern-of-sexual-violence-by-russian-troops-in-ukraine",
-      "title_ru": "ООН осуждает «шокирующую картину» сексуального насилия со стороны российских войск в Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1135,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
-      "title_ru": "Дональд Трамп запретил три СМИ в Белом доме, обвинив их в распространении «фейковых новостей»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-19 09:23:59"
-    },
-    {
-      "id": 1134,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/19/russians-leave-before-election-ends-fearing-mobilisation-to-follow",
-      "title_ru": "Россияне уезжают до окончания выборов, опасаясь мобилизации",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
