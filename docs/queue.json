@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-21T01:31:58.643263+00:00",
+  "updated_at": "2026-09-21T07:02:48.945887+00:00",
   "posts": [
+    {
+      "id": 1193,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly",
+      "title_ru": "Трамп встретится с Макроном в Нью-Йорке перед Генассамблеей ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 07:02:47"
+    },
+    {
+      "id": 1192,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns",
+      "title_ru": "США и Китай будут стремиться к «диалогу ИИ» для сообщения об общих проблемах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1191,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-morning",
+      "title_ru": "Последние новости | 21 сентября 2026 года – утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1190,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/21/us-arrests-18-suspects-in-killing-of-haitian-president-jovenel-moise-officials-say",
+      "title_ru": "США арестовали 18 подозреваемых в убийстве президента Гаити Жовенеля Моиза, говорят чиновники",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 07:02:48"
+    },
+    {
+      "id": 1189,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/21/russians-vote-in-final-day-of-parliamentary-elections",
+      "title_ru": "Партия Путина «Единая Россия» намерена сохранить власть после голосования, пострадавшего от кибератак и беспилотников",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 07:02:48"
+    },
+    {
+      "id": 1188,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/21/us-has-deported-25000-people-to-third-countries-under-secretive-deals-report-shows",
+      "title_ru": "США депортировали 25 000 человек в третьи страны в рамках секретных сделок, говорится в отчете",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-21 07:02:47"
+    },
     {
       "id": 1187,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Россияне уезжают до окончания выборов, опасаясь мобилизации",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1133,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-morning",
-      "title_ru": "Последние новости | 19 сентября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1132,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/19/us-and-denmark-reach-deal-over-greenlands-security",
-      "title_ru": "США и Дания договорились о безопасности Гренландии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1131,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/19/trump-signs-into-law-sweeping-russia-sanctions-package-aiming-to-choke-off-revenues-fundin",
-      "title_ru": "Трамп подписал закон о пакете санкций против России, направленный на то, чтобы перекрыть доходы, финансирующие войну в Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1130,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/19/macron-heading-to-saint-pierre-and-miquelon-to-meet-with-canadian-pm-carney",
-      "title_ru": "Макрон направляется в Сен-Пьер и Микелон для встречи с премьер-министром Канады Карни",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-19 09:23:59"
-    },
-    {
-      "id": 1129,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп подписал законопроект о широких санкциях против России",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1128,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Google Gemini AI взломал 3 компании во время тестирования",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-19 04:58:29"
     }
   ]
 }
