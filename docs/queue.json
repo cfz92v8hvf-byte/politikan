@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-22T06:19:52.667962+00:00",
+  "updated_at": "2026-09-22T11:52:15.911000+00:00",
   "posts": [
+    {
+      "id": 1226,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/g7-leaders-call-on-iran-backed-houthis-to-stop-strikes-on-saudi-arabia",
+      "title_ru": "Лидеры G7 призывают йеменских хуситов прекратить удары по Саудовской Аравии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1225,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/at-least-five-wounded-in-shooting-outside-school-in-western-turkey-media-report",
+      "title_ru": "Не менее 11 человек получили ранения в результате стрельбы возле школы в Турции, подозреваемый задержан",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1224,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/22/macron-walks-through-busy-new-york-streets-to-trump-tower",
+      "title_ru": "Макрон идет по оживленным улицам Нью-Йорка к Trump Tower",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1223,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/turkey-school-shooting-cctv-footage-of-the-gunman",
+      "title_ru": "Стрельба в школе в Турции: кадры с камер видеонаблюдения стрелка",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 11:52:15"
+    },
+    {
+      "id": 1222,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/armed-group-shuts-libyas-largest-oil-field-pipeline-jeopardising-exports",
+      "title_ru": "Вооруженная группа перекрывает трубопровод с крупнейшего нефтяного месторождения Ливии, ставя под угрозу экспорт",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 11:52:15"
+    },
+    {
+      "id": 1221,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/iraq-to-collect-6-million-weapons-despite-pushback-from-iran-backed-militias",
+      "title_ru": "Ирак соберет 6 миллионов единиц оружия, несмотря на сопротивление поддерживаемых Ираном ополченцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 11:52:15"
+    },
     {
       "id": 1220,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un",
       "title_ru": "Ближний Восток в прямом эфире: боевые действия в Йемене обостряются, когда Трамп напра",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/22/saint-pierre-and-miquelon-frances-tiny-outpost-that-relies-on-canada",
       "title_ru": "Сен-Пьер и Микелон: крошечный форпост Франции, который опирается на Канаду",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Северная Корея запускает две баллистические ракеты в море в новейшей демонстрации оружия",
       "status": "published",
       "published_to_telegram_at": "2026-09-20 12:13:56"
-    },
-    {
-      "id": 1166,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/20/us-military-says-four-killed-in-strike-on-suspected-drug-trafficking-boat-in-caribbean",
-      "title_ru": "Американские военные заявили о четырех погибших в результате забастовки на судне, подозреваемом в торговле наркотиками в Карибском бассейне",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1165,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/20/cnn-ms-now-politico-journalists-denied-access-to-the-white-house-after-trump-said-hed-bar-",
-      "title_ru": "CNN, MS ТЕПЕРЬ, журналисты POLITICO отказали в доступе в Белый дом после того, как Трамп сказал, что запретит их",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1164,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-polls-open-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия: Опросы открыты на двух ключевых государственных выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 06:54:42"
-    },
-    {
-      "id": 1163,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260920-germans-vote-in-elections-threatening-fresh-blow-to-merz",
-      "title_ru": "Немцы голосуют на выборах, угрожающих новым ударом по Мерцу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1162,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
-      "title_ru": "Прямая трансляция: российские выборы вступают в последний день после того, как Украина нацелилась на Москву в массовом обстреле беспилот",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 06:54:42"
-    },
-    {
-      "id": 1161,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-morning",
-      "title_ru": "Последние новости | 20 сентября 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 06:54:43"
     }
   ]
 }
