@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-22T19:55:03.555873+00:00",
+  "updated_at": "2026-09-22T22:53:05.826572+00:00",
   "posts": [
+    {
+      "id": 1244,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
+      "title_ru": "Макрон призывает мир «твердо стоять» против «злоупотребления властью империями» в заключительной речи ООН",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1243,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/viral-nato-video-falsely-framed-as-war-propaganda-against-russia-1",
+      "title_ru": "Вирусное видео НАТО, ложно представленное как «военная пропаганда» против России",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 22:53:05"
+    },
+    {
+      "id": 1242,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
+      "title_ru": "Французское правительство расширяет целевое снижение цен на топливо",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 22:53:05"
+    },
+    {
+      "id": 1241,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
+      "title_ru": "Гутерриш призывает к «миру, построенному на взаимозависимости» в заключительном выступлении Генеральной Ассамблеи",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 22:53:04"
+    },
+    {
+      "id": 1240,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia",
+      "title_ru": "Зеленский заявил, что Украина готова к энергетическому перемирию с Россией",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 22:53:04"
+    },
+    {
+      "id": 1239,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/burnham-touts-good-connection-with-trump-as-pair-meet-for-first-time-in-new-york",
+      "title_ru": "Бернем рекламирует «хорошую связь» с Трампом, когда пара впервые встречается в Нью-Йорке",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1238,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Выборы в Германии наносят удар по канцлеру Фридриху Мерцу",
       "status": "published",
       "published_to_telegram_at": "2026-09-20 23:26:43"
-    },
-    {
-      "id": 1184,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Канада, Франция договорились о более тесных связях в обороне, экономике",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 23:26:42"
-    },
-    {
-      "id": 1183,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow",
-      "title_ru": "Правящая партия России на пути к победе на выборах после атак беспилотников Украины на Москву",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1182,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германия сталкивается с потерями налога на энергию, поскольку продажи электромобилей растут",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1181,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ukraine-fires-over-1-000-drones-at-russia-in-largest-ever-attack-on-moscow",
-      "title_ru": "Украина выпустила более 1000 беспилотников по России в ходе «крупнейшей в истории» атаки на Москву",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1180,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections",
-      "title_ru": "Немецкий Мерц признает «катастрофу» на государственных выборах и обещает продвигать реформы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 18:52:06"
-    },
-    {
-      "id": 1179,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/exit-polls-show-disaster-for-merz-cdu-party-in-two-state-elections",
-      "title_ru": "Экзит-полы показывают «катастрофу» для партии ХДС «Мерц» на двух выборах в штатах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 18:52:05"
     }
   ]
 }
