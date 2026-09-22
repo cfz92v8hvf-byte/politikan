@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-22T01:16:29.943787+00:00",
+  "updated_at": "2026-09-22T06:19:52.667962+00:00",
   "posts": [
+    {
+      "id": 1220,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un",
+      "title_ru": "Ближний Восток в прямом эфире: боевые действия в Йемене обостряются, когда Трамп напра",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1219,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260922-macron-has-been-trying-to-convince-trump-to-take-a-harder-line-on-putin",
+      "title_ru": "«Макрон пытается убедить Трампа занять более жесткую позицию в отношении Путина»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 06:19:51"
+    },
+    {
+      "id": 1218,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/saint-pierre-and-miquelon-frances-tiny-outpost-that-relies-on-canada",
+      "title_ru": "Сен-Пьер и Микелон: крошечный форпост Франции, который опирается на Канаду",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1217,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/exclusive-irans-school-year-opens-as-fees-triple-and-enrolment-falls",
+      "title_ru": "Эксклюзив: учебный год в Иране открывается, когда плата за обучение увеличивается в три раза, а количество учащихся падает",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 06:19:52"
+    },
+    {
+      "id": 1216,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/22/latest-news-bulletin-september-22nd-2026-morning",
+      "title_ru": "Последние новости | 22 сентября 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 06:19:52"
+    },
+    {
+      "id": 1215,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results",
+      "title_ru": "Россияне за рубежом проголосовали восемь к одному против партии Путина, бросив вызов официальным результатам",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 06:19:51"
+    },
     {
       "id": 1214,
       "source": "Council of the EU",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 20 сентября 2026 года – утро",
       "status": "published",
       "published_to_telegram_at": "2026-09-20 06:54:43"
-    },
-    {
-      "id": 1160,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/20/us-embassies-issue-security-alerts-over-houthi-attacks-on-saudi-arabia",
-      "title_ru": "Посольства США выпустили предупреждения о безопасности в связи с нападениями хуситов на Саудовскую Аравию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 06:54:41"
-    },
-    {
-      "id": 1159,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Голландская полиция разогнала насильственную ультраправую акцию протеста в Гааге",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 01:31:55"
-    },
-    {
-      "id": 1158,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260919-pop-protests-palestine-ed-sheeran-s-moral-maze",
-      "title_ru": "Поп, протесты и Палестина: моральный лабиринт Эда Ширана",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1157,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина активизирует меры по защите железных дорог",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1156,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Германо-российские отношения на грани замерзания",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1155,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп объявляет о новой «силе ИИ» на фоне растущего давления",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
