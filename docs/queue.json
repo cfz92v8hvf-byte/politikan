@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-21T22:37:42.964093+00:00",
+  "updated_at": "2026-09-22T01:16:29.943787+00:00",
   "posts": [
+    {
+      "id": 1214,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/22/remarks-by-president-antonio-costa-at-the-press-conference-following-the-partners-for-multilateralism-summit/",
+      "title_ru": "Выступление президента Антониу Коста на пресс-конференции по итогам саммита «Партнеры по многосторонности»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 01:16:29"
+    },
+    {
+      "id": 1213,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance",
+      "title_ru": "Основные вооруженные группировки Эфиопии формируют антиправительственный альянс",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1212,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260921-paramount-settles-with-us-states-to-clear-warner-bros-mega-merger",
+      "title_ru": "Paramount договаривается со штатами США, чтобы очистить мега-слияние Warner Bros.",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 01:16:29"
+    },
     {
       "id": 1211,
       "source": "Council of the EU",
@@ -454,30 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Трамп объявляет о новой «силе ИИ» на фоне растущего давления",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1154,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
-      "title_ru": "Французский форпост у берегов Канады в центре внимания, когда Макрон принимает Карни с символическим визитом",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-19 21:24:55"
-    },
-    {
-      "id": 1153,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
-      "title_ru": "Черный дым замечен возле Эр-Рияда на фоне воздушных тревог в Саудовской Аравии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1152,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/macron-visits-remote-french-territory-in-the-north-america-a-first-in-over-a-decade",
-      "title_ru": "Макрон впервые за более чем десятилетие посетил отдаленную французскую территорию в Северной Америке",
       "status": "expired",
       "published_to_telegram_at": null
     }
