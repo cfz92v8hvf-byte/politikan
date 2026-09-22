@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-22T16:48:25.455097+00:00",
+  "updated_at": "2026-09-22T19:55:03.555873+00:00",
   "posts": [
+    {
+      "id": 1238,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260922-how-is-the-eu-approaching-record-fuel-prices",
+      "title_ru": "Как ЕС реагирует на рекордные цены на топливо?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1237,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
+      "title_ru": "ПОВТОР: Трамп защищает войну с Ираном, атакует ICC в речи ООН",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1236,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+      "title_ru": "Иран, ИИ и МУС: Трамп угрожает, рекламирует политику на Генассамблее ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 19:55:03"
+    },
+    {
+      "id": 1235,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
+      "title_ru": "🔴Смотрите в прямом эфире: Президент Франции Эммануэль Макрон обращается к Генеральной Ассамблее ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 19:55:02"
+    },
+    {
+      "id": 1234,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy",
+      "title_ru": "Мир Трампа? Лидеры ориентируются в последствиях политики США",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 19:55:02"
+    },
+    {
+      "id": 1233,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/22/trump-threatens-to-annihilate-iran-at-un-then-confirms-direct-talks",
+      "title_ru": "Трамп угрожает «уничтожить» Иран в ООН, а затем подтверждает прямые переговоры",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-22 19:55:01"
+    },
     {
       "id": 1232,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/22/new-rotation-of-us-troops-bound-for-lithuania-lithuanian-president-says",
       "title_ru": "Новая ротация войск США направляется в Литву, заявил президент Литвы",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Экзит-полы показывают «катастрофу» для партии ХДС «Мерц» на двух выборах в штатах",
       "status": "published",
       "published_to_telegram_at": "2026-09-20 18:52:05"
-    },
-    {
-      "id": 1178,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260920-germany-merz-vows-to-push-on-despite-setbacks",
-      "title_ru": "Германия: Мерц обещает «продвигаться вперед, несмотря на неудачи»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 18:52:05"
-    },
-    {
-      "id": 1177,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
-      "title_ru": "Макрон и Карни приветствуют новую главу в отношениях между Францией и Канадой на символической встрече на архипелаге",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 18:52:04"
-    },
-    {
-      "id": 1176,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "title_ru": "Нападения хуситов и отсутствие поддержки Запада: каковы варианты Саудовской Аравии?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1175,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
-      "title_ru": "Неделя в фотографиях: протесты в Сирии, выступление Селин Дион на сцене и лесные пожары в Кито",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1174,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260920-iran-closes-french-language-centre-in-tehran-for-illegal-acts",
-      "title_ru": "Иран закрывает центр французского языка в Тегеране за «незаконные действия»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 16:13:48"
-    },
-    {
-      "id": 1173,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260920-israeli-settler-and-palestinian-driver-killed-in-west-bank-shootings",
-      "title_ru": "В перестрелках на Западном берегу погибли израильский поселенец и палестинский водитель",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 16:13:47"
     }
   ]
 }
