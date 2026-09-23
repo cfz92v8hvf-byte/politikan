@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-23T12:17:36.431932+00:00",
+  "updated_at": "2026-09-23T17:14:09.176686+00:00",
   "posts": [
+    {
+      "id": 1261,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260923-us-says-wants-ukraine-russia-to-end-strikes-on-energy-sites-1",
+      "title_ru": "США говорят, что хотят, чтобы Украина и Россия прекратили удары по энергетическим объектам",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 17:14:08"
+    },
+    {
+      "id": 1260,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260923-iran-will-never-bend-at-the-knee-pezeshkian-tells-un-defiant-wartime-address",
+      "title_ru": "Иран «никогда не встанет на колени», - заявил Пезешкян в ООН в своем вызывающем обращении во время войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 17:14:08"
+    },
+    {
+      "id": 1259,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/qatars-emir-urges-talks-with-iran-as-regional-leaders-demand-stronger-action-against-israe",
+      "title_ru": "Эмир Катара призывает к переговорам с Ираном, поскольку региональные лидеры требуют более решительных действий против Израиля в ООН",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1258,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/al-sharaa-vows-golan-heights-will-remain-syrian-in-un-speech",
+      "title_ru": "Аль-Шараа обещает, что Голанские высоты останутся сирийскими в речи ООН",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1257,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living",
+      "title_ru": "Марокко голосует за новый парламент на фоне надежд и опасений по поводу стоимости жизни",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 17:14:09"
+    },
+    {
+      "id": 1256,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/23/latest-news-bulletin-september-23rd-2026-evening",
+      "title_ru": "Последние новости | 23 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 17:14:07"
+    },
     {
       "id": 1255,
       "source": "Euronews",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-evening",
       "title_ru": "Последние новости | 21 сентября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1201,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/trump-promotes-massive-belarus-potash-deal-to-undercut-canada",
-      "title_ru": "Трамп продвигает «массовую» белорусскую калийную сделку, чтобы подорвать Канаду",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1200,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/ground-stops-ordered-at-six-us-airports-due-to-equipment-outage",
-      "title_ru": "Наземные остановки заказаны в шести аэропортах США из-за «сбоя оборудования»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 19:17:38"
-    },
-    {
-      "id": 1199,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
-      "title_ru": "Западный берег реки Иордан: израильский поселенец, палестинец, убитый в",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 13:58:37"
-    },
-    {
-      "id": 1198,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/21/oktoberfest-kicks-off-with-beer-cheers-and-a-traditional-first-tap",
-      "title_ru": "Октоберфест начинается с пива, веселья и традиционного первого крана",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1197,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-midday",
-      "title_ru": "Последние новости | 21 сентября 2026 года – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1196,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/us-and-iran-trade-threats-as-fears-of-return-to-all-out-war-mount",
-      "title_ru": "Торговые угрозы США и Ирана как опасения возвращения к тотальной войне",
       "status": "expired",
       "published_to_telegram_at": null
     }
