@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-23T06:35:19.700308+00:00",
+  "updated_at": "2026-09-23T12:17:36.431932+00:00",
   "posts": [
+    {
+      "id": 1255,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/23/lucas-museum-opens-in-los-angeles-with-star-wars-treasures-on-display",
+      "title_ru": "Музей Лукаса открывается в Лос-Анджелесе с экспозицией сокровищ «Звездных войн»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1254,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/23/alpaca-migration-woolly-travellers-make-their-way-down-from-the-swiss-alps",
+      "title_ru": "Миграция альпаки: шерстистые путешественники спускаются из Швейцарских Альп",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1253,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/erdogan-urges-un-to-abolish-security-council-veto-power-ahead-of-general-assembly-address",
+      "title_ru": "Европа нуждается в Турции в своей «архитектуре безопасности», заявил Эрдоган на Генеральной Ассамблее ООН",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1252,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/ai-chatbots-serve-up-content-from-russias-sanctioned-state-run-outlets-rsf-finds",
+      "title_ru": "Чат-боты ИИ обслуживают контент из санкционированных государственных СМИ России, считает RSF",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 12:17:36"
+    },
+    {
+      "id": 1251,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/tigray-rebels-seize-airport-and-clash-with-federal-forces-as-fighting-in-ethiopia-reignite",
+      "title_ru": "Повстанцы Tigray захватили аэропорт и столкнулись с федеральными силами, поскольку боевые действия в Эфиопии возобновляются",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 12:17:35"
+    },
+    {
+      "id": 1250,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/uk-to-review-chagos-deal-after-trump-tells-burnham-it-is-terrible",
+      "title_ru": "Великобритания пересмотрит сделку с Чагосом после того, как Трамп скажет Бернхэму, что она «ужасна»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 12:17:35"
+    },
     {
       "id": 1249,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Торговые угрозы США и Ирана как опасения возвращения к тотальной войне",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1195,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-access",
-      "title_ru": "CNN, MS NOW, Politico подадут в суд на администрацию Трампа за доступ в Белый дом",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 13:58:37"
-    },
-    {
-      "id": 1194,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/former-enemies-form-alliance-to-overthrow-ethiopias-abiy-ahmed",
-      "title_ru": "Бывшие враги объединяются, чтобы свергнуть Абия Ахмеда в Эфиопии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 13:58:37"
-    },
-    {
-      "id": 1193,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly",
-      "title_ru": "Трамп встретится с Макроном в Нью-Йорке перед Генассамблеей ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 07:02:47"
-    },
-    {
-      "id": 1192,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns",
-      "title_ru": "США и Китай будут стремиться к «диалогу ИИ» для сообщения об общих проблемах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1191,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-morning",
-      "title_ru": "Последние новости | 21 сентября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1190,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/us-arrests-18-suspects-in-killing-of-haitian-president-jovenel-moise-officials-say",
-      "title_ru": "США арестовали 18 подозреваемых в убийстве президента Гаити Жовенеля Моиза, говорят чиновники",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 07:02:48"
     }
   ]
 }
