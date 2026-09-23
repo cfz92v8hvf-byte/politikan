@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-23T17:14:09.176686+00:00",
+  "updated_at": "2026-09-23T20:28:05.027089+00:00",
   "posts": [
+    {
+      "id": 1267,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war",
+      "title_ru": "🔴Прямой эфир: «Россия никогда не остановится», - заявил президент Украины Владимир Зеленский в ООН",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1266,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260923-putin-using-citizens-from-47-countries-to-fight-ukraine-zelensky-tells-un",
+      "title_ru": "Зеленский обвинил Путина в использовании граждан 47 стран для войны на Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 20:28:04"
+    },
+    {
+      "id": 1265,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11",
+      "title_ru": "Нет, это видео не опровергает нападение 11 сентября на южную башню Всемирного торгового центра",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 20:28:03"
+    },
+    {
+      "id": 1264,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260923-replay-ukrainian-president-zelensky-addresses-the-un-general-assembly",
+      "title_ru": "ПОВТОР: Президент Украины Зеленский выступает на Генассамблее ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 20:28:03"
+    },
+    {
+      "id": 1263,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/23/syrias-first-women-graduate-from-new-police-academy",
+      "title_ru": "Первые женщины Сирии окончили новую полицейскую академию",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1262,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/23/pezeshkian-tells-un-iran-will-not-be-bullied-but-will-negotiate",
+      "title_ru": "Пезешкян говорит, что над Ираном не будут издеваться, но он будет вести переговоры",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 20:28:04"
+    },
     {
       "id": 1261,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Соперничество между США и Китаем меняет глобальную торговлю — и Европа оказалась в середине.",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1207,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20260921-infantino-says-open-to-fifa-reform-talks-after-world-cup-controversy",
-      "title_ru": "Инфантино говорит, что открыт для переговоров по реформе ФИФА после спора о чемпионате мира",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 22:37:42"
-    },
-    {
-      "id": 1206,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/21/putins-party-wins-record-duma-majority-in-kremlin-controlled-elections-as-eu-vows-sanction",
-      "title_ru": "Партия Путина получает рекордное большинство в Думе на контролируемых Кремлем выборах, поскольку ЕС обещает санкции",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1205,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260921-typhoon-dujuan-japan-urges-two-million-to-evacuate",
-      "title_ru": "Тайфун Дуцзюань: Япония призывает эвакуировать два миллиона человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1204,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260921-national-security-threat-trump-s-latest-attack-on-us-media",
-      "title_ru": "«Угроза национальной безопасности»: последняя атака Трампа на американские СМИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 19:17:38"
-    },
-    {
-      "id": 1203,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260921-bolsonaro-sons-carlos-and-race-for-power-brazil-south",
-      "title_ru": "«Делаем ставку на национальный бренд»: сыновья Болсонару Карлос и Жаир Ренан баллотируются за власть на юге Бразилии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 19:17:37"
-    },
-    {
-      "id": 1202,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-evening",
-      "title_ru": "Последние новости | 21 сентября 2026 года – вечер",
       "status": "expired",
       "published_to_telegram_at": null
     }
