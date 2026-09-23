@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-22T22:53:05.826572+00:00",
+  "updated_at": "2026-09-23T01:25:08.261902+00:00",
   "posts": [
+    {
+      "id": 1247,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/23/remarks-by-president-antonio-costa-at-the-high-level-international-meeting-on-the-two-state-solution-and-the-comprehensive-peace-plan-for-gaza/",
+      "title_ru": "Выступление президента Антониу Коста на международном совещании высокого уровня по урегулированию на основе сосуществования двух государств и Всеобъемлющему мирному плану для Газы",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 01:25:07"
+    },
+    {
+      "id": 1246,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/eu-drops-sanctions-for-russian-oligarchs-usmanov-and-fridman/a-79381048?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "ЕС снял санкции с российских олигархов Усманова и Фридмана",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1245,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-signs-tremendous-greenland-security-deal/a-79381148?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп подписал «потрясающую» сделку по безопасности в Гренландии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 01:25:08"
+    },
     {
       "id": 1244,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
       "title_ru": "Макрон призывает мир «твердо стоять» против «злоупотребления властью империями» в заключительной речи ООН",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -46,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/22/burnham-touts-good-connection-with-trump-as-pair-meet-for-first-time-in-new-york",
       "title_ru": "Бернем рекламирует «хорошую связь» с Трампом, когда пара впервые встречается в Нью-Йорке",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -456,30 +480,6 @@
       "title_ru": "США депортировали 25 000 человек в третьи страны в рамках секретных сделок, говорится в отчете",
       "status": "published",
       "published_to_telegram_at": "2026-09-21 07:02:47"
-    },
-    {
-      "id": 1187,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Иран закрывает языковой центр в Тегеране, Франция клянется ответить",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 01:31:58"
-    },
-    {
-      "id": 1186,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "AfD добивается успехов на выборах в штатах, но не имеет вариантов правительства",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1185,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Выборы в Германии наносят удар по канцлеру Фридриху Мерцу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-20 23:26:43"
     }
   ]
 }
