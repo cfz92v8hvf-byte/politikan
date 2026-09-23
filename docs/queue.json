@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-23T20:28:05.027089+00:00",
+  "updated_at": "2026-09-23T23:05:45.407512+00:00",
   "posts": [
+    {
+      "id": 1273,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новые боевые действия в Тиграйском регионе Эфиопии вызывают опасения по поводу возобновления гражданской войны в стране",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1272,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости в прямом эфире: Трамп приветствует Си в Вашингтоне",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 23:05:43"
+    },
+    {
+      "id": 1271,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
+      "title_ru": "Трамп вызвал дебаты по поводу запрета на экспорт дизельного топлива",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1270,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1",
+      "title_ru": "Фактологическая проверка речи Трампа на Генассамблее ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 23:05:45"
+    },
+    {
+      "id": 1269,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down",
+      "title_ru": "Лидеры ИИ призывают к осторожности в ООН, а глава Anthropic обещает замедлить",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 23:05:44"
+    },
+    {
+      "id": 1268,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
+      "title_ru": "По словам премьер-министра, агент OpenAI AI взломал веб-сайт правительства Австралии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-23 23:05:44"
+    },
     {
       "id": 1267,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war",
       "title_ru": "🔴Прямой эфир: «Россия никогда не остановится», - заявил президент Украины Владимир Зеленский в ООН",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/23/syrias-first-women-graduate-from-new-police-academy",
       "title_ru": "Первые женщины Сирии окончили новую полицейскую академию",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Выступление президента Антониу Коста на пресс-конференции по итогам саммита «Партнеры по многосторонности»",
       "status": "published",
       "published_to_telegram_at": "2026-09-22 01:16:29"
-    },
-    {
-      "id": 1213,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance",
-      "title_ru": "Основные вооруженные группировки Эфиопии формируют антиправительственный альянс",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1212,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260921-paramount-settles-with-us-states-to-clear-warner-bros-mega-merger",
-      "title_ru": "Paramount договаривается со штатами США, чтобы очистить мега-слияние Warner Bros.",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 01:16:29"
-    },
-    {
-      "id": 1211,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/21/declaration-of-the-partners-for-multilateralism-p4m-summit-21-september-2026/",
-      "title_ru": "Саммит «Декларация партнеров по многосторонности» (P4M), 21 сентября 2026 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 22:37:42"
-    },
-    {
-      "id": 1210,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/21/joint-press-release-following-trilateral-eu-australia-leaders-meeting/",
-      "title_ru": "Совместный пресс-релиз по итогам трехсторонней встречи лидеров ЕС и Австралии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-21 22:37:41"
-    },
-    {
-      "id": 1209,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-news-outlets-sue-trump-over-white-house-ban/a-79362618?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "СМИ США подали в суд на Трампа из-за запрета Белого дома",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1208,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Соперничество между США и Китаем меняет глобальную торговлю — и Европа оказалась в середине.",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
