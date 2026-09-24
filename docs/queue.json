@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T23:05:45.407512+00:00",
+  "updated_at": "2026-09-24T01:28:36.879426+00:00",
   "posts": [
+    {
+      "id": 1275,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/23/remarks-by-president-antonio-costa-at-the-united-nations-security-council-meeting-on-maintenance-of-peace-and-security-of-ukraine/",
+      "title_ru": "Выступление Президента Антониу Коста на заседании Совета Безопасности ООН по вопросам поддержания мира и безопасности в Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1274,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260924-turkey-to-hand-over-military-base-in-northern-iraq-to-baghdad",
+      "title_ru": "Турция передаст Багдаду военную базу на севере Ирака",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 01:28:36"
+    },
     {
       "id": 1273,
       "source": "DW",
@@ -22,7 +38,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
       "title_ru": "Трамп вызвал дебаты по поводу запрета на экспорт дизельного топлива",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -464,22 +480,6 @@
       "title_ru": "Последние новости | 22 сентября 2026 года – утро",
       "status": "published",
       "published_to_telegram_at": "2026-09-22 06:19:52"
-    },
-    {
-      "id": 1215,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results",
-      "title_ru": "Россияне за рубежом проголосовали восемь к одному против партии Путина, бросив вызов официальным результатам",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 06:19:51"
-    },
-    {
-      "id": 1214,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/22/remarks-by-president-antonio-costa-at-the-press-conference-following-the-partners-for-multilateralism-summit/",
-      "title_ru": "Выступление президента Антониу Коста на пресс-конференции по итогам саммита «Партнеры по многосторонности»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 01:16:29"
     }
   ]
 }
