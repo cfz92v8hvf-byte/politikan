@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-09-24T20:42:49.997601+00:00",
+  "updated_at": "2026-09-24T23:32:40.625325+00:00",
   "posts": [
+    {
+      "id": 1304,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Эфиопские военные заявляют, что убили сотни повстанцев TPLF",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1303,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трехсторонняя битва за власть в мировых шахматах: кого изберут президентом ФИДЕ в Самарканде?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1302,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/unga-gaza-dominates-agenda-as-abbas-netanyahu-speak/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "ГА ООН: Газа доминирует в повестке дня, поскольку Аббас, Нетаньяху говорят",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1301,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Юрген Клопп начинает работу в Германии с шаткой ничьей в Нидерландах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 23:32:40"
+    },
+    {
+      "id": 1300,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-observers/20260924-residents-west-bank-masafer-yatta-israeli-demolitions",
+      "title_ru": "Жители Масафер-Ятты на Западном берегу сталкиваются с израильскими сносами",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1299,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
       "title_ru": "Будущее ИИ в их руках? Саммит Трамп-Си отвергает призывы к глобальному надзору",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +54,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
       "title_ru": "ПОВТОР: Премьер-министр Израиля Биньямин Нетаньяху выступает на Генассамблее ООН",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "Трамп подписал «потрясающую» сделку по безопасности в Гренландии",
       "status": "published",
       "published_to_telegram_at": "2026-09-23 01:25:08"
-    },
-    {
-      "id": 1244,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
-      "title_ru": "Макрон призывает мир «твердо стоять» против «злоупотребления властью империями» в заключительной речи ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1243,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/viral-nato-video-falsely-framed-as-war-propaganda-against-russia-1",
-      "title_ru": "Вирусное видео НАТО, ложно представленное как «военная пропаганда» против России",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 22:53:05"
-    },
-    {
-      "id": 1242,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
-      "title_ru": "Французское правительство расширяет целевое снижение цен на топливо",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 22:53:05"
-    },
-    {
-      "id": 1241,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
-      "title_ru": "Гутерриш призывает к «миру, построенному на взаимозависимости» в заключительном выступлении Генеральной Ассамблеи",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 22:53:04"
-    },
-    {
-      "id": 1240,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia",
-      "title_ru": "Зеленский заявил, что Украина готова к энергетическому перемирию с Россией",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 22:53:04"
     }
   ]
 }
