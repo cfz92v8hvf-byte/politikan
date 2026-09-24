@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-24T01:28:36.879426+00:00",
+  "updated_at": "2026-09-24T06:40:50.541990+00:00",
   "posts": [
+    {
+      "id": 1281,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260924-as-moscow-steps-up-attacks-kyiv-residents-brace-for-harsh-winter",
+      "title_ru": "Россия атакует Киев баллистическими ракетами, пока украинцы готовятся к суровой зиме",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 06:40:50"
+    },
+    {
+      "id": 1280,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260924-us-judge-lifts-trump-s-white-house-ban-on-cnn-ms-now-politico",
+      "title_ru": "🔴 Американский судья снял запрет Белого дома Трампа на CNN, MS NOW, Politico",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 06:40:49"
+    },
+    {
+      "id": 1279,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/24/us-president-trump-offers-grand-welcoming-to-his-chinese-counterpart-xi-jinping",
+      "title_ru": "Президент США Трамп приветствует своего китайского коллегу Си Цзиньпина",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1278,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/24/latest-news-bulletin-september-24th-2026-morning",
+      "title_ru": "Последние новости | 24 сентября 2026 г. – утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1277,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/24/albanese-says-openai-hacked-government-health-website-in-obviously-unacceptable-breach",
+      "title_ru": "Albanese говорит, что OpenAI взломал правительственный сайт здравоохранения в «очевидно неприемлемом» нарушении",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 06:40:50"
+    },
+    {
+      "id": 1276,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/24/trump-welcomes-xi-jinping-with-red-carpet-military-honours-and-flyover",
+      "title_ru": "Трамп приветствует Си Цзиньпина красной ковровой дорожкой, военными почестями и пролетом",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 06:40:49"
+    },
     {
       "id": 1275,
       "source": "Council of the EU",
@@ -432,54 +480,6 @@
       "title_ru": "Вооруженная группа перекрывает трубопровод с крупнейшего нефтяного месторождения Ливии, ставя под угрозу экспорт",
       "status": "published",
       "published_to_telegram_at": "2026-09-22 11:52:15"
-    },
-    {
-      "id": 1221,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/iraq-to-collect-6-million-weapons-despite-pushback-from-iran-backed-militias",
-      "title_ru": "Ирак соберет 6 миллионов единиц оружия, несмотря на сопротивление поддерживаемых Ираном ополченцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 11:52:15"
-    },
-    {
-      "id": 1220,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un",
-      "title_ru": "Ближний Восток в прямом эфире: боевые действия в Йемене обостряются, когда Трамп напра",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1219,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260922-macron-has-been-trying-to-convince-trump-to-take-a-harder-line-on-putin",
-      "title_ru": "«Макрон пытается убедить Трампа занять более жесткую позицию в отношении Путина»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 06:19:51"
-    },
-    {
-      "id": 1218,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/saint-pierre-and-miquelon-frances-tiny-outpost-that-relies-on-canada",
-      "title_ru": "Сен-Пьер и Микелон: крошечный форпост Франции, который опирается на Канаду",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1217,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/exclusive-irans-school-year-opens-as-fees-triple-and-enrolment-falls",
-      "title_ru": "Эксклюзив: учебный год в Иране открывается, когда плата за обучение увеличивается в три раза, а количество учащихся падает",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 06:19:52"
-    },
-    {
-      "id": 1216,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/22/latest-news-bulletin-september-22nd-2026-morning",
-      "title_ru": "Последние новости | 22 сентября 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 06:19:52"
     }
   ]
 }
