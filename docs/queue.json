@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-24T06:40:50.541990+00:00",
+  "updated_at": "2026-09-24T12:19:05.803989+00:00",
   "posts": [
+    {
+      "id": 1287,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260924-ukraine-zelensky-says-putin-patient-zero-for-spreading-war",
+      "title_ru": "Украина: Зеленский назвал Путина «нулевым пациентом» за распространение войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 12:19:04"
+    },
+    {
+      "id": 1286,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/24/hurricane-polo-brings-powerful-waves-to-mexicos-pacific-coast",
+      "title_ru": "Ураган Поло принес мощные волны на тихоокеанское побережье Мексики",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1285,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/24/udi-christians-worship-at-azerbaijans-karabakh-monasteries",
+      "title_ru": "Христиане Уди молятся в карабахских монастырях Азербайджана",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1284,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/24/us-admits-there-were-eight-suicide-attempts-on-us-aircraft-carrier-during-record-middle-ea",
+      "title_ru": "США признали восемь попыток самоубийства на американском авианосце во время рекордного развертывания на Ближнем Востоке",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1283,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/24/crowds-celebrate-saudi-national-day-with-flags-performances-and-military-parade",
+      "title_ru": "Толпа празднует Национальный день Саудовской Аравии с флагами, спектаклями и военным парадом",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 12:19:05"
+    },
+    {
+      "id": 1282,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/24/turkey-iran-border-crossing-hit-by-severe-truck-delays",
+      "title_ru": "Турецко-иранский пограничный переход пострадал от серьезных задержек грузовиков",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 12:19:05"
+    },
     {
       "id": 1281,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/24/us-president-trump-offers-grand-welcoming-to-his-chinese-counterpart-xi-jinping",
       "title_ru": "Президент США Трамп приветствует своего китайского коллегу Си Цзиньпина",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/24/latest-news-bulletin-september-24th-2026-morning",
       "title_ru": "Последние новости | 24 сентября 2026 г. – утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 22 сентября 2026 года – вечер",
       "status": "published",
       "published_to_telegram_at": "2026-09-22 16:48:24"
-    },
-    {
-      "id": 1227,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/trump-signs-greenland-security-deal-allowing-us-to-expand-military-presence",
-      "title_ru": "Трамп подписал соглашение о безопасности в Гренландии, позволяющее США расширить военное присутствие",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 16:48:23"
-    },
-    {
-      "id": 1226,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/g7-leaders-call-on-iran-backed-houthis-to-stop-strikes-on-saudi-arabia",
-      "title_ru": "Лидеры G7 призывают йеменских хуситов прекратить удары по Саудовской Аравии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1225,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/at-least-five-wounded-in-shooting-outside-school-in-western-turkey-media-report",
-      "title_ru": "Не менее 11 человек получили ранения в результате стрельбы возле школы в Турции, подозреваемый задержан",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1224,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/22/macron-walks-through-busy-new-york-streets-to-trump-tower",
-      "title_ru": "Макрон идет по оживленным улицам Нью-Йорка к Trump Tower",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1223,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/turkey-school-shooting-cctv-footage-of-the-gunman",
-      "title_ru": "Стрельба в школе в Турции: кадры с камер видеонаблюдения стрелка",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 11:52:15"
-    },
-    {
-      "id": 1222,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/armed-group-shuts-libyas-largest-oil-field-pipeline-jeopardising-exports",
-      "title_ru": "Вооруженная группа перекрывает трубопровод с крупнейшего нефтяного месторождения Ливии, ставя под угрозу экспорт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 11:52:15"
     }
   ]
 }
