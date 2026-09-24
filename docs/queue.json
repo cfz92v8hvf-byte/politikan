@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-24T17:21:03.697721+00:00",
+  "updated_at": "2026-09-24T20:42:49.997601+00:00",
   "posts": [
+    {
+      "id": 1299,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
+      "title_ru": "Будущее ИИ в их руках? Саммит Трамп-Си отвергает призывы к глобальному надзору",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1298,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
+      "title_ru": "ПОВТОР: Премьер-министр Израиля Биньямин Нетаньяху выступает на Генассамблее ООН",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1297,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un",
+      "title_ru": "Премьер-министр Израиля Нетаньяху назвал обвинения в геноциде в Газе «самой большой ложью века»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 20:42:49"
+    },
+    {
+      "id": 1296,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
+      "title_ru": "Тиграйские повстанцы в «полномасштабной» войне с правительством",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 20:42:49"
+    },
+    {
+      "id": 1295,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/iran-sees-air-land-travel-chaos-as-us-sanctions-bite",
+      "title_ru": "Иран видит хаос в воздушных и наземных перевозках, поскольку санкции США кусаются",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 20:42:49"
+    },
+    {
+      "id": 1294,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260924-macron-says-cia-did-not-inform-french-services-of-possible-russian-drone-attacks",
+      "title_ru": "Макрон заявил, что «ЦРУ не ​информировало французские службы» о возможных атаках российских беспилотников",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-24 20:42:48"
+    },
     {
       "id": 1293,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20260924-threat-to-life-and-existence-major-takeaways-from-palestinian-president-s-un-speech",
       "title_ru": "Угроза «жизни и существованию»: основные выводы из речи палестинского президента в ООН",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Зеленский заявил, что Украина готова к энергетическому перемирию с Россией",
       "status": "published",
       "published_to_telegram_at": "2026-09-22 22:53:04"
-    },
-    {
-      "id": 1239,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/22/burnham-touts-good-connection-with-trump-as-pair-meet-for-first-time-in-new-york",
-      "title_ru": "Бернем рекламирует «хорошую связь» с Трампом, когда пара впервые встречается в Нью-Йорке",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1238,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260922-how-is-the-eu-approaching-record-fuel-prices",
-      "title_ru": "Как ЕС реагирует на рекордные цены на топливо?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1237,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
-      "title_ru": "ПОВТОР: Трамп защищает войну с Ираном, атакует ICC в речи ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1236,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
-      "title_ru": "Иран, ИИ и МУС: Трамп угрожает, рекламирует политику на Генассамблее ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 19:55:03"
-    },
-    {
-      "id": 1235,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-      "title_ru": "🔴Смотрите в прямом эфире: Президент Франции Эммануэль Макрон обращается к Генеральной Ассамблее ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 19:55:02"
-    },
-    {
-      "id": 1234,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy",
-      "title_ru": "Мир Трампа? Лидеры ориентируются в последствиях политики США",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-22 19:55:02"
     }
   ]
 }
