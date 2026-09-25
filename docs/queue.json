@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-25T17:54:26.982465+00:00",
+  "updated_at": "2026-09-25T21:27:45.605459+00:00",
   "posts": [
+    {
+      "id": 1331,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Лула или Болсонару на посту президента? Бразилия готовится голосовать",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 21:27:44"
+    },
+    {
+      "id": 1330,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/yemeni-leader-calls-for-general-mobilization-against-houthis/a-79439604?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Йеменский лидер призывает к всеобщей мобилизации против хуситов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 21:27:44"
+    },
+    {
+      "id": 1329,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260925-pope-leon-xiv-greets-crowds-on-popemobile-ride-through-paris",
+      "title_ru": "Папа Леон XIV встречает толпу во время поездки на папамобиле по Парижу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1328,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260925-lots-of-pomp-but-no-progress-as-trump-and-xi-end-state-visit",
+      "title_ru": "Много помпезности, но мало прогресса по мере того, как Трамп и Си заканчивают государственный визит в Вашингтон",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1327,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads",
+      "title_ru": "Папа Римский в Париже, Си в Вашингтоне, ИИ на перепутье",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 21:27:45"
+    },
+    {
+      "id": 1326,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/the-us-lays-groundwork-for-possible-military-action-in-cuba-according-to-cbs-news",
+      "title_ru": "США закладывают основу для возможных военных действий на Кубе, сообщает «CBS News»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 21:27:45"
+    },
     {
       "id": 1325,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/09/25/latest-news-bulletin-september-25th-2026-evening",
       "title_ru": "Последние новости | 25 сентября 2026 года – вечер",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/25/trump-and-xi-declare-harmony-no-confrontation-as-us-state-visit-ends",
       "title_ru": "Трамп и Си заявляют о гармонии, никакой конфронтации, поскольку государственный визит в США заканчивается",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Новости в прямом эфире: Трамп приветствует Си в Вашингтоне",
       "status": "published",
       "published_to_telegram_at": "2026-09-23 23:05:43"
-    },
-    {
-      "id": 1271,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
-      "title_ru": "Трамп вызвал дебаты по поводу запрета на экспорт дизельного топлива",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1270,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1",
-      "title_ru": "Фактологическая проверка речи Трампа на Генассамблее ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 23:05:45"
-    },
-    {
-      "id": 1269,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down",
-      "title_ru": "Лидеры ИИ призывают к осторожности в ООН, а глава Anthropic обещает замедлить",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 23:05:44"
-    },
-    {
-      "id": 1268,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
-      "title_ru": "По словам премьер-министра, агент OpenAI AI взломал веб-сайт правительства Австралии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 23:05:44"
-    },
-    {
-      "id": 1267,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war",
-      "title_ru": "🔴Прямой эфир: «Россия никогда не остановится», - заявил президент Украины Владимир Зеленский в ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1266,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260923-putin-using-citizens-from-47-countries-to-fight-ukraine-zelensky-tells-un",
-      "title_ru": "Зеленский обвинил Путина в использовании граждан 47 стран для войны на Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 20:28:04"
     }
   ]
 }
