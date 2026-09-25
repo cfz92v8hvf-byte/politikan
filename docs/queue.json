@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-25T13:01:50.209204+00:00",
+  "updated_at": "2026-09-25T17:54:26.982465+00:00",
   "posts": [
+    {
+      "id": 1325,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+      "title_ru": "Верховный суд США разрешил Трампу использовать спорную систему «верификации» избирателей",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 17:54:26"
+    },
+    {
+      "id": 1324,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260925-eu-releases-%E2%82%AC6-6-billion-for-members-arming-ukraine-as-five-killed-in-kyiv",
+      "title_ru": "ЕС выделяет € 6,6 млрд для членов, вооружающих Украину как пятерых убитых в Киеве",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 17:54:26"
+    },
+    {
+      "id": 1323,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
+      "title_ru": "🔴 Прямой эфир: президент Йемена призывает свой народ мобилизоваться против поддерживаемых Ираном хуситов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 17:54:25"
+    },
+    {
+      "id": 1322,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/25/latest-news-bulletin-september-25th-2026-evening",
+      "title_ru": "Последние новости | 25 сентября 2026 года – вечер",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1321,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/trump-and-xi-declare-harmony-no-confrontation-as-us-state-visit-ends",
+      "title_ru": "Трамп и Си заявляют о гармонии, никакой конфронтации, поскольку государственный визит в США заканчивается",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1320,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/iran-proposes-plan-to-us-to-reopen-hormuz-in-seven-days-and-end-the-war",
+      "title_ru": "Иран предлагает США план по возобновлению работы Ормуза через семь дней и прекращению войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 17:54:26"
+    },
     {
       "id": 1319,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Зеленский обвинил Путина в использовании граждан 47 стран для войны на Украине",
       "status": "published",
       "published_to_telegram_at": "2026-09-23 20:28:04"
-    },
-    {
-      "id": 1265,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11",
-      "title_ru": "Нет, это видео не опровергает нападение 11 сентября на южную башню Всемирного торгового центра",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 20:28:03"
-    },
-    {
-      "id": 1264,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260923-replay-ukrainian-president-zelensky-addresses-the-un-general-assembly",
-      "title_ru": "ПОВТОР: Президент Украины Зеленский выступает на Генассамблее ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 20:28:03"
-    },
-    {
-      "id": 1263,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/23/syrias-first-women-graduate-from-new-police-academy",
-      "title_ru": "Первые женщины Сирии окончили новую полицейскую академию",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1262,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/23/pezeshkian-tells-un-iran-will-not-be-bullied-but-will-negotiate",
-      "title_ru": "Пезешкян говорит, что над Ираном не будут издеваться, но он будет вести переговоры",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 20:28:04"
-    },
-    {
-      "id": 1261,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260923-us-says-wants-ukraine-russia-to-end-strikes-on-energy-sites-1",
-      "title_ru": "США говорят, что хотят, чтобы Украина и Россия прекратили удары по энергетическим объектам",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 17:14:08"
-    },
-    {
-      "id": 1260,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260923-iran-will-never-bend-at-the-knee-pezeshkian-tells-un-defiant-wartime-address",
-      "title_ru": "Иран «никогда не встанет на колени», - заявил Пезешкян в ООН в своем вызывающем обращении во время войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 17:14:08"
     }
   ]
 }
