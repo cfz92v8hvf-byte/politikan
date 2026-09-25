@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-25T07:38:39.419381+00:00",
+  "updated_at": "2026-09-25T13:01:50.209204+00:00",
   "posts": [
+    {
+      "id": 1319,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260925-ukraine-deadly-russian-drone-strike-hits-central-kyiv",
+      "title_ru": "Украина: смертоносный удар российского беспилотника обрушился на центр Киева",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 13:01:49"
+    },
+    {
+      "id": 1318,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/israeli-military-releases-video-of-tunnel-destruction-in-gaza",
+      "title_ru": "Израильские военные опубликовали видео разрушения туннеля в Газе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1317,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/fourteen-kazakh-soldiers-found-dead-in-caspian-sea-after-naval-training",
+      "title_ru": "Четырнадцать казахстанских солдат найдены мертвыми в Каспийском море после военно-морской подготовки",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1316,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/the-drones-russia-could-use-to-strike-europe-from-its-mediterranean-ghost-fleet",
+      "title_ru": "Беспилотники, которые Россия может использовать для удара по Европе со своего средиземноморского призрачного флота",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 13:01:50"
+    },
+    {
+      "id": 1315,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/the-business-of-peace-us-investment-push-takes-the-tripp-corridor-from-diplomacy-to-trade",
+      "title_ru": "Бизнес мира: инвестиционный толчок США переводит коридор ТРИППА из дипломатии в торговлю",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 13:01:49"
+    },
+    {
+      "id": 1314,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/25/turkish-army-to-withdraw-from-strategic-military-base-in-northern-iraq",
+      "title_ru": "Турецкие войска покинут стратегическую военную базу на севере Ирака",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-25 13:01:48"
+    },
     {
       "id": 1313,
       "source": "DW",
       "source_url": "https://www.dw.com/en/nepal-s-leader-says-his-country-is-paying-the-price-of-climate-change/a-79421807?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Лидер Непала говорит, что его страна расплачивается за изменение климата",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Иран «никогда не встанет на колени», - заявил Пезешкян в ООН в своем вызывающем обращении во время войны",
       "status": "published",
       "published_to_telegram_at": "2026-09-23 17:14:08"
-    },
-    {
-      "id": 1259,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/23/qatars-emir-urges-talks-with-iran-as-regional-leaders-demand-stronger-action-against-israe",
-      "title_ru": "Эмир Катара призывает к переговорам с Ираном, поскольку региональные лидеры требуют более решительных действий против Израиля в ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1258,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/23/al-sharaa-vows-golan-heights-will-remain-syrian-in-un-speech",
-      "title_ru": "Аль-Шараа обещает, что Голанские высоты останутся сирийскими в речи ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1257,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living",
-      "title_ru": "Марокко голосует за новый парламент на фоне надежд и опасений по поводу стоимости жизни",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 17:14:09"
-    },
-    {
-      "id": 1256,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/23/latest-news-bulletin-september-23rd-2026-evening",
-      "title_ru": "Последние новости | 23 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 17:14:07"
-    },
-    {
-      "id": 1255,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/23/lucas-museum-opens-in-los-angeles-with-star-wars-treasures-on-display",
-      "title_ru": "Музей Лукаса открывается в Лос-Анджелесе с экспозицией сокровищ «Звездных войн»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1254,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/23/alpaca-migration-woolly-travellers-make-their-way-down-from-the-swiss-alps",
-      "title_ru": "Миграция альпаки: шерстистые путешественники спускаются из Швейцарских Альп",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
