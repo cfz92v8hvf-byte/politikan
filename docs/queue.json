@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-26T09:56:47.311320+00:00",
+  "updated_at": "2026-09-26T14:20:58.552938+00:00",
   "posts": [
+    {
+      "id": 1348,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/heavy-fighting-on-multiple-fronts-between-ethiopian-forces-and-rebel-groups",
+      "title_ru": "Тяжелые бои на нескольких фронтах между эфиопскими силами и повстанческими группами",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1347,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east-an-art-centre-for-children-in-occupied-west-bank",
+      "title_ru": "Ближний Восток: арт-центр для детей на оккупированном Западном берегу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1346,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east-palestinians-plan-first-local-elections-in-20-years",
+      "title_ru": "Ближний Восток: палестинцы планируют первые местные выборы за 20 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 14:20:58"
+    },
+    {
+      "id": 1345,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
+      "title_ru": "Президент Бразилии Лула запретил онлайн-ставки в преддверии президентских выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 14:20:57"
+    },
+    {
+      "id": 1344,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-midday",
+      "title_ru": "Последние новости | 26 сентября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1343,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/26/trump-reportedly-rejects-iranian-plan-to-reopen-strait-of-hormuz",
+      "title_ru": "Трамп, как сообщается, отвергает иранский план по открытию Ормузского пролива",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 14:20:57"
+    },
     {
       "id": 1342,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Узбекистан подчеркнул важность сотрудничества в Центральной Азии на Генеральной Ассамблее ООН",
       "status": "published",
       "published_to_telegram_at": "2026-09-24 17:21:02"
-    },
-    {
-      "id": 1288,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/24/trump-and-xi-vow-cooperation-amid-healthy-competition-at-the-white-house",
-      "title_ru": "Трамп и Си пообещали сотрудничество на фоне «здоровой конкуренции» в Белом доме",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 17:21:01"
-    },
-    {
-      "id": 1287,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260924-ukraine-zelensky-says-putin-patient-zero-for-spreading-war",
-      "title_ru": "Украина: Зеленский назвал Путина «нулевым пациентом» за распространение войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 12:19:04"
-    },
-    {
-      "id": 1286,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/24/hurricane-polo-brings-powerful-waves-to-mexicos-pacific-coast",
-      "title_ru": "Ураган Поло принес мощные волны на тихоокеанское побережье Мексики",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1285,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/24/udi-christians-worship-at-azerbaijans-karabakh-monasteries",
-      "title_ru": "Христиане Уди молятся в карабахских монастырях Азербайджана",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1284,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/24/us-admits-there-were-eight-suicide-attempts-on-us-aircraft-carrier-during-record-middle-ea",
-      "title_ru": "США признали восемь попыток самоубийства на американском авианосце во время рекордного развертывания на Ближнем Востоке",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1283,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/24/crowds-celebrate-saudi-national-day-with-flags-performances-and-military-parade",
-      "title_ru": "Толпа празднует Национальный день Саудовской Аравии с флагами, спектаклями и военным парадом",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 12:19:05"
     }
   ]
 }
