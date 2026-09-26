@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-26T14:20:58.552938+00:00",
+  "updated_at": "2026-09-26T17:57:22.513251+00:00",
   "posts": [
+    {
+      "id": 1354,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Пакистан: нападение самоубийцы на остановке полиции убило по меньшей мере 11 человек",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1353,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Глава МИД ФРГ Вадефул встретился с Лавровым на полях Генассамблеи ООН",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1352,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Россия рассчитывает на усиление гибридной войны с Европой",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 17:57:22"
+    },
+    {
+      "id": 1351,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Китай и США договорились о создании канала для инцидентов, связанных с безопасностью ИИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 17:57:21"
+    },
+    {
+      "id": 1350,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260926-at-least-16-people-killed-as-russia-and-ukraine-trade-deadly-air-strikes",
+      "title_ru": "По меньшей мере 16 человек погибли, когда Россия и Украина обменялись смертоносными авиаударами",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 17:57:22"
+    },
+    {
+      "id": 1349,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-evening",
+      "title_ru": "Последние новости | 26 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 17:57:21"
+    },
     {
       "id": 1348,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Иран видит хаос в воздушных и наземных перевозках, поскольку санкции США кусаются",
       "status": "published",
       "published_to_telegram_at": "2026-09-24 20:42:49"
-    },
-    {
-      "id": 1294,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260924-macron-says-cia-did-not-inform-french-services-of-possible-russian-drone-attacks",
-      "title_ru": "Макрон заявил, что «ЦРУ не ​информировало французские службы» о возможных атаках российских беспилотников",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 20:42:48"
-    },
-    {
-      "id": 1293,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260924-threat-to-life-and-existence-major-takeaways-from-palestinian-president-s-un-speech",
-      "title_ru": "Угроза «жизни и существованию»: основные выводы из речи палестинского президента в ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1292,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260924-israel-policies-threaten-life-existence-palestinian-says-abbas-un",
-      "title_ru": "Израильская политика угрожает «жизни и существованию» палестинцев, заявил Аббас в ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 17:21:03"
-    },
-    {
-      "id": 1291,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/24/how-are-danes-reacting-to-the-us-greenland-security-deal",
-      "title_ru": "Как датчане реагируют на соглашение о безопасности между США и Гренландией?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1290,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/24/latest-news-bulletin-september-24th-2026-evening",
-      "title_ru": "Последние новости | 24 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 17:21:02"
-    },
-    {
-      "id": 1289,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/24/uzbekistan-highlights-central-asia-cooperation-at-un-general-assembly",
-      "title_ru": "Узбекистан подчеркнул важность сотрудничества в Центральной Азии на Генеральной Ассамблее ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 17:21:02"
     }
   ]
 }
