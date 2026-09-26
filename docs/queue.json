@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-25T21:27:45.605459+00:00",
+  "updated_at": "2026-09-26T00:06:36.590645+00:00",
   "posts": [
+    {
+      "id": 1334,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Президент Ирана Пезешкян привнес дипломатический тон в Нью-Йорк для ГА ООН. О чем сигнализировали его замечания?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1333,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: Парламент одобрил снижение налога на топливо",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1332,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260925-yemen-president-calls-on-his-people-to-mobilise-against-iran-backed-houthis",
+      "title_ru": "Президент Йемена призывает свой народ мобилизоваться против поддерживаемых Ираном хуситов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1331,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Выступление Президента Антониу Коста на заседании Совета Безопасности ООН по вопросам поддержания мира и безопасности в Украине",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1274,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260924-turkey-to-hand-over-military-base-in-northern-iraq-to-baghdad",
-      "title_ru": "Турция передаст Багдаду военную базу на севере Ирака",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 01:28:36"
-    },
-    {
-      "id": 1273,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новые боевые действия в Тиграйском регионе Эфиопии вызывают опасения по поводу возобновления гражданской войны в стране",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1272,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости в прямом эфире: Трамп приветствует Си в Вашингтоне",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-23 23:05:43"
     }
   ]
 }
