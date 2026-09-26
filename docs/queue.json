@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-26T05:07:27.510456+00:00",
+  "updated_at": "2026-09-26T09:56:47.311320+00:00",
   "posts": [
+    {
+      "id": 1342,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/morocco-s-authenticity-and-modernity-party-wins-parliamentary-election",
+      "title_ru": "Партия аутентичности и современности Марокко побеждает на парламентских выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 09:56:45"
+    },
+    {
+      "id": 1341,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-morning",
+      "title_ru": "Последние новости | 26 сентября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1340,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/26/how-russia-recruits-belarusians-for-war-in-ukraine-methods-and-consequences",
+      "title_ru": "Как Россия вербует белорусов для войны в Украине: методы и последствия",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1339,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/26/israeli-settlers-seizing-natural-springs-in-the-west-bank",
+      "title_ru": "Израильские поселенцы захватывают природные источники на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 09:56:47"
+    },
+    {
+      "id": 1338,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/26/bakus-week-of-f1-racing-global-security-and-record-investments",
+      "title_ru": "Неделя гонок F1 в Баку, глобальная безопасность и рекордные инвестиции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 09:56:46"
+    },
+    {
+      "id": 1337,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/26/at-least-six-people-killed-in-russian-strikes-on-ukraine-over-last-24-hours",
+      "title_ru": "По меньшей мере шесть человек погибли в результате российских ударов по Украине за последние 24 часа",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 09:56:46"
+    },
     {
       "id": 1336,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Толпа празднует Национальный день Саудовской Аравии с флагами, спектаклями и военным парадом",
       "status": "published",
       "published_to_telegram_at": "2026-09-24 12:19:05"
-    },
-    {
-      "id": 1282,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/24/turkey-iran-border-crossing-hit-by-severe-truck-delays",
-      "title_ru": "Турецко-иранский пограничный переход пострадал от серьезных задержек грузовиков",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 12:19:05"
-    },
-    {
-      "id": 1281,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260924-as-moscow-steps-up-attacks-kyiv-residents-brace-for-harsh-winter",
-      "title_ru": "Россия атакует Киев баллистическими ракетами, пока украинцы готовятся к суровой зиме",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 06:40:50"
-    },
-    {
-      "id": 1280,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260924-us-judge-lifts-trump-s-white-house-ban-on-cnn-ms-now-politico",
-      "title_ru": "🔴 Американский судья снял запрет Белого дома Трампа на CNN, MS NOW, Politico",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 06:40:49"
-    },
-    {
-      "id": 1279,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/24/us-president-trump-offers-grand-welcoming-to-his-chinese-counterpart-xi-jinping",
-      "title_ru": "Президент США Трамп приветствует своего китайского коллегу Си Цзиньпина",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1278,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/24/latest-news-bulletin-september-24th-2026-morning",
-      "title_ru": "Последние новости | 24 сентября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1277,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/24/albanese-says-openai-hacked-government-health-website-in-obviously-unacceptable-breach",
-      "title_ru": "Albanese говорит, что OpenAI взломал правительственный сайт здравоохранения в «очевидно неприемлемом» нарушении",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 06:40:50"
     }
   ]
 }
