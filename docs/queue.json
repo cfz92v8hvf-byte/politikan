@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-26T00:06:36.590645+00:00",
+  "updated_at": "2026-09-26T05:07:27.510456+00:00",
   "posts": [
+    {
+      "id": 1336,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Белый дом запретил CNN освещать предстоящую поездку Трампа, говорит вещатель",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 05:07:27"
+    },
+    {
+      "id": 1335,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "title_ru": "Сообщается, что Трамп отвергает 7-дневный план Ирана по открытию Ормузского пролива",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1334,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Albanese говорит, что OpenAI взломал правительственный сайт здравоохранения в «очевидно неприемлемом» нарушении",
       "status": "published",
       "published_to_telegram_at": "2026-09-24 06:40:50"
-    },
-    {
-      "id": 1276,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/24/trump-welcomes-xi-jinping-with-red-carpet-military-honours-and-flyover",
-      "title_ru": "Трамп приветствует Си Цзиньпина красной ковровой дорожкой, военными почестями и пролетом",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 06:40:49"
-    },
-    {
-      "id": 1275,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/23/remarks-by-president-antonio-costa-at-the-united-nations-security-council-meeting-on-maintenance-of-peace-and-security-of-ukraine/",
-      "title_ru": "Выступление Президента Антониу Коста на заседании Совета Безопасности ООН по вопросам поддержания мира и безопасности в Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
