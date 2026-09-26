@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-26T17:57:22.513251+00:00",
+  "updated_at": "2026-09-26T21:01:35.924784+00:00",
   "posts": [
+    {
+      "id": 1358,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп отверг предложение Ирана о возобновлении работы Ормузского пролива",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1357,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: министры ЕС встречаются для обсуждения миграции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 21:01:35"
+    },
+    {
+      "id": 1356,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman",
+      "title_ru": "Тысячи людей вышли на марш в Мадриде в знак протеста против выселения 87-летней женщины",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1355,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/26/azerbaijan-marks-its-remembrance-day-looking-forward-to-a-future-of-peace",
+      "title_ru": "Азербайджан отмечает День памяти с надеждой на мирное будущее",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-26 21:01:35"
+    },
     {
       "id": 1354,
       "source": "DW",
@@ -14,7 +46,7 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Глава МИД ФРГ Вадефул встретился с Лавровым на полях Генассамблеи ООН",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -448,38 +480,6 @@
       "title_ru": "Будущее ИИ в их руках? Саммит Трамп-Си отвергает призывы к глобальному надзору",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1298,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
-      "title_ru": "ПОВТОР: Премьер-министр Израиля Биньямин Нетаньяху выступает на Генассамблее ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1297,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un",
-      "title_ru": "Премьер-министр Израиля Нетаньяху назвал обвинения в геноциде в Газе «самой большой ложью века»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 20:42:49"
-    },
-    {
-      "id": 1296,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
-      "title_ru": "Тиграйские повстанцы в «полномасштабной» войне с правительством",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 20:42:49"
-    },
-    {
-      "id": 1295,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/iran-sees-air-land-travel-chaos-as-us-sanctions-bite",
-      "title_ru": "Иран видит хаос в воздушных и наземных перевозках, поскольку санкции США кусаются",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 20:42:49"
     }
   ]
 }
