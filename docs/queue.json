@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-27T07:09:28.898993+00:00",
+  "updated_at": "2026-09-27T13:06:55.822387+00:00",
   "posts": [
+    {
+      "id": 1364,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260927-uk-police-evacuate-homes-near-air-base-used-by-us-arrest-men-on-suspected-explosives-offenses",
+      "title_ru": "Полиция Великобритании производит аресты, эвакуирует дома в «крупном инциденте» возле авиабазы, используемой силами США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1363,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/russian-strikes-kill-four-in-ukraine",
+      "title_ru": "Российские авиаудары убили четверых на Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1362,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/poland-fears-ukraine-war-could-spill-over",
+      "title_ru": "Польша опасается, что война на Украине может перекинуться",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1361,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand",
+      "title_ru": "Неделя в фотографиях: Трамп принимает Си, папа посещает Францию и наводнения опустошают Таиланд",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1360,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-midday",
+      "title_ru": "Последние новости | 27 сентября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1359,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/27/eu-tells-countries-to-curb-energy-demand-as-gas-prices-face-winter-squeeze",
+      "title_ru": "ЕС призывает страны ограничить спрос на энергоносители, поскольку цены на газ сталкиваются с зимним сжатием",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 13:06:55"
+    },
     {
       "id": 1358,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Катастрофические наводнения в Непале были «предупреждением миру», - заявил премьер-министр Шах в ООН",
       "status": "published",
       "published_to_telegram_at": "2026-09-25 01:51:40"
-    },
-    {
-      "id": 1304,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Эфиопские военные заявляют, что убили сотни повстанцев TPLF",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1303,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трехсторонняя битва за власть в мировых шахматах: кого изберут президентом ФИДЕ в Самарканде?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1302,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/unga-gaza-dominates-agenda-as-abbas-netanyahu-speak/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "ГА ООН: Газа доминирует в повестке дня, поскольку Аббас, Нетаньяху говорят",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1301,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Юрген Клопп начинает работу в Германии с шаткой ничьей в Нидерландах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-24 23:32:40"
-    },
-    {
-      "id": 1300,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-observers/20260924-residents-west-bank-masafer-yatta-israeli-demolitions",
-      "title_ru": "Жители Масафер-Ятты на Западном берегу сталкиваются с израильскими сносами",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1299,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
-      "title_ru": "Будущее ИИ в их руках? Саммит Трамп-Си отвергает призывы к глобальному надзору",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
