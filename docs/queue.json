@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-27T13:06:55.822387+00:00",
+  "updated_at": "2026-09-27T17:48:16.047868+00:00",
   "posts": [
+    {
+      "id": 1370,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/thousands-evacuated-amid-bangkok-floods",
+      "title_ru": "Тысячи людей эвакуированы из-за наводнения в Бангкоке",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1369,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
+      "title_ru": "Великобритания: Полиция арестовала 5 человек по подозрению в подготовке теракта",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1368,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election",
+      "title_ru": "Сербские политики возвращаются к теледебатам в преддверии парламентских выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 17:48:15"
+    },
+    {
+      "id": 1367,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/27/irans-revolutionary-guards-claim-seizure-of-second-us-underwater-drone-in-strait-of-hormuz",
+      "title_ru": "Иран заявляет о захвате подводного американского беспилотника в Ормузе, США опровергают это утверждение",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 17:48:15"
+    },
+    {
+      "id": 1366,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/27/netanyahu-battles-october-7-warnings-revelations-with-defiant-un-speech",
+      "title_ru": "Нетаньяху борется с разоблачениями предупреждений 7 октября с дерзкой речью в ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 17:48:15"
+    },
+    {
+      "id": 1365,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-evening",
+      "title_ru": "Последние новости | 27 сентября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 17:48:14"
+    },
     {
       "id": 1364,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "CNN, MS NOW, Politico возвращаются в Белый дом после постановления суда о снятии запрета",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1310,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/25/latest-news-bulletin-september-25th-2026-morning",
-      "title_ru": "Последние новости | 25 сентября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 07:38:39"
-    },
-    {
-      "id": 1309,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/25/toasts-handshakes-and-smiles-moments-from-xis-white-house-state-dinner",
-      "title_ru": "Тосты, рукопожатия и улыбки: моменты государственного ужина Си в Белом доме",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 07:38:38"
-    },
-    {
-      "id": 1308,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/25/europe-today-trumps-state-dinner-for-xi-jinping-pope-leos-first-visit-to-france",
-      "title_ru": "Европа сегодня: государственный ужин Трампа для Си Цзиньпина, первый визит Папы Льва во Францию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 07:38:37"
-    },
-    {
-      "id": 1307,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260924-saudi-houthi-attacks-france-oil-port",
-      "title_ru": "Саудовская Аравия сообщает о новых нападениях хуситов, поскольку Франция обещает защитить ключевой нефтяной порт",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 01:51:41"
-    },
-    {
-      "id": 1306,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260924-live-iran-pezeshkian-us-war-yemen",
-      "title_ru": "В прямом эфире: Президент Ирана говорит, что США «должны выбрать», закончить ли войну",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 01:51:40"
-    },
-    {
-      "id": 1305,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260925-nepal-floods-warning-world-pm-shah-un",
-      "title_ru": "Катастрофические наводнения в Непале были «предупреждением миру», - заявил премьер-министр Шах в ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 01:51:40"
     }
   ]
 }
