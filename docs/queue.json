@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-27T20:27:56.037937+00:00",
+  "updated_at": "2026-09-27T23:21:17.116253+00:00",
   "posts": [
+    {
+      "id": 1376,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
+      "title_ru": "Израиль аннулировал полномочия голландских дипломатов на Западном берегу из-за запрета на поселенческие товары",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 23:21:17"
+    },
+    {
+      "id": 1375,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+      "title_ru": "Российские атаки убили восемь человек на Украине после того, как Москва пообещала продолжить войну",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 23:21:16"
+    },
+    {
+      "id": 1374,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+      "title_ru": "Трамп ожидает переговоров с Ираном на следующей неделе после отклонения предложения о семидневном перемирии",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-27 23:21:16"
+    },
     {
       "id": 1373,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Четырнадцать казахстанских солдат найдены мертвыми в Каспийском море после военно-морской подготовки",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1316,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/25/the-drones-russia-could-use-to-strike-europe-from-its-mediterranean-ghost-fleet",
-      "title_ru": "Беспилотники, которые Россия может использовать для удара по Европе со своего средиземноморского призрачного флота",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 13:01:50"
-    },
-    {
-      "id": 1315,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/25/the-business-of-peace-us-investment-push-takes-the-tripp-corridor-from-diplomacy-to-trade",
-      "title_ru": "Бизнес мира: инвестиционный толчок США переводит коридор ТРИППА из дипломатии в торговлю",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 13:01:49"
-    },
-    {
-      "id": 1314,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/25/turkish-army-to-withdraw-from-strategic-military-base-in-northern-iraq",
-      "title_ru": "Турецкие войска покинут стратегическую военную базу на севере Ирака",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-25 13:01:48"
     }
   ]
 }
