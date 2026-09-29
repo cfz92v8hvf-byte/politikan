@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-29T20:01:39.333996+00:00",
+  "updated_at": "2026-09-29T23:39:03.218241+00:00",
   "posts": [
+    {
+      "id": 1422,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ugandan-coronation-under-social-media-scrutiny",
+      "title_ru": "Коронация в Уганде под пристальным вниманием социальных сетей",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1421,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/business/20260929-france-intends-to-borrow-record-340-billion-euros-covid-era-debt-comes-due",
+      "title_ru": "Франция намерена занять рекордные € 340 млрд по мере наступления сроков погашения долга в связи с Covid",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1420,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260929-public-service-announcement-or-donald-trump-propaganda",
+      "title_ru": "Общественная реклама или пропаганда Дональда Трампа?",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 23:39:03"
+    },
+    {
+      "id": 1419,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
+      "title_ru": "Эксперт говорит, что меры предосторожности «строят ров» вокруг американских фирм ИИ, предотвращают продвижение моделей с открытым исходным кодом",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 23:39:02"
+    },
+    {
+      "id": 1418,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety",
+      "title_ru": "Трамп говорит, что не хочет работать с Китаем над безопасностью ИИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 23:39:02"
+    },
+    {
+      "id": 1417,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20260929-trump-says-ai-companies-sign-voluntary-accord-on-safety-controls",
+      "title_ru": "Трамп говорит, что компании ИИ подписывают добровольное соглашение о контроле безопасности",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 23:39:01"
+    },
     {
       "id": 1416,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Российские авиаудары убили четверых на Украине",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1362,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/poland-fears-ukraine-war-could-spill-over",
-      "title_ru": "Польша опасается, что война на Украине может перекинуться",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1361,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand",
-      "title_ru": "Неделя в фотографиях: Трамп принимает Си, папа посещает Францию и наводнения опустошают Таиланд",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1360,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-midday",
-      "title_ru": "Последние новости | 27 сентября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1359,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/27/eu-tells-countries-to-curb-energy-demand-as-gas-prices-face-winter-squeeze",
-      "title_ru": "ЕС призывает страны ограничить спрос на энергоносители, поскольку цены на газ сталкиваются с зимним сжатием",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 13:06:55"
-    },
-    {
-      "id": 1358,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп отверг предложение Ирана о возобновлении работы Ормузского пролива",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1357,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: министры ЕС встречаются для обсуждения миграции",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 21:01:35"
     }
   ]
 }
