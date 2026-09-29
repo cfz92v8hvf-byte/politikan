@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-29T08:39:36.971433+00:00",
+  "updated_at": "2026-09-29T15:07:44.612299+00:00",
   "posts": [
+    {
+      "id": 1410,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260929-a-view-from-brazil-the-fight-for-the-favela-vote",
+      "title_ru": "Взгляд из Бразилии: борьба за голосование по фавелам",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 15:07:43"
+    },
+    {
+      "id": 1409,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260929-legion-of-honour-police-investigate-corruption-claims-for-france-s-top-award",
+      "title_ru": "Орден Почетного легиона: полиция расследует обвинения в коррупции за высшую награду Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 15:07:43"
+    },
+    {
+      "id": 1408,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/29/iran-warns-no-regional-oil-is-safe-as-irgc-touts-new-weapons",
+      "title_ru": "Иран предупреждает, что никакая региональная нефть не является безопасной, поскольку КСИР рекламирует новое оружие",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1407,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/29/latest-news-bulletin-september-29th-2026-midday",
+      "title_ru": "Последние новости | 29 сентября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1406,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/29/counterfeit-medicine-trade-how-online-pharmacies-are-selling-deadly-fake-painkillers-acros",
+      "title_ru": "Торговля поддельными лекарствами: как онлайн-аптеки продают смертельные поддельные обезболивающие по всей Европе",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 15:07:44"
+    },
+    {
+      "id": 1405,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/29/middle-east-oil-exports-rise-as-lng-traffic-through-hormuz-picks-up",
+      "title_ru": "Экспорт нефти с Ближнего Востока растет по мере увеличения трафика СПГ через Ормузский пролив",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 15:07:44"
+    },
     {
       "id": 1404,
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/29/euronews-travel-tourism-summit-2026-watch-live-today-from-brussels",
       "title_ru": "Саммит по путешествиям и туризму Euronews 2026: прямые трансляции из Брюсселя",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/09/29/new-russian-mobilisation-putin-signs-decree-adding-15500-troops-to-army",
       "title_ru": "Путин расширяет армию в четвертый раз в этом году по мере роста военных потерь",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Китай и США договорились о создании канала для инцидентов, связанных с безопасностью ИИ",
       "status": "published",
       "published_to_telegram_at": "2026-09-26 17:57:21"
-    },
-    {
-      "id": 1350,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260926-at-least-16-people-killed-as-russia-and-ukraine-trade-deadly-air-strikes",
-      "title_ru": "По меньшей мере 16 человек погибли, когда Россия и Украина обменялись смертоносными авиаударами",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 17:57:22"
-    },
-    {
-      "id": 1349,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-evening",
-      "title_ru": "Последние новости | 26 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 17:57:21"
-    },
-    {
-      "id": 1348,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/heavy-fighting-on-multiple-fronts-between-ethiopian-forces-and-rebel-groups",
-      "title_ru": "Тяжелые бои на нескольких фронтах между эфиопскими силами и повстанческими группами",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1347,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east-an-art-centre-for-children-in-occupied-west-bank",
-      "title_ru": "Ближний Восток: арт-центр для детей на оккупированном Западном берегу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1346,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east-palestinians-plan-first-local-elections-in-20-years",
-      "title_ru": "Ближний Восток: палестинцы планируют первые местные выборы за 20 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 14:20:58"
-    },
-    {
-      "id": 1345,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
-      "title_ru": "Президент Бразилии Лула запретил онлайн-ставки в преддверии президентских выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 14:20:57"
     }
   ]
 }
