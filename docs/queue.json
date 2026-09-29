@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-29T15:07:44.612299+00:00",
+  "updated_at": "2026-09-29T20:01:39.333996+00:00",
   "posts": [
+    {
+      "id": 1416,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20260929-morocco-king-appoints-first-woman-prime-minister-el-mansouri-after-parliamentary-vote",
+      "title_ru": "Мэр 🔴 Марракеша Фатима Эззахра Эль-Мансури стала первой женщиной-премьер-министром Марокко",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1415,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260929-burnham-sets-out-new-path-for-britain-vows-to-seek-consensus-on-ties-with-eu",
+      "title_ru": "Бернем прокладывает «новый путь» для Британии, клянется искать консенсус по связям с ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 20:01:39"
+    },
+    {
+      "id": 1414,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260929-mystery-over-uk-airbase-scare-as-police-find-quantity-of-petrol-but-no-explosives",
+      "title_ru": "Тайна о том, как напугать британскую авиабазу, когда полиция находит «количество бензина», но без взрывчатки",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-29 20:01:38"
+    },
+    {
+      "id": 1413,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/29/global-economic-impact-of-iran-war-unbearable-qatar-warns-as-talks-continue",
+      "title_ru": "Глобальные экономические последствия войны с Ираном «невыносимы», предупреждает Катар, поскольку переговоры продолжаются",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1412,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/29/latest-news-bulletin-september-29th-2026-evening",
+      "title_ru": "Последние новости | 29 сентября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1411,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/29/russian-nuclear-capable-tu-95-crashes-in-far-east-killing-six-crew-members",
+      "title_ru": "Российский ядерный Ту-95 разбился на Дальнем Востоке, погибли шесть членов экипажа",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1410,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Новости Германии: министры ЕС встречаются для обсуждения миграции",
       "status": "published",
       "published_to_telegram_at": "2026-09-26 21:01:35"
-    },
-    {
-      "id": 1356,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman",
-      "title_ru": "Тысячи людей вышли на марш в Мадриде в знак протеста против выселения 87-летней женщины",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1355,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/26/azerbaijan-marks-its-remembrance-day-looking-forward-to-a-future-of-peace",
-      "title_ru": "Азербайджан отмечает День памяти с надеждой на мирное будущее",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 21:01:35"
-    },
-    {
-      "id": 1354,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Пакистан: нападение самоубийцы на остановке полиции убило по меньшей мере 11 человек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1353,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Глава МИД ФРГ Вадефул встретился с Лавровым на полях Генассамблеи ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1352,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Россия рассчитывает на усиление гибридной войны с Европой",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 17:57:22"
-    },
-    {
-      "id": 1351,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Китай и США договорились о создании канала для инцидентов, связанных с безопасностью ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-26 17:57:21"
     }
   ]
 }
