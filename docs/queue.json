@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T23:39:03.218241+00:00",
+  "updated_at": "2026-09-30T02:27:01.707725+00:00",
   "posts": [
+    {
+      "id": 1424,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260929-still-the-same-far-right-le-pen-s-national-rally-denies-fresh-antisemitism-claims",
+      "title_ru": "Все тот же крайне правый? Национальное объединение Ле Пен отрицает новые обвинения в антисемитизме",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1423,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260930-us-forces-leave-iraq-raising-fears-of-iran-backed-militias-amid-power-vacuum",
+      "title_ru": "Американские войска покидают Ирак, вызывая опасения поддерживаемых Ираном ополченцев на фоне вакуума власти",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 02:27:01"
+    },
     {
       "id": 1422,
       "source": "France 24",
@@ -464,22 +480,6 @@
       "title_ru": "Последние новости | 27 сентября 2026 года – вечер",
       "status": "published",
       "published_to_telegram_at": "2026-09-27 17:48:14"
-    },
-    {
-      "id": 1364,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260927-uk-police-evacuate-homes-near-air-base-used-by-us-arrest-men-on-suspected-explosives-offenses",
-      "title_ru": "Полиция Великобритании производит аресты, эвакуирует дома в «крупном инциденте» возле авиабазы, используемой силами США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1363,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/russian-strikes-kill-four-in-ukraine",
-      "title_ru": "Российские авиаудары убили четверых на Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
