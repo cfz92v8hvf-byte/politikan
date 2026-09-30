@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-30T02:27:01.707725+00:00",
+  "updated_at": "2026-09-30T08:56:50.369461+00:00",
   "posts": [
+    {
+      "id": 1430,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv",
+      "title_ru": "Прямой эфир: Несколько человек погибли, когда Россия начала новый раунд ударов по Киеву",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1429,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260930-ian-bremmer-we-have-passed-peak-trump-in-terms-of-disruption-on-the-global-stage",
+      "title_ru": "Ян Бреммер: «Мы прошли пик Трампа с точки зрения дестабилизации на мировой арене»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 08:56:49"
+    },
+    {
+      "id": 1428,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-the-country-has-become-a-battlefield-last-us-troops-exit-iraq",
+      "title_ru": "«Страна стала полем битвы»: последние американские войска покидают Ирак",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 08:56:49"
+    },
+    {
+      "id": 1427,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-trump-puts-trust-in-ai-bosses-to-police-themselves",
+      "title_ru": "Трамп доверяет боссам ИИ «самим полицейским»",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 08:56:48"
+    },
+    {
+      "id": 1426,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/09/30/moroccos-king-mohammed-vi-appoints-fatima-mansouri-as-the-countrys-first-female-prime-mini",
+      "title_ru": "Король Марокко Мохаммед VI назначил Фатиму Мансури первой женщиной-премьером страны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1425,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-morning",
+      "title_ru": "Последние новости | 30 сентября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1424,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Крайне правые во Франции завоевывают позиции на непрямых выборах в Сенат",
       "status": "published",
       "published_to_telegram_at": "2026-09-27 20:27:54"
-    },
-    {
-      "id": 1370,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/thousands-evacuated-amid-bangkok-floods",
-      "title_ru": "Тысячи людей эвакуированы из-за наводнения в Бангкоке",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1369,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
-      "title_ru": "Великобритания: Полиция арестовала 5 человек по подозрению в подготовке теракта",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1368,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election",
-      "title_ru": "Сербские политики возвращаются к теледебатам в преддверии парламентских выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 17:48:15"
-    },
-    {
-      "id": 1367,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/27/irans-revolutionary-guards-claim-seizure-of-second-us-underwater-drone-in-strait-of-hormuz",
-      "title_ru": "Иран заявляет о захвате подводного американского беспилотника в Ормузе, США опровергают это утверждение",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 17:48:15"
-    },
-    {
-      "id": 1366,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/27/netanyahu-battles-october-7-warnings-revelations-with-defiant-un-speech",
-      "title_ru": "Нетаньяху борется с разоблачениями предупреждений 7 октября с дерзкой речью в ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 17:48:15"
-    },
-    {
-      "id": 1365,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-evening",
-      "title_ru": "Последние новости | 27 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 17:48:14"
     }
   ]
 }
