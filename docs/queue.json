@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-30T08:56:50.369461+00:00",
+  "updated_at": "2026-09-30T15:51:07.162438+00:00",
   "posts": [
+    {
+      "id": 1436,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-ex-tv-anchor-crowned-as-king-in-uganda-after-succession-fight",
+      "title_ru": "Бывший телеведущий коронован как король в Уганде после борьбы за престолонаследие",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 15:51:06"
+    },
+    {
+      "id": 1435,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip",
+      "title_ru": "ПОВТОР: французский Макрон призывает к «более сильной Европе» во время поездки в Испанию",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 15:51:05"
+    },
+    {
+      "id": 1434,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20260930-russia-ramps-up-disinformation-attacks-on-french-media-ahead-of-2027-presidential-race",
+      "title_ru": "Россия наращивает дезинформационные атаки на французские СМИ в преддверии президентской гонки 2027 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 15:51:05"
+    },
+    {
+      "id": 1433,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-midday",
+      "title_ru": "Последние новости | 30 сентября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1432,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/30/thousands-of-firefighters-march-in-paris-demanding-more-resources",
+      "title_ru": "Тысячи пожарных вышли на марш в Париже, требуя больше ресурсов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1431,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/30/let-workers-have-a-say-protesters-target-openai-conference",
+      "title_ru": "«Дайте работникам высказать свое мнение»: протестующие нацелены на конференцию OpenAI",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 15:51:05"
+    },
     {
       "id": 1430,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Улицы Бангкока превращаются в каналы, поскольку дни проливных дождей приносят наводнения по всему городу",
       "status": "published",
       "published_to_telegram_at": "2026-09-28 08:36:43"
-    },
-    {
-      "id": 1376,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
-      "title_ru": "Израиль аннулировал полномочия голландских дипломатов на Западном берегу из-за запрета на поселенческие товары",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 23:21:17"
-    },
-    {
-      "id": 1375,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
-      "title_ru": "Российские атаки убили восемь человек на Украине после того, как Москва пообещала продолжить войну",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 23:21:16"
-    },
-    {
-      "id": 1374,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
-      "title_ru": "Трамп ожидает переговоров с Ираном на следующей неделе после отклонения предложения о семидневном перемирии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 23:21:16"
-    },
-    {
-      "id": 1373,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Великобритания: 5 человек арестованы после «крупного инцидента» возле авиабазы Фэрфорд",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 20:27:55"
-    },
-    {
-      "id": 1372,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
-      "title_ru": "Президент 🔴 Сербии Александр Вучич подал в отставку и, как ожидается, будет баллотироваться на пост премьер-министра",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 20:27:55"
-    },
-    {
-      "id": 1371,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
-      "title_ru": "Крайне правые во Франции завоевывают позиции на непрямых выборах в Сенат",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-27 20:27:54"
     }
   ]
 }
