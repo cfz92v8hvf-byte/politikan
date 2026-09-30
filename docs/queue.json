@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-30T15:51:07.162438+00:00",
+  "updated_at": "2026-09-30T20:45:02.017072+00:00",
   "posts": [
+    {
+      "id": 1442,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-attempted-terror-attack-what-happened-on-board-the-rerouted-flydubai-flight",
+      "title_ru": "«Попытка теракта»: что произошло на борту перенаправленного рейса Flydubai?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1441,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-climate-change-reshaping-the-polar-oceans-says-report",
+      "title_ru": "Изменение климата меняет форму полярных океанов, говорится в докладе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1440,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-israel-pm-says-pilot-of-rerouted-flight-tried-to-crash-plane",
+      "title_ru": "Премьер-министр Израиля говорит, что пилот перенаправленного рейса пытался разбить самолет",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1439,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20260930-france-to-unveil-2027-budget-as-debt-hits-record-high",
+      "title_ru": "Франция обнародует бюджет на 2027 год, поскольку долг достиг рекордно высокого уровня",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1438,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
+      "title_ru": "Премьер-министр Великобритании утверждает, что есть «убедительные признаки» причастности Ирана к инциденту на авиабазе Фэрфорд",
+      "status": "published",
+      "published_to_telegram_at": "2026-09-30 20:45:01"
+    },
+    {
+      "id": 1437,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-evening",
+      "title_ru": "Последние новости | 30 сентября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1436,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 28 сентября 2026 года – вечер",
       "status": "published",
       "published_to_telegram_at": "2026-09-28 17:03:17"
-    },
-    {
-      "id": 1382,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/leo-building-on-francis-legacy-while-reincorporating-more-traditional-elements-of-papal-activity",
-      "title_ru": "Лев, опираясь на наследие Франциска, вновь включает «более традиционные элементы папской деятельности»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 08:36:43"
-    },
-    {
-      "id": 1381,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
-      "title_ru": "Прямой эфир: Папа Лев XIV прибывает в Мец для окончательной остановки визита во Францию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 08:36:43"
-    },
-    {
-      "id": 1380,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/28/latest-news-bulletin-september-28th-2026-morning",
-      "title_ru": "Последние новости | 28 сентября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1379,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news",
-      "title_ru": "Трамп предложил продать оружие Китаю во время визита Си Цзиньпина, рассказал Fox News посол США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1378,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/28/ukraine-says-russian-drones-kill-14-hit-kyiv-and-odesa-infrastructure",
-      "title_ru": "Украина заявляет, что российские беспилотники убили 14 человек, поразили инфраструктуру Киева и Одессы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 08:36:44"
-    },
-    {
-      "id": 1377,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/28/bangkok-streets-turn-to-canals-as-days-of-heavy-rain-bring-citywide-flooding",
-      "title_ru": "Улицы Бангкока превращаются в каналы, поскольку дни проливных дождей приносят наводнения по всему городу",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 08:36:43"
     }
   ]
 }
