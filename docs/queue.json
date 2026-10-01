@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-30T20:45:02.017072+00:00",
+  "updated_at": "2026-10-01T00:11:54.541677+00:00",
   "posts": [
+    {
+      "id": 1448,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Пять государств ЕС планируют создать первый депортационный центр в Африке на 2027 год",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1447,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Газа: НПО сообщает о тяжелых условиях в лагерях, говорит, что Израиль продвигает «желтую линию»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 00:11:54"
+    },
+    {
+      "id": 1446,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ethiopian-ai-expert-timnit-gebru-wins-alternative-nobel",
+      "title_ru": "Эфиопский эксперт по искусственному интеллекту Тимнит Гебру получил «альтернативную Нобелевскую премию»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1445,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "title_ru": "Премьер-министр Великобритании Бернем возобновляет спорные дебаты о возвращении в ЕС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1444,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
+      "title_ru": "Первостепенное поглощение Warner Bros. Discovery устраняет юридические препятствия",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 00:11:54"
+    },
+    {
+      "id": 1443,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
+      "title_ru": "Трамп возобновляет призывы к отставке бывшего главы Федеральной резервной системы Джерома Пауэлла",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 00:11:53"
+    },
     {
       "id": 1442,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Папа Лев завершает поездку во Францию в Меце, рассказывая о Шумане и единстве ЕС",
       "status": "published",
       "published_to_telegram_at": "2026-09-28 22:30:31"
-    },
-    {
-      "id": 1388,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260928-as-midterms-approach-does-gop-have-a-trump-problem",
-      "title_ru": "По мере приближения промежуточных выборов, есть ли у Республиканской партии проблемы с Трампом?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 17:03:17"
-    },
-    {
-      "id": 1387,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260928-tigray-tv-station-hit-by-drone-as-rebels-advance-in-north-ethiopia",
-      "title_ru": "Телевизионная станция Tigray попала под удар беспилотника, когда повстанцы продвигаются на север Эфиопии",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 17:03:17"
-    },
-    {
-      "id": 1386,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/28/tigray-rebels-push-into-afar-as-ethiopia-blames-neighbours",
-      "title_ru": "Повстанцы Тыграй продвигаются в Афар, поскольку Эфиопия обвиняет соседей",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1385,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/28/londons-southwark-bridge-turns-into-woolly-parade-at-annual-sheep-drive-charity-event",
-      "title_ru": "Лондонский мост Саутварк-Бридж превращается в шерстистый парад на ежегодном благотворительном мероприятии Sheep Drive",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1384,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/28/ukraines-city-of-oleshky-faces-starvation-as-russia-blocks-all-aid",
-      "title_ru": "Украинскому городу Олешки грозит голод, поскольку Россия блокирует всю помощь",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 17:03:18"
-    },
-    {
-      "id": 1383,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/28/latest-news-bulletin-september-28th-2026-evening",
-      "title_ru": "Последние новости | 28 сентября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 17:03:17"
     }
   ]
 }
