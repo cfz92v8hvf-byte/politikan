@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-01T13:28:53.404015+00:00",
+  "updated_at": "2026-10-01T19:00:10.472829+00:00",
   "posts": [
+    {
+      "id": 1466,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/focus/20261001-a-blessing-or-a-curse-new-caledonia-s-dwindling-nickel-industry",
+      "title_ru": "Благословение или проклятие? Сокращающаяся никелевая промышленность Новой Каледонии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1465,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/students-face-riot-police-as-protests-over-school-conditions-escalate-in-france",
+      "title_ru": "Учащиеся сталкиваются с полицией, поскольку протесты по поводу школьных условий обостряются во Франции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1464,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261001-guilty-of-all-charges-man-city-at-centre-of-biggest-scandal-in-football-history-vows-to-appeal",
+      "title_ru": "«Виновен во всех обвинениях»: «Манчестер Сити» в центре «самого большого скандала в истории футбола», клянется подать апелляцию",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 19:00:09"
+    },
+    {
+      "id": 1463,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era",
+      "title_ru": "Россия высылает венгерских дипломатов, поскольку Будапешт порывает с эпохой Орбана",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1462,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-evening",
+      "title_ru": "Последние новости | 1 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 19:00:10"
+    },
+    {
+      "id": 1461,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/01/elon-musk-returns-to-trump-administration-to-co-lead-pentagon-war-study",
+      "title_ru": "Илон Маск возвращается в администрацию Трампа, чтобы возглавить исследование войны в Пентагоне",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 19:00:09"
+    },
     {
       "id": 1460,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 29 сентября 2026 г. – полдень",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1406,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/29/counterfeit-medicine-trade-how-online-pharmacies-are-selling-deadly-fake-painkillers-acros",
-      "title_ru": "Торговля поддельными лекарствами: как онлайн-аптеки продают смертельные поддельные обезболивающие по всей Европе",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 15:07:44"
-    },
-    {
-      "id": 1405,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/29/middle-east-oil-exports-rise-as-lng-traffic-through-hormuz-picks-up",
-      "title_ru": "Экспорт нефти с Ближнего Востока растет по мере увеличения трафика СПГ через Ормузский пролив",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 15:07:44"
-    },
-    {
-      "id": 1404,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/29/euronews-travel-tourism-summit-2026-watch-live-today-from-brussels",
-      "title_ru": "Саммит по путешествиям и туризму Euronews 2026: прямые трансляции из Брюсселя",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1403,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/29/new-russian-mobilisation-putin-signs-decree-adding-15500-troops-to-army",
-      "title_ru": "Путин расширяет армию в четвертый раз в этом году по мере роста военных потерь",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1402,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday",
-      "title_ru": "ОАЭ подтверждают, что президент встретился с премьер-министром Израиля Нетаньяху в Абу-Даби в воскресенье",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 08:39:36"
-    },
-    {
-      "id": 1401,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/29/powerful-noreaster-uncovers-19th-century-shipwreck-on-us-island",
-      "title_ru": "Мощный NOR'EASTER обнаруживает кораблекрушение 19-го века на острове США",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 08:39:36"
     }
   ]
 }
