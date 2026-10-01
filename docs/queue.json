@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-01T06:06:03.485084+00:00",
+  "updated_at": "2026-10-01T13:28:53.404015+00:00",
   "posts": [
+    {
+      "id": 1460,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters",
+      "title_ru": "Выборы в Бразилии: может ли рекорд Лулы по борьбе с бедностью победить избирателей?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1459,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261001-why-are-french-students-blocking-their-school-entrances",
+      "title_ru": "Почему французские ученики блокируют входы в школы?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1458,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261001-the-us-continue-to-be-a-very-significant-partner-un-peacekeeping-chief",
+      "title_ru": "США продолжают оставаться «очень важным партнером», заявил глава миротворческой миссии ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 13:28:53"
+    },
+    {
+      "id": 1457,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/01/attackers-identity-and-motive-unknown-after-flydubai-flight-to-israel-escapes-disaster-aft",
+      "title_ru": "Личность и мотивы злоумышленника, неизвестные после полета flydubai в Израиль, избежали катастрофы после того, как пилот получил ножевое ранение",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1456,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/01/russias-jury-reform-draws-fire-for-handing-verdicts-back-to-the-state",
+      "title_ru": "Реформа жюри присяжных в России вызвала огонь критики за вынесение вердиктов государству",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1455,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-midday",
+      "title_ru": "Последние новости | 1 октября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1454,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Мощный NOR'EASTER обнаруживает кораблекрушение 19-го века на острове США",
       "status": "published",
       "published_to_telegram_at": "2026-09-29 08:39:36"
-    },
-    {
-      "id": 1400,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/29/madrid-housing-activists-occupy-agency-amid-eviction-protests",
-      "title_ru": "Жилищные активисты Мадрида оккупируют агентство на фоне протестов против выселения",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 08:39:36"
-    },
-    {
-      "id": 1399,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/29/iranian-airliner-with-passengers-on-board-seized-at-istanbul-over-3-million-debt",
-      "title_ru": "Иранский авиалайнер с пассажирами на борту арестован в Стамбуле за долг в € 3 млн",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 08:39:35"
-    },
-    {
-      "id": 1398,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Санкции США в отношении авиационной промышленности Ирана делают путешествия менее предсказуемыми, поскольку страны отменяют рейсы",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 02:14:39"
-    },
-    {
-      "id": 1397,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/israel-s-netanyahu-holds-secret-meeting-with-uae-president/a-79467271?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Нетаньяху провел секретную встречу с президентом ОАЭ",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 02:14:39"
-    },
-    {
-      "id": 1396,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260928-evicted-spanish-pensioner-to-return-home-after-housing-protest-deal-spain-madrid",
-      "title_ru": "Выселенная 87-летняя испанская пенсионерка вернется домой после сделки",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1395,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote",
-      "title_ru": "Протесты французских студентов подпитывают политическое столкновение в преддверии президентских выборов 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 02:14:40"
     }
   ]
 }
