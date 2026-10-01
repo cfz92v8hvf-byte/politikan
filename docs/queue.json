@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-01T00:11:54.541677+00:00",
+  "updated_at": "2026-10-01T06:06:03.485084+00:00",
   "posts": [
+    {
+      "id": 1454,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts",
+      "title_ru": "Россия начинает крупную атаку на энергосистему Украины, что приводит к отключению электроэнергии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1453,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261001-el-salvador-sets-2027-presidential-election-as-nayib-bukele-seeks-third-term",
+      "title_ru": "Сальвадор назначил дату президентских выборов 2027 года, поскольку Букеле баллотируется на третий срок",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1452,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261001-live-flydubai-suspends-flights-to-and-from-israel-after-pilot-attack",
+      "title_ru": "Прямой эфир: FlyDubai приостанавливает полеты в Израиль и из Израиля после атаки пилота",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 06:06:02"
+    },
+    {
+      "id": 1451,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/01/us-led-coalition-ends-anti-islamic-state-mission-in-iraq-amid-heightened-regional-tensions",
+      "title_ru": "Коалиция во главе с США завершает антиисламскую государственную миссию в Ираке на фоне повышенной региональной напряженности и опасений по поводу безопасности",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 06:06:03"
+    },
+    {
+      "id": 1450,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re",
+      "title_ru": "Санаэ Такаити из Японии объявляет о новых ужесточенных мерах для иностранцев, ищущих постоянное место жительства",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 06:06:03"
+    },
+    {
+      "id": 1449,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-morning",
+      "title_ru": "Последние новости | 1 октября 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-01 06:06:02"
+    },
     {
       "id": 1448,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Протесты французских студентов подпитывают политическое столкновение в преддверии президентских выборов 2027 года",
       "status": "published",
       "published_to_telegram_at": "2026-09-29 02:14:40"
-    },
-    {
-      "id": 1394,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260928-saudis-furious-trump-flips-flops-between-deal-with-iran-and-attacks-in-devastating-fashion",
-      "title_ru": "Трамп «перевернулся» с Ираном между заключением сделки и угрозами атаки «разрушительным образом»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1393,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260928-leo-the-moderate-pope-in-france-defends-eu-values",
-      "title_ru": "Лев Умеренный? Папа Римский во Франции защищает ценности ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1392,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments-as-le-pen-sees-boost-in-polls",
-      "title_ru": "Французская ультраправая Барделла отрицает предполагаемые антисемитские комментарии 2013 года, поскольку Ле Пен видит рост в опросах",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 22:30:32"
-    },
-    {
-      "id": 1391,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260928-france-braces-for-a-day-of-strikes-and-protests-over-civil-servants-pay",
-      "title_ru": "Франция готовится ко дню забастовок и протестов из-за зарплаты госслужащих",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 22:30:32"
-    },
-    {
-      "id": 1390,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260928-expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
-      "title_ru": "Эксперт говорит, что сюжет о британской авиабазе «вписывается в очень интенсивную картину, которую мы наблюдаем в последние два месяца»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 22:30:31"
-    },
-    {
-      "id": 1389,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/28/pope-leo-ends-france-trip-in-metz-spotlighting-schuman-and-eu-unity",
-      "title_ru": "Папа Лев завершает поездку во Францию в Меце, рассказывая о Шумане и единстве ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-28 22:30:31"
     }
   ]
 }
