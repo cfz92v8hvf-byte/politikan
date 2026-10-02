@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-02T15:04:04.018524+00:00",
+  "updated_at": "2026-10-02T19:54:57.281134+00:00",
   "posts": [
+    {
+      "id": 1493,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-we-have-to-close-defence-gaps-urgently-eu-parliament-foreign-affairs-committee-chief-mcallister",
+      "title_ru": "«Мы должны срочно закрыть пробелы в обороне»: глава комитета по иностранным делам парламента ЕС Макалистер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1492,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term",
+      "title_ru": "Лула из Бразилии готовится к «последнему танцу», баллотируясь на четвертый президентский срок",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1491,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261002-french-unrest-are-we-witnessing-a-new-yellow-vests-movement",
+      "title_ru": "Французские беспорядки: являемся ли мы свидетелями нового движения «желтых жилетов»?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 19:54:56"
+    },
+    {
+      "id": 1490,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
+      "title_ru": "В бегах в течение 20 лет угандийский военачальник Кони все еще «активен» в «Армии сопротивления Бога»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 19:54:56"
+    },
+    {
+      "id": 1489,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-evening",
+      "title_ru": "Последние новости | 2 октября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1488,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/02/debt-saddled-argentina-pitches-golden-passport-scheme-to-woo-wealthy-foreigners",
+      "title_ru": "Обремененная долгами Аргентина предлагает схему «золотого паспорта», чтобы привлечь богатых иностранцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 19:54:57"
+    },
     {
       "id": 1487,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Россия наращивает дезинформационные атаки на французские СМИ в преддверии президентской гонки 2027 года",
       "status": "published",
       "published_to_telegram_at": "2026-09-30 15:51:05"
-    },
-    {
-      "id": 1433,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-midday",
-      "title_ru": "Последние новости | 30 сентября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1432,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/30/thousands-of-firefighters-march-in-paris-demanding-more-resources",
-      "title_ru": "Тысячи пожарных вышли на марш в Париже, требуя больше ресурсов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1431,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/30/let-workers-have-a-say-protesters-target-openai-conference",
-      "title_ru": "«Дайте работникам высказать свое мнение»: протестующие нацелены на конференцию OpenAI",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 15:51:05"
-    },
-    {
-      "id": 1430,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv",
-      "title_ru": "Прямой эфир: Несколько человек погибли, когда Россия начала новый раунд ударов по Киеву",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1429,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260930-ian-bremmer-we-have-passed-peak-trump-in-terms-of-disruption-on-the-global-stage",
-      "title_ru": "Ян Бреммер: «Мы прошли пик Трампа с точки зрения дестабилизации на мировой арене»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 08:56:49"
-    },
-    {
-      "id": 1428,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-the-country-has-become-a-battlefield-last-us-troops-exit-iraq",
-      "title_ru": "«Страна стала полем битвы»: последние американские войска покидают Ирак",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 08:56:49"
     }
   ]
 }
