@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-01T23:04:53.847864+00:00",
+  "updated_at": "2026-10-02T02:10:06.222555+00:00",
   "posts": [
+    {
+      "id": 1475,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Министры ЕС обдумывают новые способы борьбы с нелегальной миграцией",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 02:10:05"
+    },
+    {
+      "id": 1474,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link",
+      "title_ru": "Нетаньяху говорит, что второй пилот flydubai был радикализирован, поскольку ОАЭ зондируют связь с террором",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 02:10:06"
+    },
+    {
+      "id": 1473,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer",
+      "title_ru": "Министры торговли G20 зашли в тупик из-за избыточных производственных мощностей, заявил глава по торговле США",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 02:10:05"
+    },
     {
       "id": 1472,
       "source": "France 24",
@@ -14,7 +38,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/ethiopia-and-eritrea-break-diplomatic-ties-over-conflict",
       "title_ru": "Эфиопия и Эритрея разорвали дипломатические отношения из-за конфликта",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -454,30 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/africa/20260929-morocco-king-appoints-first-woman-prime-minister-el-mansouri-after-parliamentary-vote",
       "title_ru": "Мэр 🔴 Марракеша Фатима Эззахра Эль-Мансури стала первой женщиной-премьер-министром Марокко",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1415,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260929-burnham-sets-out-new-path-for-britain-vows-to-seek-consensus-on-ties-with-eu",
-      "title_ru": "Бернем прокладывает «новый путь» для Британии, клянется искать консенсус по связям с ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 20:01:39"
-    },
-    {
-      "id": 1414,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260929-mystery-over-uk-airbase-scare-as-police-find-quantity-of-petrol-but-no-explosives",
-      "title_ru": "Тайна о том, как напугать британскую авиабазу, когда полиция находит «количество бензина», но без взрывчатки",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 20:01:38"
-    },
-    {
-      "id": 1413,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/29/global-economic-impact-of-iran-war-unbearable-qatar-warns-as-talks-continue",
-      "title_ru": "Глобальные экономические последствия войны с Ираном «невыносимы», предупреждает Катар, поскольку переговоры продолжаются",
       "status": "expired",
       "published_to_telegram_at": null
     }
