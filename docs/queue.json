@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-02T08:38:00.948232+00:00",
+  "updated_at": "2026-10-02T15:04:04.018524+00:00",
   "posts": [
+    {
+      "id": 1487,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261002-spain-housing-protests-rage-ahead-of-key-government-vote",
+      "title_ru": "Жилищные протесты в Испании бушуют в преддверии ключевого голосования",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 15:04:03"
+    },
+    {
+      "id": 1486,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261002-students-and-police-clash-as-france-struggles-to-quell-school-protests",
+      "title_ru": "Студенты и полиция сталкиваются, поскольку Франция изо всех сил пытается подавить школьные протесты",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 15:04:03"
+    },
+    {
+      "id": 1485,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261002-netanyahu-warns-of-very-heavy-price-if-any-country-found-to-be-behind-flydubai-incident",
+      "title_ru": "Нетаньяху предупреждает об «очень высокой цене», если какая-либо страна окажется причастной к инциденту с FlyDubai",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 15:04:03"
+    },
+    {
+      "id": 1484,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-51/20261002-the-cornell-7-allegations-spark-fury-over-gang-rape-culture",
+      "title_ru": "The Cornell 7: Обвинения вызывают ярость по поводу культуры группового изнасилования",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 15:04:02"
+    },
+    {
+      "id": 1483,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-midday",
+      "title_ru": "Последние новости | 2 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1482,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003",
+      "title_ru": "США отправляют третью авианосную ударную группу на Ближний Восток, что является крупнейшим наращиванием с 2003 года",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1481,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "«Страна стала полем битвы»: последние американские войска покидают Ирак",
       "status": "published",
       "published_to_telegram_at": "2026-09-30 08:56:49"
-    },
-    {
-      "id": 1427,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-trump-puts-trust-in-ai-bosses-to-police-themselves",
-      "title_ru": "Трамп доверяет боссам ИИ «самим полицейским»",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 08:56:48"
-    },
-    {
-      "id": 1426,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/09/30/moroccos-king-mohammed-vi-appoints-fatima-mansouri-as-the-countrys-first-female-prime-mini",
-      "title_ru": "Король Марокко Мохаммед VI назначил Фатиму Мансури первой женщиной-премьером страны",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1425,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-morning",
-      "title_ru": "Последние новости | 30 сентября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1424,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260929-still-the-same-far-right-le-pen-s-national-rally-denies-fresh-antisemitism-claims",
-      "title_ru": "Все тот же крайне правый? Национальное объединение Ле Пен отрицает новые обвинения в антисемитизме",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1423,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20260930-us-forces-leave-iraq-raising-fears-of-iran-backed-militias-amid-power-vacuum",
-      "title_ru": "Американские войска покидают Ирак, вызывая опасения поддерживаемых Ираном ополченцев на фоне вакуума власти",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 02:27:01"
-    },
-    {
-      "id": 1422,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ugandan-coronation-under-social-media-scrutiny",
-      "title_ru": "Коронация в Уганде под пристальным вниманием социальных сетей",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
