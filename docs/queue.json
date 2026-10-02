@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-02T19:54:57.281134+00:00",
+  "updated_at": "2026-10-02T23:42:21.060804+00:00",
   "posts": [
+    {
+      "id": 1499,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/forward-look-2026/",
+      "title_ru": "Перспективы: 5 - 18 октября 2026 г.",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1498,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Франция: 400 школ закрыты из-за продолжающихся студенческих протестов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1497,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Северная Корея запустила баллистическую ракету в море, заявил Сеул",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 23:42:20"
+    },
+    {
+      "id": 1496,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
+      "title_ru": "Эфиопская армия оттесняет тиграйских повстанцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 23:42:21"
+    },
+    {
+      "id": 1495,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
+      "title_ru": "Французские СМИ реагируют на «кевларовый иск» М. Ле Пена к следственному изданию",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 23:42:20"
+    },
+    {
+      "id": 1494,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
+      "title_ru": "США приостанавливают консульские услуги в Бразилии, поскольку Лула и Болсонару борются за выборы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1493,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Премьер-министр Израиля говорит, что пилот перенаправленного рейса пытался разбить самолет",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1439,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-france-to-unveil-2027-budget-as-debt-hits-record-high",
-      "title_ru": "Франция обнародует бюджет на 2027 год, поскольку долг достиг рекордно высокого уровня",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1438,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
-      "title_ru": "Премьер-министр Великобритании утверждает, что есть «убедительные признаки» причастности Ирана к инциденту на авиабазе Фэрфорд",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 20:45:01"
-    },
-    {
-      "id": 1437,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-evening",
-      "title_ru": "Последние новости | 30 сентября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1436,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-ex-tv-anchor-crowned-as-king-in-uganda-after-succession-fight",
-      "title_ru": "Бывший телеведущий коронован как король в Уганде после борьбы за престолонаследие",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 15:51:06"
-    },
-    {
-      "id": 1435,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip",
-      "title_ru": "ПОВТОР: французский Макрон призывает к «более сильной Европе» во время поездки в Испанию",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 15:51:05"
-    },
-    {
-      "id": 1434,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20260930-russia-ramps-up-disinformation-attacks-on-french-media-ahead-of-2027-presidential-race",
-      "title_ru": "Россия наращивает дезинформационные атаки на французские СМИ в преддверии президентской гонки 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-30 15:51:05"
     }
   ]
 }
