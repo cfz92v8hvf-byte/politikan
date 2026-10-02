@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-02T02:10:06.222555+00:00",
+  "updated_at": "2026-10-02T08:38:00.948232+00:00",
   "posts": [
+    {
+      "id": 1481,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261002-france-unveils-cost-cutting-budget-amid-protests",
+      "title_ru": "Франция обнародует бюджет на сокращение расходов на фоне протестов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 08:37:59"
+    },
+    {
+      "id": 1480,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/02/brazil-launches-probe-into-alleged-trump-administration-plan-to-fund-far-right-causes-in-t",
+      "title_ru": "Бразилия начинает расследование предполагаемого плана администрации Трампа по финансированию крайне правых в стране",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1479,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/02/rubio-unblocks-320-million-in-military-aid-to-egypt-that-had-been-withheld-over-human-righ",
+      "title_ru": "Рубио разблокировал военную помощь Египту в размере $ 320 млн, которая была удержана из-за проблем с правами человека",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1478,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-morning",
+      "title_ru": "Последние новости | 2 октября 2026 года – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1477,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/02/trump-vows-to-hit-iran-very-hard-if-linked-to-flydubai-pilot-stabbing-attack",
+      "title_ru": "Трамп обещает «очень сильно» ударить по Ирану, если он будет связан с нападением пилота flydubai",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 08:38:00"
+    },
+    {
+      "id": 1476,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/02/madrid-protesters-bang-pots-to-demand-action-on-spains-housing-crisis",
+      "title_ru": "Мадридские протестующие громоздят горшки, требуя действий в связи с жилищным кризисом в Испании",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-02 08:38:00"
+    },
     {
       "id": 1475,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/ugandan-coronation-under-social-media-scrutiny",
       "title_ru": "Коронация в Уганде под пристальным вниманием социальных сетей",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1421,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/business/20260929-france-intends-to-borrow-record-340-billion-euros-covid-era-debt-comes-due",
-      "title_ru": "Франция намерена занять рекордные € 340 млрд по мере наступления сроков погашения долга в связи с Covid",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1420,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260929-public-service-announcement-or-donald-trump-propaganda",
-      "title_ru": "Общественная реклама или пропаганда Дональда Трампа?",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 23:39:03"
-    },
-    {
-      "id": 1419,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
-      "title_ru": "Эксперт говорит, что меры предосторожности «строят ров» вокруг американских фирм ИИ, предотвращают продвижение моделей с открытым исходным кодом",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 23:39:02"
-    },
-    {
-      "id": 1418,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety",
-      "title_ru": "Трамп говорит, что не хочет работать с Китаем над безопасностью ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 23:39:02"
-    },
-    {
-      "id": 1417,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20260929-trump-says-ai-companies-sign-voluntary-accord-on-safety-controls",
-      "title_ru": "Трамп говорит, что компании ИИ подписывают добровольное соглашение о контроле безопасности",
-      "status": "published",
-      "published_to_telegram_at": "2026-09-29 23:39:01"
-    },
-    {
-      "id": 1416,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20260929-morocco-king-appoints-first-woman-prime-minister-el-mansouri-after-parliamentary-vote",
-      "title_ru": "Мэр 🔴 Марракеша Фатима Эззахра Эль-Мансури стала первой женщиной-премьер-министром Марокко",
       "status": "expired",
       "published_to_telegram_at": null
     }
