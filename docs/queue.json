@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-03T17:38:46.010735+00:00",
+  "updated_at": "2026-10-03T20:14:45.547342+00:00",
   "posts": [
+    {
+      "id": 1522,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Начальник тюрьмы Теннесси ушел в отставку после неудачной казни убийцы Кристы Пайк",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 20:14:45"
+    },
+    {
+      "id": 1521,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Пакистан против Афганистана: от союзников и соседей к войне",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 20:14:44"
+    },
+    {
+      "id": 1520,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
+      "title_ru": "Война Путина за учебники истории: Дмитрий Кулеба выступает перед Францией 24",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1519,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/03/brazils-lula-and-flavio-bolsonaro-wrap-up-campaigns-on-eve-of-tight-vote",
+      "title_ru": "Бразильские Лула и Флавио Болсонару завершают кампании накануне жесткого голосования",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 20:14:45"
+    },
+    {
+      "id": 1518,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise",
+      "title_ru": "Азербайджан, Турция и Узбекистан объединяют силы в крупных военных учениях",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 20:14:44"
+    },
     {
       "id": 1517,
       "source": "DW",
@@ -440,46 +480,6 @@
       "title_ru": "Россия высылает венгерских дипломатов, поскольку Будапешт порывает с эпохой Орбана",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1462,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-evening",
-      "title_ru": "Последние новости | 1 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 19:00:10"
-    },
-    {
-      "id": 1461,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/01/elon-musk-returns-to-trump-administration-to-co-lead-pentagon-war-study",
-      "title_ru": "Илон Маск возвращается в администрацию Трампа, чтобы возглавить исследование войны в Пентагоне",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 19:00:09"
-    },
-    {
-      "id": 1460,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters",
-      "title_ru": "Выборы в Бразилии: может ли рекорд Лулы по борьбе с бедностью победить избирателей?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1459,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261001-why-are-french-students-blocking-their-school-entrances",
-      "title_ru": "Почему французские ученики блокируют входы в школы?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1458,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261001-the-us-continue-to-be-a-very-significant-partner-un-peacekeeping-chief",
-      "title_ru": "США продолжают оставаться «очень важным партнером», заявил глава миротворческой миссии ООН",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 13:28:53"
     }
   ]
 }
