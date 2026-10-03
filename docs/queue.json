@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-03T20:14:45.547342+00:00",
+  "updated_at": "2026-10-03T23:08:23.920105+00:00",
   "posts": [
+    {
+      "id": 1525,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Гиганты ИИ «недостаточно осторожны», предупреждает уходящий инженер по безопасности OpenAI",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 23:08:23"
+    },
+    {
+      "id": 1524,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+      "title_ru": "Лула и Болсонару делают окончательный рывок для голосования в преддверии выборов в Бразилии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 23:08:23"
+    },
+    {
+      "id": 1523,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
+      "title_ru": "Экзит-поллы в Латвии опережают проукраинскую партию премьер-министра, но партнеры по коалиции спотыкаются",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 23:08:23"
+    },
     {
       "id": 1522,
       "source": "DW",
@@ -22,7 +46,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
       "title_ru": "Война Путина за учебники истории: Дмитрий Кулеба выступает перед Францией 24",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -454,30 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/focus/20261001-a-blessing-or-a-curse-new-caledonia-s-dwindling-nickel-industry",
       "title_ru": "Благословение или проклятие? Сокращающаяся никелевая промышленность Новой Каледонии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1465,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/students-face-riot-police-as-protests-over-school-conditions-escalate-in-france",
-      "title_ru": "Учащиеся сталкиваются с полицией, поскольку протесты по поводу школьных условий обостряются во Франции",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1464,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261001-guilty-of-all-charges-man-city-at-centre-of-biggest-scandal-in-football-history-vows-to-appeal",
-      "title_ru": "«Виновен во всех обвинениях»: «Манчестер Сити» в центре «самого большого скандала в истории футбола», клянется подать апелляцию",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 19:00:09"
-    },
-    {
-      "id": 1463,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era",
-      "title_ru": "Россия высылает венгерских дипломатов, поскольку Будапешт порывает с эпохой Орбана",
       "status": "expired",
       "published_to_telegram_at": null
     }
