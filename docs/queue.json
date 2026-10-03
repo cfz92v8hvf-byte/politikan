@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-03T08:31:06.708952+00:00",
+  "updated_at": "2026-10-03T13:39:26.234592+00:00",
   "posts": [
+    {
+      "id": 1511,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
+      "title_ru": "Тиграйские повстанцы Эфиопии покидают региональную столицу Мекелле по мере продвижения проправительственных сил",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1510,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
+      "title_ru": "Баррикады и игра в вину: протесты во французских школах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1509,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
+      "title_ru": "Флавио Болсонаро: Во имя отца, сыновей и святой идеологии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1508,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+      "title_ru": "Новые протесты из-за вспышки жилищного строительства в Испании после того, как законодатели отвергли меры по оказанию помощи",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 13:39:26"
+    },
+    {
+      "id": 1507,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
+      "title_ru": "Последние новости | 3 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1506,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
+      "title_ru": "Китай открывает антидемпинговое расследование в ЕС за несколько дней до торговых переговоров в Пекине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1505,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Прямой эфир: FlyDubai приостанавливает полеты в Израиль и из Израиля после атаки пилота",
       "status": "published",
       "published_to_telegram_at": "2026-10-01 06:06:02"
-    },
-    {
-      "id": 1451,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/01/us-led-coalition-ends-anti-islamic-state-mission-in-iraq-amid-heightened-regional-tensions",
-      "title_ru": "Коалиция во главе с США завершает антиисламскую государственную миссию в Ираке на фоне повышенной региональной напряженности и опасений по поводу безопасности",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 06:06:03"
-    },
-    {
-      "id": 1450,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re",
-      "title_ru": "Санаэ Такаити из Японии объявляет о новых ужесточенных мерах для иностранцев, ищущих постоянное место жительства",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 06:06:03"
-    },
-    {
-      "id": 1449,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-morning",
-      "title_ru": "Последние новости | 1 октября 2026 года – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 06:06:02"
-    },
-    {
-      "id": 1448,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Пять государств ЕС планируют создать первый депортационный центр в Африке на 2027 год",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1447,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Газа: НПО сообщает о тяжелых условиях в лагерях, говорит, что Израиль продвигает «желтую линию»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 00:11:54"
-    },
-    {
-      "id": 1446,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ethiopian-ai-expert-timnit-gebru-wins-alternative-nobel",
-      "title_ru": "Эфиопский эксперт по искусственному интеллекту Тимнит Гебру получил «альтернативную Нобелевскую премию»",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
