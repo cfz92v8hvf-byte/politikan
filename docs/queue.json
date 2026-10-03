@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-03T02:22:14.820209+00:00",
+  "updated_at": "2026-10-03T08:31:06.708952+00:00",
   "posts": [
+    {
+      "id": 1505,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Индии: Партия \"Таракан Джанта\" объявляет марш в Дели на 10 октября, призывает к отставке главы предвыборного штаба",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 08:31:05"
+    },
+    {
+      "id": 1504,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
+      "title_ru": "Северная Корея запускает баллистическую ракету, поскольку напряженность в отношениях с Сеулом растет из-за взрывов приграничных мин",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1503,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
+      "title_ru": "Россия наносит удар по еще одному крупному мосту через реку Днепр в Киеве",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 08:31:06"
+    },
+    {
+      "id": 1502,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays",
+      "title_ru": "Россия лидирует в мире по владению кошками — но имеет 2,8 миллиона бродяг",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1501,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning",
+      "title_ru": "Последние новости | 3 октября 2026 года – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1500,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
+      "title_ru": "Латвийцы идут на выборы на фоне опасений по поводу роста стоимости жизни и России",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-03 08:31:06"
+    },
     {
       "id": 1499,
       "source": "Council of the EU",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/ethiopian-ai-expert-timnit-gebru-wins-alternative-nobel",
       "title_ru": "Эфиопский эксперт по искусственному интеллекту Тимнит Гебру получил «альтернативную Нобелевскую премию»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1445,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
-      "title_ru": "Премьер-министр Великобритании Бернем возобновляет спорные дебаты о возвращении в ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1444,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
-      "title_ru": "Первостепенное поглощение Warner Bros. Discovery устраняет юридические препятствия",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 00:11:54"
-    },
-    {
-      "id": 1443,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
-      "title_ru": "Трамп возобновляет призывы к отставке бывшего главы Федеральной резервной системы Джерома Пауэлла",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 00:11:53"
-    },
-    {
-      "id": 1442,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-attempted-terror-attack-what-happened-on-board-the-rerouted-flydubai-flight",
-      "title_ru": "«Попытка теракта»: что произошло на борту перенаправленного рейса Flydubai?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1441,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-climate-change-reshaping-the-polar-oceans-says-report",
-      "title_ru": "Изменение климата меняет форму полярных океанов, говорится в докладе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1440,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20260930-israel-pm-says-pilot-of-rerouted-flight-tried-to-crash-plane",
-      "title_ru": "Премьер-министр Израиля говорит, что пилот перенаправленного рейса пытался разбить самолет",
       "status": "expired",
       "published_to_telegram_at": null
     }
