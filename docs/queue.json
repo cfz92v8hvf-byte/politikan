@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-04T02:43:29.614976+00:00",
+  "updated_at": "2026-10-04T08:51:10.167213+00:00",
   "posts": [
+    {
+      "id": 1532,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Немецкий Мерц прибыл в Киев, чтобы пообещать больше поддержки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 08:51:09"
+    },
+    {
+      "id": 1531,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Латвии: проукраинский премьер-министр Кульберг намерен сохранить власть после исторической победы своей партии «Единый список»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 08:51:08"
+    },
+    {
+      "id": 1530,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261004-ossoff-and-el-sayed-two-senate-races-and-what-they-say-about-the-democratic-party",
+      "title_ru": "Оссофф и Эль-Сайед: две гонки в Сенате и что они говорят о Демократической партии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 08:51:10"
+    },
+    {
+      "id": 1529,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-morning",
+      "title_ru": "Последние новости | 4 октября 2026 года – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1528,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/04/bosnia-votes-as-pro-russian-politician-looms-large-over-race-and-a-stalled-eu-bid-dominate",
+      "title_ru": "Босния голосует, поскольку пророссийский политик вырисовывается из-за расы, а зашедшая в тупик заявка ЕС доминирует на выборах",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1527,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/04/north-korea-fires-intermediate-range-missile-claiming-evasive-flight-and-ai-features",
+      "title_ru": "Северная Корея запускает ракеты средней дальности, заявляя об уклончивом полете и особенностях ИИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 08:51:09"
+    },
     {
       "id": 1526,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Министры торговли G20 зашли в тупик из-за избыточных производственных мощностей, заявил глава по торговле США",
       "status": "published",
       "published_to_telegram_at": "2026-10-02 02:10:05"
-    },
-    {
-      "id": 1472,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261001-uk-police-arrest-dual-uk-iranian-national-over-fairford-air-base-incident",
-      "title_ru": "Полиция Великобритании арестовала двойного гражданина Великобритании и Ирана за инцидент на авиабазе Фэрфорд",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1471,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ethiopia-and-eritrea-break-diplomatic-ties-over-conflict",
-      "title_ru": "Эфиопия и Эритрея разорвали дипломатические отношения из-за конфликта",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1470,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/fundamental-demand-saint-denis-students-seek-same-opportunity-as-those-in-more-privileged-areas",
-      "title_ru": "«Фундаментальный спрос»: студенты Сен-Дени ищут те же возможности, что и в «более привилегированных районах»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 23:04:53"
-    },
-    {
-      "id": 1469,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices",
-      "title_ru": "США настаивают на том, чтобы Европа «немедленно» выпустила запасы дизельного топлива, поскольку Трамп угрожает запретом на экспорт",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 23:04:53"
-    },
-    {
-      "id": 1468,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261001-migration-deal-really-a-scheme-around-political-diplomacy-between-uk-france-in-post-brexit-era-1",
-      "title_ru": "Миграционная сделка: «Действительно схема вокруг политической дипломатии между Великобританией и Францией в эпоху после Брексита»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 23:04:53"
-    },
-    {
-      "id": 1467,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261001-jordan-bardella-antisemitic-messages-authenticated-french-outlet",
-      "title_ru": "Антисемитские сообщения, приписываемые Джону Барделле, аутентифицированы, сообщает французское издание",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-01 23:04:52"
     }
   ]
 }
