@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-04T08:51:10.167213+00:00",
+  "updated_at": "2026-10-04T14:44:37.035528+00:00",
   "posts": [
+    {
+      "id": 1538,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/lula-de-silva-80-year-old-incumbent-brazilian-president-seeks-4th-term",
+      "title_ru": "Лула де Силва: 80-летний действующий президент Бразилии баллотируется на четвертый срок",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 14:44:36"
+    },
+    {
+      "id": 1537,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
+      "title_ru": "Бразилия: Лула и Болсонару поровну в опросах",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 14:44:36"
+    },
+    {
+      "id": 1536,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
+      "title_ru": "Почему я выхожу из движения, формирующего ИИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 14:44:36"
+    },
+    {
+      "id": 1535,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/04/flydubai-captain-said-he-had-one-more-fight-left-in-me-and-opened-cockpit-door",
+      "title_ru": "Капитан FlyDubai сказал, что во мне остался «еще один бой», и открыл дверь кабины",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1534,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-midday",
+      "title_ru": "Последние новости | 4 октября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1533,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground",
+      "title_ru": "Проевропейская правящая партия Латвии побеждает на выборах, поскольку популисты набирают силу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1532,
       "source": "DW",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/04/bosnia-votes-as-pro-russian-politician-looms-large-over-race-and-a-stalled-eu-bid-dominate",
       "title_ru": "Босния голосует, поскольку пророссийский политик вырисовывается из-за расы, а зашедшая в тупик заявка ЕС доминирует на выборах",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Рубио разблокировал военную помощь Египту в размере $ 320 млн, которая была удержана из-за проблем с правами человека",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1478,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-morning",
-      "title_ru": "Последние новости | 2 октября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1477,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/02/trump-vows-to-hit-iran-very-hard-if-linked-to-flydubai-pilot-stabbing-attack",
-      "title_ru": "Трамп обещает «очень сильно» ударить по Ирану, если он будет связан с нападением пилота flydubai",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 08:38:00"
-    },
-    {
-      "id": 1476,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/02/madrid-protesters-bang-pots-to-demand-action-on-spains-housing-crisis",
-      "title_ru": "Мадридские протестующие громоздят горшки, требуя действий в связи с жилищным кризисом в Испании",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 08:38:00"
-    },
-    {
-      "id": 1475,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Министры ЕС обдумывают новые способы борьбы с нелегальной миграцией",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 02:10:05"
-    },
-    {
-      "id": 1474,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link",
-      "title_ru": "Нетаньяху говорит, что второй пилот flydubai был радикализирован, поскольку ОАЭ зондируют связь с террором",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 02:10:06"
-    },
-    {
-      "id": 1473,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer",
-      "title_ru": "Министры торговли G20 зашли в тупик из-за избыточных производственных мощностей, заявил глава по торговле США",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 02:10:05"
     }
   ]
 }
