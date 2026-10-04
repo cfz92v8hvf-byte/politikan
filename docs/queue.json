@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-04T14:44:37.035528+00:00",
+  "updated_at": "2026-10-04T18:24:24.580358+00:00",
   "posts": [
+    {
+      "id": 1544,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
+      "title_ru": "Правительство Йемена объявляет контрнаступление, поскольку хуситы перекрыли жизненно важный маршрут к осажденному городу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1543,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support",
+      "title_ru": "Канцлер Германии в Киеве: «Украине понадобится наша поддержка»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1542,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
+      "title_ru": "Женщина в центре судебного процесса о групповом изнасиловании в Корнелле подверглась угрозам, говорит адвокат",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 18:24:23"
+    },
+    {
+      "id": 1541,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/04/has-plague-returned-to-siberia-panic-in-russia-after-death-of-lab-worker",
+      "title_ru": "В Сибирь вернулась чума? Паника в России после смерти лаборанта",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1540,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/04/we-dont-feel-a-sense-of-worry-in-europe-says-the-head-of-the-muslim-world-league",
+      "title_ru": "«У нас нет чувства беспокойства» в Европе, - говорит глава Всемирной мусульманской лиги",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 18:24:24"
+    },
+    {
+      "id": 1539,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-evening",
+      "title_ru": "Последние новости | 4 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-04 18:24:24"
+    },
     {
       "id": 1538,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Нетаньяху предупреждает об «очень высокой цене», если какая-либо страна окажется причастной к инциденту с FlyDubai",
       "status": "published",
       "published_to_telegram_at": "2026-10-02 15:04:03"
-    },
-    {
-      "id": 1484,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-51/20261002-the-cornell-7-allegations-spark-fury-over-gang-rape-culture",
-      "title_ru": "The Cornell 7: Обвинения вызывают ярость по поводу культуры группового изнасилования",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 15:04:02"
-    },
-    {
-      "id": 1483,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-midday",
-      "title_ru": "Последние новости | 2 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1482,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003",
-      "title_ru": "США отправляют третью авианосную ударную группу на Ближний Восток, что является крупнейшим наращиванием с 2003 года",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1481,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261002-france-unveils-cost-cutting-budget-amid-protests",
-      "title_ru": "Франция обнародует бюджет на сокращение расходов на фоне протестов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 08:37:59"
-    },
-    {
-      "id": 1480,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/02/brazil-launches-probe-into-alleged-trump-administration-plan-to-fund-far-right-causes-in-t",
-      "title_ru": "Бразилия начинает расследование предполагаемого плана администрации Трампа по финансированию крайне правых в стране",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1479,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/02/rubio-unblocks-320-million-in-military-aid-to-egypt-that-had-been-withheld-over-human-righ",
-      "title_ru": "Рубио разблокировал военную помощь Египту в размере $ 320 млн, которая была удержана из-за проблем с правами человека",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
