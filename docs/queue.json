@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-05T06:18:37.633078+00:00",
+  "updated_at": "2026-10-05T14:58:44.325098+00:00",
   "posts": [
+    {
+      "id": 1565,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip",
+      "title_ru": "Трамп направляется в Небраску, поскольку республиканцы опасаются, что опорные пункты могут перевернуться",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 14:58:43"
+    },
+    {
+      "id": 1564,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261005-macron-slams-russia-s-irresponsible-strikes-on-ukraine-s-civilian-infrastructure",
+      "title_ru": "Макрон раскритиковал «безответственные» удары России по гражданской инфраструктуре Украины",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 14:58:43"
+    },
+    {
+      "id": 1563,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-midday",
+      "title_ru": "Последние новости | 5 октября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1562,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse",
+      "title_ru": "«Сценарий Терминатора»: насколько реалистичен апокалипсис ИИ?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1561,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/05/iran-insists-it-controls-hormuz-as-rial-hits-record-low-and-exports-dry-up",
+      "title_ru": "Иран настаивает на том, что он контролирует Ормуз, поскольку риал достиг рекордно низкого уровня, а экспорт иссяк",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 14:58:44"
+    },
+    {
+      "id": 1560,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
+      "title_ru": "Россия отрицает, что работник лаборатории умер от чумы, поскольку карантин в Сибири остается на месте",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 14:58:43"
+    },
     {
       "id": 1559,
       "source": "DW",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-morning",
       "title_ru": "Последние новости | 5 октября 2026 года – утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Китай открывает антидемпинговое расследование в ЕС за несколько дней до торговых переговоров в Пекине",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1505,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Индии: Партия \"Таракан Джанта\" объявляет марш в Дели на 10 октября, призывает к отставке главы предвыборного штаба",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 08:31:05"
-    },
-    {
-      "id": 1504,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
-      "title_ru": "Северная Корея запускает баллистическую ракету, поскольку напряженность в отношениях с Сеулом растет из-за взрывов приграничных мин",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1503,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
-      "title_ru": "Россия наносит удар по еще одному крупному мосту через реку Днепр в Киеве",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 08:31:06"
-    },
-    {
-      "id": 1502,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays",
-      "title_ru": "Россия лидирует в мире по владению кошками — но имеет 2,8 миллиона бродяг",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1501,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning",
-      "title_ru": "Последние новости | 3 октября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1500,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
-      "title_ru": "Латвийцы идут на выборы на фоне опасений по поводу роста стоимости жизни и России",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 08:31:06"
     }
   ]
 }
