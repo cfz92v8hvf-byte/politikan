@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-05T14:58:44.325098+00:00",
+  "updated_at": "2026-10-05T21:57:26.326019+00:00",
   "posts": [
+    {
+      "id": 1571,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-has-fallen-far-right-figures-fuel-islamophobic-claims-with-false-student-protest-videos-1",
+      "title_ru": "«Франция пала»: ультраправые подпитывают исламофобские заявления ложными студенческими протестными видео",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1570,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote",
+      "title_ru": "Опасения по поводу вмешательства США влияют на голосование в Бразилии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 21:57:26"
+    },
+    {
+      "id": 1569,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261005-euro-falls-to-17-month-low-against-the-usd-on-french-debt-concerns",
+      "title_ru": "Евро упал до 17-месячного минимума по отношению к доллару США на фоне долговых проблем Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 21:57:25"
+    },
+    {
+      "id": 1568,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261005-new-york-declares-statewide-disaster-emergency-as-measles-cases-rise",
+      "title_ru": "Нью-Йорк объявляет чрезвычайную ситуацию по всему штату в связи с ростом заболеваемости корью",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 21:57:25"
+    },
+    {
+      "id": 1567,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-evening",
+      "title_ru": "Последние новости | 5 октября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1566,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/05/romanian-president-signs-law-regulating-bear-population-cull",
+      "title_ru": "Президент Румынии подписал закон, регулирующий отбор популяции медведей",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 21:57:24"
+    },
     {
       "id": 1565,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 3 октября 2026 года – вечер",
       "status": "published",
       "published_to_telegram_at": "2026-10-03 17:38:45"
-    },
-    {
-      "id": 1511,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
-      "title_ru": "Тиграйские повстанцы Эфиопии покидают региональную столицу Мекелле по мере продвижения проправительственных сил",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1510,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
-      "title_ru": "Баррикады и игра в вину: протесты во французских школах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1509,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
-      "title_ru": "Флавио Болсонаро: Во имя отца, сыновей и святой идеологии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1508,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
-      "title_ru": "Новые протесты из-за вспышки жилищного строительства в Испании после того, как законодатели отвергли меры по оказанию помощи",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 13:39:26"
-    },
-    {
-      "id": 1507,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
-      "title_ru": "Последние новости | 3 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1506,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
-      "title_ru": "Китай открывает антидемпинговое расследование в ЕС за несколько дней до торговых переговоров в Пекине",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
