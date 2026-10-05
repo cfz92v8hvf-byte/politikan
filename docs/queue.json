@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-05T00:45:35.629925+00:00",
+  "updated_at": "2026-10-05T06:18:37.633078+00:00",
   "posts": [
+    {
+      "id": 1559,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Экспорт нефти с Ближнего Востока восстановился до уровня, предшествовавшего войне в Иране, несмотря на атаки на Ормуз",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 06:18:37"
+    },
+    {
+      "id": 1558,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-news-top-court-to-hear-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Индии: Верховный суд рассмотрит петиции против главного комиссара по выборам Гьянеша Кумара",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 06:18:36"
+    },
+    {
+      "id": 1557,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence-after-greenland-security-pact",
+      "title_ru": "Рубио посетил Исландию «для обсуждения сотрудничества в области безопасности», поскольку США наращивают присутствие в Арктике",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1556,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261005-live-up-to-500-schools-to-shut-in-france-as-student-protests-continue",
+      "title_ru": "Прямой эфир: Во Франции закроют до 500 школ из-за продолжающихся студенческих протестов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 06:18:37"
+    },
+    {
+      "id": 1555,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-morning",
+      "title_ru": "Последние новости | 5 октября 2026 года – утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1554,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election",
+      "title_ru": "Европа сегодня: Россия бьет по Киеву во время визитов Мерца; Болсонару побеждает в первом туре выборов в Бразилии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-05 06:18:36"
+    },
     {
       "id": 1553,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Латвийцы идут на выборы на фоне опасений по поводу роста стоимости жизни и России",
       "status": "published",
       "published_to_telegram_at": "2026-10-03 08:31:06"
-    },
-    {
-      "id": 1499,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/forward-look-2026/",
-      "title_ru": "Перспективы: 5 - 18 октября 2026 г.",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1498,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Франция: 400 школ закрыты из-за продолжающихся студенческих протестов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1497,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Северная Корея запустила баллистическую ракету в море, заявил Сеул",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 23:42:20"
-    },
-    {
-      "id": 1496,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
-      "title_ru": "Эфиопская армия оттесняет тиграйских повстанцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 23:42:21"
-    },
-    {
-      "id": 1495,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
-      "title_ru": "Французские СМИ реагируют на «кевларовый иск» М. Ле Пена к следственному изданию",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-02 23:42:20"
-    },
-    {
-      "id": 1494,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
-      "title_ru": "США приостанавливают консульские услуги в Бразилии, поскольку Лула и Болсонару борются за выборы",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
