@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-06T02:11:08.461503+00:00",
+  "updated_at": "2026-10-06T09:04:59.032682+00:00",
   "posts": [
+    {
+      "id": 1581,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/06/housing-protest-turns-violent-in-barcelona-with-fires-and-arrests",
+      "title_ru": "Жилищный протест перерастает в насилие в Барселоне с пожарами и арестами",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1580,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/06/tear-gas-and-water-cannon-in-pristina-as-protesters-clash-with-police",
+      "title_ru": "Слезоточивый газ и водомет в Приштине на фоне столкновений протестующих с полицией",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1579,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/06/turkey-and-pakistan-to-send-troops-to-saudi-arabia-under-defence-pact",
+      "title_ru": "Турция и Пакистан отправят войска в Саудовскую Аравию в рамках оборонного пакта",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 09:04:58"
+    },
+    {
+      "id": 1578,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/06/global-oil-stocks-are-alarmingly-low-and-could-take-two-years-to-rebuild-aramco-warns",
+      "title_ru": "Мировые запасы нефти находятся на тревожно низком уровне, и восстановление может занять два года, предупреждает Aramco",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 09:04:58"
+    },
+    {
+      "id": 1577,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/06/ex-german-intelligence-chief-arrested-over-suspected-espionage",
+      "title_ru": "Экс-глава немецкой разведки арестован по подозрению в шпионаже",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 09:04:58"
+    },
+    {
+      "id": 1576,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis",
+      "title_ru": "Правительственные войска Йемена наступают на Баб-эль-Мандеб против хуситов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 09:04:57"
+    },
     {
       "id": 1575,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Начальник тюрьмы Теннесси ушел в отставку после неудачной казни убийцы Кристы Пайк",
       "status": "published",
       "published_to_telegram_at": "2026-10-03 20:14:45"
-    },
-    {
-      "id": 1521,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Пакистан против Афганистана: от союзников и соседей к войне",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 20:14:44"
-    },
-    {
-      "id": 1520,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
-      "title_ru": "Война Путина за учебники истории: Дмитрий Кулеба выступает перед Францией 24",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1519,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/03/brazils-lula-and-flavio-bolsonaro-wrap-up-campaigns-on-eve-of-tight-vote",
-      "title_ru": "Бразильские Лула и Флавио Болсонару завершают кампании накануне жесткого голосования",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 20:14:45"
-    },
-    {
-      "id": 1518,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise",
-      "title_ru": "Азербайджан, Турция и Узбекистан объединяют силы в крупных военных учениях",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 20:14:44"
-    },
-    {
-      "id": 1517,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Великобритания арестовала двух иранцев по обвинению в антисемитском террористическом заговоре",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 17:38:45"
-    },
-    {
-      "id": 1516,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина активизирует нефтяные атаки, поскольку Россия бьет по мостам в Киеве",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 17:38:44"
     }
   ]
 }
