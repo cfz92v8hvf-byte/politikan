@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-06T15:53:36.335946+00:00",
+  "updated_at": "2026-10-06T20:54:24.864132+00:00",
   "posts": [
+    {
+      "id": 1593,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/colossal-failure-death-penalty-system-in-america-is-a-broken-process-from-start-to-finish",
+      "title_ru": "«Колоссальный провал: система смертной казни в Америке - это сломанный процесс от начала до конца»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1592,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement",
+      "title_ru": "Франция взрывается над школами: почему насилие окружает движение сюрпризов?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 20:54:24"
+    },
+    {
+      "id": 1591,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/students-unions-and-teachers-in-mass-movement-to-demand-better-learning-conditions",
+      "title_ru": "Студенты, профсоюзы и учителя в массовом движении требуют улучшения условий обучения",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 20:54:24"
+    },
+    {
+      "id": 1590,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
+      "title_ru": "Полиция произвела седьмой арест в связи с инцидентом на авиабазе в Великобритании",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 20:54:23"
+    },
+    {
+      "id": 1589,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-evening",
+      "title_ru": "Последние новости | 6 октября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1588,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/06/uk-trial-of-three-iranians-over-alleged-plot-to-target-iran-dissident-journalists",
+      "title_ru": "Британский суд над тремя иранцами по обвинению в заговоре против иранских журналистов-диссидентов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 20:54:24"
+    },
     {
       "id": 1587,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20261006-ethiopia-fears-tigray-conflict-could-get-out-of-control",
       "title_ru": "Эфиопия «опасается, что конфликт в Тигре может выйти из-под контроля»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-midday",
       "title_ru": "Последние новости | 4 октября 2026 года – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1533,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground",
-      "title_ru": "Проевропейская правящая партия Латвии побеждает на выборах, поскольку популисты набирают силу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1532,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Немецкий Мерц прибыл в Киев, чтобы пообещать больше поддержки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 08:51:09"
-    },
-    {
-      "id": 1531,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Выборы в Латвии: проукраинский премьер-министр Кульберг намерен сохранить власть после исторической победы своей партии «Единый список»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 08:51:08"
-    },
-    {
-      "id": 1530,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261004-ossoff-and-el-sayed-two-senate-races-and-what-they-say-about-the-democratic-party",
-      "title_ru": "Оссофф и Эль-Сайед: две гонки в Сенате и что они говорят о Демократической партии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 08:51:10"
-    },
-    {
-      "id": 1529,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-morning",
-      "title_ru": "Последние новости | 4 октября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1528,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/04/bosnia-votes-as-pro-russian-politician-looms-large-over-race-and-a-stalled-eu-bid-dominate",
-      "title_ru": "Босния голосует, поскольку пророссийский политик вырисовывается из-за расы, а зашедшая в тупик заявка ЕС доминирует на выборах",
       "status": "expired",
       "published_to_telegram_at": null
     }
