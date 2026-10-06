@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-10-05T21:57:26.326019+00:00",
+  "updated_at": "2026-10-06T02:11:08.461503+00:00",
   "posts": [
+    {
+      "id": 1575,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "МУС распечатал ордера лидеров «Талибана» на преследование женщин",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1574,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/quebec-votes-as-separatist-surge-poses-test-for-canada-pm",
+      "title_ru": "Квебек голосует, поскольку сепаратистский всплеск представляет собой испытание для премьер-министра Канады",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1573,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics",
+      "title_ru": "Включение клеток мозга: нобелевская наука оптогенетика",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1572,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
+      "title_ru": "Трамп одобрил расстрел стрелка из Форт-Худа Нидаля Хасана",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 02:11:08"
+    },
     {
       "id": 1571,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france-has-fallen-far-right-figures-fuel-islamophobic-claims-with-false-student-protest-videos-1",
       "title_ru": "«Франция пала»: ультраправые подпитывают исламофобские заявления ложными студенческими протестными видео",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -448,38 +480,6 @@
       "title_ru": "Украина активизирует нефтяные атаки, поскольку Россия бьет по мостам в Киеве",
       "status": "published",
       "published_to_telegram_at": "2026-10-03 17:38:44"
-    },
-    {
-      "id": 1515,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-      "title_ru": "Громкие взрывы в Сане, поскольку хуситы обвиняют саудовские силы в нанесении ударов по столице Йемена",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1514,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261003-italy-ustica-enigma-can-french-files-solve-mystery-crash-blamed-on-stray-missile-gaddafi",
-      "title_ru": "Итальянская загадка Ustica: могут ли французские файлы решить загадочную аварию, в которой виновата бродячая ракета?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 17:38:45"
-    },
-    {
-      "id": 1513,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come",
-      "title_ru": "МЭА говорит, что было выпущено 325 миллионов баррелей экстренной нефти, а 75 миллионов еще впереди",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1512,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-evening",
-      "title_ru": "Последние новости | 3 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 17:38:45"
     }
   ]
 }
