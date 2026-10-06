@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-06T09:04:59.032682+00:00",
+  "updated_at": "2026-10-06T15:53:36.335946+00:00",
   "posts": [
+    {
+      "id": 1587,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261006-ethiopia-fears-tigray-conflict-could-get-out-of-control",
+      "title_ru": "Эфиопия «опасается, что конфликт в Тигре может выйти из-под контроля»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1586,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261006-busification-inside-ukraine-s-controversial-recruitment-practices",
+      "title_ru": "«Бусификация»: внутри противоречивых практик найма в Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 15:53:35"
+    },
+    {
+      "id": 1585,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261006-french-students-looking-for-protests-to-become-a-major-movement",
+      "title_ru": "Французские студенты хотят, чтобы протесты «стали крупным движением»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 15:53:34"
+    },
+    {
+      "id": 1584,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-midday",
+      "title_ru": "Последние новости | 6 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1583,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/06/whole-world-is-paying-for-iran-war-qatar-warns-as-mediation-efforts-continue",
+      "title_ru": "«Весь мир платит» за войну с Ираном, предупреждает Катар, поскольку посреднические усилия продолжаются",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 15:53:36"
+    },
+    {
+      "id": 1582,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/06/russia-denies-plague-death-but-quarantines-hundreds-without-explanation",
+      "title_ru": "Россия отрицает смерть от чумы, но вводит карантин для сотен людей без объяснения причин",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-06 15:53:35"
+    },
     {
       "id": 1581,
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/06/housing-protest-turns-violent-in-barcelona-with-fires-and-arrests",
       "title_ru": "Жилищный протест перерастает в насилие в Барселоне с пожарами и арестами",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/06/tear-gas-and-water-cannon-in-pristina-as-protesters-clash-with-police",
       "title_ru": "Слезоточивый газ и водомет в Приштине на фоне столкновений протестующих с полицией",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Босния голосует, поскольку пророссийский политик вырисовывается из-за расы, а зашедшая в тупик заявка ЕС доминирует на выборах",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1527,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/04/north-korea-fires-intermediate-range-missile-claiming-evasive-flight-and-ai-features",
-      "title_ru": "Северная Корея запускает ракеты средней дальности, заявляя об уклончивом полете и особенностях ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 08:51:09"
-    },
-    {
-      "id": 1526,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Президентские выборы в Бразилии 2026 года начинаются с опросов, показывающих, что Лула и Болсонару почти равны.",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 02:43:29"
-    },
-    {
-      "id": 1525,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Гиганты ИИ «недостаточно осторожны», предупреждает уходящий инженер по безопасности OpenAI",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 23:08:23"
-    },
-    {
-      "id": 1524,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
-      "title_ru": "Лула и Болсонару делают окончательный рывок для голосования в преддверии выборов в Бразилии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 23:08:23"
-    },
-    {
-      "id": 1523,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
-      "title_ru": "Экзит-поллы в Латвии опережают проукраинскую партию премьер-министра, но партнеры по коалиции спотыкаются",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 23:08:23"
-    },
-    {
-      "id": 1522,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Начальник тюрьмы Теннесси ушел в отставку после неудачной казни убийцы Кристы Пайк",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-03 20:14:45"
     }
   ]
 }
