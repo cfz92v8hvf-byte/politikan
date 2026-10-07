@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-07T19:35:54.589581+00:00",
+  "updated_at": "2026-10-07T23:52:53.580206+00:00",
   "posts": [
+    {
+      "id": 1621,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
+      "title_ru": "Франция приостанавливает использование светошумовых гранат на студенческих протестах после того, как ученик потерял руку",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1620,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
+      "title_ru": "Агентство здравоохранения ООН хочет получить от России более подробную информацию о предполагаемом случае легочной чумы",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1619,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
+      "title_ru": "Израиль отмечает три года с момента нападения 7 октября в преддверии выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 23:52:53"
+    },
+    {
+      "id": 1618,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
+      "title_ru": "Тысячи людей протестуют против Флавио Болсонару, опасаясь возвращения крайне правых в Бразилию",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 23:52:53"
+    },
+    {
+      "id": 1617,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261007-no-longer-the-same-israel-october-7th-and-the-future-of-the-jewish-state",
+      "title_ru": "Уже не тот Израиль? 7 октября и будущее еврейского государства",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 23:52:52"
+    },
+    {
+      "id": 1616,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads",
+      "title_ru": "DNC подал в суд на администрацию Трампа за телевизионную рекламу, финансируемую налогоплательщиками, продвигающую президента",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 23:52:52"
+    },
     {
       "id": 1615,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "«Сценарий Терминатора»: насколько реалистичен апокалипсис ИИ?",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1561,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/05/iran-insists-it-controls-hormuz-as-rial-hits-record-low-and-exports-dry-up",
-      "title_ru": "Иран настаивает на том, что он контролирует Ормуз, поскольку риал достиг рекордно низкого уровня, а экспорт иссяк",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 14:58:44"
-    },
-    {
-      "id": 1560,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
-      "title_ru": "Россия отрицает, что работник лаборатории умер от чумы, поскольку карантин в Сибири остается на месте",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 14:58:43"
-    },
-    {
-      "id": 1559,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Экспорт нефти с Ближнего Востока восстановился до уровня, предшествовавшего войне в Иране, несмотря на атаки на Ормуз",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 06:18:37"
-    },
-    {
-      "id": 1558,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/india-news-top-court-to-hear-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Индии: Верховный суд рассмотрит петиции против главного комиссара по выборам Гьянеша Кумара",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 06:18:36"
-    },
-    {
-      "id": 1557,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence-after-greenland-security-pact",
-      "title_ru": "Рубио посетил Исландию «для обсуждения сотрудничества в области безопасности», поскольку США наращивают присутствие в Арктике",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1556,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261005-live-up-to-500-schools-to-shut-in-france-as-student-protests-continue",
-      "title_ru": "Прямой эфир: Во Франции закроют до 500 школ из-за продолжающихся студенческих протестов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 06:18:37"
     }
   ]
 }
