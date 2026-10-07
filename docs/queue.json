@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-07T06:25:25.729446+00:00",
+  "updated_at": "2026-10-07T13:48:36.164083+00:00",
   "posts": [
+    {
+      "id": 1609,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/07/russia-asks-vietnam-for-planes-as-illegally-re-registered-western-fleet-falls-apart",
+      "title_ru": "Россия просит Вьетнам о самолетах, поскольку незаконно перерегистрированный западный флот разваливается",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1608,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/07/hardline-iranian-mps-move-to-impeach-foreign-minister-over-un-general-assembly-talks",
+      "title_ru": "Жестко настроенные иранские депутаты объявляют импичмент министру иностранных дел в связи с переговорами в Генеральной Ассамблее ООН",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1607,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-midday",
+      "title_ru": "Последние новости | 7 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1606,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/07/kyiv-residents-take-refuge-underground-during-overnight-russian-attacks",
+      "title_ru": "Киевчане укрываются под землей во время ночных российских атак",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 13:48:36"
+    },
+    {
+      "id": 1605,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/07/trump-to-talk-plague-with-putin-as-russia-plays-down-fears-of-outbreak",
+      "title_ru": "Трамп поговорит с Путиным о чуме, поскольку Россия преуменьшает опасения вспышки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 13:48:35"
+    },
+    {
+      "id": 1604,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/07/iran-parliament-votes-to-criminalise-interviews-with-hostile-foreign-media",
+      "title_ru": "Парламент Ирана проголосовал за криминализацию интервью с «враждебными» иностранными СМИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 13:48:35"
+    },
     {
       "id": 1603,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-morning",
       "title_ru": "Последний выпуск новостей | 7 октября 2026 г. – Утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Антропный доклад: Использует ли Россия ИИ для дезинформации в Центральноафриканской Республике и в других местах?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1549,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Пакистан: сторонники Имрана Хана требуют освобождения экс-премьера",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1548,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Опросы закрываются во время спорных выборов в Боснии и Герцеговине",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 21:52:01"
-    },
-    {
-      "id": 1547,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
-      "title_ru": "Бразилия идет на выборы с высокими ставками между Лулой и Флавио Болсонару",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1546,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president",
-      "title_ru": "Профиль потенциального президента Бразилии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1545,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks",
-      "title_ru": "Иран говорит, что военного решения войны нет, поскольку мирные переговоры с США зашли в тупик",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 21:52:00"
-    },
-    {
-      "id": 1544,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
-      "title_ru": "Правительство Йемена объявляет контрнаступление, поскольку хуситы перекрыли жизненно важный маршрут к осажденному городу",
       "status": "expired",
       "published_to_telegram_at": null
     }
