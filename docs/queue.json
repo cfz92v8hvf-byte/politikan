@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-06T20:54:24.864132+00:00",
+  "updated_at": "2026-10-07T00:35:16.183125+00:00",
   "posts": [
+    {
+      "id": 1597,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education",
+      "title_ru": "Сколько Франция тратит на образование?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1596,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
+      "title_ru": "Смерть российского лабораторного работника вызывает опасения, поскольку непроверенные утверждения распространяются в Интернете",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1595,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/kenya-reports-first-ever-ebola-death",
+      "title_ru": "Кения сообщает о первой в истории смерти от Эболы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1594,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
+      "title_ru": "Трамп говорит, что поговорит с Путиным по поводу сообщений о смерти от чумы в России",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 00:35:16"
+    },
     {
       "id": 1593,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Лула де Силва: 80-летний действующий президент Бразилии баллотируется на четвертый срок",
       "status": "published",
       "published_to_telegram_at": "2026-10-04 14:44:36"
-    },
-    {
-      "id": 1537,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-      "title_ru": "Бразилия: Лула и Болсонару поровну в опросах",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 14:44:36"
-    },
-    {
-      "id": 1536,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
-      "title_ru": "Почему я выхожу из движения, формирующего ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 14:44:36"
-    },
-    {
-      "id": 1535,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/04/flydubai-captain-said-he-had-one-more-fight-left-in-me-and-opened-cockpit-door",
-      "title_ru": "Капитан FlyDubai сказал, что во мне остался «еще один бой», и открыл дверь кабины",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1534,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-midday",
-      "title_ru": "Последние новости | 4 октября 2026 года – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
