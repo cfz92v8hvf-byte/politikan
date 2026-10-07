@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-07T00:35:16.183125+00:00",
+  "updated_at": "2026-10-07T06:25:25.729446+00:00",
   "posts": [
+    {
+      "id": 1603,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
+      "title_ru": "Израиль отмечает третью годовщину нападения 7 октября в преддверии выборов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1602,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks",
+      "title_ru": "Как Нетаньяху пережил политические последствия терактов 7 октября",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 06:25:24"
+    },
+    {
+      "id": 1601,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
+      "title_ru": "По меньшей мере двое погибли в пожаре, вызванном «массированными ударами» по Киеву",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 06:25:23"
+    },
+    {
+      "id": 1600,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-morning",
+      "title_ru": "Последний выпуск новостей | 7 октября 2026 г. – Утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1599,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged",
+      "title_ru": "Каспийское море сокращается на протяжении десятилетий. Теперь появился новый остров",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 06:25:25"
+    },
+    {
+      "id": 1598,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/07/how-verifactu-will-affect-spanish-smes-and-self-employed-after-its-delay",
+      "title_ru": "Как Verifactu повлияет на испанские МСП и самозанятых после его задержки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-07 06:25:23"
+    },
     {
       "id": 1597,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Правительство Йемена объявляет контрнаступление, поскольку хуситы перекрыли жизненно важный маршрут к осажденному городу",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1543,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support",
-      "title_ru": "Канцлер Германии в Киеве: «Украине понадобится наша поддержка»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1542,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
-      "title_ru": "Женщина в центре судебного процесса о групповом изнасиловании в Корнелле подверглась угрозам, говорит адвокат",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 18:24:23"
-    },
-    {
-      "id": 1541,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/04/has-plague-returned-to-siberia-panic-in-russia-after-death-of-lab-worker",
-      "title_ru": "В Сибирь вернулась чума? Паника в России после смерти лаборанта",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1540,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/04/we-dont-feel-a-sense-of-worry-in-europe-says-the-head-of-the-muslim-world-league",
-      "title_ru": "«У нас нет чувства беспокойства» в Европе, - говорит глава Всемирной мусульманской лиги",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 18:24:24"
-    },
-    {
-      "id": 1539,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-evening",
-      "title_ru": "Последние новости | 4 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 18:24:24"
-    },
-    {
-      "id": 1538,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/lula-de-silva-80-year-old-incumbent-brazilian-president-seeks-4th-term",
-      "title_ru": "Лула де Силва: 80-летний действующий президент Бразилии баллотируется на четвертый срок",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-04 14:44:36"
     }
   ]
 }
