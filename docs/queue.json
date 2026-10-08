@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-08T13:17:46.830135+00:00",
+  "updated_at": "2026-10-08T19:19:16.564821+00:00",
   "posts": [
+    {
+      "id": 1639,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/08/experts-in-baku-urge-action-as-missing-persons-surge-worldwide-and-in-ukraine",
+      "title_ru": "Эксперты в Баку призывают к действиям, поскольку число пропавших без вести растет во всем мире и в Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1638,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/08/french-students-clash-with-police-as-school-protests-continue",
+      "title_ru": "Французские студенты сталкиваются с полицией, поскольку школьные протесты продолжаются",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1637,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/08/heavy-autumn-snow-paralyses-roads-in-russias-far-east",
+      "title_ru": "Сильные осенние снегопады парализуют дороги на Дальнем Востоке России",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1636,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/08/latest-news-bulletin-october-8th-2026-evening",
+      "title_ru": "Последние новости | 8 октября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1635,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/08/tiny-turtles-take-their-first-steps-towards-the-sea",
+      "title_ru": "Крошечные черепахи делают первые шаги к морю",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1634,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/08/us-charges-former-venezuelan-president-nicolas-maduro-with-torture",
+      "title_ru": "США обвинили бывшего президента Венесуэлы Николаса Мадуро в пытках",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 19:19:16"
+    },
     {
       "id": 1633,
       "source": "Euronews",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/06/tear-gas-and-water-cannon-in-pristina-as-protesters-clash-with-police",
       "title_ru": "Слезоточивый газ и водомет в Приштине на фоне столкновений протестующих с полицией",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1579,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/06/turkey-and-pakistan-to-send-troops-to-saudi-arabia-under-defence-pact",
-      "title_ru": "Турция и Пакистан отправят войска в Саудовскую Аравию в рамках оборонного пакта",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 09:04:58"
-    },
-    {
-      "id": 1578,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/06/global-oil-stocks-are-alarmingly-low-and-could-take-two-years-to-rebuild-aramco-warns",
-      "title_ru": "Мировые запасы нефти находятся на тревожно низком уровне, и восстановление может занять два года, предупреждает Aramco",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 09:04:58"
-    },
-    {
-      "id": 1577,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/06/ex-german-intelligence-chief-arrested-over-suspected-espionage",
-      "title_ru": "Экс-глава немецкой разведки арестован по подозрению в шпионаже",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 09:04:58"
-    },
-    {
-      "id": 1576,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis",
-      "title_ru": "Правительственные войска Йемена наступают на Баб-эль-Мандеб против хуситов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 09:04:57"
-    },
-    {
-      "id": 1575,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "МУС распечатал ордера лидеров «Талибана» на преследование женщин",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1574,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/quebec-votes-as-separatist-surge-poses-test-for-canada-pm",
-      "title_ru": "Квебек голосует, поскольку сепаратистский всплеск представляет собой испытание для премьер-министра Канады",
       "status": "expired",
       "published_to_telegram_at": null
     }
