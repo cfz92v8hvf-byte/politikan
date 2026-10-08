@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-07T23:52:53.580206+00:00",
+  "updated_at": "2026-10-08T05:51:11.598995+00:00",
   "posts": [
+    {
+      "id": 1627,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: британский Бернхэм и Мерц обсудят безопасность в Берлине",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 05:51:10"
+    },
+    {
+      "id": 1626,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261008-saudi-arabia-strikes-deadly-houthi-attacks-airports",
+      "title_ru": "Саудовская Аравия заявляет, что примет ответные меры после смертоносных нападений хуситов на аэропорты",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1625,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
+      "title_ru": "Прямой эфир: французские старшеклассники и студенты университетов призывают к новым протестам по мере роста потребностей в финансировании",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1624,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/sports/20261008-portugal-cristiano-ronaldo-controversy-rumbles-on",
+      "title_ru": "Португалия: скандал вокруг Криштиану Роналду продолжается",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 05:51:10"
+    },
+    {
+      "id": 1623,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/08/former-sri-lankan-first-lady-shiranthi-rajapaksa-arrested-on-charges-of-misusing-donation-",
+      "title_ru": "Бывшая первая леди Шри-Ланки Ширанти Раджапакса арестована по обвинению в нецелевом использовании средств пожертвований и коррупции",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 05:51:11"
+    },
+    {
+      "id": 1622,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/08/latest-news-bulletin-october-8th-2026-morning",
+      "title_ru": "Последние новости | 8 октября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 05:51:11"
+    },
     {
       "id": 1621,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
       "title_ru": "Франция приостанавливает использование светошумовых гранат на студенческих протестах после того, как ученик потерял руку",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
       "title_ru": "Агентство здравоохранения ООН хочет получить от России более подробную информацию о предполагаемом случае легочной чумы",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Нью-Йорк объявляет чрезвычайную ситуацию по всему штату в связи с ростом заболеваемости корью",
       "status": "published",
       "published_to_telegram_at": "2026-10-05 21:57:25"
-    },
-    {
-      "id": 1567,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-evening",
-      "title_ru": "Последние новости | 5 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1566,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/05/romanian-president-signs-law-regulating-bear-population-cull",
-      "title_ru": "Президент Румынии подписал закон, регулирующий отбор популяции медведей",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 21:57:24"
-    },
-    {
-      "id": 1565,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip",
-      "title_ru": "Трамп направляется в Небраску, поскольку республиканцы опасаются, что опорные пункты могут перевернуться",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 14:58:43"
-    },
-    {
-      "id": 1564,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261005-macron-slams-russia-s-irresponsible-strikes-on-ukraine-s-civilian-infrastructure",
-      "title_ru": "Макрон раскритиковал «безответственные» удары России по гражданской инфраструктуре Украины",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 14:58:43"
-    },
-    {
-      "id": 1563,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-midday",
-      "title_ru": "Последние новости | 5 октября 2026 года – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1562,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse",
-      "title_ru": "«Сценарий Терминатора»: насколько реалистичен апокалипсис ИИ?",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
