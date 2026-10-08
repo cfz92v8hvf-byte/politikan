@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-08T05:51:11.598995+00:00",
+  "updated_at": "2026-10-08T13:17:46.830135+00:00",
   "posts": [
+    {
+      "id": 1633,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/08/moment-us-scientist-tells-his-children-he-won-the-nobel-prize",
+      "title_ru": "Момент, когда американский ученый говорит своим детям, что он получил Нобелевскую премию",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1632,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/08/latest-news-bulletin-october-8th-2026-midday",
+      "title_ru": "Последние новости | 8 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1631,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/08/i-settled-eight-wars-trump-says-he-deserves-nobel-peace-prize",
+      "title_ru": "«Я уладил восемь войн»: Трамп говорит, что заслуживает Нобелевской премии мира",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 13:17:46"
+    },
+    {
+      "id": 1630,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/08/south-korea-recalls-ambassador-to-ukraine-in-north-korean-prisoner-of-war-row",
+      "title_ru": "Южная Корея отзывает посла в Украине из северокорейского плена",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 13:17:46"
+    },
+    {
+      "id": 1629,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout",
+      "title_ru": "Мэнни Пакьяо пригласил президента Польши Кароля Навроцки на тренировку по боксу в Маниле",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 13:17:45"
+    },
+    {
+      "id": 1628,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray",
+      "title_ru": "Эфиопские беспилотники поразили эритрейские силы, обвиняемые в поддержке повстанцев в Тыграе",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-08 13:17:45"
+    },
     {
       "id": 1627,
       "source": "DW",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20261008-saudi-arabia-strikes-deadly-houthi-attacks-airports",
       "title_ru": "Саудовская Аравия заявляет, что примет ответные меры после смертоносных нападений хуситов на аэропорты",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
       "title_ru": "Прямой эфир: французские старшеклассники и студенты университетов призывают к новым протестам по мере роста потребностей в финансировании",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Квебек голосует, поскольку сепаратистский всплеск представляет собой испытание для премьер-министра Канады",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1573,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics",
-      "title_ru": "Включение клеток мозга: нобелевская наука оптогенетика",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1572,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
-      "title_ru": "Трамп одобрил расстрел стрелка из Форт-Худа Нидаля Хасана",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 02:11:08"
-    },
-    {
-      "id": 1571,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-has-fallen-far-right-figures-fuel-islamophobic-claims-with-false-student-protest-videos-1",
-      "title_ru": "«Франция пала»: ультраправые подпитывают исламофобские заявления ложными студенческими протестными видео",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1570,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote",
-      "title_ru": "Опасения по поводу вмешательства США влияют на голосование в Бразилии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 21:57:26"
-    },
-    {
-      "id": 1569,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261005-euro-falls-to-17-month-low-against-the-usd-on-french-debt-concerns",
-      "title_ru": "Евро упал до 17-месячного минимума по отношению к доллару США на фоне долговых проблем Франции",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 21:57:25"
-    },
-    {
-      "id": 1568,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261005-new-york-declares-statewide-disaster-emergency-as-measles-cases-rise",
-      "title_ru": "Нью-Йорк объявляет чрезвычайную ситуацию по всему штату в связи с ростом заболеваемости корью",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-05 21:57:25"
     }
   ]
 }
