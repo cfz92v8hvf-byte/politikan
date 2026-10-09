@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-09T17:12:42.504837+00:00",
+  "updated_at": "2026-10-09T21:44:56.230097+00:00",
   "posts": [
+    {
+      "id": 1668,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
+      "title_ru": "Протесты во Франции, «политически заряженная» память Израиля, Этопия, Украина",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1667,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
+      "title_ru": "🔴 Мощное землетрясение магнитудой 7,6 сотрясает Панаму, вызывая предупреждение о цунами",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1666,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
+      "title_ru": "Трамп заключил дизельную сделку с Путиным, отменив многолетнее давление на Россию из-за войны на Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-09 21:44:55"
+    },
+    {
+      "id": 1665,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
+      "title_ru": "Самое крупное винное ограбление в Италии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-09 21:44:55"
+    },
+    {
+      "id": 1664,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school",
+      "title_ru": "Редкие водостоки захлопывают западную Сицилию, разрушая дома и школу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1663,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices",
+      "title_ru": "Трамп говорит, что США импортируют российское дизельное топливо, чтобы снизить цены",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-09 21:44:56"
+    },
     {
       "id": 1662,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/09/irans-irgc-strikes-tanker-and-threatens-to-target-vessels-beyond-hormuz",
       "title_ru": "КСИР Ирана атакует танкер и угрожает атаковать суда за пределами Ормуза",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/07/russia-asks-vietnam-for-planes-as-illegally-re-registered-western-fleet-falls-apart",
       "title_ru": "Россия просит Вьетнам о самолетах, поскольку незаконно перерегистрированный западный флот разваливается",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1608,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/07/hardline-iranian-mps-move-to-impeach-foreign-minister-over-un-general-assembly-talks",
-      "title_ru": "Жестко настроенные иранские депутаты объявляют импичмент министру иностранных дел в связи с переговорами в Генеральной Ассамблее ООН",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1607,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-midday",
-      "title_ru": "Последние новости | 7 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1606,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/07/kyiv-residents-take-refuge-underground-during-overnight-russian-attacks",
-      "title_ru": "Киевчане укрываются под землей во время ночных российских атак",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 13:48:36"
-    },
-    {
-      "id": 1605,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/07/trump-to-talk-plague-with-putin-as-russia-plays-down-fears-of-outbreak",
-      "title_ru": "Трамп поговорит с Путиным о чуме, поскольку Россия преуменьшает опасения вспышки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 13:48:35"
-    },
-    {
-      "id": 1604,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/07/iran-parliament-votes-to-criminalise-interviews-with-hostile-foreign-media",
-      "title_ru": "Парламент Ирана проголосовал за криминализацию интервью с «враждебными» иностранными СМИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 13:48:35"
-    },
-    {
-      "id": 1603,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
-      "title_ru": "Израиль отмечает третью годовщину нападения 7 октября в преддверии выборов",
       "status": "expired",
       "published_to_telegram_at": null
     }
