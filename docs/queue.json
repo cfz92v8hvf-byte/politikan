@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-08T23:47:51.755395+00:00",
+  "updated_at": "2026-10-09T03:08:55.763072+00:00",
   "posts": [
+    {
+      "id": 1650,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Великобритания: Двое латвийцев арестованы за проникновение на базу RAF",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1649,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Экс-канцлер Германии Шредер на вечеринке по случаю дня рождения Путина",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1648,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина, Европа и США встретятся в Майами для переговоров о прекращении войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-09 03:08:55"
+    },
+    {
+      "id": 1647,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261008-us-files-new-torture-charges-venezuela-nicolas-maduro-cilia-flores",
+      "title_ru": "США выдвинули новые обвинения в пытках против Николаса Мадуро и его жены Силии Флорес",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1646,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula",
+      "title_ru": "Бразилец Флавио Болсонару получил поддержку кандидата на третье место в матче против Лулы",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-09 03:08:55"
+    },
     {
       "id": 1645,
       "source": "France 24",
@@ -440,46 +480,6 @@
       "title_ru": "Студенты, профсоюзы и учителя в массовом движении требуют улучшения условий обучения",
       "status": "published",
       "published_to_telegram_at": "2026-10-06 20:54:24"
-    },
-    {
-      "id": 1590,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
-      "title_ru": "Полиция произвела седьмой арест в связи с инцидентом на авиабазе в Великобритании",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 20:54:23"
-    },
-    {
-      "id": 1589,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-evening",
-      "title_ru": "Последние новости | 6 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1588,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/06/uk-trial-of-three-iranians-over-alleged-plot-to-target-iran-dissident-journalists",
-      "title_ru": "Британский суд над тремя иранцами по обвинению в заговоре против иранских журналистов-диссидентов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 20:54:24"
-    },
-    {
-      "id": 1587,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261006-ethiopia-fears-tigray-conflict-could-get-out-of-control",
-      "title_ru": "Эфиопия «опасается, что конфликт в Тигре может выйти из-под контроля»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1586,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261006-busification-inside-ukraine-s-controversial-recruitment-practices",
-      "title_ru": "«Бусификация»: внутри противоречивых практик найма в Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-06 15:53:35"
     }
   ]
 }
