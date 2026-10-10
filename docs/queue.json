@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-10T13:50:50.000004+00:00",
+  "updated_at": "2026-10-10T18:27:21.807148+00:00",
   "posts": [
+    {
+      "id": 1683,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261010-india-protests-new-cockroach-movement-leader-named",
+      "title_ru": "Протесты в Индии: назван новый лидер движения «тараканов»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 18:27:21"
+    },
+    {
+      "id": 1682,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
+      "title_ru": "🔴 Прямой эфир: Трамп набрасывается на Зеленского, говорит, что Украине нужен новый президент, который согласится прекратить войну",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 18:27:20"
+    },
+    {
+      "id": 1681,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
+      "title_ru": "Аэропорт Эр-Рияда приостанавливает работу после нападения, в результате которого несколько человек получили ранения",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 18:27:20"
+    },
+    {
+      "id": 1680,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/10/palestinian-president-abbas-postpones-legislative-elections-until-september-2027",
+      "title_ru": "Президент Палестины Аббас отложил выборы в законодательные органы до сентября 2027 года",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1679,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/10/thousands-detained-in-new-delhi-as-police-crack-down-on-cockroach-movement",
+      "title_ru": "Тысячи людей задержаны в Нью-Дели, когда полиция расправилась с движением «тараканов»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1678,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-evening",
+      "title_ru": "Последние новости | 10 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 18:27:21"
+    },
     {
       "id": 1677,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Португалия: скандал вокруг Криштиану Роналду продолжается",
       "status": "published",
       "published_to_telegram_at": "2026-10-08 05:51:10"
-    },
-    {
-      "id": 1623,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/08/former-sri-lankan-first-lady-shiranthi-rajapaksa-arrested-on-charges-of-misusing-donation-",
-      "title_ru": "Бывшая первая леди Шри-Ланки Ширанти Раджапакса арестована по обвинению в нецелевом использовании средств пожертвований и коррупции",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 05:51:11"
-    },
-    {
-      "id": 1622,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/08/latest-news-bulletin-october-8th-2026-morning",
-      "title_ru": "Последние новости | 8 октября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 05:51:11"
-    },
-    {
-      "id": 1621,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
-      "title_ru": "Франция приостанавливает использование светошумовых гранат на студенческих протестах после того, как ученик потерял руку",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1620,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
-      "title_ru": "Агентство здравоохранения ООН хочет получить от России более подробную информацию о предполагаемом случае легочной чумы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1619,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
-      "title_ru": "Израиль отмечает три года с момента нападения 7 октября в преддверии выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 23:52:53"
-    },
-    {
-      "id": 1618,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
-      "title_ru": "Тысячи людей протестуют против Флавио Болсонару, опасаясь возвращения крайне правых в Бразилию",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 23:52:53"
     }
   ]
 }
