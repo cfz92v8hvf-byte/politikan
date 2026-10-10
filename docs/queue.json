@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-09T21:44:56.230097+00:00",
+  "updated_at": "2026-10-10T01:18:57.922456+00:00",
   "posts": [
+    {
+      "id": 1672,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп и Путин договорились о поставках российского дизеля на мировые рынки",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1671,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп назначил нового пресс-секретаря, чтобы сменить Каролину Ливитт",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 01:18:57"
+    },
+    {
+      "id": 1670,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+      "title_ru": "Южноафриканский судья удостоен Нобелевской премии мира",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1669,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
+      "title_ru": "Полиция столкнулась с протестующими в Брюсселе, когда тысячи людей вышли на марш против сокращения расходов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 01:18:57"
+    },
     {
       "id": 1668,
       "source": "France 24",
@@ -446,38 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran",
       "title_ru": "Иран угрожает превентивными ударами, поскольку США задают вопросы о том, кто управляет Тегераном",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1612,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/07/russia-dismisses-transparency-calls-amid-reports-of-second-siberia-plague-case",
-      "title_ru": "Россия отклоняет призывы к прозрачности на фоне сообщений о втором случае чумы в Сибири",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1611,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-evening",
-      "title_ru": "Последние новости | 7 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1610,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/07/trump-mocks-sheinbaum-over-gulf-of-mexico-and-imitates-her-alleged-reaction-no-no-please",
-      "title_ru": "Трамп издевается над Шейнбаумом над Мексиканским заливом и имитирует ее предполагаемую реакцию: «Нет, нет, пожалуйста»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 19:35:54"
-    },
-    {
-      "id": 1609,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/07/russia-asks-vietnam-for-planes-as-illegally-re-registered-western-fleet-falls-apart",
-      "title_ru": "Россия просит Вьетнам о самолетах, поскольку незаконно перерегистрированный западный флот разваливается",
       "status": "expired",
       "published_to_telegram_at": null
     }
