@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-10T01:18:57.922456+00:00",
+  "updated_at": "2026-10-10T07:17:32.419945+00:00",
   "posts": [
+    {
+      "id": 1677,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Лидеры «тараканов» Индии задержаны перед крупной акцией протеста",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1676,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Как конфликт между хуситами и Саудовской Аравией влияет на страны на побережье Красного моря в Африке и за ее пределами",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 07:17:31"
+    },
+    {
+      "id": 1675,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback",
+      "title_ru": "«Настолько безопасно, что его можно пить»: ученые и жертвы пестицидов опасаются отката ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 07:17:30"
+    },
+    {
+      "id": 1674,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-morning",
+      "title_ru": "Последние новости | 10 октября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 07:17:32"
+    },
+    {
+      "id": 1673,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-",
+      "title_ru": "Опасный для жизни ураган «Исайя» обрушивается на Флориду, принося сильные ветры и проливные дожди",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 07:17:31"
+    },
     {
       "id": 1672,
       "source": "DW",
@@ -440,46 +480,6 @@
       "title_ru": "Тысячи людей протестуют против Флавио Болсонару, опасаясь возвращения крайне правых в Бразилию",
       "status": "published",
       "published_to_telegram_at": "2026-10-07 23:52:53"
-    },
-    {
-      "id": 1617,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261007-no-longer-the-same-israel-october-7th-and-the-future-of-the-jewish-state",
-      "title_ru": "Уже не тот Израиль? 7 октября и будущее еврейского государства",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 23:52:52"
-    },
-    {
-      "id": 1616,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads",
-      "title_ru": "DNC подал в суд на администрацию Трампа за телевизионную рекламу, финансируемую налогоплательщиками, продвигающую президента",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 23:52:52"
-    },
-    {
-      "id": 1615,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-says-we-don-t-think-russian-plague-is-bio-weapon",
-      "title_ru": "Трамп говорит, что «мы не думаем», что русская чума - это биологическое оружие",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 19:35:54"
-    },
-    {
-      "id": 1614,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261007-evicted-pensioner-maricarmen-abascal-heart-of-spain-housing-protests-has-died",
-      "title_ru": "Выселенная пенсионерка Марикармен Абаскаль, сердце жилищных протестов в Испании, умирает",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-07 19:35:53"
-    },
-    {
-      "id": 1613,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/07/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran",
-      "title_ru": "Иран угрожает превентивными ударами, поскольку США задают вопросы о том, кто управляет Тегераном",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
