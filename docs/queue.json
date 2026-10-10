@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-10T18:27:21.807148+00:00",
+  "updated_at": "2026-10-10T21:57:41.020317+00:00",
   "posts": [
+    {
+      "id": 1688,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Эритрея призывает ООН принять меры сдерживания против Эфиопии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1687,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Деньги, сети и предвзятость: почему женщины борются за места в политике США",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-10 21:57:40"
+    },
+    {
+      "id": 1686,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261010-midterms-it-does-look-like-the-republicans-will-lose-control-of-the-house-of-representatives",
+      "title_ru": "Промежуточные выборы: «Похоже, что республиканцы потеряют контроль над Палатой представителей»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1685,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027",
+      "title_ru": "Аббас отложил палестинские выборы и назначил президентские выборы на сентябрь 2027 года",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1684,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
+      "title_ru": "Южная Африка: антимигрантские беспорядки в Дурбане",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1683,
       "source": "France 24",
@@ -440,46 +480,6 @@
       "title_ru": "Мэнни Пакьяо пригласил президента Польши Кароля Навроцки на тренировку по боксу в Маниле",
       "status": "published",
       "published_to_telegram_at": "2026-10-08 13:17:45"
-    },
-    {
-      "id": 1628,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray",
-      "title_ru": "Эфиопские беспилотники поразили эритрейские силы, обвиняемые в поддержке повстанцев в Тыграе",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 13:17:45"
-    },
-    {
-      "id": 1627,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: британский Бернхэм и Мерц обсудят безопасность в Берлине",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 05:51:10"
-    },
-    {
-      "id": 1626,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261008-saudi-arabia-strikes-deadly-houthi-attacks-airports",
-      "title_ru": "Саудовская Аравия заявляет, что примет ответные меры после смертоносных нападений хуситов на аэропорты",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1625,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
-      "title_ru": "Прямой эфир: французские старшеклассники и студенты университетов призывают к новым протестам по мере роста потребностей в финансировании",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1624,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/sports/20261008-portugal-cristiano-ronaldo-controversy-rumbles-on",
-      "title_ru": "Португалия: скандал вокруг Криштиану Роналду продолжается",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 05:51:10"
     }
   ]
 }
