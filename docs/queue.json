@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-11T13:27:44.280664+00:00",
+  "updated_at": "2026-10-11T18:24:05.023734+00:00",
   "posts": [
+    {
+      "id": 1704,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
+      "title_ru": "Возглавляемая Саудовской Аравией коалиция заявляет, что новая атака в аэропорту Эр-Рияда вызывает пожар, на следующий день после того, как в результате удара погибли",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1703,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
+      "title_ru": "Протестующие, добивающиеся отставки главы избирательного штаба Индии, задержаны, а лидеры «тараканов» освобождены",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-11 18:24:04"
+    },
+    {
+      "id": 1702,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
+      "title_ru": "Украина: Загнали в угол?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-11 18:24:04"
+    },
+    {
+      "id": 1701,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
+      "title_ru": "Рафаэль Глюксманн победил на праймериз левых во Франции, набрав 66% голосов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-11 18:24:04"
+    },
+    {
+      "id": 1700,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
+      "title_ru": "Профиль Рафаэля Глюксманна, человека, который хочет быть президентом Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-11 18:24:03"
+    },
+    {
+      "id": 1699,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-evening",
+      "title_ru": "Последние новости | 11 октября 2026 года – вечер",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1698,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover",
       "title_ru": "Черное море и черные операции: насколько подвержена Европа последствиям войны на Украине?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1644,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261008-trump-envoys-ukraine-peace-talks-miami",
-      "title_ru": "Посланники Трампа и европейские чиновники обсудят «новые идеи» для мира в Украине в Майами",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 23:47:51"
-    },
-    {
-      "id": 1643,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
-      "title_ru": "Казнь стрелка из Форт-Худ будет транслироваться в прямом эфире, говорит Пентагон",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 23:47:50"
-    },
-    {
-      "id": 1642,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks",
-      "title_ru": "OpenAI запрещает российские и иранские пропагандистские сети ChatGPT",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 23:47:50"
-    },
-    {
-      "id": 1641,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/08/fire-rages-at-yandex-data-centre-after-ukraine-drone-attack",
-      "title_ru": "Пожар в дата-центре Яндекса после атаки беспилотников в Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1640,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/08/hundreds-of-farmers-rally-in-paris-against-eu-mercosur-pact-and-import-fears",
-      "title_ru": "Сотни фермеров вышли на митинг в Париже против пакта ЕС-МЕРКОСУР и опасений по поводу импорта",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-08 23:47:51"
-    },
-    {
-      "id": 1639,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/08/experts-in-baku-urge-action-as-missing-persons-surge-worldwide-and-in-ukraine",
-      "title_ru": "Эксперты в Баку призывают к действиям, поскольку число пропавших без вести растет во всем мире и в Украине",
       "status": "expired",
       "published_to_telegram_at": null
     }
