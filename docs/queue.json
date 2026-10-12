@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-12T17:48:33.960240+00:00",
+  "updated_at": "2026-10-12T23:49:38.068578+00:00",
   "posts": [
+    {
+      "id": 1728,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/houthi-official-warns-of-swift-painful-response-if-us-enters-yemen-war",
+      "title_ru": "Официальный представитель хуситов предупреждает о «быстрой и болезненной реакции», если США вступят в войну в Йемене",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1727,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
+      "title_ru": "Тегеран отрицает причастность к инциденту на британской авиабазе Фэрфорд, поскольку Великобритания вызывает посла Ирана",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1726,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
+      "title_ru": "«Понятно, что Москва просто играет с Вашингтоном», - говорит аналитик",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-12 23:49:38"
+    },
+    {
+      "id": 1725,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
+      "title_ru": "Парижский автосалон стартует на фоне обострения соперничества между Китаем и ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-12 23:49:37"
+    },
+    {
+      "id": 1724,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
+      "title_ru": "Бывший президент ДР Конго Жозеф Кабила возглавит новое движение с повстанцами M23",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-12 23:49:37"
+    },
+    {
+      "id": 1723,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+      "title_ru": "Французские супермаркеты страдают от отключения холодильников после «беспрецедентной» кибератаки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-12 23:49:37"
+    },
     {
       "id": 1722,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Полиция столкнулась с протестующими в Брюсселе, когда тысячи людей вышли на марш против сокращения расходов",
       "status": "published",
       "published_to_telegram_at": "2026-10-10 01:18:57"
-    },
-    {
-      "id": 1668,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
-      "title_ru": "Протесты во Франции, «политически заряженная» память Израиля, Этопия, Украина",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1667,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-      "title_ru": "🔴 Мощное землетрясение магнитудой 7,6 сотрясает Панаму, вызывая предупреждение о цунами",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1666,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
-      "title_ru": "Трамп заключил дизельную сделку с Путиным, отменив многолетнее давление на Россию из-за войны на Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-09 21:44:55"
-    },
-    {
-      "id": 1665,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
-      "title_ru": "Самое крупное винное ограбление в Италии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-09 21:44:55"
-    },
-    {
-      "id": 1664,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school",
-      "title_ru": "Редкие водостоки захлопывают западную Сицилию, разрушая дома и школу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1663,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices",
-      "title_ru": "Трамп говорит, что США импортируют российское дизельное топливо, чтобы снизить цены",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-09 21:44:56"
     }
   ]
 }
