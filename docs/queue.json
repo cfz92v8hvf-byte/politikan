@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T22:23:27.169953+00:00",
+  "updated_at": "2026-10-12T01:40:41.916258+00:00",
   "posts": [
+    {
+      "id": 1710,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Саудовская Аравия: Второй удар убил по меньшей мере одного человека в аэропорту Эр-Рияда",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-12 01:40:41"
+    },
+    {
+      "id": 1709,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
+      "title_ru": "Новый удар хуситов обрушился на аэропорт Эр-Рияда на следующий день после смертоносного теракта",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-12 01:40:41"
+    },
     {
       "id": 1708,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Ракетные удары хуситов убили троих в аэропорту Эр-Рияда, включая капитана авиакомпании",
       "status": "published",
       "published_to_telegram_at": "2026-10-09 10:42:28"
-    },
-    {
-      "id": 1650,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Великобритания: Двое латвийцев арестованы за проникновение на базу RAF",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1649,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Экс-канцлер Германии Шредер на вечеринке по случаю дня рождения Путина",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
