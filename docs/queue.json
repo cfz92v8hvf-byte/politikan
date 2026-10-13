@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-13T03:58:44.035690+00:00",
+  "updated_at": "2026-10-13T11:39:52.826668+00:00",
   "posts": [
+    {
+      "id": 1735,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/india-s-youth-led-cockroach-movement-defies-protest-ban",
+      "title_ru": "Движение тараканов, возглавляемое молодежью Индии, бросает вызов запрету на протесты",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 11:39:51"
+    },
+    {
+      "id": 1734,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261013-hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food",
+      "title_ru": "Хакеры нагревают холодильники французских супермаркетов, разжигают костры и портят еду",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 11:39:51"
+    },
+    {
+      "id": 1733,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis",
+      "title_ru": "Сеута ждет короля Филиппа после летнего миграционного кризиса",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1732,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/13/russia-pounds-kharkiv-and-lviv-region-with-missiles-and-drones-killing-three-civilians",
+      "title_ru": "Россия обстреливает Харьков и Львовскую область ракетами и беспилотниками, убив трех мирных жителей",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1731,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/13/latest-news-bulletin-october-13th-2026-midday",
+      "title_ru": "Последние новости | 13 октября 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 11:39:52"
+    },
+    {
+      "id": 1730,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/13/europe-must-switch-to-war-mode-defence-production-polish-defence-minister-says",
+      "title_ru": "Европа должна перейти на оборонное производство в «военном режиме», заявил министр обороны Польши",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 11:39:52"
+    },
     {
       "id": 1729,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Как конфликт между хуситами и Саудовской Аравией влияет на страны на побережье Красного моря в Африке и за ее пределами",
       "status": "published",
       "published_to_telegram_at": "2026-10-10 07:17:31"
-    },
-    {
-      "id": 1675,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback",
-      "title_ru": "«Настолько безопасно, что его можно пить»: ученые и жертвы пестицидов опасаются отката ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 07:17:30"
-    },
-    {
-      "id": 1674,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-morning",
-      "title_ru": "Последние новости | 10 октября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 07:17:32"
-    },
-    {
-      "id": 1673,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-",
-      "title_ru": "Опасный для жизни ураган «Исайя» обрушивается на Флориду, принося сильные ветры и проливные дожди",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 07:17:31"
-    },
-    {
-      "id": 1672,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп и Путин договорились о поставках российского дизеля на мировые рынки",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1671,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп назначил нового пресс-секретаря, чтобы сменить Каролину Ливитт",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 01:18:57"
-    },
-    {
-      "id": 1670,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
-      "title_ru": "Южноафриканский судья удостоен Нобелевской премии мира",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
