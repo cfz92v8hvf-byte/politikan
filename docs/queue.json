@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-12T23:49:38.068578+00:00",
+  "updated_at": "2026-10-13T03:58:44.035690+00:00",
   "posts": [
+    {
+      "id": 1729,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261013-russia-says-europe-bought-320-billion-in-hydrocarbons-since-2022",
+      "title_ru": "Россия говорит, что Европа купила углеводороды на $ 320 млрд с 2022 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 03:58:43"
+    },
     {
       "id": 1728,
       "source": "France 24",
@@ -472,14 +480,6 @@
       "title_ru": "Южноафриканский судья удостоен Нобелевской премии мира",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1669,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
-      "title_ru": "Полиция столкнулась с протестующими в Брюсселе, когда тысячи людей вышли на марш против сокращения расходов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 01:18:57"
     }
   ]
 }
