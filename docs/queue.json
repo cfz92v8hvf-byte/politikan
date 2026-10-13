@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-13T18:31:44.497993+00:00",
+  "updated_at": "2026-10-13T23:04:50.692423+00:00",
   "posts": [
+    {
+      "id": 1747,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/french-mps-pass-sweeping-bill-to-combat-sexual-and-gender-based-violence",
+      "title_ru": "Французские депутаты приняли законопроект о борьбе с сексуальным и гендерным насилием",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1746,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/kabila-launches-new-coalition-with-m23",
+      "title_ru": "Кабила создает новую коалицию с М23",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1745,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
+      "title_ru": "Трамп попросил посла Греции уйти в отставку на фоне этического скандала",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 23:04:50"
+    },
+    {
+      "id": 1744,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261013-have-ukrainian-strikes-on-yandex-data-centres-hit-russian-online-disinformation",
+      "title_ru": "Ударили ли украинские удары по дата-центрам Яндекса по российской онлайн-дезинформации?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 23:04:50"
+    },
+    {
+      "id": 1743,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+      "title_ru": "По словам эксперта, хакерские атаки на холодильники супермаркетов из-за отсутствия элементарных мер кибербезопасности",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 23:04:50"
+    },
+    {
+      "id": 1742,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
+      "title_ru": "Китай выводит производство автомобилей в ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-13 23:04:49"
+    },
     {
       "id": 1741,
       "source": "France 24",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/13/latest-news-bulletin-october-13th-2026-evening",
       "title_ru": "Последние новости | 13 октября 2026 года – вечер",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Эритрея призывает ООН принять меры сдерживания против Эфиопии",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1687,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Деньги, сети и предвзятость: почему женщины борются за места в политике США",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 21:57:40"
-    },
-    {
-      "id": 1686,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261010-midterms-it-does-look-like-the-republicans-will-lose-control-of-the-house-of-representatives",
-      "title_ru": "Промежуточные выборы: «Похоже, что республиканцы потеряют контроль над Палатой представителей»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1685,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027",
-      "title_ru": "Аббас отложил палестинские выборы и назначил президентские выборы на сентябрь 2027 года",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1684,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
-      "title_ru": "Южная Африка: антимигрантские беспорядки в Дурбане",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1683,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261010-india-protests-new-cockroach-movement-leader-named",
-      "title_ru": "Протесты в Индии: назван новый лидер движения «тараканов»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 18:27:21"
-    },
-    {
-      "id": 1682,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
-      "title_ru": "🔴 Прямой эфир: Трамп набрасывается на Зеленского, говорит, что Украине нужен новый президент, который согласится прекратить войну",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-10 18:27:20"
     }
   ]
 }
