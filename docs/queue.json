@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-14T07:27:56.316392+00:00",
+  "updated_at": "2026-10-14T13:01:58.201019+00:00",
   "posts": [
+    {
+      "id": 1758,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/14/ukraine-russian-missiles-hit-kyiv-homes-and-power-plant-killing-3-and-injuring-22",
+      "title_ru": "Украина: российские ракеты поразили дома и электростанцию Киева, убив 3 и ранив 22 человека",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1757,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows",
+      "title_ru": "Новое исследование показывает, что Африка добилась самых быстрых в мире успехов в устойчивости к стихийным бедствиям",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1756,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates",
+      "title_ru": "Албания: студенческие протесты в Тиране становятся ожесточенными по мере эскалации революции фламинго",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1755,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/14/iran-executes-man-accused-of-armed-attacks-during-us-israeli-strikes",
+      "title_ru": "Иран казнил человека, обвиняемого в вооруженных нападениях во время американо-израильских ударов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1754,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying",
+      "title_ru": "Япония вызвала посла России в знак протеста против ареста журналиста по обвинению в шпионаже",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 13:01:58"
+    },
+    {
+      "id": 1753,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor",
+      "title_ru": "Казахстан стремится к партнерству Антверпен-Брюгге для расширения торговли через Средний коридор",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 13:01:57"
+    },
     {
       "id": 1752,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 11 октября 2026 года – вечер",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1698,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says",
-      "title_ru": "Украина готова прекратить забастовки НПЗ, если Москва прекратит энергетические атаки",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1697,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns",
-      "title_ru": "Испания: Санчес и Фейхоо запускают кампании",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1696,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
-      "title_ru": "Трамп заявил, что Украине нужен новый президент, который согласится прекратить войну",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 13:27:44"
-    },
-    {
-      "id": 1695,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign",
-      "title_ru": "Лула из Бразилии обвиняет гиганта социальных сетей Meta во вмешательстве в выборы на фоне жесткой кампании второго тура",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 13:27:43"
-    },
-    {
-      "id": 1694,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-midday",
-      "title_ru": "Последние новости | 11 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1693,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/11/zaporizhzhia-airstrikes-kill-17-as-russia-intensifies-attacks-across-ukraine",
-      "title_ru": "Запорожские авиаудары убивают 17 человек, поскольку Россия усиливает атаки по всей Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 13:27:43"
     }
   ]
 }
