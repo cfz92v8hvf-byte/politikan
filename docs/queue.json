@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-14T13:01:58.201019+00:00",
+  "updated_at": "2026-10-14T17:57:16.293886+00:00",
   "posts": [
+    {
+      "id": 1764,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
+      "title_ru": "Сеута - «неотъемлемая» часть Испании, говорит король во время ключевого визита",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1763,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261014-in-phoenix-young-ultra-conservatives-look-to-carry-on-charlie-kirk-s-legacy",
+      "title_ru": "В Фениксе молодые ультраконсерваторы стремятся продолжить наследие Чарли Кирка",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1762,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
+      "title_ru": "Хуситы угрожают эскалацией после удара по саудовскому нефтяному гиганту Aramco",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 17:57:15"
+    },
+    {
+      "id": 1761,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/14/russias-internet-shutdowns-push-state-firms-back-to-landline-phones",
+      "title_ru": "Отключение интернета в России подталкивает госкомпании вернуться к стационарным телефонам",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1760,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/14/one-person-killed-and-20-others-injured-in-overnight-russian-attacks-on-kyiv",
+      "title_ru": "Один человек погиб и еще 20 получили ранения в результате ночных российских атак на Киев",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 17:57:16"
+    },
+    {
+      "id": 1759,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/14/latest-news-bulletin-october-14th-2026-evening",
+      "title_ru": "Последние новости | 14 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 17:57:15"
+    },
     {
       "id": 1758,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Словения отклонила законопроект, ставящий под удар программу реформ премьер-министра Янеза Янсы",
       "status": "published",
       "published_to_telegram_at": "2026-10-11 22:23:26"
-    },
-    {
-      "id": 1704,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
-      "title_ru": "Возглавляемая Саудовской Аравией коалиция заявляет, что новая атака в аэропорту Эр-Рияда вызывает пожар, на следующий день после того, как в результате удара погибли",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1703,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
-      "title_ru": "Протестующие, добивающиеся отставки главы избирательного штаба Индии, задержаны, а лидеры «тараканов» освобождены",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 18:24:04"
-    },
-    {
-      "id": 1702,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
-      "title_ru": "Украина: Загнали в угол?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 18:24:04"
-    },
-    {
-      "id": 1701,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
-      "title_ru": "Рафаэль Глюксманн победил на праймериз левых во Франции, набрав 66% голосов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 18:24:04"
-    },
-    {
-      "id": 1700,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
-      "title_ru": "Профиль Рафаэля Глюксманна, человека, который хочет быть президентом Франции",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 18:24:03"
-    },
-    {
-      "id": 1699,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-evening",
-      "title_ru": "Последние новости | 11 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
