@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-14T17:57:16.293886+00:00",
+  "updated_at": "2026-10-14T21:34:17.310842+00:00",
   "posts": [
+    {
+      "id": 1770,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина заявляет, что SpaceX Маска ограничивает доступ Киева к Starlink",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1769,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window",
+      "title_ru": "«Идея о том, что Моди следует опасаться, потому что он держит все рычаги власти, вылетела из окна»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1768,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders",
+      "title_ru": "«Растущие амбиции»: д-р Кендалл о стремлении хуситов быть признанными «законными» лидерами Йемена",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1767,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
+      "title_ru": "Как далеко зайдет движение тараканов? Молодежные протесты в Индии бросают вызов правительству Моди",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 21:34:17"
+    },
+    {
+      "id": 1766,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
+      "title_ru": "Северный поток, возможно, был законной целью, утверждают адвокаты украинцев, обвиняемых во взрыве",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 21:34:16"
+    },
+    {
+      "id": 1765,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
+      "title_ru": "Что такое Starshield, военная версия Starlink от SpaceX?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 21:34:16"
+    },
     {
       "id": 1764,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Представители оппозиции и журналисты заявляют о злоупотреблениях полиции во время протестов в Индии",
       "status": "published",
       "published_to_telegram_at": "2026-10-12 08:05:03"
-    },
-    {
-      "id": 1710,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Саудовская Аравия: Второй удар убил по меньшей мере одного человека в аэропорту Эр-Рияда",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 01:40:41"
-    },
-    {
-      "id": 1709,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
-      "title_ru": "Новый удар хуситов обрушился на аэропорт Эр-Рияда на следующий день после смертоносного теракта",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 01:40:41"
-    },
-    {
-      "id": 1708,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Кто такие украинские «добровольцы» под российским командованием?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1707,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Британский Бернем обвиняет Россию во вмешательстве в голосование по Brexit",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 22:23:26"
-    },
-    {
-      "id": 1706,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
-      "title_ru": "Премьер-министр Великобритании Бернем предупреждает французских избирателей о политическом влиянии России в связи с голосованием по Brexit",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 22:23:27"
-    },
-    {
-      "id": 1705,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform",
-      "title_ru": "Словения отклонила законопроект, ставящий под удар программу реформ премьер-министра Янеза Янсы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 22:23:26"
     }
   ]
 }
