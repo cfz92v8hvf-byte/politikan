@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T23:04:50.692423+00:00",
+  "updated_at": "2026-10-14T01:50:25.587277+00:00",
   "posts": [
+    {
+      "id": 1749,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-eu-and-moldova-start-negotiations-on-internal-market-competitiveness-and-inclusive-growth/",
+      "title_ru": "Расширение: ЕС и Молдова начинают переговоры о внутреннем рынке, конкурентоспособности и инклюзивном росте",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1748,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies",
+      "title_ru": "Киевская ГРЭС поражена российской ракетой без предупреждения союзников",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-14 01:50:25"
+    },
     {
       "id": 1747,
       "source": "France 24",
@@ -14,7 +30,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/kabila-launches-new-coalition-with-m23",
       "title_ru": "Кабила создает новую коалицию с М23",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -464,22 +480,6 @@
       "title_ru": "Последние новости | 11 октября 2026 года – утро",
       "status": "published",
       "published_to_telegram_at": "2026-10-11 06:33:42"
-    },
-    {
-      "id": 1689,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Президент Палестины отложил выборы до конца 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-11 00:50:10"
-    },
-    {
-      "id": 1688,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Эритрея призывает ООН принять меры сдерживания против Эфиопии",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
