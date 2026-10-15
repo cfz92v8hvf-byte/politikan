@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-15T04:28:13.424245+00:00",
+  "updated_at": "2026-10-15T09:20:54.907141+00:00",
   "posts": [
+    {
+      "id": 1784,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
+      "title_ru": "Франция «больше не может финансировать» Украину, говорит крайне правый лидер президентской гонки Ле Пен",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1783,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar",
+      "title_ru": "В результате обрушения крыши школы в Пакистане погибли десятки учеников, учительница в Пешаваре",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 09:20:54"
+    },
+    {
+      "id": 1782,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-morning",
+      "title_ru": "Последние новости | 15 октября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1781,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off",
+      "title_ru": "Европа сегодня: Каллас обращается исключительно к Euronews в преддверии важного саммита ЕС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1780,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/15/thailand-bangkok-protesters-decry-imf-and-world-bank-warn-of-destructive-capitalism",
+      "title_ru": "Таиланд: протестующие в Бангкоке осуждают МВФ и Всемирный банк и предупреждают о разрушительном капитализме",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 09:20:54"
+    },
+    {
+      "id": 1779,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay",
+      "title_ru": "Китай и Северная Корея открыли новый мост через реку Ялунь после 12-летней задержки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 09:20:53"
+    },
     {
       "id": 1778,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Парижский автосалон стартует на фоне обострения соперничества между Китаем и ЕС",
       "status": "published",
       "published_to_telegram_at": "2026-10-12 23:49:37"
-    },
-    {
-      "id": 1724,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
-      "title_ru": "Бывший президент ДР Конго Жозеф Кабила возглавит новое движение с повстанцами M23",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 23:49:37"
-    },
-    {
-      "id": 1723,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
-      "title_ru": "Французские супермаркеты страдают от отключения холодильников после «беспрецедентной» кибератаки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 23:49:37"
-    },
-    {
-      "id": 1722,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/india-s-opposition-leader-marches-with-thousands-against-election-chief",
-      "title_ru": "Лидер оппозиции Индии марширует с тысячами против главы предвыборного штаба",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 17:48:33"
-    },
-    {
-      "id": 1721,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
-      "title_ru": "Саудовская Аравия продлевает приостановку работы аэропорта Эр-Рияда и обещает смертельную реакцию на удары хуситов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 17:48:32"
-    },
-    {
-      "id": 1720,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/thousands-of-indians-march-to-supreme-court-to-oust-election-chief",
-      "title_ru": "Тысячи индийцев маршируют к Верховному суду, чтобы свергнуть главу предвыборного штаба",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 17:48:32"
-    },
-    {
-      "id": 1719,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/12/uae-calls-for-stronger-gulf-defence-as-allies-back-saudi-arabia-after-riyadh-airport-attac",
-      "title_ru": "ОАЭ призывают к усилению обороны Персидского залива, поскольку союзники поддерживают Саудовскую Аравию после нападений на аэропорт Эр-Рияда",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
