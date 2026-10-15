@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-15T00:04:12.422486+00:00",
+  "updated_at": "2026-10-15T04:28:13.424245+00:00",
   "posts": [
+    {
+      "id": 1778,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
+      "title_ru": "Тысячи людей по всей Колумбии протестуют против нового правого президента",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 04:28:13"
+    },
+    {
+      "id": 1777,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
+      "title_ru": "Украина в прямом эфире: Румыния зондирует возможную атаку беспилотников на танкер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 04:28:12"
+    },
     {
       "id": 1776,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "ОАЭ призывают к усилению обороны Персидского залива, поскольку союзники поддерживают Саудовскую Аравию после нападений на аэропорт Эр-Рияда",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1718,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/12/pariss-oldest-covered-food-market-gutted-by-major-overnight-fire",
-      "title_ru": "Старейший крытый продовольственный рынок Парижа опустошен крупным ночным пожаром",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1717,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-evening",
-      "title_ru": "Последние новости | 12 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-12 17:48:33"
     }
   ]
 }
