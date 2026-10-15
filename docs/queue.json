@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-15T18:34:47.407084+00:00",
+  "updated_at": "2026-10-15T21:44:02.731297+00:00",
   "posts": [
+    {
+      "id": 1802,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/eu-member-states-set-for-budget-clash",
+      "title_ru": "Страны-члены ЕС настроены на бюджетное столкновение",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 21:44:02"
+    },
+    {
+      "id": 1801,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding",
+      "title_ru": "Oxfam подал в суд на Францию за «налоговое неравенство»: «проблема» с налоговой системой, финансированием государственной службы",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 21:44:01"
+    },
+    {
+      "id": 1800,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/15/azerbaijan-hosts-rare-summit-of-both-converging-and-opposing-middle-east-and-asian-leaders",
+      "title_ru": "В Азербайджане проходит редкий саммит как сходящихся, так и противостоящих лидеров Ближнего Востока и Азии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1799,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/15/europeans-far-more-united-on-tougher-china-trade-stance-after-german-shift-barkin-says",
+      "title_ru": "По словам Баркина, европейцы «гораздо более едины» в более жесткой торговой позиции Китая после сдвига в Германии",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1798,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/15/us-extends-sanctions-waiver-for-russian-oil-giant-lukoil-until-2027",
+      "title_ru": "США продлили снятие санкций с российского нефтяного гиганта «Лукойл» до 2027 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 21:44:02"
+    },
+    {
+      "id": 1797,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day",
+      "title_ru": "Албания: ожесточенные протесты в Тиране третий день подряд",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-15 21:44:01"
+    },
     {
       "id": 1796,
       "source": "France 24",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-evening",
       "title_ru": "Последние новости | 15 октября 2026 года – вечер",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "По словам эксперта, хакерские атаки на холодильники супермаркетов из-за отсутствия элементарных мер кибербезопасности",
       "status": "published",
       "published_to_telegram_at": "2026-10-13 23:04:50"
-    },
-    {
-      "id": 1742,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
-      "title_ru": "Китай выводит производство автомобилей в ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-13 23:04:49"
-    },
-    {
-      "id": 1741,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261013-iss-amid-global-conflict-a-rare-bastion-of-scientific-collaboration-between-the-east-and-west",
-      "title_ru": "МКС на фоне глобального конфликта: редкий бастион «научного сотрудничества» между Востоком и Западом",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-13 18:31:43"
-    },
-    {
-      "id": 1740,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261013-france-s-fed-up-youth-can-presidential-candidates-connect-with-student-movement",
-      "title_ru": "Усталая молодежь Франции: могут ли кандидаты в президенты подключиться к студенческому движению?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-13 18:31:42"
-    },
-    {
-      "id": 1739,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261013-tens-of-thousands-rally-across-france-as-high-school-protests-gather-strength",
-      "title_ru": "Десятки тысяч людей митингуют по всей Франции, поскольку протесты в старших классах набирают силу",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-13 18:31:42"
-    },
-    {
-      "id": 1738,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/13/russia-funnels-nearly-half-its-budget-into-defence-cutting-social-spending",
-      "title_ru": "Россия направляет почти половину своего бюджета на оборону, сокращая социальные расходы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1737,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/13/latest-news-bulletin-october-13th-2026-evening",
-      "title_ru": "Последние новости | 13 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
