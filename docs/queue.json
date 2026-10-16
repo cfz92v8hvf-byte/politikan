@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-16T14:00:58.442795+00:00",
+  "updated_at": "2026-10-16T17:57:08.588430+00:00",
   "posts": [
+    {
+      "id": 1827,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital",
+      "title_ru": "Индия задержала лидера «тараканов», когда сотни людей протестуют в столице",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1826,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
+      "title_ru": "Демонстрации стоимости жизни для борьбы с предвыборной Францией",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 17:57:08"
+    },
+    {
+      "id": 1825,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261016-argentine-demonstration-over-education-cuts-ends-in-clashes",
+      "title_ru": "Аргентинская демонстрация за сокращение образования закончилась столкновениями",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 17:57:07"
+    },
+    {
+      "id": 1824,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group",
+      "title_ru": "Книги Салли Руни больше не продаются в Великобритании из-за поддержки запрещенной пропалестинской группы",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 17:57:07"
+    },
+    {
+      "id": 1823,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/16/japans-first-female-pm-says-makeup-and-housework-add-hours-to-her-working-day",
+      "title_ru": "Первая женщина-премьер Японии говорит, что макияж и работа по дому добавляют часы к ее рабочему дню",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1822,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-evening",
+      "title_ru": "Последние новости | 16 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 17:57:08"
+    },
     {
       "id": 1821,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "«Растущие амбиции»: д-р Кендалл о стремлении хуситов быть признанными «законными» лидерами Йемена",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1767,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
-      "title_ru": "Как далеко зайдет движение тараканов? Молодежные протесты в Индии бросают вызов правительству Моди",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 21:34:17"
-    },
-    {
-      "id": 1766,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
-      "title_ru": "Северный поток, возможно, был законной целью, утверждают адвокаты украинцев, обвиняемых во взрыве",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 21:34:16"
-    },
-    {
-      "id": 1765,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
-      "title_ru": "Что такое Starshield, военная версия Starlink от SpaceX?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 21:34:16"
-    },
-    {
-      "id": 1764,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
-      "title_ru": "Сеута - «неотъемлемая» часть Испании, говорит король во время ключевого визита",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1763,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261014-in-phoenix-young-ultra-conservatives-look-to-carry-on-charlie-kirk-s-legacy",
-      "title_ru": "В Фениксе молодые ультраконсерваторы стремятся продолжить наследие Чарли Кирка",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1762,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
-      "title_ru": "Хуситы угрожают эскалацией после удара по саудовскому нефтяному гиганту Aramco",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 17:57:15"
     }
   ]
 }
