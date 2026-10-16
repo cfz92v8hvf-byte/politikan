@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-16T17:57:08.588430+00:00",
+  "updated_at": "2026-10-16T20:56:09.611528+00:00",
   "posts": [
+    {
+      "id": 1833,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia",
+      "title_ru": "Зеленский приветствует «настоящих лидеров» в Европе, взрывает дизельную сделку Трампа с Россией",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1832,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role",
+      "title_ru": "Встревоженный новый пресс-секретарь Белого дома Захария «отпустила» свою роль",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1831,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
+      "title_ru": "Трамп против Зеленского, от экрана до улиц, поколение Z протестует от Парижа до Дели",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 20:56:09"
+    },
+    {
+      "id": 1830,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
+      "title_ru": "Столкновения охватили Тирану, поскольку премьер-министр Албании обвиняет «иностранные руки» в организации беспорядков",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 20:56:09"
+    },
+    {
+      "id": 1829,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
+      "title_ru": "«Закончи то, что мы начали»: после студенческих протестов Франция готовится к возвращению «желтых жилетов»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 20:56:08"
+    },
+    {
+      "id": 1828,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
+      "title_ru": "Зеленский обращается к Европе за поддержкой, поскольку отношения с Трампом ухудшаются",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 20:56:07"
+    },
     {
       "id": 1827,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital",
       "title_ru": "Индия задержала лидера «тараканов», когда сотни людей протестуют в столице",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/16/japans-first-female-pm-says-makeup-and-housework-add-hours-to-her-working-day",
       "title_ru": "Первая женщина-премьер Японии говорит, что макияж и работа по дому добавляют часы к ее рабочему дню",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/french-glassmaker-duralex-pulled-back-from-the-brink-again",
       "title_ru": "Французский стеклодув Duralex снова отступил от края пропасти",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1773,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
-      "title_ru": "Французские следователи по борьбе с терроризмом расследуют связь сообщества True Crime Community со стрельбой в школе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1772,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261014-albania-protests-protestors-demand-pm-rama-resignation",
-      "title_ru": "Протесты в Албании становятся ожесточенными, поскольку протестующие требуют отставки премьер-министра Рамы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 00:04:12"
-    },
-    {
-      "id": 1771,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
-      "title_ru": "Партия Лулы обвиняет Мета во вмешательстве в выборы в преддверии второго тура в Бразилии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 00:04:11"
-    },
-    {
-      "id": 1770,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина заявляет, что SpaceX Маска ограничивает доступ Киева к Starlink",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1769,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window",
-      "title_ru": "«Идея о том, что Моди следует опасаться, потому что он держит все рычаги власти, вылетела из окна»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1768,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders",
-      "title_ru": "«Растущие амбиции»: д-р Кендалл о стремлении хуситов быть признанными «законными» лидерами Йемена",
       "status": "expired",
       "published_to_telegram_at": null
     }
