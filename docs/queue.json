@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-16T04:19:11.269905+00:00",
+  "updated_at": "2026-10-16T09:07:24.741790+00:00",
   "posts": [
+    {
+      "id": 1815,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-morning",
+      "title_ru": "Последние новости | 16 октября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1814,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/16/houthi-missile-attack-targets-yemeni-presidential-palace-in-aden",
+      "title_ru": "Ракетный удар хуситов по президентскому дворцу Йемена в Адене",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1813,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030",
+      "title_ru": "Германия собирается повысить налог на табак: к 2030 году сигаретные пачки могут приблизиться к € 12",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 09:07:24"
+    },
+    {
+      "id": 1812,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/16/families-of-32-children-killed-in-pakistan-school-roof-collapse-demand-justice",
+      "title_ru": "Семьи 34 детей, погибших в результате обрушения крыши школы в Пакистане, требуют справедливости",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 09:07:24"
+    },
+    {
+      "id": 1811,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/16/ukraine-unveils-flying-ambulance-drone-that-could-save-lives-in-minutes",
+      "title_ru": "Украина представила летающий беспилотник скорой помощи, который может спасти жизни за считанные минуты",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 09:07:23"
+    },
+    {
+      "id": 1810,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/16/at-least-12-dead-after-migrant-boat-sinks-off-gambia",
+      "title_ru": "По меньшей мере 12 человек погибли в результате крушения лодки с мигрантами у берегов Гамбии.",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 09:07:23"
+    },
     {
       "id": 1809,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Албания: студенческие протесты в Тиране становятся ожесточенными по мере эскалации революции фламинго",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1755,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/14/iran-executes-man-accused-of-armed-attacks-during-us-israeli-strikes",
-      "title_ru": "Иран казнил человека, обвиняемого в вооруженных нападениях во время американо-израильских ударов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1754,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying",
-      "title_ru": "Япония вызвала посла России в знак протеста против ареста журналиста по обвинению в шпионаже",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 13:01:58"
-    },
-    {
-      "id": 1753,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor",
-      "title_ru": "Казахстан стремится к партнерству Антверпен-Брюгге для расширения торговли через Средний коридор",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 13:01:57"
-    },
-    {
-      "id": 1752,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Иран: политическая борьба углубляется по мере роста экономических проблем во время войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 07:27:55"
-    },
-    {
-      "id": 1751,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/14/latest-news-bulletin-october-14th-2026-morning",
-      "title_ru": "Последние новости | 14 октября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 07:27:56"
-    },
-    {
-      "id": 1750,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/14/europe-today-spanish-fm-on-euronews-black-sea-drone-attacks-eu-china-reset",
-      "title_ru": "Европа сегодня: МИД Испании на Euronews, атаки беспилотников на Черном море, перезагрузка ЕС-Китай",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 07:27:55"
     }
   ]
 }
