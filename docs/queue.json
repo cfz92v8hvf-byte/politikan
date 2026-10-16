@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-16T09:07:24.741790+00:00",
+  "updated_at": "2026-10-16T14:00:58.442795+00:00",
   "posts": [
+    {
+      "id": 1821,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261016-america-with-this-president-is-not-our-ally-trump-is-a-liar-french-mep-bernard-guetta",
+      "title_ru": "«Америка с этим президентом не является нашим союзником. Трамп - лжец»: французский евродепутат Бернар Гетта",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 14:00:57"
+    },
+    {
+      "id": 1820,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
+      "title_ru": "Эфиопия объявляет о создании временного правительства в Тигре, намеревается провести выборы через шесть месяцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 14:00:57"
+    },
+    {
+      "id": 1819,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/16/military-signals-building-is-the-us-iran-war-about-to-escalate",
+      "title_ru": "Построение военных сигналов: война между США и Ираном вот-вот обострится?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1818,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-midday",
+      "title_ru": "Последние новости | 16 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1817,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/16/putin-seizes-five-more-european-firms-continuing-russias-hostile-asset-crackdown",
+      "title_ru": "Путин захватывает еще пять европейских фирм, продолжая враждебное подавление активов России",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1816,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/16/russian-missiles-spark-huge-factory-fires-in-ukraines-odesa-and-zaporizhzhia",
+      "title_ru": "Российские ракеты вызвали огромные пожары на заводах в Одессе и Запорожье",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 14:00:58"
+    },
     {
       "id": 1815,
       "source": "Euronews",
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/16/houthi-missile-attack-targets-yemeni-presidential-palace-in-aden",
       "title_ru": "Ракетный удар хуситов по президентскому дворцу Йемена в Адене",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Хуситы угрожают эскалацией после удара по саудовскому нефтяному гиганту Aramco",
       "status": "published",
       "published_to_telegram_at": "2026-10-14 17:57:15"
-    },
-    {
-      "id": 1761,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/14/russias-internet-shutdowns-push-state-firms-back-to-landline-phones",
-      "title_ru": "Отключение интернета в России подталкивает госкомпании вернуться к стационарным телефонам",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1760,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/14/one-person-killed-and-20-others-injured-in-overnight-russian-attacks-on-kyiv",
-      "title_ru": "Один человек погиб и еще 20 получили ранения в результате ночных российских атак на Киев",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 17:57:16"
-    },
-    {
-      "id": 1759,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/14/latest-news-bulletin-october-14th-2026-evening",
-      "title_ru": "Последние новости | 14 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-14 17:57:15"
-    },
-    {
-      "id": 1758,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/14/ukraine-russian-missiles-hit-kyiv-homes-and-power-plant-killing-3-and-injuring-22",
-      "title_ru": "Украина: российские ракеты поразили дома и электростанцию Киева, убив 3 и ранив 22 человека",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1757,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows",
-      "title_ru": "Новое исследование показывает, что Африка добилась самых быстрых в мире успехов в устойчивости к стихийным бедствиям",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1756,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates",
-      "title_ru": "Албания: студенческие протесты в Тиране становятся ожесточенными по мере эскалации революции фламинго",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
