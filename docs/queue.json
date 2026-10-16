@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-15T23:54:44.503643+00:00",
+  "updated_at": "2026-10-16T04:19:11.269905+00:00",
   "posts": [
+    {
+      "id": 1809,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
+      "title_ru": "Прямой эфир: Трамп назвал «позором» возобновившиеся атаки Украины на российские нефтеперерабатывающие заводы",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-16 04:19:11"
+    },
     {
       "id": 1808,
       "source": "France 24",
@@ -472,14 +480,6 @@
       "title_ru": "Европа сегодня: МИД Испании на Euronews, атаки беспилотников на Черном море, перезагрузка ЕС-Китай",
       "status": "published",
       "published_to_telegram_at": "2026-10-14 07:27:55"
-    },
-    {
-      "id": 1749,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-eu-and-moldova-start-negotiations-on-internal-market-competitiveness-and-inclusive-growth/",
-      "title_ru": "Расширение: ЕС и Молдова начинают переговоры о внутреннем рынке, конкурентоспособности и инклюзивном росте",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
