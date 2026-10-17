@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-17T06:04:04.061395+00:00",
+  "updated_at": "2026-10-17T10:33:25.181210+00:00",
   "posts": [
+    {
+      "id": 1842,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Франция готовится к общенациональным протестам",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 10:33:25"
+    },
+    {
+      "id": 1841,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
+      "title_ru": "Зеленский усиливает европейскую поддержку, поскольку связи Трампа падают",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 10:33:24"
+    },
+    {
+      "id": 1840,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
+      "title_ru": "Трамп подписал указ об отказе от нового пакета санкций против России",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1839,
       "source": "DW",
@@ -454,30 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar",
       "title_ru": "В результате обрушения крыши школы в Пакистане погибли десятки учеников, учительница в Пешаваре",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 09:20:54"
-    },
-    {
-      "id": 1782,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-morning",
-      "title_ru": "Последние новости | 15 октября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1781,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off",
-      "title_ru": "Европа сегодня: Каллас обращается исключительно к Euronews в преддверии важного саммита ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1780,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/15/thailand-bangkok-protesters-decry-imf-and-world-bank-warn-of-destructive-capitalism",
-      "title_ru": "Таиланд: протестующие в Бангкоке осуждают МВФ и Всемирный банк и предупреждают о разрушительном капитализме",
       "status": "published",
       "published_to_telegram_at": "2026-10-15 09:20:54"
     }
