@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T19:13:31.252912+00:00",
+  "updated_at": "2026-10-17T21:30:32.830705+00:00",
   "posts": [
+    {
+      "id": 1858,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Западный берег: израильские поселенцы нападают на дипломатов ЕС и мэра Франции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1857,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Ильхан Омар: Демократ США, на которого нацелился Дональд Трамп",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 21:30:32"
+    },
     {
       "id": 1856,
       "source": "Council of the EU",
@@ -464,22 +480,6 @@
       "title_ru": "По словам Баркина, европейцы «гораздо более едины» в более жесткой торговой позиции Китая после сдвига в Германии",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1798,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/15/us-extends-sanctions-waiver-for-russian-oil-giant-lukoil-until-2027",
-      "title_ru": "США продлили снятие санкций с российского нефтяного гиганта «Лукойл» до 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 21:44:02"
-    },
-    {
-      "id": 1797,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day",
-      "title_ru": "Албания: ожесточенные протесты в Тиране третий день подряд",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 21:44:01"
     }
   ]
 }
