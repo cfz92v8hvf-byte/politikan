@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-17T01:28:55.730182+00:00",
+  "updated_at": "2026-10-17T06:04:04.061395+00:00",
   "posts": [
+    {
+      "id": 1839,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп приостановил новые санкции против России",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1838,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+      "title_ru": "Прямая трансляция: французские «желтые жилеты» поддерживают студенческие протесты",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 06:04:03"
+    },
+    {
+      "id": 1837,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
+      "title_ru": "Йеменские хуситы берут на себя ответственность за новый ракетный удар по аэропорту Адена",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 06:04:03"
+    },
+    {
+      "id": 1836,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-morning",
+      "title_ru": "Последние новости | 17 октября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 06:04:04"
+    },
     {
       "id": 1835,
       "source": "Council of the EU",
@@ -448,38 +480,6 @@
       "title_ru": "Таиланд: протестующие в Бангкоке осуждают МВФ и Всемирный банк и предупреждают о разрушительном капитализме",
       "status": "published",
       "published_to_telegram_at": "2026-10-15 09:20:54"
-    },
-    {
-      "id": 1779,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay",
-      "title_ru": "Китай и Северная Корея открыли новый мост через реку Ялунь после 12-летней задержки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 09:20:53"
-    },
-    {
-      "id": 1778,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
-      "title_ru": "Тысячи людей по всей Колумбии протестуют против нового правого президента",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 04:28:13"
-    },
-    {
-      "id": 1777,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
-      "title_ru": "Украина в прямом эфире: Румыния зондирует возможную атаку беспилотников на танкер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 04:28:12"
-    },
-    {
-      "id": 1776,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Северная Корея заявила, что испытала крылатые ракеты, которые будут запущены с подлодки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 00:04:11"
     }
   ]
 }
