@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-17T10:33:25.181210+00:00",
+  "updated_at": "2026-10-17T13:53:49.957206+00:00",
   "posts": [
+    {
+      "id": 1848,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
+      "title_ru": "Трамп отказывается от новых санкций против России из-за спада в отношениях с Украиной",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1847,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261017-trump-says-did-not-order-curb-to-starshield-for-ukraine",
+      "title_ru": "Трамп говорит, что не приказывал ограничивать Старшильд для Украины",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1846,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261017-trump-s-new-press-secretary-out-after-less-than-week",
+      "title_ru": "Новый пресс-секретарь Трампа ушел в отставку менее чем через неделю",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1845,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda",
+      "title_ru": "В Баменде расстреляли камерунского журналиста",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 13:53:49"
+    },
+    {
+      "id": 1844,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
+      "title_ru": "Франция сталкивается с днем протестов против стоимости жизни",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 13:53:49"
+    },
+    {
+      "id": 1843,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-midday",
+      "title_ru": "Последние новости | 17 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1842,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Французский крипто-единорог Ledger предупреждает о рисках безопасности ИИ",
       "status": "published",
       "published_to_telegram_at": "2026-10-15 14:21:42"
-    },
-    {
-      "id": 1788,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/perspective/20261015-war-escalates-between-houthis-and-riyadh-how-did-we-get-here",
-      "title_ru": "Эскалация войны между хуситами и Эр-Риядом: как мы сюда попали?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 14:21:41"
-    },
-    {
-      "id": 1787,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday",
-      "title_ru": "Последние новости | 15 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1786,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/15/azerbaijan-engineers-rare-summit-with-in-conflict-middle-east-and-asian-leaders",
-      "title_ru": "Азербайджанские инженеры провели редкий саммит с лидерами стран Ближнего Востока и Азии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1785,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/15/pakistan-classrooms-reduced-to-rubble-in-deadly-school-disaster-at-leat-32-pupils-killed",
-      "title_ru": "Пакистан: классные комнаты превращены в руины в результате смертельной школьной катастрофы, по меньшей мере 32 ученика погибли",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 14:21:42"
-    },
-    {
-      "id": 1784,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
-      "title_ru": "Франция «больше не может финансировать» Украину, говорит крайне правый лидер президентской гонки Ле Пен",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1783,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar",
-      "title_ru": "В результате обрушения крыши школы в Пакистане погибли десятки учеников, учительница в Пешаваре",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 09:20:54"
     }
   ]
 }
