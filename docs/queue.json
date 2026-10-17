@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-10-17T17:00:40.810799+00:00",
+  "updated_at": "2026-10-17T19:13:31.252912+00:00",
   "posts": [
+    {
+      "id": 1856,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/",
+      "title_ru": "Прогноз: 19 октября - 1 ноября 2026 г.",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1855,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Египетский Сиси говорит, что будет защищать Саудовскую Аравию, если его спросят",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-17 19:13:31"
+    },
     {
       "id": 1854,
       "source": "DW",
       "source_url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Насколько велика угроза России против Германии?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +30,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
       "title_ru": "🔴 Израильские поселенцы избили французского мэра и атаковали европейские дипломатические автомобили на Западном берегу",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -464,22 +480,6 @@
       "title_ru": "Албания: ожесточенные протесты в Тиране третий день подряд",
       "status": "published",
       "published_to_telegram_at": "2026-10-15 21:44:01"
-    },
-    {
-      "id": 1796,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261015-2026-midterms-georgia-s-ossof-collins-showdown-lies-at-the-heart-of-the-battle-for-us-senate",
-      "title_ru": "Промежуточные выборы 2026 года: разборки Оссофа-Коллинза в Грузии лежат в основе битвы за Сенат США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1795,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1",
-      "title_ru": "«Мы закончили»: Украина возобновила удары по российским нефтеперерабатывающим заводам как «единственный рычаг» для мирных переговоров",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 18:34:46"
     }
   ]
 }
