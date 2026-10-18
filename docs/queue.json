@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-18T20:30:44.176398+00:00",
+  "updated_at": "2026-10-18T22:33:31.131222+00:00",
   "posts": [
+    {
+      "id": 1887,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Израиль: Трамп поддерживает Нетаньяху в преддверии выборов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1886,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible",
+      "title_ru": "Франция протестует: «Постоянно возникает вопрос о том, кто на самом деле несет ответственность»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1885,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+      "title_ru": "Трамп защищает ослабление санкций против России и обвиняет Зеленского в отказе от мира",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 22:33:30"
+    },
+    {
+      "id": 1884,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised",
+      "title_ru": "В результате пожара на канадской военной базе погибли не менее четырех человек, десятки получили ранения",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 22:33:29"
+    },
     {
       "id": 1883,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Зеленский обращается к Европе за поддержкой, поскольку отношения с Трампом ухудшаются",
       "status": "published",
       "published_to_telegram_at": "2026-10-16 20:56:07"
-    },
-    {
-      "id": 1827,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital",
-      "title_ru": "Индия задержала лидера «тараканов», когда сотни людей протестуют в столице",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1826,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
-      "title_ru": "Демонстрации стоимости жизни для борьбы с предвыборной Францией",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 17:57:08"
-    },
-    {
-      "id": 1825,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261016-argentine-demonstration-over-education-cuts-ends-in-clashes",
-      "title_ru": "Аргентинская демонстрация за сокращение образования закончилась столкновениями",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 17:57:07"
-    },
-    {
-      "id": 1824,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group",
-      "title_ru": "Книги Салли Руни больше не продаются в Великобритании из-за поддержки запрещенной пропалестинской группы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 17:57:07"
     }
   ]
 }
