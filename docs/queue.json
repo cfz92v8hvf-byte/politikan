@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-18T06:31:37.024114+00:00",
+  "updated_at": "2026-10-18T11:37:48.121899+00:00",
   "posts": [
+    {
+      "id": 1871,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Вьетнам подписал соглашение о свободной торговле с четырьмя европейскими странами",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 11:37:47"
+    },
+    {
+      "id": 1870,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
+      "title_ru": "Протесты во Франции: Правительство приняло неправильные решения?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1869,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate",
+      "title_ru": "Беспорядки в Тиране продолжаются пятый день на фоне эскалации антиправительственных протестов в Албании",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 11:37:47"
+    },
+    {
+      "id": 1868,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india",
+      "title_ru": "Неконтролируемый грузовик убил 13 человек на индуистском фестивале в Индии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 11:37:47"
+    },
+    {
+      "id": 1867,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins",
+      "title_ru": "Культовая таверна Атланты отмечает прошлое Джорджии, глядя в будущее по мере приближения промежуточных выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 11:37:46"
+    },
+    {
+      "id": 1866,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base",
+      "title_ru": "Канада сообщает о «погибших и раненых» после инцидента на военной базе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1865,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Семьи 34 детей, погибших в результате обрушения крыши школы в Пакистане, требуют справедливости",
       "status": "published",
       "published_to_telegram_at": "2026-10-16 09:07:24"
-    },
-    {
-      "id": 1811,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/16/ukraine-unveils-flying-ambulance-drone-that-could-save-lives-in-minutes",
-      "title_ru": "Украина представила летающий беспилотник скорой помощи, который может спасти жизни за считанные минуты",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 09:07:23"
-    },
-    {
-      "id": 1810,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/16/at-least-12-dead-after-migrant-boat-sinks-off-gambia",
-      "title_ru": "По меньшей мере 12 человек погибли в результате крушения лодки с мигрантами у берегов Гамбии.",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 09:07:23"
-    },
-    {
-      "id": 1809,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
-      "title_ru": "Прямой эфир: Трамп назвал «позором» возобновившиеся атаки Украины на российские нефтеперерабатывающие заводы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 04:19:11"
-    },
-    {
-      "id": 1808,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/it-is-clear-that-sooner-or-later-we-will-have-european-casualties-romanian-mep",
-      "title_ru": "«Понятно, что рано или поздно у нас будут европейские жертвы», - румынский евродепутат",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1807,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23",
-      "title_ru": "Киншаса готовится к потенциальному конфликту, поскольку Кабила присоединяется к М23",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1806,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks",
-      "title_ru": "Саудовская Аравия откладывает крупные спортивные мероприятия на фоне нападений хуситов",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
