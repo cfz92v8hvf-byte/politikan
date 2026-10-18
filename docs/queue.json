@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-18T01:27:38.822250+00:00",
+  "updated_at": "2026-10-18T06:31:37.024114+00:00",
   "posts": [
+    {
+      "id": 1865,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Индия: лидер CJP Абхиджит Дипке освобожден после задержания",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 06:31:35"
+    },
+    {
+      "id": 1864,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms",
+      "title_ru": "«Борьба за демократию»: митинг «Нет королей» в Атланте привлекает критиков Трампа в преддверии промежуточных выборов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1863,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
+      "title_ru": "Рубио говорит, что Трамп «проанализирует» глобальное влияние санкций против России во время паузы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1862,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "title_ru": "Live: Вэнс обвиняет иммиграцию в насилии во время протестов во Франции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1861,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
+      "title_ru": "Основатель движения «тараканов» в Индии освобожден из-под стражи",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 06:31:36"
+    },
+    {
+      "id": 1860,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-morning",
+      "title_ru": "Последние новости | 18 октября 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 06:31:36"
+    },
     {
       "id": 1859,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks",
       "title_ru": "Саудовская Аравия откладывает крупные спортивные мероприятия на фоне нападений хуситов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1805,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "title_ru": "Книги Салли Руни не могут продаваться в Великобритании на фоне запрета «Палестинской акции» - издательство",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 23:54:44"
-    },
-    {
-      "id": 1804,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
-      "title_ru": "Зеленский сплотил европейских союзников на фоне ослабления поддержки Украины со стороны США",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 23:54:44"
-    },
-    {
-      "id": 1803,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
-      "title_ru": "Франция и Германия договорились о смягчении правил ЕС по выбросам автомобилей в новом соглашении",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 23:54:43"
-    },
-    {
-      "id": 1802,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/eu-member-states-set-for-budget-clash",
-      "title_ru": "Страны-члены ЕС настроены на бюджетное столкновение",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 21:44:02"
-    },
-    {
-      "id": 1801,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding",
-      "title_ru": "Oxfam подал в суд на Францию за «налоговое неравенство»: «проблема» с налоговой системой, финансированием государственной службы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-15 21:44:01"
-    },
-    {
-      "id": 1800,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/15/azerbaijan-hosts-rare-summit-of-both-converging-and-opposing-middle-east-and-asian-leaders",
-      "title_ru": "В Азербайджане проходит редкий саммит как сходящихся, так и противостоящих лидеров Ближнего Востока и Азии",
       "status": "expired",
       "published_to_telegram_at": null
     }
