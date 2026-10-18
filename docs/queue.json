@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-18T17:59:42.995759+00:00",
+  "updated_at": "2026-10-18T20:30:44.176398+00:00",
   "posts": [
+    {
+      "id": 1883,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
+      "title_ru": "Израильские поселенцы напали на европейских дипломатов и избили мэра Франции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1882,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration",
+      "title_ru": "Трамп говорит, что «Франция горит», страна «разрушена» иммиграцией",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1881,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen",
+      "title_ru": "Французские беспорядки: подарок для Ле Пен?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 20:30:43"
+    },
+    {
+      "id": 1880,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
+      "title_ru": "ПОВТОР: Президент Франции Эммануэль Макрон обращается к нации после беспорядков",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 20:30:43"
+    },
+    {
+      "id": 1879,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
+      "title_ru": "Макрон говорит, что «ничто не оправдывает» насилие в протестах во время обращения к нации",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-18 20:30:42"
+    },
+    {
+      "id": 1878,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-evening",
+      "title_ru": "Последние новости | 18 октября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1877,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Книги Салли Руни больше не продаются в Великобритании из-за поддержки запрещенной пропалестинской группы",
       "status": "published",
       "published_to_telegram_at": "2026-10-16 17:57:07"
-    },
-    {
-      "id": 1823,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/16/japans-first-female-pm-says-makeup-and-housework-add-hours-to-her-working-day",
-      "title_ru": "Первая женщина-премьер Японии говорит, что макияж и работа по дому добавляют часы к ее рабочему дню",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1822,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-evening",
-      "title_ru": "Последние новости | 16 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 17:57:08"
-    },
-    {
-      "id": 1821,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261016-america-with-this-president-is-not-our-ally-trump-is-a-liar-french-mep-bernard-guetta",
-      "title_ru": "«Америка с этим президентом не является нашим союзником. Трамп - лжец»: французский евродепутат Бернар Гетта",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 14:00:57"
-    },
-    {
-      "id": 1820,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
-      "title_ru": "Эфиопия объявляет о создании временного правительства в Тигре, намеревается провести выборы через шесть месяцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-16 14:00:57"
-    },
-    {
-      "id": 1819,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/16/military-signals-building-is-the-us-iran-war-about-to-escalate",
-      "title_ru": "Построение военных сигналов: война между США и Ираном вот-вот обострится?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1818,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-midday",
-      "title_ru": "Последние новости | 16 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
