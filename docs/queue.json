@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-19T05:11:53.218987+00:00",
+  "updated_at": "2026-10-19T10:53:07.079680+00:00",
   "posts": [
+    {
+      "id": 1899,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261019-french-retailers-reel-after-weekend-of-riots-looting",
+      "title_ru": "Французские ритейлеры переживают выходной после беспорядков и грабежей",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 10:53:06"
+    },
+    {
+      "id": 1898,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/19/albanian-police-clash-with-protesters-in-tirana-as-unrest-enters-sixth-day",
+      "title_ru": "Албанская полиция столкнулась с протестующими в Тиране на шестой день беспорядков",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1897,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/19/drone-footage-reveals-scale-of-damage-to-limoges-town-hall-after-protests",
+      "title_ru": "Кадры с беспилотников показывают масштаб повреждений мэрии Лиможа после протестов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1896,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/19/gulf-states-top-disaster-resilience-as-lebanon-and-iraq-lag-far-behind",
+      "title_ru": "Государства Персидского залива обладают наибольшей устойчивостью к стихийным бедствиям, поскольку Ливан и Ирак значительно отстают",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 10:53:07"
+    },
+    {
+      "id": 1895,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/19/no-kings-day-thousands-rally-across-us-against-trump",
+      "title_ru": "День без королей: тысячи людей в США протестуют против Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 10:53:06"
+    },
+    {
+      "id": 1894,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/19/russia-woos-asian-tourists-in-attempt-to-counter-european-visits-collapse",
+      "title_ru": "Россия обхаживает азиатских туристов в попытке противостоять европейским визитам",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 10:53:05"
+    },
     {
       "id": 1893,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
       "title_ru": "Трамп подписал указ об отказе от нового пакета санкций против России",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1839,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп приостановил новые санкции против России",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1838,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "title_ru": "Прямая трансляция: французские «желтые жилеты» поддерживают студенческие протесты",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 06:04:03"
-    },
-    {
-      "id": 1837,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-      "title_ru": "Йеменские хуситы берут на себя ответственность за новый ракетный удар по аэропорту Адена",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 06:04:03"
-    },
-    {
-      "id": 1836,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-morning",
-      "title_ru": "Последние новости | 17 октября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 06:04:04"
-    },
-    {
-      "id": 1835,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-press-conference-following-the-european-council-meeting-of-15-16-october-2026/",
-      "title_ru": "Выступление президента Антониу Коста на пресс-конференции по итогам заседания Европейского совета 15-16 октября 2026 года",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1834,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Президент Украины Зеленский выступил на саммите ЕС на фоне размолвки с Дональдом Трампом",
       "status": "expired",
       "published_to_telegram_at": null
     }
