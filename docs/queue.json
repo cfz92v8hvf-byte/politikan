@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-19T10:53:07.079680+00:00",
+  "updated_at": "2026-10-19T17:25:20.173851+00:00",
   "posts": [
+    {
+      "id": 1905,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
+      "title_ru": "Украина развернула беспилотник для воздушной перевозки раненого солдата в «первой в мире» операции",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 17:25:20"
+    },
+    {
+      "id": 1904,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence",
+      "title_ru": "Франция: «локализованный» комендантский час объявлен после выходных с насилием",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 17:25:18"
+    },
+    {
+      "id": 1903,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/19/us-issues-rare-middle-east-red-alert-warning-to-its-citizens-in-the-region",
+      "title_ru": "США выпустили редкое предупреждение о красной тревоге на Ближнем Востоке для своих граждан в регионе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1902,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/19/qatar-plans-new-defence-partnership-and-warns-of-energy-crisis-peak",
+      "title_ru": "Катар планирует новое оборонное партнерство и предупреждает о «пике» энергетического кризиса",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1901,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-evening",
+      "title_ru": "Последние новости | 19 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 17:25:19"
+    },
+    {
+      "id": 1900,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/19/macron-increasingly-isolated-amid-unrest-across-france",
+      "title_ru": "Макрон все больше изолируется на фоне беспорядков во Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-19 17:25:18"
+    },
     {
       "id": 1899,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20261017-trump-s-new-press-secretary-out-after-less-than-week",
       "title_ru": "Новый пресс-секретарь Трампа ушел в отставку менее чем через неделю",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1845,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda",
-      "title_ru": "В Баменде расстреляли камерунского журналиста",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 13:53:49"
-    },
-    {
-      "id": 1844,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
-      "title_ru": "Франция сталкивается с днем протестов против стоимости жизни",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 13:53:49"
-    },
-    {
-      "id": 1843,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-midday",
-      "title_ru": "Последние новости | 17 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1842,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Франция готовится к общенациональным протестам",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 10:33:25"
-    },
-    {
-      "id": 1841,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
-      "title_ru": "Зеленский усиливает европейскую поддержку, поскольку связи Трампа падают",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 10:33:24"
-    },
-    {
-      "id": 1840,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
-      "title_ru": "Трамп подписал указ об отказе от нового пакета санкций против России",
       "status": "expired",
       "published_to_telegram_at": null
     }
