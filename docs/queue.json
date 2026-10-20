@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-20T00:43:07.634787+00:00",
+  "updated_at": "2026-10-20T05:23:44.225203+00:00",
   "posts": [
+    {
+      "id": 1917,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Зеленский обвинил США в задержке отгрузки ракет \"Патриот\"",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1916,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Кристиан Аманпур покидает CNN после 43 лет работы",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 05:23:43"
+    },
+    {
+      "id": 1915,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise",
+      "title_ru": "Зеленский обвинил США в задержке поставок ракет по мере роста напряженности",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1914,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
+      "title_ru": "Live: Комендантский час вступил в силу в Париже и других французских городах после беспорядков",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 05:23:44"
+    },
+    {
+      "id": 1913,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/20/trump-says-hes-ready-to-meet-putin-and-xi-in-china",
+      "title_ru": "Трамп говорит, что готов встретиться с Путиным и Си в Китае",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 05:23:43"
+    },
+    {
+      "id": 1912,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-morning",
+      "title_ru": "Последние новости | 20 октября 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 05:23:42"
+    },
     {
       "id": 1911,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Западный берег: израильские поселенцы нападают на дипломатов ЕС и мэра Франции",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1857,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Ильхан Омар: Демократ США, на которого нацелился Дональд Трамп",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 21:30:32"
-    },
-    {
-      "id": 1856,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/",
-      "title_ru": "Прогноз: 19 октября - 1 ноября 2026 г.",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1855,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Египетский Сиси говорит, что будет защищать Саудовскую Аравию, если его спросят",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 19:13:31"
-    },
-    {
-      "id": 1854,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Насколько велика угроза России против Германии?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1853,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-      "title_ru": "🔴 Израильские поселенцы избили французского мэра и атаковали европейские дипломатические автомобили на Западном берегу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1852,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique",
-      "title_ru": "Протесты во Франции: «На площади Республики вспыхнули два пожара»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-17 17:00:40"
     }
   ]
 }
