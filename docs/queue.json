@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19T21:42:58.365447+00:00",
+  "updated_at": "2026-10-20T00:43:07.634787+00:00",
   "posts": [
     {
       "id": 1911,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says",
       "title_ru": "Саммит Россия-Китай-США продлит войну, считает Киев",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +14,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order",
       "title_ru": "Французские ультраправые стремятся извлечь выгоду из протестов с призывами к закону и порядку",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
