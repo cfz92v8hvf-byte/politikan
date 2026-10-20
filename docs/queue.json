@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-20T10:22:20.284356+00:00",
+  "updated_at": "2026-10-20T15:20:22.649434+00:00",
   "posts": [
+    {
+      "id": 1929,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261020-french-justice-minister-promises-extremely-firm-punishment-for-rioters",
+      "title_ru": "Министр юстиции Франции обещает «чрезвычайно жесткое» наказание для участников беспорядков",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 15:20:22"
+    },
+    {
+      "id": 1928,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/entre-nous/20261020-october-17-riots-in-france-who-s-responsible",
+      "title_ru": "Беспорядки 17 октября во Франции: кто виноват?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 15:20:22"
+    },
+    {
+      "id": 1927,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday",
+      "title_ru": "Премьер-министр Франции пообещал «массовое» развертывание полиции для новых демонстраций в субботу",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 15:20:21"
+    },
+    {
+      "id": 1926,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-midday",
+      "title_ru": "Последние новости | 20 октября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1925,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit",
+      "title_ru": "Бизнес-драйв Узбекистана на $ 12 млрд набирает обороты во время визита в Рубио",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1924,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/20/fireworks-petrol-bombs-and-water-cannon-as-unrest-escalates-in-albania",
+      "title_ru": "Фейерверки, бензиновые бомбы и водометы на фоне эскалации беспорядков в Албании",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1923,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
       "title_ru": "Протесты во Франции: Правительство приняло неправильные решения?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1869,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate",
-      "title_ru": "Беспорядки в Тиране продолжаются пятый день на фоне эскалации антиправительственных протестов в Албании",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 11:37:47"
-    },
-    {
-      "id": 1868,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india",
-      "title_ru": "Неконтролируемый грузовик убил 13 человек на индуистском фестивале в Индии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 11:37:47"
-    },
-    {
-      "id": 1867,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins",
-      "title_ru": "Культовая таверна Атланты отмечает прошлое Джорджии, глядя в будущее по мере приближения промежуточных выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 11:37:46"
-    },
-    {
-      "id": 1866,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base",
-      "title_ru": "Канада сообщает о «погибших и раненых» после инцидента на военной базе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1865,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Индия: лидер CJP Абхиджит Дипке освобожден после задержания",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 06:31:35"
-    },
-    {
-      "id": 1864,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms",
-      "title_ru": "«Борьба за демократию»: митинг «Нет королей» в Атланте привлекает критиков Трампа в преддверии промежуточных выборов",
       "status": "expired",
       "published_to_telegram_at": null
     }
