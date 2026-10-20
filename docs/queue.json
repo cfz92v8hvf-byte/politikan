@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-20T19:32:48.259348+00:00",
+  "updated_at": "2026-10-20T22:36:08.163556+00:00",
   "posts": [
+    {
+      "id": 1941,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
+      "title_ru": "Италия отправляет войска и ужесточает законы о безопасности после столкновений в Милане",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1940,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-campaigning-in-republican-strongholds-amid-slide-in-polls",
+      "title_ru": "Трамп проводит кампанию в республиканских опорных пунктах на фоне падения опросов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 22:36:08"
+    },
+    {
+      "id": 1939,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
+      "title_ru": "Регуляторы США сертифицировали Boeing 737 Max 10 после многолетней задержки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 22:36:07"
+    },
+    {
+      "id": 1938,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
+      "title_ru": "Кампания Лулы направлена на то, чтобы отстранить Болсоноро от участия в президентских выборах в Бразилии за «вмешательство»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 22:36:07"
+    },
+    {
+      "id": 1937,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
+      "title_ru": "Участие Египта в Йемене «может фактически ослабить региональную роль Каира», говорит эксперт",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-20 22:36:07"
+    },
+    {
+      "id": 1936,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/20/time-to-make-a-deal-trump-tells-zelenskyy-as-he-complains-us-has-got-nothing-back-from-ukr",
+      "title_ru": "«Время заключить сделку», - говорит Трамп Зеленскому, жалуясь, что США «ничего не получили» от Украины",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1935,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Трамп говорит, что «Франция горит», страна «разрушена» иммиграцией",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1881,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen",
-      "title_ru": "Французские беспорядки: подарок для Ле Пен?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 20:30:43"
-    },
-    {
-      "id": 1880,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
-      "title_ru": "ПОВТОР: Президент Франции Эммануэль Макрон обращается к нации после беспорядков",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 20:30:43"
-    },
-    {
-      "id": 1879,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
-      "title_ru": "Макрон говорит, что «ничто не оправдывает» насилие в протестах во время обращения к нации",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 20:30:42"
-    },
-    {
-      "id": 1878,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-evening",
-      "title_ru": "Последние новости | 18 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1877,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-whole-range-of-grievances-at-play",
-      "title_ru": "Франция протестует: «В игре целый ряд обид»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1876,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261018-the-week-in-pictures-escalating-protests-across-europe-and-the-tragic-capsize-of-a-migrant-boat",
-      "title_ru": "Неделя в фотографиях: эскалация протестов по всей Европе и трагическое крушение лодки с мигрантами",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 14:52:45"
     }
   ]
 }
