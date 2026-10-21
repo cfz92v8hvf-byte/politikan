@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-20T22:36:08.163556+00:00",
+  "updated_at": "2026-10-21T01:02:15.225594+00:00",
   "posts": [
+    {
+      "id": 1947,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Зеленский посетил Норвегию на фоне напряженности в Белом доме Трампа",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1946,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Алиса Вайдель из AfD обнародует план сокращения полномочий ЕС — отчет",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-21 01:02:15"
+    },
+    {
+      "id": 1945,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote",
+      "title_ru": "«Нетаньяху борется за свою политическую карьеру», - говорит эксперт за неделю до решающего голосования",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1944,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa",
+      "title_ru": "Нигерия регистрирует первый случай Эболы, поскольку вспышка распространяется по всей Африке",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-21 01:02:14"
+    },
+    {
+      "id": 1943,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
+      "title_ru": "Италия объявила о новых мерах безопасности после беспорядков в Милане, развернув 500 солдат",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-21 01:02:14"
+    },
+    {
+      "id": 1942,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+      "title_ru": "Прямой эфир: Премьер-министр Франции Лекорну встретится с профсоюзами перед новыми протестами",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-21 01:02:13"
+    },
     {
       "id": 1941,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
       "title_ru": "Италия отправляет войска и ужесточает законы о безопасности после столкновений в Милане",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -46,7 +94,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/20/time-to-make-a-deal-trump-tells-zelenskyy-as-he-complains-us-has-got-nothing-back-from-ukr",
       "title_ru": "«Время заключить сделку», - говорит Трамп Зеленскому, жалуясь, что США «ничего не получили» от Украины",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 19 октября 2026 года – утро",
       "status": "published",
       "published_to_telegram_at": "2026-10-19 05:11:51"
-    },
-    {
-      "id": 1887,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Израиль: Трамп поддерживает Нетаньяху в преддверии выборов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1886,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible",
-      "title_ru": "Франция протестует: «Постоянно возникает вопрос о том, кто на самом деле несет ответственность»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1885,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
-      "title_ru": "Трамп защищает ослабление санкций против России и обвиняет Зеленского в отказе от мира",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 22:33:30"
-    },
-    {
-      "id": 1884,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised",
-      "title_ru": "В результате пожара на канадской военной базе погибли не менее четырех человек, десятки получили ранения",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-18 22:33:29"
-    },
-    {
-      "id": 1883,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
-      "title_ru": "Израильские поселенцы напали на европейских дипломатов и избили мэра Франции",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1882,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration",
-      "title_ru": "Трамп говорит, что «Франция горит», страна «разрушена» иммиграцией",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
