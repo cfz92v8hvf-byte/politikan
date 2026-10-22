@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-22T06:38:42.539165+00:00",
+  "updated_at": "2026-10-22T12:31:03.097253+00:00",
   "posts": [
+    {
+      "id": 1993,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/press-review/20261022-are-fresh-us-israeli-strikes-on-iran-in-the-pipeline",
+      "title_ru": "Готовятся ли свежие американо-израильские удары по Ирану?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 12:31:02"
+    },
+    {
+      "id": 1992,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections",
+      "title_ru": "Сербия: Студенческие протесты наводнили Белград в преддверии досрочных выборов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1991,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/22/moment-colombian-authorities-seize-76-tonnes-of-cocaine-bound-for-europe",
+      "title_ru": "Власти Колумбии конфисковали 7,6 тонны кокаина, направляющегося в Европу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1990,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw",
+      "title_ru": "Веб-сайты становятся темными после того, как ИИ выявляет серьезный недостаток безопасности языка программирования",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1989,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/22/refusing-to-cross-unable-to-escape-seafarers-recount-hormuz-dangers-to-euronews",
+      "title_ru": "Отказываясь пересекать границу, не в силах убежать: моряки рассказывают Euronews об опасностях Ормуза",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 12:31:03"
+    },
+    {
+      "id": 1988,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/22/ukraine-at-least-9-people-were-killed-in-russian-attacks-over-the-past-24-hours",
+      "title_ru": "Украина: За последние сутки в результате обстрелов со стороны РФ погибли не менее 9 человек",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 12:31:02"
+    },
     {
       "id": 1987,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/22/el-salvador-launches-military-operation-in-haiti-to-free-four-kidnapped-aviation-technicia",
       "title_ru": "Сальвадор начинает военную операцию на Гаити, чтобы освободить четырех похищенных авиатехников",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Зеленский встретился с Витковым, поскольку американо-украинские отношения опускаются до новых минимумов",
       "status": "published",
       "published_to_telegram_at": "2026-10-20 19:32:47"
-    },
-    {
-      "id": 1933,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/qatar-revamped-its-entire-defence-system-in-six-hours-intelligence-chief-reveals",
-      "title_ru": "Катар обновил всю свою систему обороны за шесть часов, сообщил начальник разведки",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1932,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-evening",
-      "title_ru": "Последние новости | 20 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1931,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks",
-      "title_ru": "Мины КСИР подожгли танкеры, поскольку Тегеран угрожает расширенными атаками",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 19:32:48"
-    },
-    {
-      "id": 1930,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/frances-macron-begins-state-visit-to-qatar-as-part-of-wider-gulf-tour",
-      "title_ru": "Макрон начинает государственный визит в Катар в рамках более широкого тура по Персидскому заливу",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 19:32:47"
-    },
-    {
-      "id": 1929,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261020-french-justice-minister-promises-extremely-firm-punishment-for-rioters",
-      "title_ru": "Министр юстиции Франции обещает «чрезвычайно жесткое» наказание для участников беспорядков",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 15:20:22"
-    },
-    {
-      "id": 1928,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/entre-nous/20261020-october-17-riots-in-france-who-s-responsible",
-      "title_ru": "Беспорядки 17 октября во Франции: кто виноват?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 15:20:22"
     }
   ]
 }
