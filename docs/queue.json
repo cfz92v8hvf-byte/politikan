@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-22T01:45:23.820746+00:00",
+  "updated_at": "2026-10-22T06:38:42.539165+00:00",
   "posts": [
+    {
+      "id": 1987,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+      "title_ru": "Прямой эфир: Париж запрещает протесты после насильственных беспорядков, поскольку Макрон атакует Трампа",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1986,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin",
+      "title_ru": "Украинский Павлоград отказывается уступать Путину, несмотря на непрекращающиеся бомбардировки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 06:38:41"
+    },
+    {
+      "id": 1985,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/22/el-salvador-launches-military-operation-in-haiti-to-free-four-kidnapped-aviation-technicia",
+      "title_ru": "Сальвадор начинает военную операцию на Гаити, чтобы освободить четырех похищенных авиатехников",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1984,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/22/canada-unveils-62bn-plan-to-shield-manufacturers-as-trump-trade-tariffs-bite",
+      "title_ru": "Канада обнародовала план на $ 6,2 млрд по защите производителей от укусов торговых тарифов Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 06:38:42"
+    },
+    {
+      "id": 1983,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/22/latest-news-bulletin-october-22nd-2026-morning",
+      "title_ru": "Последние новости | 22 октября 2026 года – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 06:38:42"
+    },
+    {
+      "id": 1982,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit",
+      "title_ru": "Между Россией и Украиной возобновились ночные атаки после визита посланника США",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 06:38:41"
+    },
     {
       "id": 1981,
       "source": "Council of the EU",
@@ -432,54 +480,6 @@
       "title_ru": "Беспорядки 17 октября во Франции: кто виноват?",
       "status": "published",
       "published_to_telegram_at": "2026-10-20 15:20:22"
-    },
-    {
-      "id": 1927,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday",
-      "title_ru": "Премьер-министр Франции пообещал «массовое» развертывание полиции для новых демонстраций в субботу",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 15:20:21"
-    },
-    {
-      "id": 1926,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-midday",
-      "title_ru": "Последние новости | 20 октября 2026 года – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1925,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit",
-      "title_ru": "Бизнес-драйв Узбекистана на $ 12 млрд набирает обороты во время визита в Рубио",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1924,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/20/fireworks-petrol-bombs-and-water-cannon-as-unrest-escalates-in-albania",
-      "title_ru": "Фейерверки, бензиновые бомбы и водометы на фоне эскалации беспорядков в Албании",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1923,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261020-france-first-night-under-targeted-curfews-passed-calmly",
-      "title_ru": "Первая ночь во Франции под целенаправленным комендантским часом прошла спокойно",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 10:22:19"
-    },
-    {
-      "id": 1922,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261020-zelensky-accused-partner-countries-of-not-warning-kyiv-of-oncoming-attacks",
-      "title_ru": "Зеленский обвинил США в том, что они снова не предупредили Киев о готовящихся терактах",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 10:22:19"
     }
   ]
 }
