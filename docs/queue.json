@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-21T23:25:47.105376+00:00",
+  "updated_at": "2026-10-22T01:45:23.820746+00:00",
   "posts": [
+    {
+      "id": 1981,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/",
+      "title_ru": "Союз сбережений и инвестиций: соглашение о забастовке Совета и Парламента по оживлению рынка секьюритизации ЕС",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 01:45:23"
+    },
+    {
+      "id": 1980,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Франция запрещает протесты в некоторых частях Парижа, поскольку Макрон критикует Трампа",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1979,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261021-trump-admin-destroying-us-democracy-with-autocratic-terrorist-version-of-christian-nationalism",
+      "title_ru": "Администрация Трампа «уничтожает» демократию в США «автократической, террористической версией христианского национализма»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 1978,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
+      "title_ru": "Война в Судане обостряется, поскольку ООН предупреждает о более широком региональном кризисе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 1977,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Зеленский обвинил США в том, что они снова не предупредили Киев о готовящихся терактах",
       "status": "published",
       "published_to_telegram_at": "2026-10-20 10:22:19"
-    },
-    {
-      "id": 1921,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum",
-      "title_ru": "«Жители Альберты выбрали Канаду»: Карни приветствует голосование за отклонение референдума",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1920,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/trump-says-paris-will-soon-be-a-muslim-city-under-macrons-immigration-policies",
-      "title_ru": "Трамп говорит, что Париж скоро станет «мусульманским городом» в рамках иммиграционной политики Макрона",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1919,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/at-least-14-killed-and-seven-injured-in-landslide-at-illegal-gold-mine-in-colombia",
-      "title_ru": "По меньшей мере 14 человек погибли и семь получили ранения в результате оползня на незаконном золотом руднике в Колумбии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1918,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/20/ukraine-carries-out-first-drone-airlift-of-wounded-soldier-from-front-line",
-      "title_ru": "Украина осуществила первый беспилотный авиаперевоз раненого солдата с линии фронта",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 10:22:20"
     }
   ]
 }
