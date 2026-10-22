@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-22T17:33:38.526640+00:00",
+  "updated_at": "2026-10-22T20:45:56.889080+00:00",
   "posts": [
+    {
+      "id": 2005,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261022-back-to-the-bolsonaros-brazil-presidential-run-off-goes-down-to-the-wire",
+      "title_ru": "Назад к Болсонаро? Второй тур президентских выборов в Бразилии идет под откос",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2004,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
+      "title_ru": "Международный уголовный суд, ставший мишенью Трампа, получил высшую награду ЕС в области прав человека",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2003,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governor-s-race",
+      "title_ru": "Вэнс говорит республиканцам «перестать ныть» после объявления о нападении Рамасвами в гонке губернаторов Огайо",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 20:45:56"
+    },
+    {
+      "id": 2002,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261022-israel-s-ben-gvir-shares-ai-videos-mocking-gazans-as-donkeys-and-sending-them-to-paris",
+      "title_ru": "Израильтянин Бен-Гвир делится видеороликами, в которых ИИ высмеивает жителей Газы как «ослов» и отправляет их в Париж",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 20:45:56"
+    },
+    {
+      "id": 2001,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261022-the-best-on-earth-can-weak-economic-growth-undermine-europe-s-very-sophisticated-social-system",
+      "title_ru": "«Лучший на Земле»: может ли слабый экономический рост подорвать «очень сложную социальную систему» Европы?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 20:45:55"
+    },
+    {
+      "id": 2000,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93",
+      "title_ru": "Обладатель премии «Эмми» американский актер Том Скерритт, известный по фильмам «Лучший стрелок» (Top Gun) и «Пикетные заборы» (Picket Fences), умер в возрасте 93 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-22 20:45:55"
+    },
     {
       "id": 1999,
       "source": "Euronews",
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/22/germany-humanoid-robots-and-ai-supercomputers-take-centre-stage-in-berlin",
       "title_ru": "Германия: роботы-гуманоиды и суперкомпьютеры ИИ занимают центральное место в Берлине",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Алиса Вайдель из AfD обнародует план сокращения полномочий ЕС — отчет",
       "status": "published",
       "published_to_telegram_at": "2026-10-21 01:02:15"
-    },
-    {
-      "id": 1945,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote",
-      "title_ru": "«Нетаньяху борется за свою политическую карьеру», - говорит эксперт за неделю до решающего голосования",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1944,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa",
-      "title_ru": "Нигерия регистрирует первый случай Эболы, поскольку вспышка распространяется по всей Африке",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 01:02:14"
-    },
-    {
-      "id": 1943,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
-      "title_ru": "Италия объявила о новых мерах безопасности после беспорядков в Милане, развернув 500 солдат",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 01:02:14"
-    },
-    {
-      "id": 1942,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
-      "title_ru": "Прямой эфир: Премьер-министр Франции Лекорну встретится с профсоюзами перед новыми протестами",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 01:02:13"
-    },
-    {
-      "id": 1941,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
-      "title_ru": "Италия отправляет войска и ужесточает законы о безопасности после столкновений в Милане",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1940,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-campaigning-in-republican-strongholds-amid-slide-in-polls",
-      "title_ru": "Трамп проводит кампанию в республиканских опорных пунктах на фоне падения опросов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-20 22:36:08"
     }
   ]
 }
