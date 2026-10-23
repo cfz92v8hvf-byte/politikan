@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-23T07:21:22.442772+00:00",
+  "updated_at": "2026-10-23T12:49:25.819986+00:00",
   "posts": [
+    {
+      "id": 2022,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
+      "title_ru": "🔴 Прямой эфир: Около 70 000 сил безопасности будут мобилизованы для участия в протестах во Франции в субботу, говорит премьер-министр",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 12:49:25"
+    },
+    {
+      "id": 2021,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/replay-french-interior-minister-holds-presser-on-security-arrangements-ahead-of-protests",
+      "title_ru": "ПОВТОР: Лоран Нуньес держит пресс о мерах безопасности в преддверии протестов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 12:49:24"
+    },
+    {
+      "id": 2020,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
+      "title_ru": "Напряженная президентская предвыборная кампания в Бразилии напоминает психологический триллер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 12:49:24"
+    },
+    {
+      "id": 2019,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/23/albania-parliament-descends-into-chaos-as-mps-clash-over-protests",
+      "title_ru": "Албания: Парламент погружается в хаос, поскольку депутаты сталкиваются из-за протестов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2018,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/trump-says-he-has-the-right-to-seek-a-third-presidential-term",
+      "title_ru": "Трамп заявил, что имеет право баллотироваться на третий президентский срок",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2017,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/from-education-to-cancer-care-global-summit-calls-for-better-support-for-children",
+      "title_ru": "От образования к лечению рака: Глобальный саммит призывает к улучшению поддержки детей",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 12:49:25"
+    },
     {
       "id": 2016,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/23/albanian-opposition-and-ruling-party-lawmakers-scuffle-in-parliament-over-student-protest-",
       "title_ru": "Албанская оппозиция и законодатели правящей партии дерутся в парламенте из-за студенческих протестов",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-morning",
       "title_ru": "Последние новости | 23 октября 2026 года – утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Макрон отвергает обвинения Трампа, обвиняющего мигрантов во французских беспорядках",
       "status": "published",
       "published_to_telegram_at": "2026-10-21 16:08:05"
-    },
-    {
-      "id": 1962,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/21/russia-frees-detained-american-stephen-hubbard-during-us-envoys-visit",
-      "title_ru": "Россия освободила задержанного во время визита посла США американца Стивена Хаббарда",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1961,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france",
-      "title_ru": "Макрон призывает к крайней осторожности в Персидском заливе, обеспечивает критически важную газовую сделку во время государственного визита в Катар",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1960,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/21/un-warns-elnino-could-be-strongest-on-record",
-      "title_ru": "ООН предупреждает, что Эль-Ниньо может быть самым сильным за всю историю, поскольку он призывает мир подготовиться",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 16:08:07"
-    },
-    {
-      "id": 1959,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ukraine-talks-what-progress-after-us-envoy-met-with-zelensky",
-      "title_ru": "Украинские переговоры: какой прогресс после встречи спецпредставителя США с Зеленским?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1958,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261021-italy-deploys-troops-into-milan-in-response-to-recent-riots",
-      "title_ru": "Италия вводит войска в Милан в ответ на недавние беспорядки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 11:38:34"
-    },
-    {
-      "id": 1957,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/replay-french-president-addresses-fuel-supplies-during-gulf-tour",
-      "title_ru": "ПОВТОР: президент Франции обращается к поставкам топлива во время тура по Персидскому заливу",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 11:38:34"
     }
   ]
 }
