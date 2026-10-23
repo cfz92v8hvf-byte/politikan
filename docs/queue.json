@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-23T02:00:15.987575+00:00",
+  "updated_at": "2026-10-23T07:21:22.442772+00:00",
   "posts": [
+    {
+      "id": 2016,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system",
+      "title_ru": "США предлагают смешанные сообщения о лимитах для украинской системы Starshield",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 07:21:21"
+    },
+    {
+      "id": 2015,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261023-brazil-why-should-you-care-about-the-country-s-elections",
+      "title_ru": "🇧🇷 Бразилия: Почему вас должны волновать выборы в стране?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 07:21:20"
+    },
+    {
+      "id": 2014,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/albanian-opposition-and-ruling-party-lawmakers-scuffle-in-parliament-over-student-protest-",
+      "title_ru": "Албанская оппозиция и законодатели правящей партии дерутся в парламенте из-за студенческих протестов",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2013,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-morning",
+      "title_ru": "Последние новости | 23 октября 2026 года – утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2012,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/drones-ai-and-cybersecurity-on-display-as-milipol-qatar-brings-together-firms-from-33-coun",
+      "title_ru": "Дроны, ИИ и кибербезопасность на выставке Milipol Qatar объединяет фирмы из 33 стран",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 07:21:22"
+    },
+    {
+      "id": 2011,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns",
+      "title_ru": "«История любви» между ЕС и Канадой нуждается не только в теплых словах, предупреждает старший евродепутат",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 07:21:21"
+    },
     {
       "id": 2010,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "ПОВТОР: президент Франции обращается к поставкам топлива во время тура по Персидскому заливу",
       "status": "published",
       "published_to_telegram_at": "2026-10-21 11:38:34"
-    },
-    {
-      "id": 1956,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
-      "title_ru": "Египет обдумывает присоединение к Саудовской Аравии в войне против хуситов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 11:38:33"
-    },
-    {
-      "id": 1955,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia",
-      "title_ru": "Спецпредставитель США Стив Виткофф поблагодарил Владимира Путина за дизельную сделку на переговорах по Украине в России",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 11:38:32"
-    },
-    {
-      "id": 1954,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/21/more-russians-are-settling-in-the-eu-with-each-year-of-war-in-ukraine",
-      "title_ru": "С каждым годом войны на Украине все больше россиян селятся в ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1953,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Британские истребители защитят Саудовскую Аравию от нападений хуситов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1952,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Илон Маск приказал замедлить Starlink в Украине — отчет",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1951,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Маск говорит, что слияние SpaceX-Tesla - «хорошая идея», поскольку компании изучают возможность объединения",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 05:56:40"
     }
   ]
 }
