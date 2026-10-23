@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-23T17:30:58.358081+00:00",
+  "updated_at": "2026-10-23T20:37:09.246637+00:00",
   "posts": [
+    {
+      "id": 2034,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Нападения России на столицу Украины Киев усиливаются. DW спросила людей на местах, какова жизнь",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 20:37:08"
+    },
+    {
+      "id": 2033,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
+      "title_ru": "🔴 Смертельная стрельба к западу от Парижа «явно террористическая» атака, заявил министр внутренних дел Франции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2032,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible",
+      "title_ru": "Страны-члены ЕС спорят по поводу важного бюджета: возможна ли сделка в этом году?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2031,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261023-europe-faces-threat-of-organised-sabotage-terrorist-attacks-estonian-fm-tsahkna",
+      "title_ru": "Европе грозит организованный саботаж и теракты: глава МИД Эстонии Цахкна",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2030,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261023-after-french-riots-curfews-calm-is-a-new-storm-brewing-plus-ukraine-israel",
+      "title_ru": "После французских бунтов, комендантского часа и затишья ... новый шторм ? Плюс Украина и Израиль",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 20:37:09"
+    },
+    {
+      "id": 2029,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
+      "title_ru": "США определяют гелий как критически важный материал, поскольку Европа сталкивается с сокращением поставок",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 20:37:08"
+    },
     {
       "id": 2028,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
       "title_ru": "Западный берег: обширная военная операция «в пути», говорит Нетаньяху",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Прокуроры ЕС обыскивают офисы крайне правой группы в Европейском парламенте",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 1974,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/french-bond-yields-hit-24-year-high-after-unrest",
-      "title_ru": "Доходность французских облигаций достигла 24-летнего максимума после беспорядков",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 23:25:47"
-    },
-    {
-      "id": 1973,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261021-in-run-up-to-mass-protests-and-riots-pro-russian-accounts-amplified-french-anger-ngo-finds",
-      "title_ru": "В преддверии массовых протестов и беспорядков пророссийские аккаунты усилили гнев французов, считает НПО",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 23:25:46"
-    },
-    {
-      "id": 1972,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/21/greece-thousands-flood-athens-streets-in-education-protest",
-      "title_ru": "Греция: Тысячи людей наводнили улицы Афин в знак протеста против образования",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 23:25:46"
-    },
-    {
-      "id": 1971,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
-      "title_ru": "«Ни суданские военные, ни RSF не признают человеческую жизнь в этой войне»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 20:13:24"
-    },
-    {
-      "id": 1970,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261021-trump-uses-france-riots-to-push-false-immigration-claims-ahead-of-midterms",
-      "title_ru": "Трамп использует беспорядки во Франции, чтобы выдвинуть ложные иммиграционные требования до промежуточных выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 20:13:23"
-    },
-    {
-      "id": 1969,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington",
-      "title_ru": "Путин согласился возобновить трехсторонние переговоры с Киевом и Вашингтоном",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 20:13:23"
     }
   ]
 }
