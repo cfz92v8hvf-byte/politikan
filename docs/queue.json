@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-23T12:49:25.819986+00:00",
+  "updated_at": "2026-10-23T17:30:58.358081+00:00",
   "posts": [
+    {
+      "id": 2028,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
+      "title_ru": "Западный берег: обширная военная операция «в пути», говорит Нетаньяху",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2027,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset",
+      "title_ru": "Израиль: Могут ли арабские партии стать королями в следующем Кнессете ?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 17:30:57"
+    },
+    {
+      "id": 2026,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves",
+      "title_ru": "Как израильские поселенцы в куфиях нападают на оливковые рощи Западного берега",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 17:30:57"
+    },
+    {
+      "id": 2025,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
+      "title_ru": "Украина атакует российские дата-центры, нанося удар по возможностям ИИ Москвы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2024,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening",
+      "title_ru": "Последние новости | 23 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 17:30:58"
+    },
+    {
+      "id": 2023,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives",
+      "title_ru": "Гонка глав ООН вступает в решающую фазу по мере прибытия нового претендента",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-23 17:30:57"
+    },
     {
       "id": 2022,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Путин согласился возобновить трехсторонние переговоры с Киевом и Вашингтоном",
       "status": "published",
       "published_to_telegram_at": "2026-10-21 20:13:23"
-    },
-    {
-      "id": 1968,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/21/latest-news-bulletin-october-21st-2026-evening",
-      "title_ru": "Последние новости | 21 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1967,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/21/zelenskyy-backs-freezing-front-line-as-first-step-towards-ukraine-ceasefire",
-      "title_ru": "Зеленский поддержал замораживание линии фронта как первый шаг к прекращению огня в Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1966,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/21/dussehra-giant-effigies-of-demons-go-up-in-flames-in-india",
-      "title_ru": "Dussehra: Гигантские чучела демонов горят в Индии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 20:13:24"
-    },
-    {
-      "id": 1965,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261021-some-brazilians-long-associated-with-the-left-now-shift-towards-flavio-bolsonaro",
-      "title_ru": "Некоторые бразильцы, долгое время ассоциировавшиеся с левыми, теперь смещаются в сторону Флавио Болсонару",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 16:08:06"
-    },
-    {
-      "id": 1964,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-far-right-leader-marine-le-pen-gains-popularity-amid-nationwide-riots",
-      "title_ru": "Франция: лидер крайне правых Марин Ле Пен набирает популярность на фоне общенациональных беспорядков",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 16:08:06"
-    },
-    {
-      "id": 1963,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261021-macron-rejects-trump-s-claims-blaming-migrants-for-french-riots",
-      "title_ru": "Макрон отвергает обвинения Трампа, обвиняющего мигрантов во французских беспорядках",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-21 16:08:05"
     }
   ]
 }
