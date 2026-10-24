@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-24T15:50:55.158073+00:00",
+  "updated_at": "2026-10-24T18:44:06.509291+00:00",
   "posts": [
+    {
+      "id": 2059,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
+      "title_ru": "Италия пострадала от новых протестов против стоимости жизни",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2058,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+      "title_ru": "Йеменские повстанцы-хуситы заявляют о новых нападениях на нефтяные объекты и аэропорты по всей Саудовской Аравии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-24 18:44:06"
+    },
+    {
+      "id": 2057,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+      "title_ru": "Тысячи людей вышли на улицы Тель-Авива с протестами против Нетаньяху",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-24 18:44:05"
+    },
+    {
+      "id": 2056,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
+      "title_ru": "«Виткофф должен уйти в отставку», - говорит глава украинского комитета",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-24 18:44:05"
+    },
+    {
+      "id": 2055,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening",
+      "title_ru": "Последние новости | 24 октября 2026 года – вечер",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2054,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
+      "title_ru": "Митинги, опросы общественного мнения и финальные дебаты - Бразилия готовится к президентским выборам в воскресенье",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-24 18:44:06"
+    },
     {
       "id": 2053,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route",
       "title_ru": "Париж: протест начинается в Порт-д'Италия, после изменения маршрута в последнюю минуту",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Обладатель премии «Эмми» американский актер Том Скерритт, известный по фильмам «Лучший стрелок» (Top Gun) и «Пикетные заборы» (Picket Fences), умер в возрасте 93 лет",
       "status": "published",
       "published_to_telegram_at": "2026-10-22 20:45:55"
-    },
-    {
-      "id": 1999,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/22/gulf-nations-brace-for-possible-return-to-all-out-war-between-us-and-iran",
-      "title_ru": "Страны Персидского залива готовятся к возможному возвращению к тотальной войне между США и Ираном",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1998,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/22/germany-humanoid-robots-and-ai-supercomputers-take-centre-stage-in-berlin",
-      "title_ru": "Германия: роботы-гуманоиды и суперкомпьютеры ИИ занимают центральное место в Берлине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 1997,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/22/france-artists-and-collectors-gather-at-art-basel-paris-despite-unrest",
-      "title_ru": "Франция: художники и коллекционеры собрались в Art Basel Paris, несмотря на беспорядки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 17:33:38"
-    },
-    {
-      "id": 1996,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/22/families-of-missing-azerbaijanis-call-for-support-from-european-institutions",
-      "title_ru": "Семьи пропавших без вести азербайджанцев призывают к поддержке со стороны европейских институтов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 17:33:38"
-    },
-    {
-      "id": 1995,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/22/how-migration-is-reshaping-the-political-debate-in-spains-ceuta",
-      "title_ru": "Как миграция меняет политические дебаты в испанской Сеуте",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 17:33:37"
-    },
-    {
-      "id": 1994,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/22/latest-news-bulletin-october-22nd-2026-evening",
-      "title_ru": "Последние новости | 22 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 17:33:37"
     }
   ]
 }
