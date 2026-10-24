@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T01:55:48.103447+00:00",
+  "updated_at": "2026-10-24T07:10:31.946237+00:00",
   "posts": [
+    {
+      "id": 2041,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Тайвань: тайфун «Чампи» унес жизни одного человека, более 500 получили ранения",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-24 07:10:31"
+    },
+    {
+      "id": 2040,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-morning",
+      "title_ru": "Последние новости | 24 октября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-24 07:10:31"
+    },
     {
       "id": 2039,
       "source": "DW",
@@ -464,22 +480,6 @@
       "title_ru": "Между Россией и Украиной возобновились ночные атаки после визита посланника США",
       "status": "published",
       "published_to_telegram_at": "2026-10-22 06:38:41"
-    },
-    {
-      "id": 1981,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/",
-      "title_ru": "Союз сбережений и инвестиций: соглашение о забастовке Совета и Парламента по оживлению рынка секьюритизации ЕС",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 01:45:23"
-    },
-    {
-      "id": 1980,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Франция запрещает протесты в некоторых частях Парижа, поскольку Макрон критикует Трампа",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
