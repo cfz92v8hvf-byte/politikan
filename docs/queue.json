@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-25T16:06:15.324292+00:00",
+  "updated_at": "2026-10-25T19:06:34.186314+00:00",
   "posts": [
+    {
+      "id": 2084,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Гарри Кейн: Золотой мяч для нападающего мюнхенской «Баварии»?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2083,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Бразилии: Лула, Болсонару проголосовали в финальном поединке",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2082,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+      "title_ru": "Франция: Ле Пен стремится использовать беспорядки в начале президентской кампании",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 19:06:33"
+    },
+    {
+      "id": 2081,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
+      "title_ru": "Мария Корина Мачадо вернулась в Венесуэлу после 10 месяцев в изгнании",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 19:06:34"
+    },
+    {
+      "id": 2080,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-evening",
+      "title_ru": "Последние новости | 25 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 19:06:33"
+    },
+    {
+      "id": 2079,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote",
+      "title_ru": "Бразилия: длинные очереди и речные поездки знаменуют решающие президентские выборы",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 19:06:32"
+    },
     {
       "id": 2078,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
       "title_ru": "Украина атакует российские дата-центры, нанося удар по возможностям ИИ Москвы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2024,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening",
-      "title_ru": "Последние новости | 23 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 17:30:58"
-    },
-    {
-      "id": 2023,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives",
-      "title_ru": "Гонка глав ООН вступает в решающую фазу по мере прибытия нового претендента",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 17:30:57"
-    },
-    {
-      "id": 2022,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
-      "title_ru": "🔴 Прямой эфир: Около 70 000 сил безопасности будут мобилизованы для участия в протестах во Франции в субботу, говорит премьер-министр",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 12:49:25"
-    },
-    {
-      "id": 2021,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/replay-french-interior-minister-holds-presser-on-security-arrangements-ahead-of-protests",
-      "title_ru": "ПОВТОР: Лоран Нуньес держит пресс о мерах безопасности в преддверии протестов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 12:49:24"
-    },
-    {
-      "id": 2020,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
-      "title_ru": "Напряженная президентская предвыборная кампания в Бразилии напоминает психологический триллер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 12:49:24"
-    },
-    {
-      "id": 2019,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/23/albania-parliament-descends-into-chaos-as-mps-clash-over-protests",
-      "title_ru": "Албания: Парламент погружается в хаос, поскольку депутаты сталкиваются из-за протестов",
       "status": "expired",
       "published_to_telegram_at": null
     }
