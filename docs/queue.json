@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-25T06:43:53.653255+00:00",
+  "updated_at": "2026-10-25T12:04:50.802768+00:00",
   "posts": [
+    {
+      "id": 2072,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Бразилия голосует в жестком туре между левым Лулой и правым Флавио Болсонару",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 12:04:49"
+    },
+    {
+      "id": 2071,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
+      "title_ru": "Во Франции сотни тысяч людей вышли на марш протеста против правительства",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2070,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
+      "title_ru": "Крайне правые во Франции собираются в то время, как Ле Пен готовит свою президентскую кампанию",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2069,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/more-than-400-000-protest-across-france",
+      "title_ru": "Более 400 000 протестов по всей Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 12:04:50"
+    },
+    {
+      "id": 2068,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-midday",
+      "title_ru": "Последние новости | 25 октября 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 12:04:50"
+    },
+    {
+      "id": 2067,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
+      "title_ru": "Израиль приказал закрыть контрольно-пропускные пункты на Западном берегу в день выборов после стрельбы в Хевроне",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 12:04:49"
+    },
     {
       "id": 2066,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 23 октября 2026 года – утро",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2012,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/23/drones-ai-and-cybersecurity-on-display-as-milipol-qatar-brings-together-firms-from-33-coun",
-      "title_ru": "Дроны, ИИ и кибербезопасность на выставке Milipol Qatar объединяет фирмы из 33 стран",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 07:21:22"
-    },
-    {
-      "id": 2011,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns",
-      "title_ru": "«История любви» между ЕС и Канадой нуждается не только в теплых словах, предупреждает старший евродепутат",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 07:21:21"
-    },
-    {
-      "id": 2010,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "96% коралловых рифов в мире сталкиваются с критическим риском коллапса, предупреждает МСОП",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2009,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Лина Атталах: Журналистку Мада Маср отправили под суд в Египет",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2008,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Студенческие протесты в Албании только усиливаются",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2007,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh",
-      "title_ru": "Эмиратский дипломат может стать следующим главой ООН, несмотря на проблемы с правами человека",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 23:39:53"
     }
   ]
 }
