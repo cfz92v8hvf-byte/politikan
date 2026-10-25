@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-24T23:21:17.520837+00:00",
+  "updated_at": "2026-10-25T01:31:13.719021+00:00",
   "posts": [
+    {
+      "id": 2063,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Нигерия: Tinubu объявляет о переизбрании на фоне экономических проблем",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 01:31:13"
+    },
     {
       "id": 2062,
       "source": "DW",
@@ -472,14 +480,6 @@
       "title_ru": "Международный уголовный суд, ставший мишенью Трампа, получил высшую награду ЕС в области прав человека",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2003,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governor-s-race",
-      "title_ru": "Вэнс говорит республиканцам «перестать ныть» после объявления о нападении Рамасвами в гонке губернаторов Огайо",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 20:45:56"
     }
   ]
 }
