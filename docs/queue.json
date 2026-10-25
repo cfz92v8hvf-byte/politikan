@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-25T12:04:50.802768+00:00",
+  "updated_at": "2026-10-25T16:06:15.324292+00:00",
   "posts": [
+    {
+      "id": 2078,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff",
+      "title_ru": "Во втором туре президентских выборов в Бразилии открылись избирательные участки",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2077,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
+      "title_ru": "Неделя в фотографиях: протесты во Франции, лесные пожары в Индонезии и выборы в Бразилии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2076,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
+      "title_ru": "Ле Пен лидирует в опросах с 38% за шесть месяцев до выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 16:06:15"
+    },
+    {
+      "id": 2075,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
+      "title_ru": "В Бразилии начался второй тур президентских выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 16:06:14"
+    },
+    {
+      "id": 2074,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-110-000-protesters-in-paris",
+      "title_ru": "Франция: 110 000 протестующих в Париже",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 16:06:14"
+    },
+    {
+      "id": 2073,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump",
+      "title_ru": "Промежуточные выборы: Обама проводит кампанию в поддержку демократов и критикует Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 16:06:13"
+    },
     {
       "id": 2072,
       "source": "DW",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
       "title_ru": "Во Франции сотни тысяч людей вышли на марш протеста против правительства",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
       "title_ru": "Крайне правые во Франции собираются в то время, как Ле Пен готовит свою президентскую кампанию",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/23/albania-parliament-descends-into-chaos-as-mps-clash-over-protests",
       "title_ru": "Албания: Парламент погружается в хаос, поскольку депутаты сталкиваются из-за протестов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2018,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/23/trump-says-he-has-the-right-to-seek-a-third-presidential-term",
-      "title_ru": "Трамп заявил, что имеет право баллотироваться на третий президентский срок",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2017,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/23/from-education-to-cancer-care-global-summit-calls-for-better-support-for-children",
-      "title_ru": "От образования к лечению рака: Глобальный саммит призывает к улучшению поддержки детей",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 12:49:25"
-    },
-    {
-      "id": 2016,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system",
-      "title_ru": "США предлагают смешанные сообщения о лимитах для украинской системы Starshield",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 07:21:21"
-    },
-    {
-      "id": 2015,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261023-brazil-why-should-you-care-about-the-country-s-elections",
-      "title_ru": "🇧🇷 Бразилия: Почему вас должны волновать выборы в стране?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-23 07:21:20"
-    },
-    {
-      "id": 2014,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/23/albanian-opposition-and-ruling-party-lawmakers-scuffle-in-parliament-over-student-protest-",
-      "title_ru": "Албанская оппозиция и законодатели правящей партии дерутся в парламенте из-за студенческих протестов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2013,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-morning",
-      "title_ru": "Последние новости | 23 октября 2026 года – утро",
       "status": "expired",
       "published_to_telegram_at": null
     }
