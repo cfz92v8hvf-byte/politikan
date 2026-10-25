@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-25T01:31:13.719021+00:00",
+  "updated_at": "2026-10-25T06:43:53.653255+00:00",
   "posts": [
+    {
+      "id": 2066,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Трамп объявил, что Audi построит в США завод стоимостью $ 4 млрд",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 06:43:53"
+    },
+    {
+      "id": 2065,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Сербии: студенческое движение стремится положить конец правлению Александра Вучича",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 06:43:53"
+    },
+    {
+      "id": 2064,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff",
+      "title_ru": "Что нужно знать, когда бразильцы выбирают между Лулой и Болсонару в напряженном президентском туре",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-25 06:43:52"
+    },
     {
       "id": 2063,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Эмиратский дипломат может стать следующим главой ООН, несмотря на проблемы с правами человека",
       "status": "published",
       "published_to_telegram_at": "2026-10-22 23:39:53"
-    },
-    {
-      "id": 2006,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/22/catholic-bishops-pray-over-trump-in-the-oval-office",
-      "title_ru": "Смотрите: католические епископы молятся за Трампа в Овальном кабинете",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-22 23:39:52"
-    },
-    {
-      "id": 2005,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261022-back-to-the-bolsonaros-brazil-presidential-run-off-goes-down-to-the-wire",
-      "title_ru": "Назад к Болсонаро? Второй тур президентских выборов в Бразилии идет под откос",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2004,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
-      "title_ru": "Международный уголовный суд, ставший мишенью Трампа, получил высшую награду ЕС в области прав человека",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
