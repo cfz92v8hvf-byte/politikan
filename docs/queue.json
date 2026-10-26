@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-26T10:57:44.856228+00:00",
+  "updated_at": "2026-10-26T17:16:42.898817+00:00",
   "posts": [
+    {
+      "id": 2106,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
+      "title_ru": "Оппоненты обвиняют Нетаньяху в разжигании напряженности в отношениях с Ираном перед выборами в Израиле",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 17:16:41"
+    },
+    {
+      "id": 2105,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+      "title_ru": "Алжир одобряет развертывание войск в Нигере: какова их миссия?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2104,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/26/ukraine-russian-strikes-hit-odesa-and-zaporizhzhia-injuring-four",
+      "title_ru": "Украина: российские авиаудары обрушились на Одессу и Запорожье, ранения получили четыре человека",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2103,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/26/from-the-mecca-defence-pact-to-tehran-talks-is-the-middle-easts-security-landscape-shiftin",
+      "title_ru": "От пакта об обороне Мекки до переговоров в Тегеране: меняется ли ландшафт безопасности на Ближнем Востоке?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 17:16:42"
+    },
+    {
+      "id": 2102,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening",
+      "title_ru": "Последние новости | 26 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 17:16:42"
+    },
+    {
+      "id": 2101,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
+      "title_ru": "Зеленский призывает месяц ждать, пока Хегсет подпишет контракт по ракетам Patriot",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 17:16:41"
+    },
     {
       "id": 2100,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Администрация Трампа подала в суд, чтобы заблокировать возможную победу демократов в сенатской гонке на Аляске",
       "status": "published",
       "published_to_telegram_at": "2026-10-24 12:03:32"
-    },
-    {
-      "id": 2046,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/donald-trump-challenges-alaska-senate-trace",
-      "title_ru": "Дональд Трамп оспаривает сенатский след Аляски",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 12:03:31"
-    },
-    {
-      "id": 2045,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-seeks-to-topple-cuba-s-government",
-      "title_ru": "США стремятся свергнуть правительство Кубы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 12:03:31"
-    },
-    {
-      "id": 2044,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress",
-      "title_ru": "Франция: Тысячи людей вышли на марш в Орлеане против Национального конгресса",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 12:03:30"
-    },
-    {
-      "id": 2043,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia",
-      "title_ru": "Рубио призывает кубинцев, стремящихся к переменам, сформировать «дискретное партнерство» с ЦРУ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2042,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory",
-      "title_ru": "На кадрах видно дымовые шлейфы после смертельного удара по российскому заводу",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2041,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Тайвань: тайфун «Чампи» унес жизни одного человека, более 500 получили ранения",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 07:10:31"
     }
   ]
 }
