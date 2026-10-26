@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-26T17:16:42.898817+00:00",
+  "updated_at": "2026-10-26T21:40:02.450163+00:00",
   "posts": [
+    {
+      "id": 2112,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/serbian-student-movement-eyes-power-after-election-triumph",
+      "title_ru": "Сербское студенческое движение видит силу после победы на выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 21:40:02"
+    },
+    {
+      "id": 2111,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261026-trump-offers-1-million-for-tipoffs-leading-to-vote-fraud-conviction-as-midterms-approach",
+      "title_ru": "Трамп предлагает $ 1 млн за наводки, ведущие к осуждению за мошенничество с голосованием по мере приближения промежуточных выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 21:40:02"
+    },
+    {
+      "id": 2110,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
+      "title_ru": "Падение Эль-Фашира, год спустя",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 21:40:01"
+    },
+    {
+      "id": 2109,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/26/russia-flames-engulf-buildings-after-ukrainian-drone-attack-in-voronezh-region",
+      "title_ru": "Россия: пламя охватило здания после атаки украинских беспилотников в Воронежской области",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2108,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
+      "title_ru": "Мария Корина Мачадо хочет поговорить с Дельси Родригес после возвращения из изгнания",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2107,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
+      "title_ru": "Трамп говорит, что выборы в Бразилии выглядели «сфальсифицированными», не давая доказательств",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-26 21:40:01"
+    },
     {
       "id": 2106,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Париж: протест начинается в Порт-д'Италия, после изменения маршрута в последнюю минуту",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2052,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-anti-far-right-protest-in-orleans",
-      "title_ru": "Франция: Протест против ультраправых в Орлеане",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 15:50:55"
-    },
-    {
-      "id": 2051,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb",
-      "title_ru": "Макрон осудил расистский теракт в пригороде Парижа",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 15:50:54"
-    },
-    {
-      "id": 2050,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/fresh-protests-across-france",
-      "title_ru": "Свежие протесты по всей Франции",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 15:50:54"
-    },
-    {
-      "id": 2049,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday",
-      "title_ru": "Последние новости | 24 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2048,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
-      "title_ru": "Израиль выселяет около 250 палестинских семей из города Хеврон на Западном берегу после гибели солдат",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 15:50:53"
-    },
-    {
-      "id": 2047,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261024-trump-administration-sues-to-block-possible-democratic-win-in-alaska-senate-race",
-      "title_ru": "Администрация Трампа подала в суд, чтобы заблокировать возможную победу демократов в сенатской гонке на Аляске",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 12:03:32"
     }
   ]
 }
