@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-27T00:53:22.824763+00:00",
+  "updated_at": "2026-10-27T06:10:51.624641+00:00",
   "posts": [
+    {
+      "id": 2124,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Украина и Россия начали Олешковское перемирие для миссии помощи",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2123,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Бразилии: Мерц, мировые лидеры поздравляют Лулу с победой",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 06:10:51"
+    },
+    {
+      "id": 2122,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
+      "title_ru": "Торговое перемирие между США и ЕС под угрозой из-за кредита Airbus на $ 3,4 млрд, предупреждает чиновник Трампа",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2121,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+      "title_ru": "Израиль голосует на первых выборах после нападения 7 октября, поскольку Нетаньяху сталкивается с решающим испытанием",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 06:10:51"
+    },
+    {
+      "id": 2120,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/27/us-brokered-ceasefire-begins-in-russian-occupied-oleshky-as-strikes-hit-kyiv",
+      "title_ru": "В оккупированном Россией Олешках начинается режим прекращения огня при посредничестве США, поскольку удары наносятся по Киеву",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 06:10:50"
+    },
+    {
+      "id": 2119,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-morning",
+      "title_ru": "Последние новости | 27 октября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 06:10:50"
+    },
     {
       "id": 2118,
       "source": "France 24",
@@ -14,7 +62,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
       "title_ru": "Протесты в Европе: фактчекинг вирусных видео на фоне заявлений о «хаосе»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Выборы в Сербии: студенческое движение стремится положить конец правлению Александра Вучича",
       "status": "published",
       "published_to_telegram_at": "2026-10-25 06:43:53"
-    },
-    {
-      "id": 2064,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff",
-      "title_ru": "Что нужно знать, когда бразильцы выбирают между Лулой и Болсонару в напряженном президентском туре",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 06:43:52"
-    },
-    {
-      "id": 2063,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Нигерия: Tinubu объявляет о переизбрании на фоне экономических проблем",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 01:31:13"
-    },
-    {
-      "id": 2062,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина: скорость спутника Starlink вернулась к норме",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 21:13:14"
-    },
-    {
-      "id": 2061,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
-      "title_ru": "Париж: 70 000 полицейских развернуты по всей стране",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2060,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
-      "title_ru": "«Марши прошли хорошо» – французское правительство на демонстрациях через неделю после грабежей и насилия",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 21:13:14"
-    },
-    {
-      "id": 2059,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
-      "title_ru": "Италия пострадала от новых протестов против стоимости жизни",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
