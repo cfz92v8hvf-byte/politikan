@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-27T06:10:51.624641+00:00",
+  "updated_at": "2026-10-27T12:23:18.626381+00:00",
   "posts": [
+    {
+      "id": 2130,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/27/israel-october-7-families-remember-victims-as-voters-head-to-polls",
+      "title_ru": "Израиль: 7 октября семьи вспоминают жертв, когда избиратели направляются на избирательные участки",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2129,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/27/merz-courts-asian-investors-as-he-insists-europe-remains-a-safe-bet",
+      "title_ru": "Мерц ухаживает за азиатскими инвесторами, поскольку он настаивает на том, что Европа остается безопасной ставкой",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2128,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub",
+      "title_ru": "Трамп назвал Норвегию «дерьмовой страной» из-за пренебрежения Нобелевской премией мира",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2127,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav",
+      "title_ru": "Израильтяне идут на выборы на первых с 7 октября всеобщих выборах без явного фаворита",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2126,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins",
+      "title_ru": "Украина: пожарные борются с пламенем и спасают собаку из руин Киева",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 12:23:18"
+    },
+    {
+      "id": 2125,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-midday",
+      "title_ru": "Последние новости | 27 октября 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 12:23:18"
+    },
     {
       "id": 2124,
       "source": "DW",
       "source_url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Украина и Россия начали Олешковское перемирие для миссии помощи",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Во Франции сотни тысяч людей вышли на марш протеста против правительства",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2070,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
-      "title_ru": "Крайне правые во Франции собираются в то время, как Ле Пен готовит свою президентскую кампанию",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2069,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/more-than-400-000-protest-across-france",
-      "title_ru": "Более 400 000 протестов по всей Франции",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 12:04:50"
-    },
-    {
-      "id": 2068,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-midday",
-      "title_ru": "Последние новости | 25 октября 2026 г. – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 12:04:50"
-    },
-    {
-      "id": 2067,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
-      "title_ru": "Израиль приказал закрыть контрольно-пропускные пункты на Западном берегу в день выборов после стрельбы в Хевроне",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 12:04:49"
-    },
-    {
-      "id": 2066,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трамп объявил, что Audi построит в США завод стоимостью $ 4 млрд",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 06:43:53"
-    },
-    {
-      "id": 2065,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Выборы в Сербии: студенческое движение стремится положить конец правлению Александра Вучича",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 06:43:53"
     }
   ]
 }
