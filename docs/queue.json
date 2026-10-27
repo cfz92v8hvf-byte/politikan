@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-27T12:23:18.626381+00:00",
+  "updated_at": "2026-10-27T18:11:47.234275+00:00",
   "posts": [
+    {
+      "id": 2136,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261027-usa-could-a-democrat-win-a-statewide-election-in-texas",
+      "title_ru": "США: Может ли демократ выиграть выборы по всему штату в Техасе?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2135,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
+      "title_ru": "Паспорта бразильского кандидата Флавио Болсонару аннулированы, местонахождение неизвестно",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 18:11:47"
+    },
+    {
+      "id": 2134,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+      "title_ru": "Выборы в Израиле: явка избирателей достигает 55% к 16:00 по местному времени",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 18:11:46"
+    },
+    {
+      "id": 2133,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+      "title_ru": "Израильтяне голосуют на напряженных выборах: что поставлено на карту?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 18:11:46"
+    },
+    {
+      "id": 2132,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/27/unacceptable-violation-syria-condemns-jordan-airstrikes",
+      "title_ru": "«Неприемлемое нарушение»: Сирия осуждает авиаудары Иордании",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2131,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
+      "title_ru": "Катар призывает Иран «проявить добрую волю», положив конец угрозам региону и вновь открыв Ормузский пролив",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 18:11:45"
+    },
     {
       "id": 2130,
       "source": "Euronews",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
       "title_ru": "Неделя в фотографиях: протесты во Франции, лесные пожары в Индонезии и выборы в Бразилии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2076,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
-      "title_ru": "Ле Пен лидирует в опросах с 38% за шесть месяцев до выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 16:06:15"
-    },
-    {
-      "id": 2075,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
-      "title_ru": "В Бразилии начался второй тур президентских выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 16:06:14"
-    },
-    {
-      "id": 2074,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-110-000-protesters-in-paris",
-      "title_ru": "Франция: 110 000 протестующих в Париже",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 16:06:14"
-    },
-    {
-      "id": 2073,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump",
-      "title_ru": "Промежуточные выборы: Обама проводит кампанию в поддержку демократов и критикует Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 16:06:13"
-    },
-    {
-      "id": 2072,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Бразилия голосует в жестком туре между левым Лулой и правым Флавио Болсонару",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-25 12:04:49"
-    },
-    {
-      "id": 2071,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
-      "title_ru": "Во Франции сотни тысяч людей вышли на марш протеста против правительства",
       "status": "expired",
       "published_to_telegram_at": null
     }
