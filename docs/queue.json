@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-26T21:40:02.450163+00:00",
+  "updated_at": "2026-10-27T00:53:22.824763+00:00",
   "posts": [
+    {
+      "id": 2118,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
+      "title_ru": "Выборы в Сербии: «Отслеживание мошенничества наверняка повлияло на результаты»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2117,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+      "title_ru": "Протесты в Европе: фактчекинг вирусных видео на фоне заявлений о «хаосе»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2116,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
+      "title_ru": "Страны пакта Мекки проводят переговоры с Ираном, чтобы предотвратить возобновление войны на Ближнем Востоке",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 00:53:22"
+    },
+    {
+      "id": 2115,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance",
+      "title_ru": "Ведущие державы НАТО в Европе обещают усилить оборонную роль и подтвердить альянс США",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 00:53:22"
+    },
+    {
+      "id": 2114,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
+      "title_ru": "Гарри Кейн заканчивает 25-летнюю засуху «Золотогомяча» в Англии, Путеллас выигрывает третью корону",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 00:53:21"
+    },
+    {
+      "id": 2113,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+      "title_ru": "Флавио Болсонару пообещал возглавить оппозицию после того, как бразильский суд введет запрет на въезд",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-27 00:53:21"
+    },
     {
       "id": 2112,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
       "title_ru": "Италия пострадала от новых протестов против стоимости жизни",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2058,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
-      "title_ru": "Йеменские повстанцы-хуситы заявляют о новых нападениях на нефтяные объекты и аэропорты по всей Саудовской Аравии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 18:44:06"
-    },
-    {
-      "id": 2057,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
-      "title_ru": "Тысячи людей вышли на улицы Тель-Авива с протестами против Нетаньяху",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 18:44:05"
-    },
-    {
-      "id": 2056,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
-      "title_ru": "«Виткофф должен уйти в отставку», - говорит глава украинского комитета",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 18:44:05"
-    },
-    {
-      "id": 2055,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening",
-      "title_ru": "Последние новости | 24 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2054,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
-      "title_ru": "Митинги, опросы общественного мнения и финальные дебаты - Бразилия готовится к президентским выборам в воскресенье",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-24 18:44:06"
-    },
-    {
-      "id": 2053,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route",
-      "title_ru": "Париж: протест начинается в Порт-д'Италия, после изменения маршрута в последнюю минуту",
       "status": "expired",
       "published_to_telegram_at": null
     }
