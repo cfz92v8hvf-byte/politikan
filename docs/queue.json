@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-28T07:30:17.209452+00:00",
+  "updated_at": "2026-10-28T14:23:53.299248+00:00",
   "posts": [
+    {
+      "id": 2158,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
+      "title_ru": "Число 🔴 погибших в результате столкновения поездов в центральной Испании возросло до 64, сообщает региональное правительство",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 14:23:53"
+    },
+    {
+      "id": 2157,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
+      "title_ru": "Западный берег: поселенцы используют беспилотники для наблюдения за палестинцами",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 14:23:52"
+    },
+    {
+      "id": 2156,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory",
+      "title_ru": "Бразилия: Лула празднует 81-й день рождения после победы на переизбрании",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2155,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-midday",
+      "title_ru": "Последние новости | 28 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2154,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "title_ru": "Испания: первые кадры показывают обломки смертельной аварии высокоскоростного поезда",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2153,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
+      "title_ru": "Трамп отменяет правила по метану для нефтегазовой промышленности США",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 14:23:52"
+    },
     {
       "id": 2152,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Алжир направит войска в Нигер впервые за более чем 50 лет",
       "status": "published",
       "published_to_telegram_at": "2026-10-26 10:57:43"
-    },
-    {
-      "id": 2098,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-morning",
-      "title_ru": "Последние новости | 26 октября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2097,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/26/brazil-thousands-flood-streets-to-celebrate-lulas-election-victory",
-      "title_ru": "Бразилия: Тысячи улиц наводнены, чтобы отпраздновать победу Лулы на выборах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2096,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/26/us-nicki-minaj-endorses-trump-at-michigan-republican-rally",
-      "title_ru": "США: Ники Минаж поддерживает Трампа на митинге республиканцев в Мичигане",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 10:57:44"
-    },
-    {
-      "id": 2095,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/26/from-metalworker-to-brazils-president-lula-da-silvas-rise",
-      "title_ru": "От металлообработчика до президента Бразилии: подъем Лулы да Силвы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 10:57:44"
-    },
-    {
-      "id": 2094,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Бразильский левый президент Лула выигрывает переизбрание против консервативного претендента Флавио Болсонару",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 04:56:52"
-    },
-    {
-      "id": 2093,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
-      "title_ru": "Какие проблемы ждут бразильца Лулу в его четвертый срок на посту президента?",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
