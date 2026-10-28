@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-28T01:37:24.337079+00:00",
+  "updated_at": "2026-10-28T07:30:17.209452+00:00",
   "posts": [
+    {
+      "id": 2152,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Выборы в Израиле: экзит-полы не показывают явного победителя, а судьба Нетаньяху неясна",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2151,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups",
+      "title_ru": "Правозащитные группы выступают против Ланы Нуссейбех из ОАЭ в качестве главы ООН из-за претензий Судана",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2150,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-morning",
+      "title_ru": "Последние новости | 28 октября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 07:30:17"
+    },
+    {
+      "id": 2149,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call",
+      "title_ru": "Европа сегодня: Израиль сталкивается с тупиком после голосования, скандинавские лидеры проводят редкий звонок Путину",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 07:30:16"
+    },
     {
       "id": 2148,
       "source": "DW",
@@ -22,7 +54,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
       "title_ru": "Выборы в Израиле: рекордная явка, поскольку Нетаньяху и Айзенкот остаются в тупике",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -448,38 +480,6 @@
       "title_ru": "Какие проблемы ждут бразильца Лулу в его четвертый срок на посту президента?",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2092,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-      "title_ru": "🔴 Live: Болсонару отказывается признавать результаты выборов в Бразилии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 04:56:53"
-    },
-    {
-      "id": 2091,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/brazil-elections-lula-leads-bolsonaro-with-80-of-votes-in/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Выборы в Бразилии: Лула возглавляет Болсонару, набрав 80% голосов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 00:06:52"
-    },
-    {
-      "id": 2090,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
-      "title_ru": "Доклад: глава ЦАХАЛа отступает от приказа Нетаньяху",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 00:06:53"
-    },
-    {
-      "id": 2089,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat",
-      "title_ru": "Сербия: толпы празднуют в Белграде после того, как Вучич признал поражение",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 00:06:53"
     }
   ]
 }
