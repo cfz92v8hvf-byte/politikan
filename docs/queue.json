@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-28T14:23:53.299248+00:00",
+  "updated_at": "2026-10-28T19:48:34.255028+00:00",
   "posts": [
+    {
+      "id": 2164,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
+      "title_ru": "Выборы в Израиле: какое влияние на Иран оказывает продолжающаяся война на Ближнем Востоке?",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2163,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro",
+      "title_ru": "США выдали визу побежденному кандидату в президенты Бразилии Флавио Болсонару",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 19:48:33"
+    },
+    {
+      "id": 2162,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96",
+      "title_ru": "«Si, se puede»: икона гражданских прав США Долорес Уэрта умерла в возрасте 96 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 19:48:33"
+    },
+    {
+      "id": 2161,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
+      "title_ru": "Путин обхаживает африканских лидеров, поскольку Москва стремится расширить свое присутствие в Африке",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 19:48:32"
+    },
+    {
+      "id": 2160,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo",
+      "title_ru": "Испания: спасатели ищут поврежденные обломки поезда возле Толедо",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2159,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-evening",
+      "title_ru": "Последние новости | 28 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 19:48:34"
+    },
     {
       "id": 2158,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Алжир одобряет развертывание войск в Нигере: какова их миссия?",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2104,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/26/ukraine-russian-strikes-hit-odesa-and-zaporizhzhia-injuring-four",
-      "title_ru": "Украина: российские авиаудары обрушились на Одессу и Запорожье, ранения получили четыре человека",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2103,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/26/from-the-mecca-defence-pact-to-tehran-talks-is-the-middle-easts-security-landscape-shiftin",
-      "title_ru": "От пакта об обороне Мекки до переговоров в Тегеране: меняется ли ландшафт безопасности на Ближнем Востоке?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 17:16:42"
-    },
-    {
-      "id": 2102,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening",
-      "title_ru": "Последние новости | 26 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 17:16:42"
-    },
-    {
-      "id": 2101,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
-      "title_ru": "Зеленский призывает месяц ждать, пока Хегсет подпишет контракт по ракетам Patriot",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 17:16:41"
-    },
-    {
-      "id": 2100,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat",
-      "title_ru": "«Сербия свободна»: Белград празднует поражение Вучича",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 10:57:44"
-    },
-    {
-      "id": 2099,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
-      "title_ru": "Алжир направит войска в Нигер впервые за более чем 50 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 10:57:43"
     }
   ]
 }
