@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-28T19:48:34.255028+00:00",
+  "updated_at": "2026-10-28T23:39:10.885695+00:00",
   "posts": [
+    {
+      "id": 2170,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
+      "title_ru": "Болсонару бежит из Бразилии в США после поражения на выборах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2169,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
+      "title_ru": "На фоне неопределенности по поводу помощи ЕС Виталий Ким настаивает на том, что у Украины нет другого выбора, кроме как бороться за родину",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2168,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened",
+      "title_ru": "Побег Болсонару в США: как это произошло",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2167,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+      "title_ru": "Ведущий федеральный судья США, который занимался делами 9/11, Трампа и Мадуро, умер в возрасте 92 лет",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2166,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
+      "title_ru": "Исторические достижения партий с арабским большинством на выборах в Израиле",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2165,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
+      "title_ru": "Цены на природный газ в ЕС превысили 100 € впервые с 2022 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-28 23:39:10"
+    },
     {
       "id": 2164,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
       "title_ru": "Выборы в Израиле: какое влияние на Иран оказывает продолжающаяся война на Ближнем Востоке?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Трамп предлагает $ 1 млн за наводки, ведущие к осуждению за мошенничество с голосованием по мере приближения промежуточных выборов",
       "status": "published",
       "published_to_telegram_at": "2026-10-26 21:40:02"
-    },
-    {
-      "id": 2110,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
-      "title_ru": "Падение Эль-Фашира, год спустя",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 21:40:01"
-    },
-    {
-      "id": 2109,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/26/russia-flames-engulf-buildings-after-ukrainian-drone-attack-in-voronezh-region",
-      "title_ru": "Россия: пламя охватило здания после атаки украинских беспилотников в Воронежской области",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2108,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
-      "title_ru": "Мария Корина Мачадо хочет поговорить с Дельси Родригес после возвращения из изгнания",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2107,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
-      "title_ru": "Трамп говорит, что выборы в Бразилии выглядели «сфальсифицированными», не давая доказательств",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 21:40:01"
-    },
-    {
-      "id": 2106,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
-      "title_ru": "Оппоненты обвиняют Нетаньяху в разжигании напряженности в отношениях с Ираном перед выборами в Израиле",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 17:16:41"
-    },
-    {
-      "id": 2105,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
-      "title_ru": "Алжир одобряет развертывание войск в Нигере: какова их миссия?",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
