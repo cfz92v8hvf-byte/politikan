@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-28T23:39:10.885695+00:00",
+  "updated_at": "2026-10-29T02:55:32.327240+00:00",
   "posts": [
+    {
+      "id": 2174,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/russia-woos-african-leaders-at-moscow-summit",
+      "title_ru": "Россия обхаживает африканских лидеров на московском саммите",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2173,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
+      "title_ru": "Флавио Болсонару утверждает, что он настоящий лидер Бразилии после бегства в США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2172,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+      "title_ru": "Железнодорожная авария в Испании произошла после того, как поезд был отправлен по ошибке: министр",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2171,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
+      "title_ru": "Канада и ЕС отказались от плана ассоциированного членства в попытке углубить связи",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 02:55:32"
+    },
     {
       "id": 2170,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Ведущие державы НАТО в Европе обещают усилить оборонную роль и подтвердить альянс США",
       "status": "published",
       "published_to_telegram_at": "2026-10-27 00:53:22"
-    },
-    {
-      "id": 2114,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
-      "title_ru": "Гарри Кейн заканчивает 25-летнюю засуху «Золотогомяча» в Англии, Путеллас выигрывает третью корону",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 00:53:21"
-    },
-    {
-      "id": 2113,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
-      "title_ru": "Флавио Болсонару пообещал возглавить оппозицию после того, как бразильский суд введет запрет на въезд",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 00:53:21"
-    },
-    {
-      "id": 2112,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/serbian-student-movement-eyes-power-after-election-triumph",
-      "title_ru": "Сербское студенческое движение видит силу после победы на выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 21:40:02"
-    },
-    {
-      "id": 2111,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261026-trump-offers-1-million-for-tipoffs-leading-to-vote-fraud-conviction-as-midterms-approach",
-      "title_ru": "Трамп предлагает $ 1 млн за наводки, ведущие к осуждению за мошенничество с голосованием по мере приближения промежуточных выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-26 21:40:02"
     }
   ]
 }
