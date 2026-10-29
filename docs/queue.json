@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-29T16:26:24.662164+00:00",
+  "updated_at": "2026-10-29T21:21:44.947973+00:00",
   "posts": [
+    {
+      "id": 2192,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
+      "title_ru": "«Глубоко регрессивный»: как французское правительство планирует заставить протестующих платить за беспорядки и грабежи",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2191,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
+      "title_ru": "Подозреваемый во французской стрельбе преднамеренно нацелился на мусульман и африкан",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 21:21:44"
+    },
+    {
+      "id": 2190,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261029-michigan-s-el-sayed-targeted-by-republicans-in-midterms-race-will-the-religion-card-work",
+      "title_ru": "Мичиганский Эль-Сайед, на который нацелены республиканцы в промежуточных выборах: будет ли работать религиозная карта?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 21:21:44"
+    },
+    {
+      "id": 2189,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+      "title_ru": "«Экстремистские правые идеологии» - растущая угроза во Франции и «в большей части демократического мира»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 21:21:44"
+    },
+    {
+      "id": 2188,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
+      "title_ru": "Патрик Стюарт, звезда «Звездного пути» и «Людей Икс», умер в возрасте 86 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 21:21:43"
+    },
+    {
+      "id": 2187,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-evening",
+      "title_ru": "Последние новости | 29 октября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2186,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Израильтяне голосуют на напряженных выборах: что поставлено на карту?",
       "status": "published",
       "published_to_telegram_at": "2026-10-27 18:11:46"
-    },
-    {
-      "id": 2132,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/27/unacceptable-violation-syria-condemns-jordan-airstrikes",
-      "title_ru": "«Неприемлемое нарушение»: Сирия осуждает авиаудары Иордании",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2131,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
-      "title_ru": "Катар призывает Иран «проявить добрую волю», положив конец угрозам региону и вновь открыв Ормузский пролив",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 18:11:45"
-    },
-    {
-      "id": 2130,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/27/israel-october-7-families-remember-victims-as-voters-head-to-polls",
-      "title_ru": "Израиль: 7 октября семьи вспоминают жертв, когда избиратели направляются на избирательные участки",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2129,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/27/merz-courts-asian-investors-as-he-insists-europe-remains-a-safe-bet",
-      "title_ru": "Мерц ухаживает за азиатскими инвесторами, поскольку он настаивает на том, что Европа остается безопасной ставкой",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2128,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub",
-      "title_ru": "Трамп назвал Норвегию «дерьмовой страной» из-за пренебрежения Нобелевской премией мира",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2127,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav",
-      "title_ru": "Израильтяне идут на выборы на первых с 7 октября всеобщих выборах без явного фаворита",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
