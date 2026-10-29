@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-29T09:48:04.222968+00:00",
+  "updated_at": "2026-10-29T16:26:24.662164+00:00",
   "posts": [
+    {
+      "id": 2186,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-midday",
+      "title_ru": "Последние новости | 29 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2185,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election",
+      "title_ru": "Израиль: протестующие требуют правительства арабо-еврейского единства после выборов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2184,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks",
+      "title_ru": "Джей Ди Вэнс связывается с высокопоставленным иранским чиновником в попытке возобновить мирные переговоры",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 16:26:24"
+    },
+    {
+      "id": 2183,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/29/after-the-victory-the-foreign-policy-and-governing-challenges-facing-serbias-student-movem",
+      "title_ru": "После победы: внешняя политика и проблемы управления, стоящие перед студенческим движением Сербии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 16:26:24"
+    },
+    {
+      "id": 2182,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/29/albania-opposition-mps-disrupt-parliament-with-smoke-flares",
+      "title_ru": "Албания: оппозиционные депутаты срывают работу парламента дымовыми факелами",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 16:26:23"
+    },
+    {
+      "id": 2181,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election",
+      "title_ru": "Партия Нетеньяху «Ликуд» заявляет о вмешательстве и мошенничестве на выборах в Израиле",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-29 16:26:23"
+    },
     {
       "id": 2180,
       "source": "DW",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief",
       "title_ru": "Европа сегодня: вторая катастрофа на высокоскоростной железной дороге за девять месяцев оставляет Испанию в горе",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Израильтяне идут на выборы на первых с 7 октября всеобщих выборах без явного фаворита",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2126,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins",
-      "title_ru": "Украина: пожарные борются с пламенем и спасают собаку из руин Киева",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 12:23:18"
-    },
-    {
-      "id": 2125,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-midday",
-      "title_ru": "Последние новости | 27 октября 2026 г. – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 12:23:18"
-    },
-    {
-      "id": 2124,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Украина и Россия начали Олешковское перемирие для миссии помощи",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2123,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Выборы в Бразилии: Мерц, мировые лидеры поздравляют Лулу с победой",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 06:10:51"
-    },
-    {
-      "id": 2122,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
-      "title_ru": "Торговое перемирие между США и ЕС под угрозой из-за кредита Airbus на $ 3,4 млрд, предупреждает чиновник Трампа",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2121,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
-      "title_ru": "Израиль голосует на первых выборах после нападения 7 октября, поскольку Нетаньяху сталкивается с решающим испытанием",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 06:10:51"
     }
   ]
 }
