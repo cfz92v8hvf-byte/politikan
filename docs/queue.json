@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-30T14:19:10.223224+00:00",
+  "updated_at": "2026-10-30T19:30:04.253362+00:00",
   "posts": [
+    {
+      "id": 2216,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts",
+      "title_ru": "«Пять церквей подожгли мусульмане?« Фейковые новости от исламофобских аккаунтов в социальных сетях",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 19:30:02"
+    },
+    {
+      "id": 2215,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
+      "title_ru": "Революционная гвардия Ирана сообщает о пожаре трех танкеров в Ормузском проливе, поскольку переговоры продолжаются",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2214,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
+      "title_ru": "Российская независимая газета «Новая газета» заявила, что будет закрыта под давлением Кремля",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2213,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/turkic-states-press-on-with-asia-europe-transport-projects-as-new-opportunities-emerge",
+      "title_ru": "Тюркские государства продолжают реализацию транспортных проектов Азия-Европа по мере появления новых возможностей",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 19:30:04"
+    },
+    {
+      "id": 2212,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-evening",
+      "title_ru": "Последние новости | 30 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 19:30:03"
+    },
+    {
+      "id": 2211,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
+      "title_ru": "Дипломаты ЕС возражают против фото Лаврова на G20, вызвав отмену со стороны США",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 19:30:03"
+    },
     {
       "id": 2210,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Западный берег: поселенцы используют беспилотники для наблюдения за палестинцами",
       "status": "published",
       "published_to_telegram_at": "2026-10-28 14:23:52"
-    },
-    {
-      "id": 2156,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory",
-      "title_ru": "Бразилия: Лула празднует 81-й день рождения после победы на переизбрании",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2155,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-midday",
-      "title_ru": "Последние новости | 28 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2154,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-      "title_ru": "Испания: первые кадры показывают обломки смертельной аварии высокоскоростного поезда",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2153,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
-      "title_ru": "Трамп отменяет правила по метану для нефтегазовой промышленности США",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 14:23:52"
-    },
-    {
-      "id": 2152,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Выборы в Израиле: экзит-полы не показывают явного победителя, а судьба Нетаньяху неясна",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2151,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups",
-      "title_ru": "Правозащитные группы выступают против Ланы Нуссейбех из ОАЭ в качестве главы ООН из-за претензий Судана",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
