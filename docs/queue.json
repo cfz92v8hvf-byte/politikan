@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-30T07:16:53.710310+00:00",
+  "updated_at": "2026-10-30T14:19:10.223224+00:00",
   "posts": [
+    {
+      "id": 2210,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/30/us-flowers-laid-at-patrick-stewarts-hollywood-star-after-his-death",
+      "title_ru": "США: цветы, возложенные к голливудской звезде Патрика Стюарта после его смерти",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2209,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/cameroonian-families-call-for-repatriation-of-relatives-sent-to-fight-for-russia-in-ukrain",
+      "title_ru": "Камерунские семьи призывают к репатриации родственников, отправленных воевать за Россию в Украину",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2208,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-midday",
+      "title_ru": "Последние новости | 30 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2207,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang",
+      "title_ru": "Китай отвергает сообщение о шпионском заговоре, нацеленном на Дженсена Хуана из Nvidia",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 14:19:10"
+    },
+    {
+      "id": 2206,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor",
+      "title_ru": "Северная Корея предупреждает Южную Корею баллистическими ракетами, поскольку Сеул призывает к переговорам для ослабления напряженности на границе",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 14:19:09"
+    },
+    {
+      "id": 2205,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
+      "title_ru": "Италия: Тысячи протестуют против роста стоимости жизни и расходов на оборону в ходе всеобщей забастовки",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 14:19:09"
+    },
     {
       "id": 2204,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Правозащитные группы выступают против Ланы Нуссейбех из ОАЭ в качестве главы ООН из-за претензий Судана",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2150,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-morning",
-      "title_ru": "Последние новости | 28 октября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 07:30:17"
-    },
-    {
-      "id": 2149,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call",
-      "title_ru": "Европа сегодня: Израиль сталкивается с тупиком после голосования, скандинавские лидеры проводят редкий звонок Путину",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 07:30:16"
-    },
-    {
-      "id": 2148,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Флавио Болсонару бежит из Бразилии в США на фоне расследования — отчеты",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2147,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Эксперты призывают к «глобальной чрезвычайной ситуации в области здравоохранения», поскольку климатический ущерб ускоряется",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 01:37:22"
-    },
-    {
-      "id": 2146,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
-      "title_ru": "Выборы в Израиле: рекордная явка, поскольку Нетаньяху и Айзенкот остаются в тупике",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2145,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
-      "title_ru": "Король Чарльз противостоит призывам извиниться за рабство во время карибского тура",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 01:37:23"
     }
   ]
 }
