@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-29T21:21:44.947973+00:00",
+  "updated_at": "2026-10-30T01:18:14.729128+00:00",
   "posts": [
+    {
+      "id": 2198,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Израильские выборы: Нетаньяху, главный соперник, не получает большинства после подсчета всех голосов",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 01:18:14"
+    },
+    {
+      "id": 2197,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Криптоплатформа Binance приостанавливает торги на фоне подозрений на взлом",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 01:18:13"
+    },
+    {
+      "id": 2196,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
+      "title_ru": "Президент ЕЦБ Лагард уходит в отставку, чтобы высказаться",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2195,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
+      "title_ru": "Тунисцев втянули в войну России на Украине",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2194,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
+      "title_ru": "Северная Корея тестирует ударные беспилотники, поскольку Ким призывает к «абсолютному превосходству»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 01:18:13"
+    },
+    {
+      "id": 2193,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv",
+      "title_ru": "Украина: российский удар убил двух девочек-подростков в Чернигове",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 01:18:14"
+    },
     {
       "id": 2192,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 27 октября 2026 года – вечер",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2138,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
-      "title_ru": "Парламент Египта одобрил военную поддержку Саудовской Аравии на фоне нападений хуситов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2137,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election",
-      "title_ru": "Экзит-полы указывают на отсутствие явного победителя на выборах в Израиле",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 22:22:12"
-    },
-    {
-      "id": 2136,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261027-usa-could-a-democrat-win-a-statewide-election-in-texas",
-      "title_ru": "США: Может ли демократ выиграть выборы по всему штату в Техасе?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2135,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
-      "title_ru": "Паспорта бразильского кандидата Флавио Болсонару аннулированы, местонахождение неизвестно",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 18:11:47"
-    },
-    {
-      "id": 2134,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
-      "title_ru": "Выборы в Израиле: явка избирателей достигает 55% к 16:00 по местному времени",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 18:11:46"
-    },
-    {
-      "id": 2133,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
-      "title_ru": "Израильтяне голосуют на напряженных выборах: что поставлено на карту?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 18:11:46"
     }
   ]
 }
