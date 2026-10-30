@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-30T01:18:14.729128+00:00",
+  "updated_at": "2026-10-30T07:16:53.710310+00:00",
   "posts": [
+    {
+      "id": 2204,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results",
+      "title_ru": "Блок Нетаньяху лидирует, но ему не хватает большинства, показывают официальные результаты Израиля",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2203,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
+      "title_ru": "Binance пострадала от взлома системы безопасности на сумму $ 6,3 млрд в результате потенциального ограбления рекордной криптовалюты",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2202,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case",
+      "title_ru": "Кандидат в президенты Франции Эдуар Филипп опрошен по делу о растрате",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 07:16:53"
+    },
+    {
+      "id": 2201,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
+      "title_ru": "Французский министр предупреждает об «очень высоком» риске насилия, поскольку страна готовится к протестам на Хэллоуин",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 07:16:52"
+    },
+    {
+      "id": 2200,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-morning",
+      "title_ru": "Последние новости | 30 октября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 07:16:53"
+    },
+    {
+      "id": 2199,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/europe-today-rare-oleshky-truce-holds-in-ukraine-albania-imposes-heavy-fines-on-protesters",
+      "title_ru": "Европа сегодня: Редкое Олешское перемирие держится в Украине, Албания накладывает тяжелые штрафы на протестующих",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 07:16:52"
+    },
     {
       "id": 2198,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Король Чарльз противостоит призывам извиниться за рабство во время карибского тура",
       "status": "published",
       "published_to_telegram_at": "2026-10-28 01:37:23"
-    },
-    {
-      "id": 2144,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament",
-      "title_ru": "Португалия: Лиссабонский жилищный кризис вызвал протесты у здания парламента",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 01:37:24"
-    },
-    {
-      "id": 2143,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/israel-opposition-supporters-celebrate-narrow-lead-in-exit-polls",
-      "title_ru": "Израиль: сторонники оппозиции отмечают узкое лидерство в экзит-полах",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 01:37:23"
-    },
-    {
-      "id": 2142,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
-      "title_ru": "Правительство Нетаньяху «атаковало» израильскую судебную систему, Верховный суд и демократические институты",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 22:22:13"
-    },
-    {
-      "id": 2141,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
-      "title_ru": "Момент истины Биби: Израиль голосует на первых с 7 октября всеобщих выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 22:22:12"
-    },
-    {
-      "id": 2140,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261027-israel-first-exit-polls-show-no-clear-winner-arab-parties-make-gains",
-      "title_ru": "Израиль: первые экзит-полы не показывают явного победителя, арабские партии добиваются успехов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-27 22:22:11"
-    },
-    {
-      "id": 2139,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-evening",
-      "title_ru": "Последние новости | 27 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
