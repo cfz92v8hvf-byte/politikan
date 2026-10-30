@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-30T19:30:04.253362+00:00",
+  "updated_at": "2026-10-30T23:08:17.833123+00:00",
   "posts": [
+    {
+      "id": 2222,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance",
+      "title_ru": "Олешки: Нет доступа к базовым потребностям, прекращение огня дает ограниченные возможности для гуманитарной помощи",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2221,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing",
+      "title_ru": "MAGA: Почему движение Трампа трещит?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2220,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations",
+      "title_ru": "Саммит ООН по природе одобрил два ключевых соглашения после переговоров на марафоне",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 23:08:17"
+    },
+    {
+      "id": 2219,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
+      "title_ru": "Жители оставили оккупированные Россией Олешки в эвакуации",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 23:08:17"
+    },
+    {
+      "id": 2218,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
+      "title_ru": "Первые юношеские Олимпийские игры в Африке",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-30 23:08:16"
+    },
+    {
+      "id": 2217,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
+      "title_ru": "Бразилия утверждает, что допросила Аргентину по поводу побега Болсонару, Буэнос-Айрес отрицает это",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2216,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "США выдали визу побежденному кандидату в президенты Бразилии Флавио Болсонару",
       "status": "published",
       "published_to_telegram_at": "2026-10-28 19:48:33"
-    },
-    {
-      "id": 2162,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96",
-      "title_ru": "«Si, se puede»: икона гражданских прав США Долорес Уэрта умерла в возрасте 96 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 19:48:33"
-    },
-    {
-      "id": 2161,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
-      "title_ru": "Путин обхаживает африканских лидеров, поскольку Москва стремится расширить свое присутствие в Африке",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 19:48:32"
-    },
-    {
-      "id": 2160,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo",
-      "title_ru": "Испания: спасатели ищут поврежденные обломки поезда возле Толедо",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2159,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-evening",
-      "title_ru": "Последние новости | 28 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 19:48:34"
-    },
-    {
-      "id": 2158,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
-      "title_ru": "Число 🔴 погибших в результате столкновения поездов в центральной Испании возросло до 64, сообщает региональное правительство",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 14:23:53"
-    },
-    {
-      "id": 2157,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
-      "title_ru": "Западный берег: поселенцы используют беспилотники для наблюдения за палестинцами",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 14:23:52"
     }
   ]
 }
