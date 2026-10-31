@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-31T14:50:12.717842+00:00",
+  "updated_at": "2026-10-31T18:52:30.519714+00:00",
   "posts": [
+    {
+      "id": 2242,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Украины: Эвакуированные из оккупированных Россией Олешек добрались до подконтрольной Киеву территории",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2241,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Протесты поколения Z охватили города по всей Германии",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 18:52:30"
+    },
+    {
+      "id": 2240,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+      "title_ru": "Хаменеи предостерег США и Израиль от новых атак",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 18:52:29"
+    },
+    {
+      "id": 2239,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-evening",
+      "title_ru": "Последние новости | 31 октября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 18:52:30"
+    },
     {
       "id": 2238,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "После победы: внешняя политика и проблемы управления, стоящие перед студенческим движением Сербии",
       "status": "published",
       "published_to_telegram_at": "2026-10-29 16:26:24"
-    },
-    {
-      "id": 2182,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/29/albania-opposition-mps-disrupt-parliament-with-smoke-flares",
-      "title_ru": "Албания: оппозиционные депутаты срывают работу парламента дымовыми факелами",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 16:26:23"
-    },
-    {
-      "id": 2181,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election",
-      "title_ru": "Партия Нетеньяху «Ликуд» заявляет о вмешательстве и мошенничестве на выборах в Израиле",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 16:26:23"
-    },
-    {
-      "id": 2180,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Индии: «Тараканы» поддерживают митинг Ганди против главы предвыборного штаба",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 09:48:03"
-    },
-    {
-      "id": 2179,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea",
-      "title_ru": "Северная Корея выпустила «около дюжины» баллистических ракет на фоне растущей напряженности в отношениях с Южной Кореей",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
