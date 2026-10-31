@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-30T23:08:17.833123+00:00",
+  "updated_at": "2026-10-31T02:28:56.981330+00:00",
   "posts": [
+    {
+      "id": 2226,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Премьер-министр Канады Марк Карни обсуждает переговоры с ЕС, чрезмерную зависимость от США и то, как вести себя с Дональдом Трампом в интервью DW.",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2225,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Польша: протестующие столкнулись с полицией из-за увольнения главы суда",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2224,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Европейские дипломаты избегают России на встрече G20 в США",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 02:28:56"
+    },
+    {
+      "id": 2223,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
+      "title_ru": "Протесты на Хэллоуин и французские обещания, среднесрочное настроение в США, что теперь будет с Израилем?",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 02:28:56"
+    },
     {
       "id": 2222,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Ведущий федеральный судья США, который занимался делами 9/11, Трампа и Мадуро, умер в возрасте 92 лет",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2166,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
-      "title_ru": "Исторические достижения партий с арабским большинством на выборах в Израиле",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2165,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
-      "title_ru": "Цены на природный газ в ЕС превысили 100 € впервые с 2022 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 23:39:10"
-    },
-    {
-      "id": 2164,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
-      "title_ru": "Выборы в Израиле: какое влияние на Иран оказывает продолжающаяся война на Ближнем Востоке?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2163,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro",
-      "title_ru": "США выдали визу побежденному кандидату в президенты Бразилии Флавио Болсонару",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-28 19:48:33"
     }
   ]
 }
