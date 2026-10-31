@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-31T02:28:56.981330+00:00",
+  "updated_at": "2026-10-31T08:46:34.951659+00:00",
   "posts": [
+    {
+      "id": 2232,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+      "title_ru": "Прямой эфир: верховный суд Франции запретил акцию протеста на Хэллоуин в центре Парижа и разрешил маршрут на окраине",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2231,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution",
+      "title_ru": "Флавио Болсонару опубликовал видео, в котором говорит, что он бежал из Бразилии из-за «преследования»",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 08:46:34"
+    },
+    {
+      "id": 2230,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-morning",
+      "title_ru": "Последние новости | 31 октября 2026 года – утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2229,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/31/travelling-beyond-the-borders-of-baku-through-fiction",
+      "title_ru": "Путешествие за пределы Баку через художественную литературу",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 08:46:34"
+    },
+    {
+      "id": 2228,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years",
+      "title_ru": "Зеленский поблагодарил США за сделку по 500 ракетам Patriot, но предупредил, что доставка может занять годы",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 08:46:33"
+    },
+    {
+      "id": 2227,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again",
+      "title_ru": "KÄRCHER Boss: Меньше регулирования, больше действий, чтобы снова привести Европу и Германию в порядок",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 08:46:33"
+    },
     {
       "id": 2226,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
       "title_ru": "Флавио Болсонару утверждает, что он настоящий лидер Бразилии после бегства в США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2172,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
-      "title_ru": "Железнодорожная авария в Испании произошла после того, как поезд был отправлен по ошибке: министр",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2171,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
-      "title_ru": "Канада и ЕС отказались от плана ассоциированного членства в попытке углубить связи",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 02:55:32"
-    },
-    {
-      "id": 2170,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
-      "title_ru": "Болсонару бежит из Бразилии в США после поражения на выборах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2169,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
-      "title_ru": "На фоне неопределенности по поводу помощи ЕС Виталий Ким настаивает на том, что у Украины нет другого выбора, кроме как бороться за родину",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2168,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened",
-      "title_ru": "Побег Болсонару в США: как это произошло",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2167,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
-      "title_ru": "Ведущий федеральный судья США, который занимался делами 9/11, Трампа и Мадуро, умер в возрасте 92 лет",
       "status": "expired",
       "published_to_telegram_at": null
     }
