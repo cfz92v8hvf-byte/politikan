@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-31T18:52:30.519714+00:00",
+  "updated_at": "2026-10-31T22:24:36.860730+00:00",
   "posts": [
+    {
+      "id": 2243,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Сербия после Вучича: Победители теряют терпение",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 22:24:36"
+    },
     {
       "id": 2242,
       "source": "DW",
@@ -470,14 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks",
       "title_ru": "Джей Ди Вэнс связывается с высокопоставленным иранским чиновником в попытке возобновить мирные переговоры",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 16:26:24"
-    },
-    {
-      "id": 2183,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/29/after-the-victory-the-foreign-policy-and-governing-challenges-facing-serbias-student-movem",
-      "title_ru": "После победы: внешняя политика и проблемы управления, стоящие перед студенческим движением Сербии",
       "status": "published",
       "published_to_telegram_at": "2026-10-29 16:26:24"
     }
