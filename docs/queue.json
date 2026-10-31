@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-31T08:46:34.951659+00:00",
+  "updated_at": "2026-10-31T14:50:12.717842+00:00",
   "posts": [
+    {
+      "id": 2238,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261031-united-states-atmosphere-of-fear-trump-moves-to-curtail-voting-rights-ahead-of-the-midterms",
+      "title_ru": "«Атмосфера страха»: Трамп движется к сокращению избирательных прав в преддверии промежуточных выборов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2237,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
+      "title_ru": "Трамп против MAGA: почему его движение расколото",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2236,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/third-weekend-of-protests-in-france",
+      "title_ru": "Третий уик-энд протестов во Франции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2235,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-s-nunez-warns-of-high-risk-during-protests",
+      "title_ru": "Французский Нуньес предупреждает о высоком риске во время протестов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2234,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
+      "title_ru": "Турция назначила бывшего министра иностранных дел Синирлиоглу главой ООН",
+      "status": "published",
+      "published_to_telegram_at": "2026-10-31 14:50:12"
+    },
+    {
+      "id": 2233,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday",
+      "title_ru": "Последние новости | 31 октября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2232,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
       "title_ru": "Прямой эфир: верховный суд Франции запретил акцию протеста на Хэллоуин в центре Парижа и разрешил маршрут на окраине",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-morning",
       "title_ru": "Последние новости | 31 октября 2026 года – утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea",
       "title_ru": "Северная Корея выпустила «около дюжины» баллистических ракет на фоне растущей напряженности в отношениях с Южной Кореей",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2178,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us",
-      "title_ru": "Болсонару утверждает, что он настоящий лидер Бразилии после бегства в США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2177,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning",
-      "title_ru": "Последние новости | 29 октября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2176,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief",
-      "title_ru": "Европа сегодня: вторая катастрофа на высокоскоростной железной дороге за девять месяцев оставляет Испанию в горе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2175,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/29/putin-calls-elon-musk-a-genius-as-russia-builds-its-own-starlink-rival",
-      "title_ru": "Путин называет Илона Маска «гением», поскольку Россия строит своего собственного конкурента Starlink",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 09:48:03"
-    },
-    {
-      "id": 2174,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/russia-woos-african-leaders-at-moscow-summit",
-      "title_ru": "Россия обхаживает африканских лидеров на московском саммите",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2173,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
-      "title_ru": "Флавио Болсонару утверждает, что он настоящий лидер Бразилии после бегства в США",
       "status": "expired",
       "published_to_telegram_at": null
     }
