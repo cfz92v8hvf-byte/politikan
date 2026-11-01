@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-01T14:59:28.471285+00:00",
+  "updated_at": "2026-11-01T19:30:41.630728+00:00",
   "posts": [
+    {
+      "id": 2261,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-midterms-democrats-face-leftward-surge",
+      "title_ru": "Промежуточные выборы в США: демократы сталкиваются с левым всплеском",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2260,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
+      "title_ru": "Олешки возвращаются в Украину",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2259,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end",
+      "title_ru": "Олешки: Завершились эвакуации во время первого гуманитарного перемирия войны",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 19:30:41"
+    },
+    {
+      "id": 2258,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/thousands-join-indian-opposition-protest",
+      "title_ru": "Тысячи людей присоединились к протесту индийской оппозиции",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 19:30:40"
+    },
+    {
+      "id": 2257,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-route-du-rhum-yacht-race-sets-off",
+      "title_ru": "Франция: яхтенная гонка Route du Rhum отправляется в путь",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 19:30:40"
+    },
+    {
+      "id": 2256,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-evening",
+      "title_ru": "Последние новости | 1 ноября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 19:30:41"
+    },
     {
       "id": 2255,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Кандидат в президенты Франции Эдуар Филипп опрошен по делу о растрате",
       "status": "published",
       "published_to_telegram_at": "2026-10-30 07:16:53"
-    },
-    {
-      "id": 2201,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
-      "title_ru": "Французский министр предупреждает об «очень высоком» риске насилия, поскольку страна готовится к протестам на Хэллоуин",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 07:16:52"
-    },
-    {
-      "id": 2200,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-morning",
-      "title_ru": "Последние новости | 30 октября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 07:16:53"
-    },
-    {
-      "id": 2199,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/europe-today-rare-oleshky-truce-holds-in-ukraine-albania-imposes-heavy-fines-on-protesters",
-      "title_ru": "Европа сегодня: Редкое Олешское перемирие держится в Украине, Албания накладывает тяжелые штрафы на протестующих",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 07:16:52"
-    },
-    {
-      "id": 2198,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Израильские выборы: Нетаньяху, главный соперник, не получает большинства после подсчета всех голосов",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 01:18:14"
-    },
-    {
-      "id": 2197,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Криптоплатформа Binance приостанавливает торги на фоне подозрений на взлом",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 01:18:13"
-    },
-    {
-      "id": 2196,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
-      "title_ru": "Президент ЕЦБ Лагард уходит в отставку, чтобы высказаться",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
