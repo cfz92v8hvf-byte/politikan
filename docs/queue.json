@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-01T08:03:04.587713+00:00",
+  "updated_at": "2026-11-01T14:59:28.471285+00:00",
   "posts": [
+    {
+      "id": 2255,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261101-french-high-school-blockades-to-restart-on-monday-student-unions-say",
+      "title_ru": "Блокада французских средних школ возобновится в понедельник, говорят студенческие профсоюзы",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 14:59:27"
+    },
+    {
+      "id": 2254,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
+      "title_ru": "ООН требует срочного расследования после смерти сотрудника, содержащегося под стражей в Хути",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2253,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-midday",
+      "title_ru": "Последние новости | 1 ноября 2026 года – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2252,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
+      "title_ru": "Верховный лидер Ирана предупреждает о «географически неограниченном ответе», если США снова нападут",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 14:59:28"
+    },
+    {
+      "id": 2251,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/01/flags-banners-and-chants-at-youth-protest-in-berlin",
+      "title_ru": "Флаги, транспаранты и лозунги на молодежной акции протеста в Берлине",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 14:59:28"
+    },
+    {
+      "id": 2250,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope",
+      "title_ru": "Министр иностранных дел Швейцарии совершил первый визит в Северную Корею с 2003 года, когда дипломатический офис возобновил работу",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 14:59:27"
+    },
     {
       "id": 2249,
       "source": "DW",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
       "title_ru": "Последние новости | 1 ноября 2026 года – утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -46,7 +94,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
       "title_ru": "Еврокомиссия: Парламент Польши имеет право назначать судей в Конституционный суд",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Президент ЕЦБ Лагард уходит в отставку, чтобы высказаться",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2195,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
-      "title_ru": "Тунисцев втянули в войну России на Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2194,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
-      "title_ru": "Северная Корея тестирует ударные беспилотники, поскольку Ким призывает к «абсолютному превосходству»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 01:18:13"
-    },
-    {
-      "id": 2193,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv",
-      "title_ru": "Украина: российский удар убил двух девочек-подростков в Чернигове",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 01:18:14"
-    },
-    {
-      "id": 2192,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
-      "title_ru": "«Глубоко регрессивный»: как французское правительство планирует заставить протестующих платить за беспорядки и грабежи",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2191,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
-      "title_ru": "Подозреваемый во французской стрельбе преднамеренно нацелился на мусульман и африкан",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 21:21:44"
-    },
-    {
-      "id": 2190,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261029-michigan-s-el-sayed-targeted-by-republicans-in-midterms-race-will-the-religion-card-work",
-      "title_ru": "Мичиганский Эль-Сайед, на который нацелены республиканцы в промежуточных выборах: будет ли работать религиозная карта?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 21:21:44"
     }
   ]
 }
