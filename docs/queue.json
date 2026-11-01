@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-01T19:30:41.630728+00:00",
+  "updated_at": "2026-11-01T22:59:35.249050+00:00",
   "posts": [
+    {
+      "id": 2266,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Сербия: Начальник полиции арестован после избрания за злоупотребление служебным положением",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2265,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Гигантский новый радар России в Калининграде вызывает тревогу в НАТО",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 22:59:35"
+    },
+    {
+      "id": 2264,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
+      "title_ru": "«Предательство» в Мичигане и среднесрочные манувры",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2263,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
+      "title_ru": "Миротворческая миссия ООН в спорной Западной Сахаре заканчивается спустя 35 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 22:59:34"
+    },
+    {
+      "id": 2262,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
+      "title_ru": "Кандидат в президенты Франции Эдуар Филипп отвергает правоцентристские праймериз",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 22:59:34"
+    },
     {
       "id": 2261,
       "source": "France 24",
@@ -440,46 +480,6 @@
       "title_ru": "Китай отвергает сообщение о шпионском заговоре, нацеленном на Дженсена Хуана из Nvidia",
       "status": "published",
       "published_to_telegram_at": "2026-10-30 14:19:10"
-    },
-    {
-      "id": 2206,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor",
-      "title_ru": "Северная Корея предупреждает Южную Корею баллистическими ракетами, поскольку Сеул призывает к переговорам для ослабления напряженности на границе",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 14:19:09"
-    },
-    {
-      "id": 2205,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
-      "title_ru": "Италия: Тысячи протестуют против роста стоимости жизни и расходов на оборону в ходе всеобщей забастовки",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 14:19:09"
-    },
-    {
-      "id": 2204,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results",
-      "title_ru": "Блок Нетаньяху лидирует, но ему не хватает большинства, показывают официальные результаты Израиля",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2203,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
-      "title_ru": "Binance пострадала от взлома системы безопасности на сумму $ 6,3 млрд в результате потенциального ограбления рекордной криптовалюты",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2202,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case",
-      "title_ru": "Кандидат в президенты Франции Эдуар Филипп опрошен по делу о растрате",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 07:16:53"
     }
   ]
 }
