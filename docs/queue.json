@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-01T01:24:26.399126+00:00",
+  "updated_at": "2026-11-01T08:03:04.587713+00:00",
   "posts": [
+    {
+      "id": 2249,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Боливия объявляет чрезвычайное положение, поскольку Эль-Ниньо усиливается, угрожает суровая погода",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 08:03:04"
+    },
+    {
+      "id": 2248,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Болгары голосуют в крайне поляризованном президентском туре, омраченном войной на Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 08:03:03"
+    },
+    {
+      "id": 2247,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "ФБР утверждает, что Северная Корея стоит за кражей криптовалюты Binance на $ 6 млрд",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 08:03:02"
+    },
+    {
+      "id": 2246,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
+      "title_ru": "Индия ужесточает меры безопасности, поскольку оппозиция проводит мега-митинг с требованием отставки главы предвыборного штаба",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-01 08:03:03"
+    },
+    {
+      "id": 2245,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
+      "title_ru": "Последние новости | 1 ноября 2026 года – утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2244,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
+      "title_ru": "Еврокомиссия: Парламент Польши имеет право назначать судей в Конституционный суд",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2243,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Мичиганский Эль-Сайед, на который нацелены республиканцы в промежуточных выборах: будет ли работать религиозная карта?",
       "status": "published",
       "published_to_telegram_at": "2026-10-29 21:21:44"
-    },
-    {
-      "id": 2189,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-      "title_ru": "«Экстремистские правые идеологии» - растущая угроза во Франции и «в большей части демократического мира»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 21:21:44"
-    },
-    {
-      "id": 2188,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
-      "title_ru": "Патрик Стюарт, звезда «Звездного пути» и «Людей Икс», умер в возрасте 86 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 21:21:43"
-    },
-    {
-      "id": 2187,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-evening",
-      "title_ru": "Последние новости | 29 октября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2186,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-midday",
-      "title_ru": "Последние новости | 29 октября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2185,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election",
-      "title_ru": "Израиль: протестующие требуют правительства арабо-еврейского единства после выборов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2184,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks",
-      "title_ru": "Джей Ди Вэнс связывается с высокопоставленным иранским чиновником в попытке возобновить мирные переговоры",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-29 16:26:24"
     }
   ]
 }
