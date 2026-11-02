@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-02T09:53:13.334720+00:00",
+  "updated_at": "2026-11-02T20:14:07.033546+00:00",
   "posts": [
+    {
+      "id": 2280,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261102-french-student-protests-illiberal-macron-govt-dismisses-social-movement-as-urban-violence",
+      "title_ru": "Французские студенческие протесты: «Нелиберальное» правительство Макрона отвергает социальное движение как «городское насилие»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 20:14:06"
+    },
+    {
+      "id": 2279,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israeli-unity-government-efrat-shapira-expects-herzog-will-urge-rival-camps-to-form-a-coalition",
+      "title_ru": "Израильское «правительство единства»: Эфрат Шапира ожидает, что Герцог призовет соперничающие лагеря сформировать «коалицию»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 20:14:06"
+    },
+    {
+      "id": 2278,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him",
+      "title_ru": "MAGA: Почему самые преданные сторонники Трампа поворачиваются против него?",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 20:14:06"
+    },
+    {
+      "id": 2277,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261102-free-and-fair-the-midterms-and-the-state-of-us-democracy",
+      "title_ru": "Свободные и справедливые? Промежуточные выборы и состояние демократии в США",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 20:14:05"
+    },
+    {
+      "id": 2276,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/02/ukraines-stargate-drone-carries-wounded-troops-from-frontline",
+      "title_ru": "Украинский беспилотник «Звездные врата» перевозит раненых военнослужащих с линии фронта",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2275,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-evening",
+      "title_ru": "Последние новости | 2 ноября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2274,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing",
       "title_ru": "MAGA: Почему движение Трампа трещит?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2220,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations",
-      "title_ru": "Саммит ООН по природе одобрил два ключевых соглашения после переговоров на марафоне",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 23:08:17"
-    },
-    {
-      "id": 2219,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
-      "title_ru": "Жители оставили оккупированные Россией Олешки в эвакуации",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 23:08:17"
-    },
-    {
-      "id": 2218,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
-      "title_ru": "Первые юношеские Олимпийские игры в Африке",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 23:08:16"
-    },
-    {
-      "id": 2217,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
-      "title_ru": "Бразилия утверждает, что допросила Аргентину по поводу побега Болсонару, Буэнос-Айрес отрицает это",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2216,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts",
-      "title_ru": "«Пять церквей подожгли мусульмане?« Фейковые новости от исламофобских аккаунтов в социальных сетях",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 19:30:02"
-    },
-    {
-      "id": 2215,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
-      "title_ru": "Революционная гвардия Ирана сообщает о пожаре трех танкеров в Ормузском проливе, поскольку переговоры продолжаются",
       "status": "expired",
       "published_to_telegram_at": null
     }
