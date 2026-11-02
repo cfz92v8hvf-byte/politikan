@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-02T02:21:00.383940+00:00",
+  "updated_at": "2026-11-02T09:53:13.334720+00:00",
   "posts": [
+    {
+      "id": 2274,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+      "title_ru": "Мичиганский демократ оглушает партию, чтобы поддержать кандидата-республиканца в критической гонке в Сенате",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 09:53:13"
+    },
+    {
+      "id": 2273,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/rsf-publishes-list-of-press-freedom-predators-dictators-want-to-silence-journalists",
+      "title_ru": "РБГ опубликовала список «хищников» свободы прессы: «Диктаторы хотят заставить журналистов замолчать»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 09:53:12"
+    },
+    {
+      "id": 2272,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/focus/20261102-in-california-illegal-border-crossings-plummet-under-trump-administration",
+      "title_ru": "В Калифорнии под руководством Трампа резко упали незаконные пограничные переходы",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 09:53:12"
+    },
+    {
+      "id": 2271,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261102-israeli-army-withdraws-from-hebron-after-operation-displaces-thousands-of-palestinians",
+      "title_ru": "Израильская армия уходит из Хеврона после операции по перемещению тысяч палестинцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-02 09:53:12"
+    },
+    {
+      "id": 2270,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan",
+      "title_ru": "Трамп митингует в Айове и Канзасе в последний раз, когда демократические разногласия встряхивают Мичиган",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2269,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning",
+      "title_ru": "Последние новости | 2 ноября 2026 года – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2268,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
       "title_ru": "Революционная гвардия Ирана сообщает о пожаре трех танкеров в Ормузском проливе, поскольку переговоры продолжаются",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2214,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
-      "title_ru": "Российская независимая газета «Новая газета» заявила, что будет закрыта под давлением Кремля",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2213,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/turkic-states-press-on-with-asia-europe-transport-projects-as-new-opportunities-emerge",
-      "title_ru": "Тюркские государства продолжают реализацию транспортных проектов Азия-Европа по мере появления новых возможностей",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 19:30:04"
-    },
-    {
-      "id": 2212,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-evening",
-      "title_ru": "Последние новости | 30 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 19:30:03"
-    },
-    {
-      "id": 2211,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
-      "title_ru": "Дипломаты ЕС возражают против фото Лаврова на G20, вызвав отмену со стороны США",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-30 19:30:03"
-    },
-    {
-      "id": 2210,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/30/us-flowers-laid-at-patrick-stewarts-hollywood-star-after-his-death",
-      "title_ru": "США: цветы, возложенные к голливудской звезде Патрика Стюарта после его смерти",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2209,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/30/cameroonian-families-call-for-repatriation-of-relatives-sent-to-fight-for-russia-in-ukrain",
-      "title_ru": "Камерунские семьи призывают к репатриации родственников, отправленных воевать за Россию в Украину",
       "status": "expired",
       "published_to_telegram_at": null
     }
