@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-03T17:43:10.345764+00:00",
+  "updated_at": "2026-11-03T22:34:12.843133+00:00",
   "posts": [
+    {
+      "id": 2304,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
+      "title_ru": "Российские домохозяйства сталкиваются с растущим финансовым напряжением, поскольку война в Украине затягивается",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2303,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261103-trickle-or-tsunami-democrats-eye-gains-in-us-midterm-elections",
+      "title_ru": "Трикл или цунами? Демократы оценивают успехи на промежуточных выборах в США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2302,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261103-trump-promised-a-golden-age-what-has-he-delivered-at-home",
+      "title_ru": "Трамп обещал «золотой век». Что он доставил домой?",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 22:34:12"
+    },
+    {
+      "id": 2301,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends",
+      "title_ru": "Южная Африка готовится к некоторым потерям рабочих мест, поскольку AGOA заканчивается",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 22:34:12"
+    },
+    {
+      "id": 2300,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261103-trump-tariffs-hitting-small-businesses",
+      "title_ru": "Тарифы Трампа бьют по малому бизнесу",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 22:34:12"
+    },
+    {
+      "id": 2299,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms",
+      "title_ru": "Трамп заявил, что США прекратят военную помощь Израилю, поскольку американцы голосуют на промежуточных выборах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2298,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 1 ноября 2026 года – утро",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2244,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
-      "title_ru": "Еврокомиссия: Парламент Польши имеет право назначать судей в Конституционный суд",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2243,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Сербия после Вучича: Победители теряют терпение",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 22:24:36"
-    },
-    {
-      "id": 2242,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Украины: Эвакуированные из оккупированных Россией Олешек добрались до подконтрольной Киеву территории",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2241,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Протесты поколения Z охватили города по всей Германии",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 18:52:30"
-    },
-    {
-      "id": 2240,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-      "title_ru": "Хаменеи предостерег США и Израиль от новых атак",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 18:52:29"
-    },
-    {
-      "id": 2239,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-evening",
-      "title_ru": "Последние новости | 31 октября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 18:52:30"
     }
   ]
 }
