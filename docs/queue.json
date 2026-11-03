@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-02T20:14:07.033546+00:00",
+  "updated_at": "2026-11-03T02:25:03.530668+00:00",
   "posts": [
+    {
+      "id": 2286,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
+      "title_ru": "Уганда выводит войска из миротворческой миссии в Сомали",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2285,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
+      "title_ru": "Трамп пообещал «больше никаких войн». Его внешняя политика рассказывает другую историю",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2284,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
+      "title_ru": "Эксперт говорит, что экстренные оповещения о взломе «предназначены для подрыва доверия к правительству»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2283,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
+      "title_ru": "Северная Корея отвергает обвинения США в криптоограблении Binance на $ 6 млрд",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 02:25:03"
+    },
+    {
+      "id": 2282,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+      "title_ru": "Российские авиаудары убили 26 человек в Украине после окончания самого длительного перемирия",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 02:25:03"
+    },
+    {
+      "id": 2281,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland",
+      "title_ru": "Европейские силы проведут первые учения по поддержке Украины в Польше",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 02:25:02"
+    },
     {
       "id": 2280,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "KÄRCHER Boss: Меньше регулирования, больше действий, чтобы снова привести Европу и Германию в порядок",
       "status": "published",
       "published_to_telegram_at": "2026-10-31 08:46:33"
-    },
-    {
-      "id": 2226,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Премьер-министр Канады Марк Карни обсуждает переговоры с ЕС, чрезмерную зависимость от США и то, как вести себя с Дональдом Трампом в интервью DW.",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2225,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Польша: протестующие столкнулись с полицией из-за увольнения главы суда",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2224,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Европейские дипломаты избегают России на встрече G20 в США",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 02:28:56"
-    },
-    {
-      "id": 2223,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-      "title_ru": "Протесты на Хэллоуин и французские обещания, среднесрочное настроение в США, что теперь будет с Израилем?",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 02:28:56"
-    },
-    {
-      "id": 2222,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance",
-      "title_ru": "Олешки: Нет доступа к базовым потребностям, прекращение огня дает ограниченные возможности для гуманитарной помощи",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2221,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing",
-      "title_ru": "MAGA: Почему движение Трампа трещит?",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
