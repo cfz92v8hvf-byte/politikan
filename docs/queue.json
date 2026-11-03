@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-03T02:25:03.530668+00:00",
+  "updated_at": "2026-11-03T09:57:40.844072+00:00",
   "posts": [
+    {
+      "id": 2292,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261103-cpj-attacks-on-journalists-almost-always-precede-attacks-on-other-rights-to-broader-population",
+      "title_ru": "КЗЖ: «Нападения на журналистов почти всегда предшествуют нападениям на другие права более широкого населения»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2291,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "title_ru": "Промежуточные выборы в США в прямом эфире: более 58 миллионов бюллетеней проголосовали за рекордную явку на досрочное голосование",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2290,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261103-israeli-opposition-unites-behind-eisenkot-netanyahu-voters-chose-him-pm",
+      "title_ru": "Израильская оппозиция объединилась вокруг Айзенкота, поскольку Нетаньяху говорит, что избиратели выбрали его на пост премьер-министра",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 09:57:40"
+    },
+    {
+      "id": 2289,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections",
+      "title_ru": "США нанесли удар по иранскому острову Кешм в преддверии промежуточных выборов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2288,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-morning",
+      "title_ru": "Последние новости | 3 ноября 2026 года – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2287,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts",
+      "title_ru": "Результаты промежуточных выборов в США в 2026 году: обновления в реальном времени на картах и диаграммах",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-03 09:57:40"
+    },
     {
       "id": 2286,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 31 октября 2026 г. – полдень",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2232,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-      "title_ru": "Прямой эфир: верховный суд Франции запретил акцию протеста на Хэллоуин в центре Парижа и разрешил маршрут на окраине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2231,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution",
-      "title_ru": "Флавио Болсонару опубликовал видео, в котором говорит, что он бежал из Бразилии из-за «преследования»",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 08:46:34"
-    },
-    {
-      "id": 2230,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-morning",
-      "title_ru": "Последние новости | 31 октября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2229,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/31/travelling-beyond-the-borders-of-baku-through-fiction",
-      "title_ru": "Путешествие за пределы Баку через художественную литературу",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 08:46:34"
-    },
-    {
-      "id": 2228,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years",
-      "title_ru": "Зеленский поблагодарил США за сделку по 500 ракетам Patriot, но предупредил, что доставка может занять годы",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 08:46:33"
-    },
-    {
-      "id": 2227,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again",
-      "title_ru": "KÄRCHER Boss: Меньше регулирования, больше действий, чтобы снова привести Европу и Германию в порядок",
-      "status": "published",
-      "published_to_telegram_at": "2026-10-31 08:46:33"
     }
   ]
 }
