@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-04T02:40:11.047084+00:00",
+  "updated_at": "2026-11-04T09:56:51.951830+00:00",
   "posts": [
+    {
+      "id": 2315,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/04/historic-leadership-firsts-for-minorities-across-us-in-midterm-vote",
+      "title_ru": "Историческое лидерство для меньшинств по всей территории США на промежуточных выборах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2314,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/04/europe-today-democrats-win-senate-in-rebuke-of-trump-as-polands-crisis-drags-on",
+      "title_ru": "Европа сегодня: демократы побеждают в Сенате в упреке Трампу, поскольку конституционный кризис в Польше затягивается",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2313,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins",
+      "title_ru": "«Демократы проделали хорошую работу»: Трамп поздравил демократов с промежуточными победами",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 09:56:51"
+    },
+    {
+      "id": 2312,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/04/we-will-take-back-the-house-in-2028-us-house-speaker-johnson-promises-republican-comeback",
+      "title_ru": "«Мы вернем Палату представителей в 2028 году»: спикер Палаты представителей США Джонсон обещает возвращение республиканцев",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 09:56:51"
+    },
+    {
+      "id": 2311,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/04/us-midterm-elections-cheers-erupt-as-talaricos-texas-victory-is-projected",
+      "title_ru": "Промежуточные выборы в США: аплодисменты прорываются, поскольку прогнозируется победа Таларико в Техасе",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 09:56:51"
+    },
+    {
+      "id": 2310,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia",
+      "title_ru": "Украина: 33 погибших, более 50 пропавших без вести после российских бомбардировок в Запорожье",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 09:56:50"
+    },
     {
       "id": 2309,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Последние новости | 1 ноября 2026 года – вечер",
       "status": "published",
       "published_to_telegram_at": "2026-11-01 19:30:41"
-    },
-    {
-      "id": 2255,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261101-french-high-school-blockades-to-restart-on-monday-student-unions-say",
-      "title_ru": "Блокада французских средних школ возобновится в понедельник, говорят студенческие профсоюзы",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 14:59:27"
-    },
-    {
-      "id": 2254,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
-      "title_ru": "ООН требует срочного расследования после смерти сотрудника, содержащегося под стражей в Хути",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2253,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-midday",
-      "title_ru": "Последние новости | 1 ноября 2026 года – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2252,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
-      "title_ru": "Верховный лидер Ирана предупреждает о «географически неограниченном ответе», если США снова нападут",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 14:59:28"
-    },
-    {
-      "id": 2251,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/01/flags-banners-and-chants-at-youth-protest-in-berlin",
-      "title_ru": "Флаги, транспаранты и лозунги на молодежной акции протеста в Берлине",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 14:59:28"
-    },
-    {
-      "id": 2250,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope",
-      "title_ru": "Министр иностранных дел Швейцарии совершил первый визит в Северную Корею с 2003 года, когда дипломатический офис возобновил работу",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 14:59:27"
     }
   ]
 }
