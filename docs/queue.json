@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-04T17:55:55.195078+00:00",
+  "updated_at": "2026-11-04T23:33:29.491215+00:00",
   "posts": [
+    {
+      "id": 2327,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics",
+      "title_ru": "Плейбук Трампа на второй срок: фейковые новости, ИИ и атаки на его критиков",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2326,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
+      "title_ru": "Кандидаты, поддерживаемые Маском, проигрывают промежуточные выборы, несмотря на финансовую поддержку",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2325,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
+      "title_ru": "Южноафриканцы голосуют на ключевых муниципальных выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 23:33:29"
+    },
+    {
+      "id": 2324,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
+      "title_ru": "Нетаньяху утверждает, что «серьезные опасения» иностранных расходов влияют на выборы в Израиле",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 23:33:29"
+    },
+    {
+      "id": 2323,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/04/zelenski-makes-surprise-visit-to-madrid-for-talks-with-sanchez-and-latin-american-leaders",
+      "title_ru": "Зеленский совершил неожиданный визит в Мадрид для переговоров с Санчесом и латиноамериканскими лидерами",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 23:33:28"
+    },
+    {
+      "id": 2322,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc",
+      "title_ru": "Испания: Мадрид принимает 30-й Иберо-американский саммит с блоком из 22 стран",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 23:33:28"
+    },
     {
       "id": 2321,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/04/armenia-sees-totally-new-global-role-for-south-caucasus-as-a-whole",
       "title_ru": "Армения видит «совершенно новую глобальную роль» для Южного Кавказа «в целом»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Иран предупреждает, что возобновленная война с США может пережить предыдущий конфликт",
       "status": "published",
       "published_to_telegram_at": "2026-11-02 02:21:00"
-    },
-    {
-      "id": 2267,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
-      "title_ru": "Украина подозревает, что общенациональное приложение оповещения о воздушных налетах было взломано",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-02 02:20:59"
-    },
-    {
-      "id": 2266,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Сербия: Начальник полиции арестован после избрания за злоупотребление служебным положением",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2265,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Гигантский новый радар России в Калининграде вызывает тревогу в НАТО",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 22:59:35"
-    },
-    {
-      "id": 2264,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
-      "title_ru": "«Предательство» в Мичигане и среднесрочные манувры",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2263,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
-      "title_ru": "Миротворческая миссия ООН в спорной Западной Сахаре заканчивается спустя 35 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 22:59:34"
-    },
-    {
-      "id": 2262,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
-      "title_ru": "Кандидат в президенты Франции Эдуар Филипп отвергает правоцентристские праймериз",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 22:59:34"
     }
   ]
 }
