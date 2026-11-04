@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-04T09:56:51.951830+00:00",
+  "updated_at": "2026-11-04T17:55:55.195078+00:00",
   "posts": [
+    {
+      "id": 2321,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/once-in-a-generation-event-historic-election-a-shocking-repudiation-of-trump-the-maga-movement",
+      "title_ru": "«Событие, которое случается раз в поколение: исторические выборы - шокирующий отказ от Трампа и движения MAGA»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 17:55:54"
+    },
+    {
+      "id": 2320,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/04/after-us-midterms-a-weakened-trump-may-pose-a-greater-threat-to-europe",
+      "title_ru": "После промежуточных выборов в США ослабленный Трамп может представлять большую угрозу для Европы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2319,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/04/armenia-sees-totally-new-global-role-for-south-caucasus-as-a-whole",
+      "title_ru": "Армения видит «совершенно новую глобальную роль» для Южного Кавказа «в целом»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2318,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/04/ukraine-police-footage-captures-russian-strike-on-komyshuvakha-shelter",
+      "title_ru": "Украина: на кадрах милиции запечатлен удар РФ по укрытию в Комышувахе",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 17:55:55"
+    },
+    {
+      "id": 2317,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court",
+      "title_ru": "Великобритания: Полиция арестовывает сторонников акции «Палестина» у здания Верховного суда",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 17:55:54"
+    },
+    {
+      "id": 2316,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-evening",
+      "title_ru": "Последние новости | 4 ноября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 17:55:54"
+    },
     {
       "id": 2315,
       "source": "Euronews",
@@ -14,7 +62,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/04/europe-today-democrats-win-senate-in-rebuke-of-trump-as-polands-crisis-drags-on",
       "title_ru": "Европа сегодня: демократы побеждают в Сенате в упреке Трампу, поскольку конституционный кризис в Польше затягивается",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Кандидат в президенты Франции Эдуар Филипп отвергает правоцентристские праймериз",
       "status": "published",
       "published_to_telegram_at": "2026-11-01 22:59:34"
-    },
-    {
-      "id": 2261,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-midterms-democrats-face-leftward-surge",
-      "title_ru": "Промежуточные выборы в США: демократы сталкиваются с левым всплеском",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2260,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
-      "title_ru": "Олешки возвращаются в Украину",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2259,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end",
-      "title_ru": "Олешки: Завершились эвакуации во время первого гуманитарного перемирия войны",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 19:30:41"
-    },
-    {
-      "id": 2258,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/thousands-join-indian-opposition-protest",
-      "title_ru": "Тысячи людей присоединились к протесту индийской оппозиции",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 19:30:40"
-    },
-    {
-      "id": 2257,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-route-du-rhum-yacht-race-sets-off",
-      "title_ru": "Франция: яхтенная гонка Route du Rhum отправляется в путь",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 19:30:40"
-    },
-    {
-      "id": 2256,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-evening",
-      "title_ru": "Последние новости | 1 ноября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 19:30:41"
     }
   ]
 }
