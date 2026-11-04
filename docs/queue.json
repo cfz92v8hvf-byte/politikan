@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-03T22:34:12.843133+00:00",
+  "updated_at": "2026-11-04T02:40:11.047084+00:00",
   "posts": [
+    {
+      "id": 2309,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Министр транспорта Испании подал в отставку после аварии поезда",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2308,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "США сократят почти на $ 4 млрд военную помощь Израилю, заявил Трамп",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 02:40:10"
+    },
+    {
+      "id": 2307,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Промежуточные выборы в США: демократ побеждает в Северной Каролине, поскольку закрываются первые избирательные участки",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 02:40:10"
+    },
+    {
+      "id": 2306,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
+      "title_ru": "Историк Тимоти Снайдер: Трамп проводит внешнюю политику США «как если бы он был организованным преступником»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2305,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
+      "title_ru": "Демократия в США, усталость Трампа, стоимость жизни являются главными проблемами для избирателей, согласно опросу AP",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-04 02:40:10"
+    },
     {
       "id": 2304,
       "source": "France 24",
@@ -440,46 +480,6 @@
       "title_ru": "Министр иностранных дел Швейцарии совершил первый визит в Северную Корею с 2003 года, когда дипломатический офис возобновил работу",
       "status": "published",
       "published_to_telegram_at": "2026-11-01 14:59:27"
-    },
-    {
-      "id": 2249,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Боливия объявляет чрезвычайное положение, поскольку Эль-Ниньо усиливается, угрожает суровая погода",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 08:03:04"
-    },
-    {
-      "id": 2248,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Болгары голосуют в крайне поляризованном президентском туре, омраченном войной на Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 08:03:03"
-    },
-    {
-      "id": 2247,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "ФБР утверждает, что Северная Корея стоит за кражей криптовалюты Binance на $ 6 млрд",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 08:03:02"
-    },
-    {
-      "id": 2246,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
-      "title_ru": "Индия ужесточает меры безопасности, поскольку оппозиция проводит мега-митинг с требованием отставки главы предвыборного штаба",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-01 08:03:03"
-    },
-    {
-      "id": 2245,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
-      "title_ru": "Последние новости | 1 ноября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
