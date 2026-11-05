@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-04T23:33:29.491215+00:00",
+  "updated_at": "2026-11-05T03:42:08.140960+00:00",
   "posts": [
+    {
+      "id": 2330,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Демократы отбирают Палату представителей и Сенат у республиканцев в промежуточном разгроме в США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2329,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
+      "title_ru": "Южная Корея развернет военную миссию, чтобы держать Ормузский пролив открытым",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-05 03:42:08"
+    },
+    {
+      "id": 2328,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
+      "title_ru": "Гонконгский активист Джошуа Вонг получил еще 10 лет тюрьмы за иностранный сговор",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-05 03:42:07"
+    },
     {
       "id": 2327,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics",
       "title_ru": "Плейбук Трампа на второй срок: фейковые новости, ИИ и атаки на его критиков",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -14,7 +38,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
       "title_ru": "Кандидаты, поддерживаемые Маском, проигрывают промежуточные выборы, несмотря на финансовую поддержку",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -456,30 +480,6 @@
       "title_ru": "Израильская армия уходит из Хеврона после операции по перемещению тысяч палестинцев",
       "status": "published",
       "published_to_telegram_at": "2026-11-02 09:53:12"
-    },
-    {
-      "id": 2270,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan",
-      "title_ru": "Трамп митингует в Айове и Канзасе в последний раз, когда демократические разногласия встряхивают Мичиган",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2269,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning",
-      "title_ru": "Последние новости | 2 ноября 2026 года – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2268,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
-      "title_ru": "Иран предупреждает, что возобновленная война с США может пережить предыдущий конфликт",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-02 02:21:00"
     }
   ]
 }
