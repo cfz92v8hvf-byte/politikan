@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-05T03:42:08.140960+00:00",
+  "updated_at": "2026-11-05T11:37:30.580032+00:00",
   "posts": [
+    {
+      "id": 2336,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/05/russia-plans-ticket-surcharge-to-bankroll-struggling-aircraft-industry",
+      "title_ru": "Россия планирует доплату за билеты для банкротства борющейся авиационной промышленности",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2335,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/05/ukraine-russian-drone-and-missile-attack-sparks-fire-in-kyiv-region",
+      "title_ru": "Украина: Российский беспилотник и ракетный обстрел спровоцировали пожар в Киевской области",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2334,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/05/drone-strike-sets-ozon-warehouse-ablaze-in-southern-russia",
+      "title_ru": "Удар беспилотника поджег склад Ozon на юге России",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-05 11:37:30"
+    },
+    {
+      "id": 2333,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/05/iran-flames-engulf-banner-depicting-us-and-israeli-leaders",
+      "title_ru": "Иран: Пламя охватило баннер с изображением лидеров США и Израиля",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-05 11:37:30"
+    },
+    {
+      "id": 2332,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/05/north-korea-tells-eu-to-mind-its-own-business-after-draft-un-resolution-on-human-rights",
+      "title_ru": "Северная Корея призывает ЕС «заниматься своими делами» после принятия проекта резолюции ООН по правам человека",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-05 11:37:29"
+    },
+    {
+      "id": 2331,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-midday",
+      "title_ru": "Последние новости | 5 ноября 2026 года – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-05 11:37:29"
+    },
     {
       "id": 2330,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Свободные и справедливые? Промежуточные выборы и состояние демократии в США",
       "status": "published",
       "published_to_telegram_at": "2026-11-02 20:14:05"
-    },
-    {
-      "id": 2276,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/02/ukraines-stargate-drone-carries-wounded-troops-from-frontline",
-      "title_ru": "Украинский беспилотник «Звездные врата» перевозит раненых военнослужащих с линии фронта",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2275,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-evening",
-      "title_ru": "Последние новости | 2 ноября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2274,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-      "title_ru": "Мичиганский демократ оглушает партию, чтобы поддержать кандидата-республиканца в критической гонке в Сенате",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-02 09:53:13"
-    },
-    {
-      "id": 2273,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/rsf-publishes-list-of-press-freedom-predators-dictators-want-to-silence-journalists",
-      "title_ru": "РБГ опубликовала список «хищников» свободы прессы: «Диктаторы хотят заставить журналистов замолчать»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-02 09:53:12"
-    },
-    {
-      "id": 2272,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/focus/20261102-in-california-illegal-border-crossings-plummet-under-trump-administration",
-      "title_ru": "В Калифорнии под руководством Трампа резко упали незаконные пограничные переходы",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-02 09:53:12"
-    },
-    {
-      "id": 2271,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261102-israeli-army-withdraws-from-hebron-after-operation-displaces-thousands-of-palestinians",
-      "title_ru": "Израильская армия уходит из Хеврона после операции по перемещению тысяч палестинцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-02 09:53:12"
     }
   ]
 }
