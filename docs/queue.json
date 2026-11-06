@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-06T14:56:38.090640+00:00",
+  "updated_at": "2026-11-06T20:48:59.485086+00:00",
   "posts": [
+    {
+      "id": 2366,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
+      "title_ru": "Давление на главу Минобороны США Хегсета усиливается после поражения республиканцев на выборах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2365,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
+      "title_ru": "Промежуточные выборы в США знаменуют «начало конца» для Трампа, говорит Джон Болтон",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2364,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine",
+      "title_ru": "Что может означать провал промежуточных выборов Трампа для поддержки Украины со стороны США",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-06 20:48:59"
+    },
+    {
+      "id": 2363,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal",
+      "title_ru": "Иран передает секретное послание Хаменеи Путину, в то время как Москва продвигает сделку по газопроводу",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2362,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening",
+      "title_ru": "Последние новости | 6 ноября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2361,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+      "title_ru": "Трамп назначил сторонника жесткой иммиграционной политики Стивена Миллера новым начальником штаба",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-06 20:48:59"
+    },
     {
       "id": 2360,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Промежуточные выборы в США: демократ побеждает в Северной Каролине, поскольку закрываются первые избирательные участки",
       "status": "published",
       "published_to_telegram_at": "2026-11-04 02:40:10"
-    },
-    {
-      "id": 2306,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
-      "title_ru": "Историк Тимоти Снайдер: Трамп проводит внешнюю политику США «как если бы он был организованным преступником»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2305,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
-      "title_ru": "Демократия в США, усталость Трампа, стоимость жизни являются главными проблемами для избирателей, согласно опросу AP",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 02:40:10"
-    },
-    {
-      "id": 2304,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
-      "title_ru": "Российские домохозяйства сталкиваются с растущим финансовым напряжением, поскольку война в Украине затягивается",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2303,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20261103-trickle-or-tsunami-democrats-eye-gains-in-us-midterm-elections",
-      "title_ru": "Трикл или цунами? Демократы оценивают успехи на промежуточных выборах в США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2302,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261103-trump-promised-a-golden-age-what-has-he-delivered-at-home",
-      "title_ru": "Трамп обещал «золотой век». Что он доставил домой?",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-03 22:34:12"
-    },
-    {
-      "id": 2301,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends",
-      "title_ru": "Южная Африка готовится к некоторым потерям рабочих мест, поскольку AGOA заканчивается",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-03 22:34:12"
     }
   ]
 }
