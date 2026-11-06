@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-06T00:08:21.541769+00:00",
+  "updated_at": "2026-11-06T06:57:48.994624+00:00",
   "posts": [
+    {
+      "id": 2354,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Азиатские акции падают после технологического краха в США на фоне волнений ИИ",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2353,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Бывший законодатель заключен в тюрьму в первом суде по национальной безопасности Макао",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-06 06:57:48"
+    },
+    {
+      "id": 2352,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Судья США временно заблокировал проект арки Трампа после одобрения коллегией",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-06 06:57:47"
+    },
+    {
+      "id": 2351,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+      "title_ru": "«Лидеры во всем мире понимают, что Трамп там только еще два года, а затем он ушел»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2350,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
+      "title_ru": "Технологические акции падают, поскольку среднесрочные результаты в США подпитывают опасения по поводу ужесточения правил ИИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-06 06:57:48"
+    },
+    {
+      "id": 2349,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-morning",
+      "title_ru": "Последние новости | 6 ноября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-06 06:57:47"
+    },
     {
       "id": 2348,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Южная Корея и Турция подписали договор о финансировании, поскольку Сеул ищет роль в планируемой атомной электростанции",
       "status": "published",
       "published_to_telegram_at": "2026-11-03 17:43:10"
-    },
-    {
-      "id": 2294,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/03/americans-head-to-the-polls-for-us-midterm-elections",
-      "title_ru": "Американцы идут на избирательные участки для промежуточных выборов в США",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-03 17:43:09"
-    },
-    {
-      "id": 2293,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-evening",
-      "title_ru": "Последние новости | 3 ноября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-03 17:43:09"
-    },
-    {
-      "id": 2292,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261103-cpj-attacks-on-journalists-almost-always-precede-attacks-on-other-rights-to-broader-population",
-      "title_ru": "КЗЖ: «Нападения на журналистов почти всегда предшествуют нападениям на другие права более широкого населения»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2291,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-      "title_ru": "Промежуточные выборы в США в прямом эфире: более 58 миллионов бюллетеней проголосовали за рекордную явку на досрочное голосование",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2290,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261103-israeli-opposition-unites-behind-eisenkot-netanyahu-voters-chose-him-pm",
-      "title_ru": "Израильская оппозиция объединилась вокруг Айзенкота, поскольку Нетаньяху говорит, что избиратели выбрали его на пост премьер-министра",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-03 09:57:40"
-    },
-    {
-      "id": 2289,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections",
-      "title_ru": "США нанесли удар по иранскому острову Кешм в преддверии промежуточных выборов",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
