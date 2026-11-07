@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-07T13:28:12.487907+00:00",
+  "updated_at": "2026-11-07T18:14:08.719668+00:00",
   "posts": [
+    {
+      "id": 2387,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Сын иранского шаха получил «Премию свободы» во Франкфурте",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2386,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "АНК Южной Африки сталкивается с худшими показателями на местных выборах",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 18:14:08"
+    },
+    {
+      "id": 2385,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
+      "title_ru": "Стивен Миллер назначен главой аппарата Белого дома",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2384,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
+      "title_ru": "Россия наносит массированный удар по Киеву",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2383,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+      "title_ru": "Франция готовится к новым общенациональным протестам, поскольку «желтые жилеты» призывают к «массовому неповиновению»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2382,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
+      "title_ru": "«Мы должны изменить все»: французский ультралевый лидер Меланшон запускает президентскую программу",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 18:14:08"
+    },
     {
       "id": 2381,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
       "title_ru": "Педро Аллиана принес присягу в качестве президента Парагвая после импичмента Сантьяго Пенья",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Гонконгский активист Джошуа Вонг получил еще 10 лет тюрьмы за иностранный сговор",
       "status": "published",
       "published_to_telegram_at": "2026-11-05 03:42:07"
-    },
-    {
-      "id": 2327,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics",
-      "title_ru": "Плейбук Трампа на второй срок: фейковые новости, ИИ и атаки на его критиков",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2326,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
-      "title_ru": "Кандидаты, поддерживаемые Маском, проигрывают промежуточные выборы, несмотря на финансовую поддержку",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2325,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
-      "title_ru": "Южноафриканцы голосуют на ключевых муниципальных выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 23:33:29"
-    },
-    {
-      "id": 2324,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
-      "title_ru": "Нетаньяху утверждает, что «серьезные опасения» иностранных расходов влияют на выборы в Израиле",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 23:33:29"
-    },
-    {
-      "id": 2323,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/04/zelenski-makes-surprise-visit-to-madrid-for-talks-with-sanchez-and-latin-american-leaders",
-      "title_ru": "Зеленский совершил неожиданный визит в Мадрид для переговоров с Санчесом и латиноамериканскими лидерами",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 23:33:28"
-    },
-    {
-      "id": 2322,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc",
-      "title_ru": "Испания: Мадрид принимает 30-й Иберо-американский саммит с блоком из 22 стран",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 23:33:28"
     }
   ]
 }
