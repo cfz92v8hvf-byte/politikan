@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-06T20:48:59.485086+00:00",
+  "updated_at": "2026-11-07T00:25:58.268848+00:00",
   "posts": [
+    {
+      "id": 2372,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Танкеры, перевозящие российское дизельное топливо в США, меняют курс",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2371,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/paraguay-senate-dismisses-president-santiago-pena-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Сенат Парагвая отправил в отставку президента Сантьяго Пенью из-за банковского кризиса",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 00:25:58"
+    },
+    {
+      "id": 2370,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261106-a-homegrown-georgia-moderate-and-pragmatist-is-senator-ossoff-the-future-of-the-democratic-party",
+      "title_ru": "Умеренная и прагматичная доморощенная Грузия: является ли сенатор Оссофф будущим Демократической партии?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2369,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
+      "title_ru": "Промежуточные выборы: Maga PostMortem, протесты «меняющей форму» Европы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2368,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
+      "title_ru": "Расширяются мистификации о бомбах в Европе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2367,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+      "title_ru": "Кенийского лидера культа приговорили к 200 годам тюрьмы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2366,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "«Демократы проделали хорошую работу»: Трамп поздравил демократов с промежуточными победами",
       "status": "published",
       "published_to_telegram_at": "2026-11-04 09:56:51"
-    },
-    {
-      "id": 2312,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/04/we-will-take-back-the-house-in-2028-us-house-speaker-johnson-promises-republican-comeback",
-      "title_ru": "«Мы вернем Палату представителей в 2028 году»: спикер Палаты представителей США Джонсон обещает возвращение республиканцев",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 09:56:51"
-    },
-    {
-      "id": 2311,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/04/us-midterm-elections-cheers-erupt-as-talaricos-texas-victory-is-projected",
-      "title_ru": "Промежуточные выборы в США: аплодисменты прорываются, поскольку прогнозируется победа Таларико в Техасе",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 09:56:51"
-    },
-    {
-      "id": 2310,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia",
-      "title_ru": "Украина: 33 погибших, более 50 пропавших без вести после российских бомбардировок в Запорожье",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 09:56:50"
-    },
-    {
-      "id": 2309,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Министр транспорта Испании подал в отставку после аварии поезда",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2308,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США сократят почти на $ 4 млрд военную помощь Израилю, заявил Трамп",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 02:40:10"
-    },
-    {
-      "id": 2307,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Промежуточные выборы в США: демократ побеждает в Северной Каролине, поскольку закрываются первые избирательные участки",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 02:40:10"
     }
   ]
 }
