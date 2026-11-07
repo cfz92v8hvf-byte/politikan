@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-07T06:29:30.930528+00:00",
+  "updated_at": "2026-11-07T13:28:12.487907+00:00",
   "posts": [
+    {
+      "id": 2381,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
+      "title_ru": "Банковский скандал сверг парагвайского лидера",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 13:28:11"
+    },
+    {
+      "id": 2380,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
+      "title_ru": "Новая Зеландия подсчитывает голоса на выборах после кампании, сосредоточенной на стоимости жизни",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2379,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
+      "title_ru": "Педро Аллиана принес присягу в качестве президента Парагвая после импичмента Сантьяго Пенья",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2378,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
+      "title_ru": "Последние новости | 7 ноября 2026 г. – полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 13:28:12"
+    },
+    {
+      "id": 2377,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
+      "title_ru": "США предлагают вознаграждение в $ 20 млн и «возможное переселение» за информацию о «ядерной программе Ирана»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 13:28:11"
+    },
+    {
+      "id": 2376,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
+      "title_ru": "США наносят новые целенаправленные удары по Ирану, поскольку Трамп заявляет о прогрессе в переговорах с Тегераном",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 13:28:11"
+    },
     {
       "id": 2375,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Испания: Мадрид принимает 30-й Иберо-американский саммит с блоком из 22 стран",
       "status": "published",
       "published_to_telegram_at": "2026-11-04 23:33:28"
-    },
-    {
-      "id": 2321,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/once-in-a-generation-event-historic-election-a-shocking-repudiation-of-trump-the-maga-movement",
-      "title_ru": "«Событие, которое случается раз в поколение: исторические выборы - шокирующий отказ от Трампа и движения MAGA»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 17:55:54"
-    },
-    {
-      "id": 2320,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/04/after-us-midterms-a-weakened-trump-may-pose-a-greater-threat-to-europe",
-      "title_ru": "После промежуточных выборов в США ослабленный Трамп может представлять большую угрозу для Европы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2319,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/04/armenia-sees-totally-new-global-role-for-south-caucasus-as-a-whole",
-      "title_ru": "Армения видит «совершенно новую глобальную роль» для Южного Кавказа «в целом»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2318,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/04/ukraine-police-footage-captures-russian-strike-on-komyshuvakha-shelter",
-      "title_ru": "Украина: на кадрах милиции запечатлен удар РФ по укрытию в Комышувахе",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 17:55:55"
-    },
-    {
-      "id": 2317,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court",
-      "title_ru": "Великобритания: Полиция арестовывает сторонников акции «Палестина» у здания Верховного суда",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 17:55:54"
-    },
-    {
-      "id": 2316,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-evening",
-      "title_ru": "Последние новости | 4 ноября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 17:55:54"
     }
   ]
 }
