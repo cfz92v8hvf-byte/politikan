@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-07T00:25:58.268848+00:00",
+  "updated_at": "2026-11-07T06:29:30.930528+00:00",
   "posts": [
+    {
+      "id": 2375,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "США просят Китай поддержать обязательства по торговой сделке в Пусане",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 06:29:30"
+    },
+    {
+      "id": 2374,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+      "title_ru": "Свергнутый президент Парагвая под домашним арестом после банкротства банка",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 06:29:29"
+    },
+    {
+      "id": 2373,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning",
+      "title_ru": "Последние новости | 7 ноября 2026 г. – утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 06:29:29"
+    },
     {
       "id": 2372,
       "source": "DW",
@@ -456,30 +480,6 @@
       "title_ru": "Последние новости | 4 ноября 2026 года – вечер",
       "status": "published",
       "published_to_telegram_at": "2026-11-04 17:55:54"
-    },
-    {
-      "id": 2315,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/04/historic-leadership-firsts-for-minorities-across-us-in-midterm-vote",
-      "title_ru": "Историческое лидерство для меньшинств по всей территории США на промежуточных выборах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2314,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/04/europe-today-democrats-win-senate-in-rebuke-of-trump-as-polands-crisis-drags-on",
-      "title_ru": "Европа сегодня: демократы побеждают в Сенате в упреке Трампу, поскольку конституционный кризис в Польше затягивается",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2313,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins",
-      "title_ru": "«Демократы проделали хорошую работу»: Трамп поздравил демократов с промежуточными победами",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-04 09:56:51"
     }
   ]
 }
