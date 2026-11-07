@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-07T18:14:08.719668+00:00",
+  "updated_at": "2026-11-07T21:57:51.970207+00:00",
   "posts": [
+    {
+      "id": 2393,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Селективное преследование Армении: угроза отношениям с ЕС?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2392,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+      "title_ru": "Президент 🔴 Израиля выбирает соперника Нетаньяху Айзенкот, чтобы попытаться сформировать правительство",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 21:57:51"
+    },
+    {
+      "id": 2391,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
+      "title_ru": "Меланшон из France Unbowed обнародовал манифест «Общее будущее» перед президентской гонкой 2027 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 21:57:51"
+    },
+    {
+      "id": 2390,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+      "title_ru": "«Жестокий боец и воин»: Трамп предлагает должность пресс-секретаря главе UFC Дане Уайт",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 21:57:51"
+    },
+    {
+      "id": 2389,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
+      "title_ru": "Последние новости | 7 ноября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2388,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+      "title_ru": "Украина: российские удары обрушились на Киевскую область, нанося ущерб инфраструктуре",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-07 21:57:50"
+    },
     {
       "id": 2387,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Удар беспилотника поджег склад Ozon на юге России",
       "status": "published",
       "published_to_telegram_at": "2026-11-05 11:37:30"
-    },
-    {
-      "id": 2333,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/05/iran-flames-engulf-banner-depicting-us-and-israeli-leaders",
-      "title_ru": "Иран: Пламя охватило баннер с изображением лидеров США и Израиля",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 11:37:30"
-    },
-    {
-      "id": 2332,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/05/north-korea-tells-eu-to-mind-its-own-business-after-draft-un-resolution-on-human-rights",
-      "title_ru": "Северная Корея призывает ЕС «заниматься своими делами» после принятия проекта резолюции ООН по правам человека",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 11:37:29"
-    },
-    {
-      "id": 2331,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-midday",
-      "title_ru": "Последние новости | 5 ноября 2026 года – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 11:37:29"
-    },
-    {
-      "id": 2330,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Демократы отбирают Палату представителей и Сенат у республиканцев в промежуточном разгроме в США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2329,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
-      "title_ru": "Южная Корея развернет военную миссию, чтобы держать Ормузский пролив открытым",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 03:42:08"
-    },
-    {
-      "id": 2328,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
-      "title_ru": "Гонконгский активист Джошуа Вонг получил еще 10 лет тюрьмы за иностранный сговор",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 03:42:07"
     }
   ]
 }
