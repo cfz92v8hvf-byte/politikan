@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-11-08T19:01:17.772747+00:00",
+  "updated_at": "2026-11-08T22:47:16.549933+00:00",
   "posts": [
+    {
+      "id": 2414,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Иран: Трамп говорит, что нанесение ударов маловероятно, если мирные переговоры продолжатся",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2413,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+      "title_ru": "Гади Айзенкот получил мандат на формирование правительства",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2412,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
+      "title_ru": "Лидер израильской оппозиции Айзенкот начинает тяжелую работу по формированию коалиционного правительства",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-08 22:47:16"
+    },
+    {
+      "id": 2411,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261108-pope-leo-in-latin-america-papal-politics-and-peru",
+      "title_ru": "Папа Лев в Латинской Америке: папская политика и Перу",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-08 22:47:16"
+    },
+    {
+      "id": 2410,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+      "title_ru": "Папа Лев прибывает в Аргентину на фоне разногласий по поводу жесткой экономии Милеи",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-08 22:47:15"
+    },
+    {
+      "id": 2409,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
+      "title_ru": "Нидерланды: Красное море заполняет улицы Амстердама во время протестов в Газе",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-08 22:47:15"
+    },
     {
       "id": 2408,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
       "title_ru": "Украина: российские удары оставляют сотни тысяч людей без электричества",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Рост Казахстана ускорится в 2027 году, несмотря на геополитическую напряженность, говорит МВФ",
       "status": "published",
       "published_to_telegram_at": "2026-11-06 14:56:37"
-    },
-    {
-      "id": 2354,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Азиатские акции падают после технологического краха в США на фоне волнений ИИ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2353,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Бывший законодатель заключен в тюрьму в первом суде по национальной безопасности Макао",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 06:57:48"
-    },
-    {
-      "id": 2352,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Судья США временно заблокировал проект арки Трампа после одобрения коллегией",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 06:57:47"
-    },
-    {
-      "id": 2351,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
-      "title_ru": "«Лидеры во всем мире понимают, что Трамп там только еще два года, а затем он ушел»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2350,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
-      "title_ru": "Технологические акции падают, поскольку среднесрочные результаты в США подпитывают опасения по поводу ужесточения правил ИИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 06:57:48"
-    },
-    {
-      "id": 2349,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-morning",
-      "title_ru": "Последние новости | 6 ноября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 06:57:47"
     }
   ]
 }
