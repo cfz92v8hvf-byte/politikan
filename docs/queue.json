@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-08T07:29:19.045073+00:00",
+  "updated_at": "2026-11-08T14:28:40.856483+00:00",
   "posts": [
+    {
+      "id": 2402,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+      "title_ru": "Европа примет участие в переговорах по Украине при посредничестве США в Абу-Даби, заявил глава МИД Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-08 14:28:39"
+    },
+    {
+      "id": 2401,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
+      "title_ru": "Сопернику Нетаньяху Айзенкоту будет поручено сформировать новое правительство после выборов в Израиле",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2400,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
+      "title_ru": "По меньшей мере 21 человек погиб после того, как лодка с мигрантами перевернулась у берегов Сенегала, говорят власти",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2399,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-midday",
+      "title_ru": "Последние новости | 8 ноября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2398,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings",
+      "title_ru": "Силы США нанесли удар по коммерческому судну в Оманском заливе после того, как экипаж «проигнорировал неоднократные предупреждения",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-08 14:28:40"
+    },
+    {
+      "id": 2397,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
+      "title_ru": "Египет вновь открыл посольство в Триполи через 12 лет и выразил обеспокоенность по поводу морской сделки между Турцией и Ливией",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-08 14:28:40"
+    },
     {
       "id": 2396,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Испания: Зеленский призывает Латинскую Америку помочь отремонтировать энергосистему Украины",
       "status": "published",
       "published_to_telegram_at": "2026-11-06 00:08:21"
-    },
-    {
-      "id": 2342,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
-      "title_ru": "Президент Парагвая Пенья объявил импичмент через несколько минут после отставки из-за банковского скандала",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 19:03:23"
-    },
-    {
-      "id": 2341,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-needs-more-public-services-salaries-are-too-low-schools-are-in-very-very-bad-shape",
-      "title_ru": "Франции нужно «больше государственных услуг», «зарплаты слишком низкие», «школы находятся в очень, очень плохом состоянии»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 19:03:22"
-    },
-    {
-      "id": 2340,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
-      "title_ru": "Мьянма: гражданские лица под огнем военной хунты",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 19:03:22"
-    },
-    {
-      "id": 2339,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international",
-      "title_ru": "Путин захватил российские операции сигаретного гиганта Japan Tobacco International",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2338,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-evening",
-      "title_ru": "Последние новости | 5 ноября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2337,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a",
-      "title_ru": "Президент Парагвая подал в отставку на фоне банкротства банка, в результате которого 3 млн человек не имеют доступа к банковским счетам",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-05 19:03:21"
     }
   ]
 }
