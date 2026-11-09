@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-09T09:40:07.287547+00:00",
+  "updated_at": "2026-11-09T20:10:51.805504+00:00",
   "posts": [
+    {
+      "id": 2428,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says",
+      "title_ru": "«Мы думаем, что иранцы и американцы хотят вести переговоры», - сказал египетский министр",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 20:10:51"
+    },
+    {
+      "id": 2427,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
+      "title_ru": "Конгрессмен-республиканец начинает процедуру импичмента главы Пентагона Хегсета",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 20:10:51"
+    },
+    {
+      "id": 2426,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads",
+      "title_ru": "Украина стала вторым по величине нефтеперерабатывающим заводом в России в связи с распространением нормирования топлива",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2425,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia",
+      "title_ru": "Норвегия снялась с юношеского чемпионата по хоккею, чтобы освободить место для России",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2424,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-evening",
+      "title_ru": "Последние новости | 9 ноября 2026 года – вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2423,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole",
+      "title_ru": "Аргентина: Папа Лев XIV получил теплый прием в Клейполе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2422,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w",
       "title_ru": "Президент США Дональд Трамп планирует встретиться с Путиным и Си Цзиньпином в Китае на следующей неделе",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
       "title_ru": "Промежуточные выборы: Maga PostMortem, протесты «меняющей форму» Европы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2368,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
-      "title_ru": "Расширяются мистификации о бомбах в Европе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2367,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
-      "title_ru": "Кенийского лидера культа приговорили к 200 годам тюрьмы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2366,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
-      "title_ru": "Давление на главу Минобороны США Хегсета усиливается после поражения республиканцев на выборах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2365,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
-      "title_ru": "Промежуточные выборы в США знаменуют «начало конца» для Трампа, говорит Джон Болтон",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2364,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine",
-      "title_ru": "Что может означать провал промежуточных выборов Трампа для поддержки Украины со стороны США",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 20:48:59"
-    },
-    {
-      "id": 2363,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal",
-      "title_ru": "Иран передает секретное послание Хаменеи Путину, в то время как Москва продвигает сделку по газопроводу",
       "status": "expired",
       "published_to_telegram_at": null
     }
