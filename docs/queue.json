@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-11-08T22:47:16.549933+00:00",
+  "updated_at": "2026-11-09T02:04:42.549462+00:00",
   "posts": [
+    {
+      "id": 2416,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Папа Лев призывает аргентинскую Милей поставить людей выше экономики",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 02:04:42"
+    },
+    {
+      "id": 2415,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
+      "title_ru": "Трамп обещает вернуться, когда партии столкнутся с угрозами преследования со стороны демократов",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 02:04:42"
+    },
     {
       "id": 2414,
       "source": "DW",
       "source_url": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Иран: Трамп говорит, что нанесение ударов маловероятно, если мирные переговоры продолжатся",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -464,22 +480,6 @@
       "title_ru": "Азербайджан и Украина заключают новые соглашения по энергетической обороне и торговле",
       "status": "published",
       "published_to_telegram_at": "2026-11-06 14:56:38"
-    },
-    {
-      "id": 2356,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site",
-      "title_ru": "Нидерланды: протестующие штурмуют строительную площадку центра обработки данных в Амстердаме",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 14:56:37"
-    },
-    {
-      "id": 2355,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/06/kazakhstans-growth-to-pick-up-in-2027-despite-geopolitical-tensions-imf-says",
-      "title_ru": "Рост Казахстана ускорится в 2027 году, несмотря на геополитическую напряженность, говорит МВФ",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 14:56:37"
     }
   ]
 }
