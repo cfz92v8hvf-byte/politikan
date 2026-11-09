@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-09T02:04:42.549462+00:00",
+  "updated_at": "2026-11-09T09:40:07.287547+00:00",
   "posts": [
+    {
+      "id": 2422,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261109-trump-says-deportation-crackdown-was-too-tough-after-midterm-setback",
+      "title_ru": "Трамп говорит, что подавление депортации было «слишком жестким» после среднесрочной неудачи",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 09:40:06"
+    },
+    {
+      "id": 2421,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261109-we-call-it-war-life-balance-daryna-s-daily-struggle-to-live-survive-in-wartime-ukraine",
+      "title_ru": "«Мы называем это балансом между войной и жизнью»: ежедневная борьба Дарины за жизнь, выживание в Украине военного времени",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 09:40:05"
+    },
+    {
+      "id": 2420,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-morning",
+      "title_ru": "Последние новости | 9 ноября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2419,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w",
+      "title_ru": "Президент США Дональд Трамп планирует встретиться с Путиным и Си Цзиньпином в Китае на следующей неделе",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2418,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit",
+      "title_ru": "Аргентина: Папа Лев XIV принял Хавьера Милея с историческим визитом",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 09:40:07"
+    },
+    {
+      "id": 2417,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations",
+      "title_ru": "Трамп называет главу Nvidia Дженсена Хуана «благородным парнем» на фоне обвинений в шпионаже",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-09 09:40:06"
+    },
     {
       "id": 2416,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Иран передает секретное послание Хаменеи Путину, в то время как Москва продвигает сделку по газопроводу",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2362,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening",
-      "title_ru": "Последние новости | 6 ноября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2361,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
-      "title_ru": "Трамп назначил сторонника жесткой иммиграционной политики Стивена Миллера новым начальником штаба",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 20:48:59"
-    },
-    {
-      "id": 2360,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-midday",
-      "title_ru": "Последние новости | 6 ноября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2359,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/06/hormuz-standoff-not-sustainable-senior-iranian-lawmaker-tells-euronews",
-      "title_ru": "Ормузское противостояние «неустойчиво», заявил высокопоставленный иранский законодатель Euronews",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2358,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/06/five-people-rescued-off-kiribati-after-months-drifting-at-sea",
-      "title_ru": "Пять человек спасены у берегов Кирибати после нескольких месяцев дрейфа в море",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2357,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/06/azerbaijan-and-ukraine-forge-new-energy-defence-and-trade-agreements",
-      "title_ru": "Азербайджан и Украина заключают новые соглашения по энергетической обороне и торговле",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-06 14:56:38"
     }
   ]
 }
