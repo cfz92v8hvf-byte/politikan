@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-10T02:46:52.379831+00:00",
+  "updated_at": "2026-11-10T10:29:51.071004+00:00",
   "posts": [
+    {
+      "id": 2440,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/mwc26-doha-mobile-economy-in-mena-set-to-reach-421bn-but-millions-remain-offline",
+      "title_ru": "MWC26 Доха: Мобильная экономика в регионе MENA достигнет € 421 млрд, но миллионы остаются в автономном режиме",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2439,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-morning",
+      "title_ru": "Последние новости | 10 ноября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2438,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts",
+      "title_ru": "Калифорнийские избиратели отвергают одноразовый налог на богатство миллиардеров, который предсказывают американские СМИ",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2437,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy",
+      "title_ru": "Трамп говорит, что генеральный директор Nvidia Хуан ничего не знал о предполагаемом китайском шпионе",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 10:29:51"
+    },
+    {
+      "id": 2436,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote",
+      "title_ru": "Трамп обещает поддержать Пита Хегсета, поскольку республиканский законодатель настаивает на голосовании по импичменту",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 10:29:50"
+    },
+    {
+      "id": 2435,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks",
+      "title_ru": "Трамп говорит, что война с Ираном «фактически закончилась», поскольку Тегеран отрицает запланированные переговоры",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 10:29:50"
+    },
     {
       "id": 2434,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Банковский скандал сверг парагвайского лидера",
       "status": "published",
       "published_to_telegram_at": "2026-11-07 13:28:11"
-    },
-    {
-      "id": 2380,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
-      "title_ru": "Новая Зеландия подсчитывает голоса на выборах после кампании, сосредоточенной на стоимости жизни",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2379,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
-      "title_ru": "Педро Аллиана принес присягу в качестве президента Парагвая после импичмента Сантьяго Пенья",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2378,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
-      "title_ru": "Последние новости | 7 ноября 2026 г. – полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 13:28:12"
-    },
-    {
-      "id": 2377,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
-      "title_ru": "США предлагают вознаграждение в $ 20 млн и «возможное переселение» за информацию о «ядерной программе Ирана»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 13:28:11"
-    },
-    {
-      "id": 2376,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
-      "title_ru": "США наносят новые целенаправленные удары по Ирану, поскольку Трамп заявляет о прогрессе в переговорах с Тегераном",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 13:28:11"
-    },
-    {
-      "id": 2375,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "США просят Китай поддержать обязательства по торговой сделке в Пусане",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 06:29:30"
     }
   ]
 }
