@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-10T18:09:34.650167+00:00",
+  "updated_at": "2026-11-10T23:29:13.715099+00:00",
   "posts": [
+    {
+      "id": 2452,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
+      "title_ru": "«Центральная роль в экосистеме: если что-то случится с Nvidia, это будет катастрофа»",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2451,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
+      "title_ru": "Айзенкот настаивает на расследовании 7 октября, поскольку Нетаньяху нацелен на арабские партии в напряженном новом парламенте",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 23:29:13"
+    },
+    {
+      "id": 2450,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
+      "title_ru": "«Европа никуда не денется»: саммит G7 - «сигнал россиянам» о том, что Европа стоит за Украиной",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 23:29:13"
+    },
+    {
+      "id": 2449,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+      "title_ru": "США обвиняют трех «иранских оперативников» в террористическом заговоре RAF Fairford",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 23:29:13"
+    },
+    {
+      "id": 2448,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat",
+      "title_ru": "Союзник Трампа Джим Джордан избрал лидера республиканцев в Палате представителей после промежуточного поражения",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 23:29:12"
+    },
+    {
+      "id": 2447,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/paraguays-new-president-vows-to-recover-pension-funds-at-risk-in-ueno-bank-crisis",
+      "title_ru": "Новый президент Парагвая обещает восстановить пенсионные фонды, находящиеся под угрозой в условиях кризиса в банке Ueno",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2446,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
       "title_ru": "Члены ССАГПЗ согласились разместить войска на новом военном командном пункте в Кувейте",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -430,54 +478,6 @@
       "source": "DW",
       "source_url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Селективное преследование Армении: угроза отношениям с ЕС?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2392,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
-      "title_ru": "Президент 🔴 Израиля выбирает соперника Нетаньяху Айзенкот, чтобы попытаться сформировать правительство",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 21:57:51"
-    },
-    {
-      "id": 2391,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
-      "title_ru": "Меланшон из France Unbowed обнародовал манифест «Общее будущее» перед президентской гонкой 2027 года",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 21:57:51"
-    },
-    {
-      "id": 2390,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-      "title_ru": "«Жестокий боец и воин»: Трамп предлагает должность пресс-секретаря главе UFC Дане Уайт",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 21:57:51"
-    },
-    {
-      "id": 2389,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
-      "title_ru": "Последние новости | 7 ноября 2026 года – вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2388,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
-      "title_ru": "Украина: российские удары обрушились на Киевскую область, нанося ущерб инфраструктуре",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 21:57:50"
-    },
-    {
-      "id": 2387,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Сын иранского шаха получил «Премию свободы» во Франкфурте",
       "status": "expired",
       "published_to_telegram_at": null
     }
