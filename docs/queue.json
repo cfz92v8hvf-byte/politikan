@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-09T20:10:51.805504+00:00",
+  "updated_at": "2026-11-10T02:46:52.379831+00:00",
   "posts": [
+    {
+      "id": 2434,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
+      "title_ru": "Nvidia: Honeypot, возможно, был нацелен на «лоббирование Дженсена Хуана для лоббирования правительства США»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2433,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
+      "title_ru": "Франция обвиняет Иран в кибератаке на холодильники супермаркетов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2432,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+      "title_ru": "Министру обороны США Хегсету грозит ожидаемое голосование по импичменту на этой неделе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2431,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
+      "title_ru": "Amnesty International призывает Сальвадор раскрыть условия развертывания войск на Гаити",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 02:46:52"
+    },
+    {
+      "id": 2430,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+      "title_ru": "Турция: Делегаты прибывают в Анталью в начале переговоров по климату COP31",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2429,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/09/poland-tusk-and-nawrocki-honour-six-victims-of-krakow-shooting",
+      "title_ru": "Польша: Туск и Навроцкий почтили память шести жертв стрельбы в Кракове",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2428,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "США просят Китай поддержать обязательства по торговой сделке в Пусане",
       "status": "published",
       "published_to_telegram_at": "2026-11-07 06:29:30"
-    },
-    {
-      "id": 2374,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
-      "title_ru": "Свергнутый президент Парагвая под домашним арестом после банкротства банка",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 06:29:29"
-    },
-    {
-      "id": 2373,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning",
-      "title_ru": "Последние новости | 7 ноября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 06:29:29"
-    },
-    {
-      "id": 2372,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Танкеры, перевозящие российское дизельное топливо в США, меняют курс",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2371,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/paraguay-senate-dismisses-president-santiago-pena-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Сенат Парагвая отправил в отставку президента Сантьяго Пенью из-за банковского кризиса",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 00:25:58"
-    },
-    {
-      "id": 2370,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261106-a-homegrown-georgia-moderate-and-pragmatist-is-senator-ossoff-the-future-of-the-democratic-party",
-      "title_ru": "Умеренная и прагматичная доморощенная Грузия: является ли сенатор Оссофф будущим Демократической партии?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2369,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
-      "title_ru": "Промежуточные выборы: Maga PostMortem, протесты «меняющей форму» Европы",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
