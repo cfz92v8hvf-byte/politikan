@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-10T10:29:51.071004+00:00",
+  "updated_at": "2026-11-10T18:09:34.650167+00:00",
   "posts": [
+    {
+      "id": 2446,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/sport/20261110-sports-legends-whose-political-fortunes-may-be-a-lesson-to-riner-ahead-of-presidential-bid",
+      "title_ru": "Спортивные легенды, чья политическая судьба может стать уроком для Райнера в преддверии президентской гонки",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 18:09:33"
+    },
+    {
+      "id": 2445,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
+      "title_ru": "Катар видит «прогресс» в переговорах между США и Ираном после встречи в Белом доме",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2444,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
+      "title_ru": "Члены ССАГПЗ согласились разместить войска на новом военном командном пункте в Кувейте",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2443,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/10/belgium-prince-harry-and-meghan-visit-eu-parliament-for-child-safety-event",
+      "title_ru": "Бельгия: принц Гарри и Меган посетили парламент ЕС для участия в мероприятии по безопасности детей",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 18:09:34"
+    },
+    {
+      "id": 2442,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts",
+      "title_ru": "Список «недружественных стран» России теперь нацелен на собственность, опеку над детьми и долги",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 18:09:34"
+    },
+    {
+      "id": 2441,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-evening",
+      "title_ru": "Последние новости | 10 ноября 2026 года – вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-10 18:09:33"
+    },
     {
       "id": 2440,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Сын иранского шаха получил «Премию свободы» во Франкфурте",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2386,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "АНК Южной Африки сталкивается с худшими показателями на местных выборах",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 18:14:08"
-    },
-    {
-      "id": 2385,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
-      "title_ru": "Стивен Миллер назначен главой аппарата Белого дома",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2384,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
-      "title_ru": "Россия наносит массированный удар по Киеву",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2383,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-      "title_ru": "Франция готовится к новым общенациональным протестам, поскольку «желтые жилеты» призывают к «массовому неповиновению»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2382,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
-      "title_ru": "«Мы должны изменить все»: французский ультралевый лидер Меланшон запускает президентскую программу",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 18:14:08"
-    },
-    {
-      "id": 2381,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
-      "title_ru": "Банковский скандал сверг парагвайского лидера",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-07 13:28:11"
     }
   ]
 }
