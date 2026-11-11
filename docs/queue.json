@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-11T10:41:50.539369+00:00",
+  "updated_at": "2026-11-11T18:07:08.501538+00:00",
   "posts": [
+    {
+      "id": 2469,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
+      "title_ru": "Избирательный суд Бразилии оштрафовал компанию Meta на 1,3 млн долларов, но не усмотрел умышленного предвзятого отношения к выборам",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2468,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/violent-incidents-in-schools-as-french-students-vow-to-maintain-protest-pressure",
+      "title_ru": "Инциденты с применением насилия в школах на фоне обещаний французских учащихся продолжать протесты",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 18:07:08"
+    },
+    {
+      "id": 2467,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
+      "title_ru": "По словам главы службы безопасности, Тегеран нанесет удар по американским базам в Европе, если они будут использованы для нападения на Иран",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 18:07:08"
+    },
+    {
+      "id": 2466,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
+      "title_ru": "Десятки тысяч человек приняли участие в марше польских националистов, прошедшем через несколько дней после стрельбы",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 18:07:07"
+    },
+    {
+      "id": 2465,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
+      "title_ru": "ЕС планирует провести переговоры по вопросам обороны в Дохе с целью укрепить связи со странами Персидского залива в сфере безопасности",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2464,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 11 ноября 2026 г. – Вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 18:07:07"
+    },
     {
       "id": 2463,
       "source": "France 24",
@@ -22,7 +70,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia",
       "title_ru": "Американский солдат арестован в Англии по подозрению в шпионаже в пользу России",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Папа Лев прибывает в Аргентину на фоне разногласий по поводу жесткой экономии Милеи",
       "status": "published",
       "published_to_telegram_at": "2026-11-08 22:47:15"
-    },
-    {
-      "id": 2409,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
-      "title_ru": "Нидерланды: Красное море заполняет улицы Амстердама во время протестов в Газе",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 22:47:15"
-    },
-    {
-      "id": 2408,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
-      "title_ru": "Украина: российские удары оставляют сотни тысяч людей без электричества",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2407,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo",
-      "title_ru": "По меньшей мере четверо погибли, 88 получили ранения, когда два поезда столкнулись к югу от Каира",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2406,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-evening",
-      "title_ru": "Последние новости | 8 ноября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 19:01:17"
-    },
-    {
-      "id": 2405,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
-      "title_ru": "Взлом Росстата: полученные данные свидетельствуют о более чем 390 000 погибших россиян в войне на Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 19:01:17"
-    },
-    {
-      "id": 2404,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
-      "title_ru": "Эрдоган присоединился к Алиеву на праздновании Дня победы Азербайджана в Карабахе",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 19:01:16"
     }
   ]
 }
