@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-11T02:57:20.631166+00:00",
+  "updated_at": "2026-11-11T10:41:50.539369+00:00",
   "posts": [
+    {
+      "id": 2463,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261111-second-day-of-web-summit-cancelled-as-storm-charles-puts-portugal-on-high-alert",
+      "title_ru": "Второй день веб-саммита отменен из-за шторма «Шарль», который привел Португалию в состояние повышенной готовности",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 10:41:48"
+    },
+    {
+      "id": 2462,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-morning",
+      "title_ru": "Последние новости | 11 ноября 2026 г. – утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2461,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia",
+      "title_ru": "Американский солдат арестован в Англии по подозрению в шпионаже в пользу России",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2460,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/11/iranian-women-take-part-in-irgc-military-training-in-tehran",
+      "title_ru": "Иранские женщины принимают участие в военной подготовке КСИР в Тегеране",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 10:41:50"
+    },
+    {
+      "id": 2459,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/11/art-group-unveils-statue-satirising-trumps-military-service-record",
+      "title_ru": "Арт-группа представляет статую, высмеивающую послужной список военной службы Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 10:41:49"
+    },
+    {
+      "id": 2458,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/11/ottoman-marching-band-welcomes-world-leaders-to-cop31-in-turkey",
+      "title_ru": "Османский маршевый оркестр приветствует мировых лидеров на COP31 в Турции",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 10:41:49"
+    },
     {
       "id": 2457,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Эрдоган присоединился к Алиеву на праздновании Дня победы Азербайджана в Карабахе",
       "status": "published",
       "published_to_telegram_at": "2026-11-08 19:01:16"
-    },
-    {
-      "id": 2403,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
-      "title_ru": "Переполненный автомобиль упал в озеро в Бразилии, убив десять человек, в том числе пятерых детей",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 19:01:16"
-    },
-    {
-      "id": 2402,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-      "title_ru": "Европа примет участие в переговорах по Украине при посредничестве США в Абу-Даби, заявил глава МИД Франции",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 14:28:39"
-    },
-    {
-      "id": 2401,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
-      "title_ru": "Сопернику Нетаньяху Айзенкоту будет поручено сформировать новое правительство после выборов в Израиле",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2400,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
-      "title_ru": "По меньшей мере 21 человек погиб после того, как лодка с мигрантами перевернулась у берегов Сенегала, говорят власти",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2399,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-midday",
-      "title_ru": "Последние новости | 8 ноября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2398,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings",
-      "title_ru": "Силы США нанесли удар по коммерческому судну в Оманском заливе после того, как экипаж «проигнорировал неоднократные предупреждения",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 14:28:40"
     }
   ]
 }
