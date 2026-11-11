@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-11-10T23:29:13.715099+00:00",
+  "updated_at": "2026-11-11T02:57:20.631166+00:00",
   "posts": [
+    {
+      "id": 2457,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Республиканцы США сорвали попытку импичмента министра обороны Пита Хегсета",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 02:57:19"
+    },
+    {
+      "id": 2456,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+      "title_ru": "Асимметричная кибервойна: «Государства все чаще используют кибератаки для поддержки своих других целей»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2455,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261110-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon",
+      "title_ru": "Кандидатура Тедди Райнера «иллюстрирует эту жажду альтернативы» Ле Пену или Меланшону",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2454,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
+      "title_ru": "Премьер-министр Гаити похвалил Букеле после того, как сальвадорские войска помогли уничтожить штаб-квартиру банды",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 02:57:20"
+    },
+    {
+      "id": 2453,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
+      "title_ru": "Лодка перевернулась у северо-западного побережья Сенегала, погибли 39 человек",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-11 02:57:20"
+    },
     {
       "id": 2452,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
       "title_ru": "«Центральная роль в экосистеме: если что-то случится с Nvidia, это будет катастрофа»",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -46,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/10/paraguays-new-president-vows-to-recover-pension-funds-at-risk-in-ueno-bank-crisis",
       "title_ru": "Новый президент Парагвая обещает восстановить пенсионные фонды, находящиеся под угрозой в условиях кризиса в банке Ueno",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "Силы США нанесли удар по коммерческому судну в Оманском заливе после того, как экипаж «проигнорировал неоднократные предупреждения",
       "status": "published",
       "published_to_telegram_at": "2026-11-08 14:28:40"
-    },
-    {
-      "id": 2397,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
-      "title_ru": "Египет вновь открыл посольство в Триполи через 12 лет и выразил обеспокоенность по поводу морской сделки между Турцией и Ливией",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 14:28:40"
-    },
-    {
-      "id": 2396,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-morning",
-      "title_ru": "Последние новости | 8 ноября 2026 г. – утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 07:29:18"
-    },
-    {
-      "id": 2395,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
-      "title_ru": "Трамп предлагает роль пресс-секретаря босса UFC: «Дана, пожалуйста, возьмись за эту работу!»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 07:29:18"
-    },
-    {
-      "id": 2394,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
-      "title_ru": "Боевики убили шестерых в Кракове, еще три тела нашли в его доме",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 01:16:47"
-    },
-    {
-      "id": 2393,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Селективное преследование Армении: угроза отношениям с ЕС?",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
