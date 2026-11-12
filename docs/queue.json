@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-12T16:21:00.678232+00:00",
+  "updated_at": "2026-11-12T22:25:40.426961+00:00",
   "posts": [
+    {
+      "id": 2493,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
+      "title_ru": "Зеленский предупреждает Европу о переговорах между США и Россией по более широким соглашениям в области безопасности",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 22:25:40"
+    },
+    {
+      "id": 2492,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
+      "title_ru": "По словам медиков, в результате израильского удара по больнице в Газе погибли шесть человек, включая хирурга",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 22:25:39"
+    },
+    {
+      "id": 2491,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/ngo-criticizes-un-s-response-to-massacre-in-south-sudan",
+      "title_ru": "НПО критикует реакцию ООН на массовые убийства в Южном Судане",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 22:25:39"
+    },
+    {
+      "id": 2490,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/across-africa-tunisians-drawn-into-russia-s-war-with-ukraine",
+      "title_ru": "По всей Африке: тунисцев вовлекают в войну России с Украиной",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 22:25:39"
+    },
+    {
+      "id": 2489,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 12 ноября 2026 г. – Вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2488,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns",
+      "title_ru": "«Международный порядок, основанный на правилах, разрушается», — предупреждает министр иностранных дел Таиланда",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2487,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Nvidia: Honeypot, возможно, был нацелен на «лоббирование Дженсена Хуана для лоббирования правительства США»",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2433,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
-      "title_ru": "Франция обвиняет Иран в кибератаке на холодильники супермаркетов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2432,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
-      "title_ru": "Министру обороны США Хегсету грозит ожидаемое голосование по импичменту на этой неделе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2431,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
-      "title_ru": "Amnesty International призывает Сальвадор раскрыть условия развертывания войск на Гаити",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 02:46:52"
-    },
-    {
-      "id": 2430,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
-      "title_ru": "Турция: Делегаты прибывают в Анталью в начале переговоров по климату COP31",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2429,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/09/poland-tusk-and-nawrocki-honour-six-victims-of-krakow-shooting",
-      "title_ru": "Польша: Туск и Навроцкий почтили память шести жертв стрельбы в Кракове",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2428,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says",
-      "title_ru": "«Мы думаем, что иранцы и американцы хотят вести переговоры», - сказал египетский министр",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-09 20:10:51"
     }
   ]
 }
