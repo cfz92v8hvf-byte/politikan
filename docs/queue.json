@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-11-11T18:07:08.501538+00:00",
+  "updated_at": "2026-11-12T00:49:18.002181+00:00",
   "posts": [
+    {
+      "id": 2475,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tshisekedi-paves-way-for-constitutional-change",
+      "title_ru": "Чисекеди прокладывает путь к конституционным изменениям",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2474,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+      "title_ru": "Россия и Украина договорились об обмене большим количеством заключенных по завершении мирных переговоров",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2473,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
+      "title_ru": "Гади Айзенкот представляет программу, направленную на изменение политики Нетаньяху",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 00:49:17"
+    },
+    {
+      "id": 2472,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats",
+      "title_ru": "Европейские лидеры собираются в Дублине под тенью гибридных угроз",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 00:49:17"
+    },
+    {
+      "id": 2471,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261111-pope-leo-xiv-returns-to-second-homeland-peru-to-a-nationwide-welcome",
+      "title_ru": "Папа Лев XIV возвращается на свою вторую родину, в Перу, где его встречает вся страна",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 00:49:17"
+    },
+    {
+      "id": 2470,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
+      "title_ru": "Демократ Скотт Колом одержал историческую победу на выборах в Сенат в Миссисипи",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-12 00:49:16"
+    },
     {
       "id": 2469,
       "source": "France 24",
       "source_url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
       "title_ru": "Избирательный суд Бразилии оштрафовал компанию Meta на 1,3 млн долларов, но не усмотрел умышленного предвзятого отношения к выборам",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Папа Лев призывает аргентинскую Милей поставить людей выше экономики",
       "status": "published",
       "published_to_telegram_at": "2026-11-09 02:04:42"
-    },
-    {
-      "id": 2415,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
-      "title_ru": "Трамп обещает вернуться, когда партии столкнутся с угрозами преследования со стороны демократов",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-09 02:04:42"
-    },
-    {
-      "id": 2414,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Иран: Трамп говорит, что нанесение ударов маловероятно, если мирные переговоры продолжатся",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2413,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
-      "title_ru": "Гади Айзенкот получил мандат на формирование правительства",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2412,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
-      "title_ru": "Лидер израильской оппозиции Айзенкот начинает тяжелую работу по формированию коалиционного правительства",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 22:47:16"
-    },
-    {
-      "id": 2411,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261108-pope-leo-in-latin-america-papal-politics-and-peru",
-      "title_ru": "Папа Лев в Латинской Америке: папская политика и Перу",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 22:47:16"
-    },
-    {
-      "id": 2410,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
-      "title_ru": "Папа Лев прибывает в Аргентину на фоне разногласий по поводу жесткой экономии Милеи",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-08 22:47:15"
     }
   ]
 }
