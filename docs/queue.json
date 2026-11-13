@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-13T10:49:34.848017+00:00",
+  "updated_at": "2026-11-13T18:09:47.848258+00:00",
   "posts": [
+    {
+      "id": 2511,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/13/turkey-six-metre-trojan-horse-spills-plastic-waste-at-cop31",
+      "title_ru": "Турция: шестиметровый Троянский конь высыпал пластиковые отходы на КС-31",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2510,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/13/north-macedonia-kriva-palanka-seeks-help-over-1000-free-roaming-cows",
+      "title_ru": "Северная Македония: город Крива-Паланка просит помощи в связи с более чем 1000 коров, свободно бродящих по улицам",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2509,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/13/azerbaijan-intensifies-its-european-engagement-at-the-epc-summit",
+      "title_ru": "Азербайджан активизирует свое взаимодействие с Европой на саммите ЕПС",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 18:09:47"
+    },
+    {
+      "id": 2508,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 13 ноября 2026 г. – Вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 18:09:47"
+    },
+    {
+      "id": 2507,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt",
+      "title_ru": "Депутаты Ирана обсуждают возможный пересмотр ядерной доктрины и выход из ДНЯО",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 18:09:46"
+    },
+    {
+      "id": 2506,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/13/russia-sends-major-business-delegation-to-kabul-for-business-talks-with-the-taliban",
+      "title_ru": "Россия направляет в Кабул крупную бизнес-делегацию для деловых переговоров с талибами",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 18:09:44"
+    },
     {
       "id": 2505,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "«Центральная роль в экосистеме: если что-то случится с Nvidia, это будет катастрофа»",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2451,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
-      "title_ru": "Айзенкот настаивает на расследовании 7 октября, поскольку Нетаньяху нацелен на арабские партии в напряженном новом парламенте",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 23:29:13"
-    },
-    {
-      "id": 2450,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
-      "title_ru": "«Европа никуда не денется»: саммит G7 - «сигнал россиянам» о том, что Европа стоит за Украиной",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 23:29:13"
-    },
-    {
-      "id": 2449,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
-      "title_ru": "США обвиняют трех «иранских оперативников» в террористическом заговоре RAF Fairford",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 23:29:13"
-    },
-    {
-      "id": 2448,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat",
-      "title_ru": "Союзник Трампа Джим Джордан избрал лидера республиканцев в Палате представителей после промежуточного поражения",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 23:29:12"
-    },
-    {
-      "id": 2447,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/paraguays-new-president-vows-to-recover-pension-funds-at-risk-in-ueno-bank-crisis",
-      "title_ru": "Новый президент Парагвая обещает восстановить пенсионные фонды, находящиеся под угрозой в условиях кризиса в банке Ueno",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2446,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/sport/20261110-sports-legends-whose-political-fortunes-may-be-a-lesson-to-riner-ahead-of-presidential-bid",
-      "title_ru": "Спортивные легенды, чья политическая судьба может стать уроком для Райнера в преддверии президентской гонки",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 18:09:33"
     }
   ]
 }
