@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-13T02:51:55.012947+00:00",
+  "updated_at": "2026-11-13T10:49:34.848017+00:00",
   "posts": [
+    {
+      "id": 2505,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261113-guinea-opens-illegal-gold-mining-trial-1-200-people-arrested",
+      "title_ru": "В Гвинее начался судебный процесс по делу о незаконной добыче золота, арестованы 1200 человек",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 10:49:34"
+    },
+    {
+      "id": 2504,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-morning",
+      "title_ru": "Последний выпуск новостей | 13 ноября 2026 г. – Утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2503,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks",
+      "title_ru": "США настаивают на участии европейских стран в переговорах между Украиной и Россией, что Москва отказывается подтвердить",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2502,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/13/portugal-humanoid-robots-take-centre-stage-at-web-summit-2026",
+      "title_ru": "Португалия: человекоподобные роботы в центре внимания на Web Summit 2026",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 10:49:34"
+    },
+    {
+      "id": 2501,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran",
+      "title_ru": "КСИР заявляет, что уничтожил американский радар в Бахрейне после нападения на юг Ирана",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 10:49:34"
+    },
+    {
+      "id": 2500,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/13/ukraine-russian-drone-attacks-hit-kyiv-hospital-leave-one-dead-in-odesa",
+      "title_ru": "Украина: российские беспилотники атаковали больницу в Киеве, в Одессе один человек погиб",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 10:49:33"
+    },
     {
       "id": 2499,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Спортивные легенды, чья политическая судьба может стать уроком для Райнера в преддверии президентской гонки",
       "status": "published",
       "published_to_telegram_at": "2026-11-10 18:09:33"
-    },
-    {
-      "id": 2445,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
-      "title_ru": "Катар видит «прогресс» в переговорах между США и Ираном после встречи в Белом доме",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2444,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
-      "title_ru": "Члены ССАГПЗ согласились разместить войска на новом военном командном пункте в Кувейте",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2443,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/10/belgium-prince-harry-and-meghan-visit-eu-parliament-for-child-safety-event",
-      "title_ru": "Бельгия: принц Гарри и Меган посетили парламент ЕС для участия в мероприятии по безопасности детей",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 18:09:34"
-    },
-    {
-      "id": 2442,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts",
-      "title_ru": "Список «недружественных стран» России теперь нацелен на собственность, опеку над детьми и долги",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 18:09:34"
-    },
-    {
-      "id": 2441,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-evening",
-      "title_ru": "Последние новости | 10 ноября 2026 года – вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 18:09:33"
-    },
-    {
-      "id": 2440,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/mwc26-doha-mobile-economy-in-mena-set-to-reach-421bn-but-millions-remain-offline",
-      "title_ru": "MWC26 Доха: Мобильная экономика в регионе MENA достигнет € 421 млрд, но миллионы остаются в автономном режиме",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
