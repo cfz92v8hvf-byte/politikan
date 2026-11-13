@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-13T18:09:47.848258+00:00",
+  "updated_at": "2026-11-13T23:39:47.005473+00:00",
   "posts": [
+    {
+      "id": 2517,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
+      "title_ru": "«Мы выполнили все домашние задания», чтобы получить статус кандидата в члены ЕС, — заявил премьер-министр Косово Альбин Курти",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2516,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
+      "title_ru": "Что мы знаем о военных учениях Китая вокруг Тайваня",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2515,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine",
+      "title_ru": "Поторопиться и подождать: Европа хочет занять место за столом переговоров и «должна определиться» по вопросу Украины",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2514,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
+      "title_ru": "Падение «рок-звезды» среди руководителей в сфере ИИ, Украина: кто говорит от имени Европы? Протесты и президенты",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2513,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
+      "title_ru": "Франция входит в число пяти ведущих держав, которые будут представлять ЕС на переговорах по Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 23:39:46"
+    },
+    {
+      "id": 2512,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
+      "title_ru": "Адама Бэрроу из Гамбии стремится к третьему сроку",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 23:39:46"
+    },
     {
       "id": 2511,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Османский маршевый оркестр приветствует мировых лидеров на COP31 в Турции",
       "status": "published",
       "published_to_telegram_at": "2026-11-11 10:41:49"
-    },
-    {
-      "id": 2457,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Республиканцы США сорвали попытку импичмента министра обороны Пита Хегсета",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-11 02:57:19"
-    },
-    {
-      "id": 2456,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
-      "title_ru": "Асимметричная кибервойна: «Государства все чаще используют кибератаки для поддержки своих других целей»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2455,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261110-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon",
-      "title_ru": "Кандидатура Тедди Райнера «иллюстрирует эту жажду альтернативы» Ле Пену или Меланшону",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2454,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
-      "title_ru": "Премьер-министр Гаити похвалил Букеле после того, как сальвадорские войска помогли уничтожить штаб-квартиру банды",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-11 02:57:20"
-    },
-    {
-      "id": 2453,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
-      "title_ru": "Лодка перевернулась у северо-западного побережья Сенегала, погибли 39 человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-11 02:57:20"
-    },
-    {
-      "id": 2452,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
-      "title_ru": "«Центральная роль в экосистеме: если что-то случится с Nvidia, это будет катастрофа»",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
