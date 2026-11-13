@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-12T22:25:40.426961+00:00",
+  "updated_at": "2026-11-13T02:51:55.012947+00:00",
   "posts": [
+    {
+      "id": 2499,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
+      "title_ru": "Дженсен Хуанг уходит с поста генерального директора Nvidia после череды скандалов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2498,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+      "title_ru": "Эксперт: «Россия использует незаконные и неэтичные методы, зная, что Европа не будет отвечать ей тем же»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2497,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261112-peruvian-pope-leo-xiv-comes-home-to-a-country-that-shaped-his-life-and-faith-through-hardship",
+      "title_ru": "«Перуанский папа» Лев XIV возвращается домой, в страну, которая сформировала его жизнь и веру через «тяготы»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2496,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks",
+      "title_ru": "Онлайн-трансляция: Зеленский и Кушнер подтверждают, что Европа присоединится к следующему раунду российско-украинских переговоров",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 02:51:54"
+    },
+    {
+      "id": 2495,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years",
+      "title_ru": "Полиция Гаити отбила национальный стадион у банд после двух лет оккупации",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-13 02:51:54"
+    },
+    {
+      "id": 2494,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol",
+      "title_ru": "США: Новые члены Конгресса позируют для традиционного фото в Капитолии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2493,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/10/mwc26-doha-mobile-economy-in-mena-set-to-reach-421bn-but-millions-remain-offline",
       "title_ru": "MWC26 Доха: Мобильная экономика в регионе MENA достигнет € 421 млрд, но миллионы остаются в автономном режиме",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2439,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-morning",
-      "title_ru": "Последние новости | 10 ноября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2438,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts",
-      "title_ru": "Калифорнийские избиратели отвергают одноразовый налог на богатство миллиардеров, который предсказывают американские СМИ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2437,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy",
-      "title_ru": "Трамп говорит, что генеральный директор Nvidia Хуан ничего не знал о предполагаемом китайском шпионе",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 10:29:51"
-    },
-    {
-      "id": 2436,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote",
-      "title_ru": "Трамп обещает поддержать Пита Хегсета, поскольку республиканский законодатель настаивает на голосовании по импичменту",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 10:29:50"
-    },
-    {
-      "id": 2435,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks",
-      "title_ru": "Трамп говорит, что война с Ираном «фактически закончилась», поскольку Тегеран отрицает запланированные переговоры",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-10 10:29:50"
-    },
-    {
-      "id": 2434,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
-      "title_ru": "Nvidia: Honeypot, возможно, был нацелен на «лоббирование Дженсена Хуана для лоббирования правительства США»",
       "status": "expired",
       "published_to_telegram_at": null
     }
