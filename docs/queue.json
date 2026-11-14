@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-14T16:58:05.177674+00:00",
+  "updated_at": "2026-11-14T21:20:05.741981+00:00",
   "posts": [
+    {
+      "id": 2536,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261114-france-and-cambodia-share-their-love-for-p%C3%A9tanque-in-phnom-penh",
+      "title_ru": "Франция и Камбоджа делятся своей любовью к петанку в Пномпене",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2535,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/youth-olympic-games-organisers-hail-senegal-s-capability-to-host-major-events",
+      "title_ru": "Организаторы Юношеских Олимпийских игр высоко оценивают способность Сенегала принимать крупные мероприятия",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2534,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+      "title_ru": "Макрон заявляет, что ограничение помощи Украине откроет путь к «новой войне»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-14 21:20:05"
+    },
+    {
+      "id": 2533,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+      "title_ru": "Нетаньяху вновь призывает к единству израильского правительства, а Эйзенкот отвергает «уловки»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-14 21:20:05"
+    },
+    {
+      "id": 2532,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 14 ноября 2026 г. – Вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2531,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks",
+      "title_ru": "Москва заявляет, что не будет диктовать условия участия делегации ЕС в переговорах по Украине",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-14 21:20:04"
+    },
     {
       "id": 2530,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "«Скрытая мобилизация» в России: «расходные» жизни, подпитывающие войну Путина в Украине",
       "status": "published",
       "published_to_telegram_at": "2026-11-12 07:48:14"
-    },
-    {
-      "id": 2476,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-morning",
-      "title_ru": "Последний выпуск новостей | 12 ноября 2026 г. – Утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 07:48:15"
-    },
-    {
-      "id": 2475,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tshisekedi-paves-way-for-constitutional-change",
-      "title_ru": "Чисекеди прокладывает путь к конституционным изменениям",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2474,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
-      "title_ru": "Россия и Украина договорились об обмене большим количеством заключенных по завершении мирных переговоров",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2473,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
-      "title_ru": "Гади Айзенкот представляет программу, направленную на изменение политики Нетаньяху",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 00:49:17"
-    },
-    {
-      "id": 2472,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats",
-      "title_ru": "Европейские лидеры собираются в Дублине под тенью гибридных угроз",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 00:49:17"
-    },
-    {
-      "id": 2471,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261111-pope-leo-xiv-returns-to-second-homeland-peru-to-a-nationwide-welcome",
-      "title_ru": "Папа Лев XIV возвращается на свою вторую родину, в Перу, где его встречает вся страна",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 00:49:17"
     }
   ]
 }
