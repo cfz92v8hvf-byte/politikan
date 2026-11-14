@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-14T03:37:32.395524+00:00",
+  "updated_at": "2026-11-14T10:59:22.392639+00:00",
   "posts": [
+    {
+      "id": 2524,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+      "title_ru": "Онлайн-трансляция: Франция задействует 70 000 полицейских для борьбы с новой волной антиправительственных протестов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2523,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
+      "title_ru": "Франция протестует пятую субботу подряд против стоимости жизни и жестких действий полиции",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-14 10:59:22"
+    },
+    {
+      "id": 2522,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+      "title_ru": "Зеленский заявил, что США предложили Украине уступить Донбасс в обмен на вступление в НАТО",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-14 10:59:21"
+    },
+    {
+      "id": 2521,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning",
+      "title_ru": "Последний выпуск новостей | 14 ноября 2026 г. – Утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2520,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
+      "title_ru": "Пассажиры по-прежнему сталкиваются с задержками и отменами рейсов после того, как США сняли общенациональный запрет на полеты.",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2519,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/14/russia-urges-iihf-to-move-canada-world-juniors-as-hockey-boycotts-spread",
+      "title_ru": "Россия призывает ИИХФ перенести молодежный чемпионат мира по хоккею из Канады в связи с распространением бойкотов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2518,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "ЕС планирует провести переговоры по вопросам обороны в Дохе с целью укрепить связи со странами Персидского залива в сфере безопасности",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2464,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-evening",
-      "title_ru": "Последний выпуск новостей | 11 ноября 2026 г. – Вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-11 18:07:07"
-    },
-    {
-      "id": 2463,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261111-second-day-of-web-summit-cancelled-as-storm-charles-puts-portugal-on-high-alert",
-      "title_ru": "Второй день веб-саммита отменен из-за шторма «Шарль», который привел Португалию в состояние повышенной готовности",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-11 10:41:48"
-    },
-    {
-      "id": 2462,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-morning",
-      "title_ru": "Последние новости | 11 ноября 2026 г. – утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2461,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia",
-      "title_ru": "Американский солдат арестован в Англии по подозрению в шпионаже в пользу России",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2460,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/11/iranian-women-take-part-in-irgc-military-training-in-tehran",
-      "title_ru": "Иранские женщины принимают участие в военной подготовке КСИР в Тегеране",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-11 10:41:50"
-    },
-    {
-      "id": 2459,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/11/art-group-unveils-statue-satirising-trumps-military-service-record",
-      "title_ru": "Арт-группа представляет статую, высмеивающую послужной список военной службы Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-11 10:41:49"
     }
   ]
 }
