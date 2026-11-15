@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-11-15T07:55:18.574436+00:00",
+  "updated_at": "2026-11-15T15:35:12.339445+00:00",
   "posts": [
+    {
+      "id": 2551,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens",
+      "title_ru": "Китайский шпион, продажи чипов, связи с Трампом... Скандал вокруг Nvidia набирает обороты",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-15 15:35:12"
+    },
+    {
+      "id": 2550,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations",
+      "title_ru": "Школа Санты в Лондоне работает в полную силу в преддверии рождественских праздников",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-15 15:35:11"
+    },
+    {
+      "id": 2549,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261115-jensen-huang-the-french-connection",
+      "title_ru": "Дженсен Хуанг: «Французский связной»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-15 15:35:11"
+    },
+    {
+      "id": 2548,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
+      "title_ru": "Жители Канарских островов призывают правительство принять меры после того, как за 48 часов на острова прибыли 2200 мигрантов",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-15 15:35:11"
+    },
+    {
+      "id": 2547,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+      "title_ru": "В Кабо-Верде проходят президентские выборы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2546,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 15 ноября 2026 г. – Полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2545,
       "source": "DW",
       "source_url": "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-all-1573-rdf",
       "title_ru": "Может ли универсальный базовый доход стать частью решения в экономике ИИ?",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "По словам медиков, в результате израильского удара по больнице в Газе погибли шесть человек, включая хирурга",
       "status": "published",
       "published_to_telegram_at": "2026-11-12 22:25:39"
-    },
-    {
-      "id": 2491,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/ngo-criticizes-un-s-response-to-massacre-in-south-sudan",
-      "title_ru": "НПО критикует реакцию ООН на массовые убийства в Южном Судане",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 22:25:39"
-    },
-    {
-      "id": 2490,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/across-africa-tunisians-drawn-into-russia-s-war-with-ukraine",
-      "title_ru": "По всей Африке: тунисцев вовлекают в войну России с Украиной",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 22:25:39"
-    },
-    {
-      "id": 2489,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-evening",
-      "title_ru": "Последний выпуск новостей | 12 ноября 2026 г. – Вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2488,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns",
-      "title_ru": "«Международный порядок, основанный на правилах, разрушается», — предупреждает министр иностранных дел Таиланда",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2487,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-      "title_ru": "По меньшей мере пять человек получили огнестрельные ранения в районе Вашингтона, недалеко от Белого дома",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 16:20:59"
-    },
-    {
-      "id": 2486,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
-      "title_ru": "Как FRANCE 24 отследил путь афганских боевиков, поддерживаемых Тегераном, из Сирии на юго-восток Ирана",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 16:20:59"
     }
   ]
 }
