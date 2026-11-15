@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-15T15:35:12.339445+00:00",
+  "updated_at": "2026-11-15T20:32:32.241412+00:00",
   "posts": [
+    {
+      "id": 2557,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours",
+      "title_ru": "Как более 2000 мигрантов добрались до Канарских островов всего за 48 часов?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2556,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+      "title_ru": "Эстония закроет пункты пропуска на границе с Россией после попытки «саботажа» на заводе по производству дронов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2555,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
+      "title_ru": "Борьба Праги за общественное телевидение — почему известный ведущий покидает Чешское телевидение из-за реформ",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-15 20:32:32"
+    },
+    {
+      "id": 2554,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+      "title_ru": "Хуситы в Йемене продвигаются к Адену, а правительственные войска отступают, чтобы защитить свою столицу",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-15 20:32:31"
+    },
+    {
+      "id": 2553,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/15/australia-and-philippines-sign-new-defence-pact-amid-south-china-sea-tensions",
+      "title_ru": "Австралия и Филиппины подписали новый оборонный пакт на фоне напряженности в Южно-Китайском море",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2552,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 15 ноября 2026 г. – Вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2551,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Эксперт: «Россия использует незаконные и неэтичные методы, зная, что Европа не будет отвечать ей тем же»",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2497,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261112-peruvian-pope-leo-xiv-comes-home-to-a-country-that-shaped-his-life-and-faith-through-hardship",
-      "title_ru": "«Перуанский папа» Лев XIV возвращается домой, в страну, которая сформировала его жизнь и веру через «тяготы»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2496,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks",
-      "title_ru": "Онлайн-трансляция: Зеленский и Кушнер подтверждают, что Европа присоединится к следующему раунду российско-украинских переговоров",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 02:51:54"
-    },
-    {
-      "id": 2495,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years",
-      "title_ru": "Полиция Гаити отбила национальный стадион у банд после двух лет оккупации",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 02:51:54"
-    },
-    {
-      "id": 2494,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol",
-      "title_ru": "США: Новые члены Конгресса позируют для традиционного фото в Капитолии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2493,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
-      "title_ru": "Зеленский предупреждает Европу о переговорах между США и Россией по более широким соглашениям в области безопасности",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 22:25:40"
-    },
-    {
-      "id": 2492,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
-      "title_ru": "По словам медиков, в результате израильского удара по больнице в Газе погибли шесть человек, включая хирурга",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 22:25:39"
     }
   ]
 }
