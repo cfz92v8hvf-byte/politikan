@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-14T21:20:05.741981+00:00",
+  "updated_at": "2026-11-15T01:07:15.971147+00:00",
   "posts": [
+    {
+      "id": 2540,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Проверка фактов: «иранские» контент-фермы охватывают миллионы людей",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2539,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Южный Судан откладывает выборы на фоне вспышек насилия",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2538,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Предстоящие выборы в Нигерии омрачены распространением дезинформации с использованием ИИ",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2537,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Бюджет Германии на 2027 год: рекордные 561 миллиард евро и огромный долг",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2536,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "На каком этапе находится война США с Ираном после промежуточных выборов",
       "status": "published",
       "published_to_telegram_at": "2026-11-12 07:48:15"
-    },
-    {
-      "id": 2480,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Индии: Правительство Моди одобрило строительство музея в Дели стоимостью 340 млн долларов США",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 07:48:14"
-    },
-    {
-      "id": 2479,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
-      "title_ru": "Украина онлайн: американские эмиссары Уиткофф и Кушнер прибыли в Россию на встречу с Путиным",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2478,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261112-paraguay-partially-refunds-ueno-bank-depositors-after-collapse",
-      "title_ru": "Парагвай частично возместил средства вкладчикам банка Ueno после его краха",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2477,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
-      "title_ru": "«Скрытая мобилизация» в России: «расходные» жизни, подпитывающие войну Путина в Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-12 07:48:14"
     }
   ]
 }
