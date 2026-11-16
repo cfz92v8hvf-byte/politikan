@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-16T06:50:16.561676+00:00",
+  "updated_at": "2026-11-16T16:30:46.470333+00:00",
   "posts": [
+    {
+      "id": 2575,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise",
+      "title_ru": "Французские войска в Украине «не стали бы неожиданностью»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-16 16:30:46"
+    },
+    {
+      "id": 2574,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261116-french-film-star-depardieu-drops-appeal-against-sexual-conviction",
+      "title_ru": "Французская кинозвезда Депардье отказался от апелляции на обвинительный приговор по делу о сексуальных домогательствах",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-16 16:30:45"
+    },
+    {
+      "id": 2573,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 16 ноября 2026 г. – Полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2572,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/16/millions-of-red-crabs-begin-annual-migration-on-australias-christmas-island",
+      "title_ru": "Миллионы красных крабов начинают ежегодную миграцию на австралийском острове Рождества",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2571,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
+      "title_ru": "США и Иран приближаются к новой полномасштабной войне по мере усиления обмена огнем",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2570,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/16/trump-says-he-could-meet-with-north-korean-leader-kim-jong-un-in-china",
+      "title_ru": "Трамп говорит, что может встретиться с северокорейским лидером Ким Чен Ыном в Китае",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-16 16:30:45"
+    },
     {
       "id": 2569,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
       "title_ru": "Что мы знаем о военных учениях Китая вокруг Тайваня",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2515,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine",
-      "title_ru": "Поторопиться и подождать: Европа хочет занять место за столом переговоров и «должна определиться» по вопросу Украины",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2514,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
-      "title_ru": "Падение «рок-звезды» среди руководителей в сфере ИИ, Украина: кто говорит от имени Европы? Протесты и президенты",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2513,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
-      "title_ru": "Франция входит в число пяти ведущих держав, которые будут представлять ЕС на переговорах по Украине",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 23:39:46"
-    },
-    {
-      "id": 2512,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
-      "title_ru": "Адама Бэрроу из Гамбии стремится к третьему сроку",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 23:39:46"
-    },
-    {
-      "id": 2511,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/13/turkey-six-metre-trojan-horse-spills-plastic-waste-at-cop31",
-      "title_ru": "Турция: шестиметровый Троянский конь высыпал пластиковые отходы на КС-31",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2510,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/13/north-macedonia-kriva-palanka-seeks-help-over-1000-free-roaming-cows",
-      "title_ru": "Северная Македония: город Крива-Паланка просит помощи в связи с более чем 1000 коров, свободно бродящих по улицам",
       "status": "expired",
       "published_to_telegram_at": null
     }
