@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-16T00:19:40.510753+00:00",
+  "updated_at": "2026-11-16T06:50:16.561676+00:00",
   "posts": [
+    {
+      "id": 2569,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Мексиканский наркобарон Феликс Гальярдо скончался в возрасте 80 лет",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-16 06:50:16"
+    },
+    {
+      "id": 2568,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Индии: Моди направляется на саммит АСЕАН в Маниле",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-16 06:50:15"
+    },
+    {
+      "id": 2567,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
+      "title_ru": "Сотни тысяч чехов протестуют в Праге против плана финансирования государственных СМИ",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2566,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
+      "title_ru": "Эйзенкот заявил, что Нетаньяху «не может оставаться» на посту после предполагаемого вмешательства его помощника в выборы",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2565,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-morning",
+      "title_ru": "Последний выпуск новостей | 16 ноября 2026 г. – Утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-16 06:50:16"
+    },
+    {
+      "id": 2564,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/16/australian-mp-helen-haines-leaves-hospital-after-losing-both-legs-in-alleged-car-attack",
+      "title_ru": "Австралийский депутат Хелен Хейнс выписалась из больницы после потери обеих ног в результате предполагаемого наезда автомобиля",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-16 06:50:15"
+    },
     {
       "id": 2563,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/11/13/north-macedonia-kriva-palanka-seeks-help-over-1000-free-roaming-cows",
       "title_ru": "Северная Македония: город Крива-Паланка просит помощи в связи с более чем 1000 коров, свободно бродящих по улицам",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2509,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/13/azerbaijan-intensifies-its-european-engagement-at-the-epc-summit",
-      "title_ru": "Азербайджан активизирует свое взаимодействие с Европой на саммите ЕПС",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 18:09:47"
-    },
-    {
-      "id": 2508,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening",
-      "title_ru": "Последний выпуск новостей | 13 ноября 2026 г. – Вечер",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 18:09:47"
-    },
-    {
-      "id": 2507,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt",
-      "title_ru": "Депутаты Ирана обсуждают возможный пересмотр ядерной доктрины и выход из ДНЯО",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 18:09:46"
-    },
-    {
-      "id": 2506,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/13/russia-sends-major-business-delegation-to-kabul-for-business-talks-with-the-taliban",
-      "title_ru": "Россия направляет в Кабул крупную бизнес-делегацию для деловых переговоров с талибами",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 18:09:44"
-    },
-    {
-      "id": 2505,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261113-guinea-opens-illegal-gold-mining-trial-1-200-people-arrested",
-      "title_ru": "В Гвинее начался судебный процесс по делу о незаконной добыче золота, арестованы 1200 человек",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-13 10:49:34"
-    },
-    {
-      "id": 2504,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-morning",
-      "title_ru": "Последний выпуск новостей | 13 ноября 2026 г. – Утро",
       "status": "expired",
       "published_to_telegram_at": null
     }
