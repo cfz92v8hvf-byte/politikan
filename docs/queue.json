@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-16T16:30:46.470333+00:00",
+  "updated_at": "2026-11-17T00:25:54.557796+00:00",
   "posts": [
+    {
+      "id": 2581,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/the-new-faces-of-the-us-congress",
+      "title_ru": "Новые лица Конгресса США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2580,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
+      "title_ru": "Дезинформация о затемнении 17 ноября: как теория заговора распространилась по всему миру",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2579,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants",
+      "title_ru": "Руанда станет центром приема мигрантов, которым было отказано во въезде в ЕС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2578,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+      "title_ru": "Трамп говорит, что ему нужно финансирование для управления воздушным движением после приостановки полетов",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-17 00:25:54"
+    },
+    {
+      "id": 2577,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
+      "title_ru": "Европа ищет альтернативы Palantir, поскольку военные стремятся ограничить зависимость от США",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-17 00:25:54"
+    },
+    {
+      "id": 2576,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+      "title_ru": "Украина нанесла удар по Крымскому мосту с помощью беспилотников",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-17 00:25:53"
+    },
     {
       "id": 2575,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Зеленский заявил, что США предложили Украине уступить Донбасс в обмен на вступление в НАТО",
       "status": "published",
       "published_to_telegram_at": "2026-11-14 10:59:21"
-    },
-    {
-      "id": 2521,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning",
-      "title_ru": "Последний выпуск новостей | 14 ноября 2026 г. – Утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2520,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
-      "title_ru": "Пассажиры по-прежнему сталкиваются с задержками и отменами рейсов после того, как США сняли общенациональный запрет на полеты.",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2519,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/14/russia-urges-iihf-to-move-canada-world-juniors-as-hockey-boycotts-spread",
-      "title_ru": "Россия призывает ИИХФ перенести молодежный чемпионат мира по хоккею из Канады в связи с распространением бойкотов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2518,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
-      "title_ru": "Возобновление авиарейсов в США после отмены общенационального запрета на взлеты",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-14 03:37:32"
-    },
-    {
-      "id": 2517,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
-      "title_ru": "«Мы выполнили все домашние задания», чтобы получить статус кандидата в члены ЕС, — заявил премьер-министр Косово Альбин Курти",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2516,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
-      "title_ru": "Что мы знаем о военных учениях Китая вокруг Тайваня",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
