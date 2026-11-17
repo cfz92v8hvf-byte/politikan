@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-17T00:25:54.557796+00:00",
+  "updated_at": "2026-11-17T08:24:02.549023+00:00",
   "posts": [
+    {
+      "id": 2587,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Канада и Китай договорились снизить тарифы на фоне торговых споров с США",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-17 08:24:01"
+    },
+    {
+      "id": 2586,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
+      "title_ru": "Трамп отправляется в Азию для проведения исторических переговоров по ядерной проблематике с Китаем и Россией",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2585,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy",
+      "title_ru": "Макрон посещает Малайзию в рамках стремления Франции к укреплению связей в области обороны и редкоземельных элементов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2584,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/new-mass-protests-expected-france-tuesday-presidential-election-approaches",
+      "title_ru": "Во Франции во вторник ожидаются новые массовые протесты в связи с приближением президентских выборов",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-17 08:24:02"
+    },
+    {
+      "id": 2583,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-morning",
+      "title_ru": "Последний выпуск новостей | 17 ноября 2026 г. – Утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-17 08:24:02"
+    },
+    {
+      "id": 2582,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/17/japan-scrambles-jets-after-suspected-russian-planes-enter-airspace-tokyo-says",
+      "title_ru": "По словам Токио, Япония поднимает в воздух истребители после того, как российские самолеты, предположительно, нарушили воздушное пространство страны",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-17 08:24:01"
+    },
     {
       "id": 2581,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "США: Что именно стало причиной самой продолжительной общенациональной приостановки полетов за последние 25 лет?",
       "status": "published",
       "published_to_telegram_at": "2026-11-14 16:58:03"
-    },
-    {
-      "id": 2527,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-midday",
-      "title_ru": "Последний выпуск новостей | 14 ноября 2026 г. – Полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2526,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
-      "title_ru": "Катар и Турция подписали соглашение о сотрудничестве в области обороны для обеспечения «единой позиции» перед лицом внешних угроз",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2525,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says",
-      "title_ru": "Марк Карни заявил, что Канада и Филиппины завершили переговоры по соглашению о свободной торговле",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-14 16:58:04"
-    },
-    {
-      "id": 2524,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
-      "title_ru": "Онлайн-трансляция: Франция задействует 70 000 полицейских для борьбы с новой волной антиправительственных протестов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2523,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
-      "title_ru": "Франция протестует пятую субботу подряд против стоимости жизни и жестких действий полиции",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-14 10:59:22"
-    },
-    {
-      "id": 2522,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-      "title_ru": "Зеленский заявил, что США предложили Украине уступить Донбасс в обмен на вступление в НАТО",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-14 10:59:21"
     }
   ]
 }
