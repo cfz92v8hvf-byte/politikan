@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-18T00:02:21.181249+00:00",
+  "updated_at": "2026-11-18T07:12:50.656586+00:00",
   "posts": [
+    {
+      "id": 2599,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
+      "title_ru": "Си Цзиньпин призвал к глобальному сотрудничеству в области ИИ и свободной торговли на саммите АТЭС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2598,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261118-peltola-defeats-sullivan-in-alaska-senate-race-expanding-democratic-majority",
+      "title_ru": "Пелтола побеждает Салливана на выборах в Сенат от Аляски, увеличивая большинство демократов",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2597,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump",
+      "title_ru": "Си Цзиньпин и Владимир Путин провели переговоры накануне трехстороннего саммита с Трампом",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-18 07:12:50"
+    },
+    {
+      "id": 2596,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-morning",
+      "title_ru": "Последний выпуск новостей | 18 ноября 2026 г. – Утро",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-18 07:12:50"
+    },
+    {
+      "id": 2595,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/democrat-mary-peltola-unseats-republican-and-flips-us-senate-seat-in-tight-race-in-alaska",
+      "title_ru": "Демократка Мэри Пелтола лишает республиканца места в Сенате США в напряженной гонке на Аляске",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-18 07:12:49"
+    },
+    {
+      "id": 2594,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/haiti-formalises-security-pact-with-el-salvador-as-thousands-march-in-support-of-bukele",
+      "title_ru": "Гаити официально заключает соглашение о безопасности с Сальвадором, в то время как тысячи людей выходят на марш в поддержку Букеле",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-18 07:12:49"
+    },
     {
       "id": 2593,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Проверка фактов: «иранские» контент-фермы охватывают миллионы людей",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2539,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Южный Судан откладывает выборы на фоне вспышек насилия",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2538,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Предстоящие выборы в Нигерии омрачены распространением дезинформации с использованием ИИ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2537,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Бюджет Германии на 2027 год: рекордные 561 миллиард евро и огромный долг",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2536,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261114-france-and-cambodia-share-their-love-for-p%C3%A9tanque-in-phnom-penh",
-      "title_ru": "Франция и Камбоджа делятся своей любовью к петанку в Пномпене",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2535,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/youth-olympic-games-organisers-hail-senegal-s-capability-to-host-major-events",
-      "title_ru": "Организаторы Юношеских Олимпийских игр высоко оценивают способность Сенегала принимать крупные мероприятия",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2534,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
-      "title_ru": "Макрон заявляет, что ограничение помощи Украине откроет путь к «новой войне»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-14 21:20:05"
     }
   ]
 }
