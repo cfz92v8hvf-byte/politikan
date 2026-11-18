@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-18T07:12:50.656586+00:00",
+  "updated_at": "2026-11-18T16:31:02.533576+00:00",
   "posts": [
+    {
+      "id": 2605,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 18 ноября 2026 г. – Полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2604,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/trump-ordered-to-give-sworn-testimony-in-bbc-defamation-case-by-january",
+      "title_ru": "Трампу приказано дать показания под присягой по делу о клевете BBC до января",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2603,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/irans-army-chief-vows-more-crushing-response-if-us-attacks-again",
+      "title_ru": "Глава иранской армии обещает «еще более сокрушительный» ответ, если США снова нападут",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2602,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin",
+      "title_ru": "Трамп прибыл в Китай на беспрецедентную трехстороннюю встречу с Си и Путиным",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2601,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/zelenskyy-proposes-10-more-humanitarian-evacuations-after-oleshky",
+      "title_ru": "Зеленский предлагает провести еще 10 гуманитарных эвакуаций после Алешек",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2600,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+      "title_ru": "Израильская армия начала новую операцию в центральной части сектора Газа, несмотря на прекращение огня",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-18 16:31:02"
+    },
     {
       "id": 2599,
       "source": "France 24",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-midday",
       "title_ru": "Последний выпуск новостей | 15 ноября 2026 г. – Полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2545,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Может ли универсальный базовый доход стать частью решения в экономике ИИ?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2544,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Пекин сталкивается с российской дилеммой на фоне разговоров о саммите Си — Трамп — Путин",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-15 07:55:18"
-    },
-    {
-      "id": 2543,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: в Германии отмечается национальный день памяти",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-15 07:55:17"
-    },
-    {
-      "id": 2542,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
-      "title_ru": "«Это кибератака?»Отмена рейсов, сбой в работе Microsoft и хаос, вызванный ИИ, усиливают опасения по поводу кибербезопасности",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-15 07:55:17"
-    },
-    {
-      "id": 2541,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
-      "title_ru": "Последний выпуск новостей | 15 ноября 2026 г. – Утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-15 07:55:18"
-    },
-    {
-      "id": 2540,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Проверка фактов: «иранские» контент-фермы охватывают миллионы людей",
       "status": "expired",
       "published_to_telegram_at": null
     }
