@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-19T04:06:04.946088+00:00",
+  "updated_at": "2026-11-19T13:26:07.382755+00:00",
   "posts": [
+    {
+      "id": 2623,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
+      "title_ru": "Что нужно знать об историческом трехстороннем саммите с участием Си Цзиньпина, Путина и Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 13:26:06"
+    },
+    {
+      "id": 2622,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
+      "title_ru": "Украина: четыре человека погибли и не менее 13 получили ранения в результате российского удара по Одессе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2621,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/19/china-trump-calls-putin-his-friend-as-leaders-meet-amid-in-shenzhen",
+      "title_ru": "Китай: Трамп назвал Путина своим «другом» на встрече лидеров в Шэньчжэне",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2620,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
+      "title_ru": "Смотрите: Трамп, Путин и Си садятся за стол переговоров для исторической трехсторонней встречи",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2619,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/19/apec-summit-gta-vi-launch-wine-parade-todays-top-no-comment-videos-from-around-the-world",
+      "title_ru": "Саммит АТЭС, релиз GTA VI, парад вина... Лучшие сегодняшние видео без комментариев со всего мира",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2618,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/19/latest-news-bulletin-november-19th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 19 ноября 2026 г. – Полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 13:26:07"
+    },
     {
       "id": 2617,
       "source": "Council of the EU",
@@ -38,7 +86,7 @@
       "source": "France 24",
       "source_url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
       "title_ru": "Переговоры Си — Трамп — Путин в прямом эфире: лидеры Китая, США и России проведут историческую трехстороннюю встречу",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Австралийский депутат Хелен Хейнс выписалась из больницы после потери обеих ног в результате предполагаемого наезда автомобиля",
       "status": "published",
       "published_to_telegram_at": "2026-11-16 06:50:15"
-    },
-    {
-      "id": 2563,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Эстония закрывает границу с Россией после предполагаемого поджога завода по производству беспилотников",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2562,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Чехия: массовые протесты против реформы государственных СМИ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2561,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Зеленский призывает снять ограничения Starshield в Украине",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2560,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
-      "title_ru": "Почти 2200 мигрантов прибыли на Канарские острова Испании за два дня",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2559,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
-      "title_ru": "Мигель Анхель Феликс Гальярдо, основатель мексиканской наркоторговли, скончался в возрасте 80 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 00:19:40"
-    },
-    {
-      "id": 2558,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
-      "title_ru": "Илон Маск и соучредитель Uber присоединились к призывам восстановить Дженсена Хуанга в должности главы Nvidia",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 00:19:40"
     }
   ]
 }
