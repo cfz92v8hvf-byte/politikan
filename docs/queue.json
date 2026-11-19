@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-18T23:03:36.179016+00:00",
+  "updated_at": "2026-11-19T04:06:04.946088+00:00",
   "posts": [
+    {
+      "id": 2617,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/methane-regulation-eu-agrees-targeted-amendment-to-safeguard-security-of-supply/",
+      "title_ru": "Регулирование выбросов метана: ЕС согласовал целевую поправку для обеспечения безопасности поставок",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 04:06:04"
+    },
+    {
+      "id": 2616,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/ukraine-s-allies-gather-in-berlin-for-coalition-of-the-willing-summit/live-79986520?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Союзники Украины собрались в Берлине на саммит «Коалиции желающих»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 04:06:04"
+    },
+    {
+      "id": 2615,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "По словам российского чиновника, Крымский мост снова подвергся нападению",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 04:06:03"
+    },
+    {
+      "id": 2614,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
+      "title_ru": "Конте 24-месячной выдержки признан лучшим сыром в мире",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2613,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+      "title_ru": "Переговоры Си — Трамп — Путин в прямом эфире: лидеры Китая, США и России проведут историческую трехстороннюю встречу",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2612,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
+      "title_ru": "КС-31: Вануату призывает к реформе климатического саммита ООН и предупреждает об отступлении от достигнутых договоренностей",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 04:06:04"
+    },
     {
       "id": 2611,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Илон Маск и соучредитель Uber присоединились к призывам восстановить Дженсена Хуанга в должности главы Nvidia",
       "status": "published",
       "published_to_telegram_at": "2026-11-16 00:19:40"
-    },
-    {
-      "id": 2557,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours",
-      "title_ru": "Как более 2000 мигрантов добрались до Канарских островов всего за 48 часов?",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2556,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
-      "title_ru": "Эстония закроет пункты пропуска на границе с Россией после попытки «саботажа» на заводе по производству дронов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2555,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
-      "title_ru": "Борьба Праги за общественное телевидение — почему известный ведущий покидает Чешское телевидение из-за реформ",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-15 20:32:32"
-    },
-    {
-      "id": 2554,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
-      "title_ru": "Хуситы в Йемене продвигаются к Адену, а правительственные войска отступают, чтобы защитить свою столицу",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-15 20:32:31"
-    },
-    {
-      "id": 2553,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/15/australia-and-philippines-sign-new-defence-pact-amid-south-china-sea-tensions",
-      "title_ru": "Австралия и Филиппины подписали новый оборонный пакт на фоне напряженности в Южно-Китайском море",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2552,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-evening",
-      "title_ru": "Последний выпуск новостей | 15 ноября 2026 г. – Вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
