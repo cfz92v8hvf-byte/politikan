@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-19T13:26:07.382755+00:00",
+  "updated_at": "2026-11-19T21:44:39.888140+00:00",
   "posts": [
+    {
+      "id": 2629,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call",
+      "title_ru": "Трамп ставит под сомнение выделение Европой миллиардов на помощь Украине во время неожиданного телефонного разговора",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2628,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/19/us-protesters-warn-of-ai-bubble-as-anthropic-makes-stock-market-history",
+      "title_ru": "США: протестующие предупреждают о пузыре ИИ, в то время как Anthropic творит историю фондового рынка",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2627,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across",
+      "title_ru": "Трамп покидает Китай, так и не встретившись с Ким Чен Ыном, поскольку трехсторонний саммит вызывает обеспокоенность в Азии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2626,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
+      "title_ru": "Новая архитектура региональной безопасности также принесет пользу Европе, — заявил министр иностранных дел Пакистана в интервью Euronews",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 21:44:39"
+    },
+    {
+      "id": 2625,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
+      "title_ru": "По меньшей мере один человек погиб и десятки пропали без вести после того, как лодка с мигрантами перевернулась у берегов Сенегала по пути в Испанию",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 21:44:39"
+    },
+    {
+      "id": 2624,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/19/us-defence-secretary-pete-hegseth-lands-in-ecuador-on-latin-america-anti-narcotics-tour",
+      "title_ru": "Министр обороны США Пит Хегсет прибыл в Эквадор в рамках турне по странам Латинской Америки, посвященного борьбе с наркотиками",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-19 21:44:38"
+    },
     {
       "id": 2623,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Трамп говорит, что может встретиться с северокорейским лидером Ким Чен Ыном в Китае",
       "status": "published",
       "published_to_telegram_at": "2026-11-16 16:30:45"
-    },
-    {
-      "id": 2569,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Мексиканский наркобарон Феликс Гальярдо скончался в возрасте 80 лет",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 06:50:16"
-    },
-    {
-      "id": 2568,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Индии: Моди направляется на саммит АСЕАН в Маниле",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 06:50:15"
-    },
-    {
-      "id": 2567,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
-      "title_ru": "Сотни тысяч чехов протестуют в Праге против плана финансирования государственных СМИ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2566,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
-      "title_ru": "Эйзенкот заявил, что Нетаньяху «не может оставаться» на посту после предполагаемого вмешательства его помощника в выборы",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2565,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-morning",
-      "title_ru": "Последний выпуск новостей | 16 ноября 2026 г. – Утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 06:50:16"
-    },
-    {
-      "id": 2564,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/16/australian-mp-helen-haines-leaves-hospital-after-losing-both-legs-in-alleged-car-attack",
-      "title_ru": "Австралийский депутат Хелен Хейнс выписалась из больницы после потери обеих ног в результате предполагаемого наезда автомобиля",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 06:50:15"
     }
   ]
 }
