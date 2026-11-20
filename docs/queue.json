@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-20T10:35:23.989648+00:00",
+  "updated_at": "2026-11-20T18:47:30.349199+00:00",
   "posts": [
+    {
+      "id": 2647,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un",
+      "title_ru": "Представитель ОАЭ Лана Нуссейбе обещает «неустанную дипломатию» в стремлении возглавить ООН",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2646,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/20/italy-workers-and-students-stage-nationwide-strike-over-living-costs",
+      "title_ru": "Италия: рабочие и студенты проводят общенациональную забастовку из-за стоимости жизни",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2645,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/20/turkey-activists-chant-shame-as-cop31-negotiations-falter",
+      "title_ru": "Турция: активисты скандируют «Позор!» на фоне неудачных переговоров по КС-31",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 18:47:30"
+    },
+    {
+      "id": 2644,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/20/deepening-eucanada-ties-from-critical-minerals-and-defence-to-erasmus",
+      "title_ru": "Укрепление связей между ЕС и Канадой: от важнейших полезных ископаемых и обороны до программы Erasmus+",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 18:47:29"
+    },
+    {
+      "id": 2643,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/20/morocco-commits-366-million-to-build-a-national-defence-industry-by-2035",
+      "title_ru": "Марокко выделяет 366 млн евро на создание национальной оборонной промышленности к 2035 году",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 18:47:29"
+    },
+    {
+      "id": 2642,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 20 ноября 2026 г. – Вечер",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 18:47:29"
+    },
     {
       "id": 2641,
       "source": "France 24",
@@ -30,7 +78,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/11/20/ukraine-kyiv-metro-stations-become-overnight-shelters-amid-air-raids",
       "title_ru": "Украина: станции киевского метро стали ночными бомбоубежищами на фоне воздушных налетов",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Последний выпуск новостей | 17 ноября 2026 г. – Вечер",
       "status": "published",
       "published_to_telegram_at": "2026-11-17 17:49:33"
-    },
-    {
-      "id": 2587,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Канада и Китай договорились снизить тарифы на фоне торговых споров с США",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-17 08:24:01"
-    },
-    {
-      "id": 2586,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
-      "title_ru": "Трамп отправляется в Азию для проведения исторических переговоров по ядерной проблематике с Китаем и Россией",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2585,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy",
-      "title_ru": "Макрон посещает Малайзию в рамках стремления Франции к укреплению связей в области обороны и редкоземельных элементов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2584,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/new-mass-protests-expected-france-tuesday-presidential-election-approaches",
-      "title_ru": "Во Франции во вторник ожидаются новые массовые протесты в связи с приближением президентских выборов",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-17 08:24:02"
-    },
-    {
-      "id": 2583,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-morning",
-      "title_ru": "Последний выпуск новостей | 17 ноября 2026 г. – Утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-17 08:24:02"
-    },
-    {
-      "id": 2582,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/17/japan-scrambles-jets-after-suspected-russian-planes-enter-airspace-tokyo-says",
-      "title_ru": "По словам Токио, Япония поднимает в воздух истребители после того, как российские самолеты, предположительно, нарушили воздушное пространство страны",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-17 08:24:01"
     }
   ]
 }
