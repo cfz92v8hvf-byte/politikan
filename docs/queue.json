@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-20T02:39:51.539272+00:00",
+  "updated_at": "2026-11-20T10:35:23.989648+00:00",
   "posts": [
+    {
+      "id": 2641,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
+      "title_ru": "Крайне правые «не понимают сути» шутки о GTA VI: это про них!",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 10:35:23"
+    },
+    {
+      "id": 2640,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit",
+      "title_ru": "Брюссель и Лондон ожидают «перезагрузки» отношений на саммите ЕС с участием Бернхема",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 10:35:23"
+    },
+    {
+      "id": 2639,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-morning",
+      "title_ru": "Последний выпуск новостей | 20 ноября 2026 г. – Утро",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2638,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/20/ukraine-kyiv-metro-stations-become-overnight-shelters-amid-air-raids",
+      "title_ru": "Украина: станции киевского метро стали ночными бомбоубежищами на фоне воздушных налетов",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2637,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/20/video-shows-isolated-awa-indigenous-people-make-contact-with-government-team-in-brazil",
+      "title_ru": "На видео показано, как изолированные представители коренного народа ава вступают в контакт с правительственной группой в Бразилии",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 10:35:23"
+    },
+    {
+      "id": 2636,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
+      "title_ru": "Иран готовит конвой танкеров на острове Харк для проверки американской нефтяной блокады",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 10:35:23"
+    },
     {
       "id": 2635,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "По словам Токио, Япония поднимает в воздух истребители после того, как российские самолеты, предположительно, нарушили воздушное пространство страны",
       "status": "published",
       "published_to_telegram_at": "2026-11-17 08:24:01"
-    },
-    {
-      "id": 2581,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/the-new-faces-of-the-us-congress",
-      "title_ru": "Новые лица Конгресса США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2580,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
-      "title_ru": "Дезинформация о затемнении 17 ноября: как теория заговора распространилась по всему миру",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2579,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants",
-      "title_ru": "Руанда станет центром приема мигрантов, которым было отказано во въезде в ЕС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2578,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
-      "title_ru": "Трамп говорит, что ему нужно финансирование для управления воздушным движением после приостановки полетов",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-17 00:25:54"
-    },
-    {
-      "id": 2577,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
-      "title_ru": "Европа ищет альтернативы Palantir, поскольку военные стремятся ограничить зависимость от США",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-17 00:25:54"
-    },
-    {
-      "id": 2576,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
-      "title_ru": "Украина нанесла удар по Крымскому мосту с помощью беспилотников",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-17 00:25:53"
     }
   ]
 }
