@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-19T21:44:39.888140+00:00",
+  "updated_at": "2026-11-20T02:39:51.539272+00:00",
   "posts": [
+    {
+      "id": 2635,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/we-re-seeing-in-real-time-the-effects-that-ai-is-going-to-have-on-cybersecurity-expert-says",
+      "title_ru": "«Мы в режиме реального времени наблюдаем за тем, как ИИ будет влиять на кибербезопасность», — говорит эксперт",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2634,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
+      "title_ru": "Anthropic выходит на биржу после успешного IPO, но не может оживить торговлю ИИ",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2633,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
+      "title_ru": "В результате крупной антибандитской операции на Гаити погибли 34 человека, подозреваемых в принадлежности к бандам",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2632,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261120-pm-s%C3%A1nchez-admits-mistakes-in-key-debate-ahead-of-spain-election",
+      "title_ru": "Премьер-министр Санчес признает «ошибки» в ходе ключевых дебатов перед выборами в Испании",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 02:39:51"
+    },
+    {
+      "id": 2631,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+      "title_ru": "Белый дом уволил национального директора по кибербезопасности из-за масштабных сбоев",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-20 02:39:50"
+    },
+    {
+      "id": 2630,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv",
+      "title_ru": "Украина: в результате российских ударов повреждены посольства Австрии и Нидерландов в Киеве",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2629,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Украина нанесла удар по Крымскому мосту с помощью беспилотников",
       "status": "published",
       "published_to_telegram_at": "2026-11-17 00:25:53"
-    },
-    {
-      "id": 2575,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise",
-      "title_ru": "Французские войска в Украине «не стали бы неожиданностью»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 16:30:46"
-    },
-    {
-      "id": 2574,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261116-french-film-star-depardieu-drops-appeal-against-sexual-conviction",
-      "title_ru": "Французская кинозвезда Депардье отказался от апелляции на обвинительный приговор по делу о сексуальных домогательствах",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 16:30:45"
-    },
-    {
-      "id": 2573,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-midday",
-      "title_ru": "Последний выпуск новостей | 16 ноября 2026 г. – Полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2572,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/16/millions-of-red-crabs-begin-annual-migration-on-australias-christmas-island",
-      "title_ru": "Миллионы красных крабов начинают ежегодную миграцию на австралийском острове Рождества",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2571,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
-      "title_ru": "США и Иран приближаются к новой полномасштабной войне по мере усиления обмена огнем",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2570,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/16/trump-says-he-could-meet-with-north-korean-leader-kim-jong-un-in-china",
-      "title_ru": "Трамп говорит, что может встретиться с северокорейским лидером Ким Чен Ыном в Китае",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-16 16:30:45"
     }
   ]
 }
