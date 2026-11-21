@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-21T07:38:17.018295+00:00",
+  "updated_at": "2026-11-21T15:39:26.223925+00:00",
   "posts": [
+    {
+      "id": 2663,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
+      "title_ru": "Тысячи людей протестуют против цен, образования и военных расходов во Франции и Европе",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-21 15:39:26"
+    },
+    {
+      "id": 2662,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
+      "title_ru": "Россия проверяет восточную оборону НАТО",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-21 15:39:25"
+    },
+    {
+      "id": 2661,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-midday",
+      "title_ru": "Последний выпуск новостей | 21 ноября 2026 г. – полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2660,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll",
+      "title_ru": "Ормузский пролив: спортсмен проплыл через зону боевых действий, чтобы привлечь внимание к экологическим последствиям войны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2659,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence",
+      "title_ru": "Мексика арестовала самого разыскиваемого ФБР главаря картеля «Эль Чапо Исидро», что привело к всплеску насилия",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-21 15:39:25"
+    },
+    {
+      "id": 2658,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
+      "title_ru": "Жаир Болсонару госпитализирован с болью в животе во время домашнего ареста",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-21 15:39:25"
+    },
     {
       "id": 2657,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/18/trump-ordered-to-give-sworn-testimony-in-bbc-defamation-case-by-january",
       "title_ru": "Трампу приказано дать показания под присягой по делу о клевете BBC до января",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2603,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/18/irans-army-chief-vows-more-crushing-response-if-us-attacks-again",
-      "title_ru": "Глава иранской армии обещает «еще более сокрушительный» ответ, если США снова нападут",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2602,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin",
-      "title_ru": "Трамп прибыл в Китай на беспрецедентную трехстороннюю встречу с Си и Путиным",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2601,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/18/zelenskyy-proposes-10-more-humanitarian-evacuations-after-oleshky",
-      "title_ru": "Зеленский предлагает провести еще 10 гуманитарных эвакуаций после Алешек",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2600,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
-      "title_ru": "Израильская армия начала новую операцию в центральной части сектора Газа, несмотря на прекращение огня",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-18 16:31:02"
-    },
-    {
-      "id": 2599,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
-      "title_ru": "Си Цзиньпин призвал к глобальному сотрудничеству в области ИИ и свободной торговли на саммите АТЭС",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2598,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261118-peltola-defeats-sullivan-in-alaska-senate-race-expanding-democratic-majority",
-      "title_ru": "Пелтола побеждает Салливана на выборах в Сенат от Аляски, увеличивая большинство демократов",
       "status": "expired",
       "published_to_telegram_at": null
     }
