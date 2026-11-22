@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-22T16:41:11.309361+00:00",
+  "updated_at": "2026-11-22T22:09:32.059956+00:00",
   "posts": [
+    {
+      "id": 2691,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
+      "title_ru": "Демократ Хаббард побеждает на пересчете голосов в Северной Каролине, обеспечив историческое большинство в Палате представителей",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 22:09:31"
+    },
+    {
+      "id": 2690,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+      "title_ru": "Айзенкот осудил «еврейский терроризм» после нападений поселенцев на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 22:09:31"
+    },
+    {
+      "id": 2689,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-evening",
+      "title_ru": "Последний выпуск новостей | 22 ноября 2026 г. – Вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2688,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
+      "title_ru": "Предполагаемый удар беспилотника по российскому судну в ливийском порту Бенгази вызывает обеспокоенность в отношении безопасности в регионе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2687,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
+      "title_ru": "Сообщение об инциденте с танкером «с участием военных сил» в Ормузском проливе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2686,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+      "title_ru": "Промежуточные выборы: демократы США обеспечили себе наибольшее большинство в Палате представителей за последние десятилетия",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 22:09:30"
+    },
     {
       "id": 2685,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Премьер-министр Санчес признает «ошибки» в ходе ключевых дебатов перед выборами в Испании",
       "status": "published",
       "published_to_telegram_at": "2026-11-20 02:39:51"
-    },
-    {
-      "id": 2631,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
-      "title_ru": "Белый дом уволил национального директора по кибербезопасности из-за масштабных сбоев",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-20 02:39:50"
-    },
-    {
-      "id": 2630,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv",
-      "title_ru": "Украина: в результате российских ударов повреждены посольства Австрии и Нидерландов в Киеве",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2629,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call",
-      "title_ru": "Трамп ставит под сомнение выделение Европой миллиардов на помощь Украине во время неожиданного телефонного разговора",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2628,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/19/us-protesters-warn-of-ai-bubble-as-anthropic-makes-stock-market-history",
-      "title_ru": "США: протестующие предупреждают о пузыре ИИ, в то время как Anthropic творит историю фондового рынка",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2627,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across",
-      "title_ru": "Трамп покидает Китай, так и не встретившись с Ким Чен Ыном, поскольку трехсторонний саммит вызывает обеспокоенность в Азии",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2626,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
-      "title_ru": "Новая архитектура региональной безопасности также принесет пользу Европе, — заявил министр иностранных дел Пакистана в интервью Euronews",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 21:44:39"
     }
   ]
 }
