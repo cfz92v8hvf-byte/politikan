@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-22T08:43:11.866408+00:00",
+  "updated_at": "2026-11-22T16:41:11.309361+00:00",
   "posts": [
+    {
+      "id": 2685,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Переговоры по климату на КС-31 завершились без достижения консенсуса по вопросу о том, как финансировать уязвимые страны или как помочь миру отказаться от использования угля, нефти и газа.",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2684,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
+      "title_ru": "🔴 КС-31 завершилась без заключения соглашения, поскольку ЕС отклонил текст из-за отсутствия в нем упоминания об ископаемом топливе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2683,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+      "title_ru": "Израиль расследует пожары на Западном берегу",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 16:41:11"
+    },
+    {
+      "id": 2682,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
+      "title_ru": "Неделя в фотографиях: Си Цзиньпин принимает Трампа и Путина, КС-31 и новые протесты во Франции",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 16:41:10"
+    },
+    {
+      "id": 2681,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform",
+      "title_ru": "Борьба за власть в Монголии обостряется после одобрения парламентом отставки президента",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2680,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-midday",
+      "title_ru": "Последний выпуск новостей | 22 ноября 2026 г. – Полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2679,
       "source": "DW",
@@ -38,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-morning",
       "title_ru": "Последний выпуск новостей | 22 ноября 2026 г. – Утро",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -432,54 +480,6 @@
       "title_ru": "Новая архитектура региональной безопасности также принесет пользу Европе, — заявил министр иностранных дел Пакистана в интервью Euronews",
       "status": "published",
       "published_to_telegram_at": "2026-11-19 21:44:39"
-    },
-    {
-      "id": 2625,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
-      "title_ru": "По меньшей мере один человек погиб и десятки пропали без вести после того, как лодка с мигрантами перевернулась у берегов Сенегала по пути в Испанию",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 21:44:39"
-    },
-    {
-      "id": 2624,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/19/us-defence-secretary-pete-hegseth-lands-in-ecuador-on-latin-america-anti-narcotics-tour",
-      "title_ru": "Министр обороны США Пит Хегсет прибыл в Эквадор в рамках турне по странам Латинской Америки, посвященного борьбе с наркотиками",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 21:44:38"
-    },
-    {
-      "id": 2623,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
-      "title_ru": "Что нужно знать об историческом трехстороннем саммите с участием Си Цзиньпина, Путина и Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 13:26:06"
-    },
-    {
-      "id": 2622,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
-      "title_ru": "Украина: четыре человека погибли и не менее 13 получили ранения в результате российского удара по Одессе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2621,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/19/china-trump-calls-putin-his-friend-as-leaders-meet-amid-in-shenzhen",
-      "title_ru": "Китай: Трамп назвал Путина своим «другом» на встрече лидеров в Шэньчжэне",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2620,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
-      "title_ru": "Смотрите: Трамп, Путин и Си садятся за стол переговоров для исторической трехсторонней встречи",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
