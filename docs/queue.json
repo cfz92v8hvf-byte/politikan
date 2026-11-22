@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-22T01:24:29.670755+00:00",
+  "updated_at": "2026-11-22T08:43:11.866408+00:00",
   "posts": [
+    {
+      "id": 2679,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/germany-news-ig-metall-union-calls-for-new-24-hour-strike/live-80008430?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Новости Германии: профсоюз IG Metall призывает к новой 24-часовой забастовке",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 08:43:10"
+    },
+    {
+      "id": 2678,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Вдохновленное Берни Сандерсом немецкое агентство использует кампанию в американском стиле, чтобы укрепить позиции левых в 2029 году",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 08:43:10"
+    },
+    {
+      "id": 2677,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
+      "title_ru": "Бахрейн обвиняет Иран в нанесении удара по промышленному объекту после атаки на танкеры в Ормузском проливе",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2676,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
+      "title_ru": "Онлайн-трансляция: Финляндия заявляет, что война в Украине «перекинулась» на другие страны после атаки беспилотника на российское судно в Балтийском море",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 08:43:11"
+    },
+    {
+      "id": 2675,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-morning",
+      "title_ru": "Последний выпуск новостей | 22 ноября 2026 г. – Утро",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2674,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/22/gadi-eisenkot-invites-netanyahus-likud-party-for-marathon-coalition-talks",
+      "title_ru": "Гади Айзенкот приглашает партию «Ликуд» Нетаньяху на «марафон» коалиционных переговоров",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-22 08:43:11"
+    },
     {
       "id": 2673,
       "source": "DW",
@@ -430,54 +478,6 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
       "title_ru": "Смотрите: Трамп, Путин и Си садятся за стол переговоров для исторической трехсторонней встречи",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2619,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/19/apec-summit-gta-vi-launch-wine-parade-todays-top-no-comment-videos-from-around-the-world",
-      "title_ru": "Саммит АТЭС, релиз GTA VI, парад вина... Лучшие сегодняшние видео без комментариев со всего мира",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2618,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/19/latest-news-bulletin-november-19th-2026-midday",
-      "title_ru": "Последний выпуск новостей | 19 ноября 2026 г. – Полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 13:26:07"
-    },
-    {
-      "id": 2617,
-      "source": "Council of the EU",
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/methane-regulation-eu-agrees-targeted-amendment-to-safeguard-security-of-supply/",
-      "title_ru": "Регулирование выбросов метана: ЕС согласовал целевую поправку для обеспечения безопасности поставок",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 04:06:04"
-    },
-    {
-      "id": 2616,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/ukraine-s-allies-gather-in-berlin-for-coalition-of-the-willing-summit/live-79986520?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Союзники Украины собрались в Берлине на саммит «Коалиции желающих»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 04:06:04"
-    },
-    {
-      "id": 2615,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "По словам российского чиновника, Крымский мост снова подвергся нападению",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-19 04:06:03"
-    },
-    {
-      "id": 2614,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
-      "title_ru": "Конте 24-месячной выдержки признан лучшим сыром в мире",
       "status": "expired",
       "published_to_telegram_at": null
     }
