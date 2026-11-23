@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-23T02:53:38.630128+00:00",
+  "updated_at": "2026-11-23T12:12:34.099551+00:00",
   "posts": [
+    {
+      "id": 2701,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
+      "title_ru": "Санкции, саммиты и удары: война в Украине не демонстрирует признаков замедления",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2700,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/23/india-pledges-14bn-to-help-nepal-rebuild-after-deadly-glacier-flood",
+      "title_ru": "Индия обязуется выделить 1,4 млрд евро на помощь Непалу в восстановлении после разрушительного наводнения, вызванного таянием ледника",
+      "status": "pending",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2699,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/23/ukraine-dramatic-night-rescue-pulls-woman-from-rubble-after-22-hours",
+      "title_ru": "Украина: в результате впечатляющей ночной спасательной операции женщину извлекли из-под завалов спустя 22 часа",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-23 12:12:34"
+    },
+    {
+      "id": 2698,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-midday",
+      "title_ru": "Последний выпуск новостей | 23 ноября 2026 г. – Полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-23 12:12:33"
+    },
+    {
+      "id": 2697,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat",
+      "title_ru": "Иран обещает использовать «все средства», чтобы противостоять блокаде Ормузского пролива со стороны США после угрозы Трампа",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-23 12:12:33"
+    },
+    {
+      "id": 2696,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/23/eu-military-chief-warns-of-escalating-hybrid-threats-as-europe-races-to-strengthen-defence",
+      "title_ru": "Глава военного ведомства ЕС предупреждает об эскалации гибридных угроз на фоне стремительного наращивания обороноспособности Европы",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-23 12:12:32"
+    },
     {
       "id": 2695,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Последний выпуск новостей | 20 ноября 2026 г. – Вечер",
       "status": "published",
       "published_to_telegram_at": "2026-11-20 18:47:29"
-    },
-    {
-      "id": 2641,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
-      "title_ru": "Крайне правые «не понимают сути» шутки о GTA VI: это про них!",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-20 10:35:23"
-    },
-    {
-      "id": 2640,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit",
-      "title_ru": "Брюссель и Лондон ожидают «перезагрузки» отношений на саммите ЕС с участием Бернхема",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-20 10:35:23"
-    },
-    {
-      "id": 2639,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-morning",
-      "title_ru": "Последний выпуск новостей | 20 ноября 2026 г. – Утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2638,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/20/ukraine-kyiv-metro-stations-become-overnight-shelters-amid-air-raids",
-      "title_ru": "Украина: станции киевского метро стали ночными бомбоубежищами на фоне воздушных налетов",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2637,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/20/video-shows-isolated-awa-indigenous-people-make-contact-with-government-team-in-brazil",
-      "title_ru": "На видео показано, как изолированные представители коренного народа ава вступают в контакт с правительственной группой в Бразилии",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-20 10:35:23"
-    },
-    {
-      "id": 2636,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
-      "title_ru": "Иран готовит конвой танкеров на острове Харк для проверки американской нефтяной блокады",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-20 10:35:23"
     }
   ]
 }
