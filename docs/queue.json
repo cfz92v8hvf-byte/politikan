@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-22T22:09:32.059956+00:00",
+  "updated_at": "2026-11-23T02:53:38.630128+00:00",
   "posts": [
+    {
+      "id": 2695,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+      "title_ru": "Российское судно подверглось нападению недалеко от Бенгази, предположительно, с использованием беспилотника",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2694,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+      "title_ru": "Удары беспилотников по домам и зданию Организации Объединенных Наций в столице Судана",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-23 02:53:38"
+    },
+    {
+      "id": 2693,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+      "title_ru": "Провал переговоров по климату COP31 в Турции",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-23 02:53:38"
+    },
+    {
+      "id": 2692,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+      "title_ru": "Тысячи людей вышли на митинг в Стамбуле против репрессий турецких властей в отношении оппозиции и СМИ",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-23 02:53:37"
+    },
     {
       "id": 2691,
       "source": "France 24",
@@ -448,38 +480,6 @@
       "title_ru": "Иран готовит конвой танкеров на острове Харк для проверки американской нефтяной блокады",
       "status": "published",
       "published_to_telegram_at": "2026-11-20 10:35:23"
-    },
-    {
-      "id": 2635,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/we-re-seeing-in-real-time-the-effects-that-ai-is-going-to-have-on-cybersecurity-expert-says",
-      "title_ru": "«Мы в режиме реального времени наблюдаем за тем, как ИИ будет влиять на кибербезопасность», — говорит эксперт",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2634,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
-      "title_ru": "Anthropic выходит на биржу после успешного IPO, но не может оживить торговлю ИИ",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2633,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
-      "title_ru": "В результате крупной антибандитской операции на Гаити погибли 34 человека, подозреваемых в принадлежности к бандам",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2632,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261120-pm-s%C3%A1nchez-admits-mistakes-in-key-debate-ahead-of-spain-election",
-      "title_ru": "Премьер-министр Санчес признает «ошибки» в ходе ключевых дебатов перед выборами в Испании",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-20 02:39:51"
     }
   ]
 }
