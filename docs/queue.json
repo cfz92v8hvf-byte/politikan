@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-24T09:43:48.992636+00:00",
+  "updated_at": "2026-11-24T20:23:05.636822+00:00",
   "posts": [
+    {
+      "id": 2718,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/24/south-korea-tells-island-residents-to-take-shelter-as-russian-warplanes-near-its-airspace",
+      "title_ru": "Южная Корея призывает жителей островов укрыться в убежищах в связи с приближением российских военных самолетов к ее воздушному пространству",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2717,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/24/migrant-caravans-head-north-through-mexico-towards-us-border",
+      "title_ru": "Караваны мигрантов направляются на север через Мексику к границе с США",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2716,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/24/italy-develops-ambitious-business-with-strategic-partner-azerbaijan-tajani-tells-euronews",
+      "title_ru": "Таяни в интервью Euronews: Италия развивает «амбициозный» бизнес со своим «стратегическим партнером» Азербайджаном",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2715,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/24/latest-news-bulletin-november-24th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 24 ноября 2026 г. – Вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2714,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/24/indonesia-names-former-police-chief-as-treason-suspect-in-presidential-wiretapping-case",
+      "title_ru": "Индонезия объявила бывшего начальника полиции подозреваемым в государственной измене по делу о прослушивании телефонных разговоров президента",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2713,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia",
+      "title_ru": "По меньшей мере 24 человека получили ранения в результате взрыва заминированного автомобиля в центральной части Колумбии",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-24 20:23:05"
+    },
     {
       "id": 2712,
       "source": "Council of the EU",
@@ -432,54 +480,6 @@
       "title_ru": "Мексика арестовала самого разыскиваемого ФБР главаря картеля «Эль Чапо Исидро», что привело к всплеску насилия",
       "status": "published",
       "published_to_telegram_at": "2026-11-21 15:39:25"
-    },
-    {
-      "id": 2658,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
-      "title_ru": "Жаир Болсонару госпитализирован с болью в животе во время домашнего ареста",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 15:39:25"
-    },
-    {
-      "id": 2657,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Бывший президент Бразилии Жаир Болсонару госпитализирован из-за болей в животе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2656,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Трое солдат из Сальвадора погибли в результате взрыва в Гаити",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 07:38:16"
-    },
-    {
-      "id": 2655,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-morning",
-      "title_ru": "Последний выпуск новостей | 21 ноября 2026 г. – Утро",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 07:38:16"
-    },
-    {
-      "id": 2654,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend",
-      "title_ru": "Зеленский назвал Путина «убийцей» после того, как Трамп назвал российского лидера своим «другом»",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 07:38:16"
-    },
-    {
-      "id": 2653,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu",
-      "title_ru": "«Друзья», но кому это выгодно? Заметки с исторического саммита, решение по геноциду в Мьянме, время «вернуться» в ЕС?",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
