@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-24T00:00:22.808763+00:00",
+  "updated_at": "2026-11-24T09:43:48.992636+00:00",
   "posts": [
+    {
+      "id": 2712,
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/special-european-council-of-26-27-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/",
+      "title_ru": "Внеочередное заседание Европейского совета 26–27 ноября 2026 года — Пригласительное письмо Председателя Антониу Кошты членам Европейского совета",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-24 09:43:48"
+    },
+    {
+      "id": 2711,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Индия: в докладе содержится предупреждение об усилении авторитаризма при Моди",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2710,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Оружие, война и шаткое доверие: немцы хотят видеть больше сдержанности во внешней политике",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2709,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Находящаяся в изгнании лидер Шейх Хасина планирует вернуться в Бангладеш 16 декабря",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-24 09:43:48"
+    },
+    {
+      "id": 2708,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
+      "title_ru": "Онлайн-трансляция: В результате российских ударов по украинскому Запорожью погибли два человека и десятки получили ранения",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2707,
       "source": "France 24",
@@ -46,7 +86,7 @@
       "source": "Euronews",
       "source_url": "https://www.euronews.com/video/2026/11/23/belgium-workers-march-against-spending-cuts-as-living-costs-rise",
       "title_ru": "Бельгия: Рабочие вышли на марш против сокращения расходов на фоне роста стоимости жизни",
-      "status": "pending",
+      "status": "expired",
       "published_to_telegram_at": null
     },
     {
@@ -440,46 +480,6 @@
       "title_ru": "«Друзья», но кому это выгодно? Заметки с исторического саммита, решение по геноциду в Мьянме, время «вернуться» в ЕС?",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2652,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-      "title_ru": "«Лицензия на убийство»: французский парламент принял закон о применении огнестрельного оружия полицией, который раскритиковали активисты",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2651,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
-      "title_ru": "Гвинея запрещает вещание телеканала из Буркина-Фасо, что усиливает дипломатическую напряженность",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 00:21:09"
-    },
-    {
-      "id": 2650,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
-      "title_ru": "Трамп защищает свои связи с Путиным и обвиняет Иран в нечестности на переговорах",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2649,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/20/germany-intensifies-engagement-with-south-caucasus-as-region-of-opportunities",
-      "title_ru": "Германия активизирует взаимодействие с Южным Кавказом как с «регионом возможностей»",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2648,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
-      "title_ru": "Германия: студенты Берлина протестуют против перевооружения и обязательной службы",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 00:21:08"
     }
   ]
 }
