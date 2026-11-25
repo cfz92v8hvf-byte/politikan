@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-25T13:35:44.322040+00:00",
+  "updated_at": "2026-11-25T22:49:29.476515+00:00",
   "posts": [
+    {
+      "id": 2735,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal",
+      "title_ru": "Суд Кейптауна закрывает дело о скандале «Фармгейт», связанном с Рамафозой",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 22:49:29"
+    },
+    {
+      "id": 2734,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
+      "title_ru": "Новые тарифы США: «Трамп наносит удары совершенно без разбора», — говорит эксперт",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 22:49:28"
+    },
+    {
+      "id": 2733,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
+      "title_ru": "Израильские законодатели продвигают расследование событий 7 октября, против которого выступает Нетаньяху",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 22:49:28"
+    },
+    {
+      "id": 2732,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/25/latest-news-bulletin-november-25th-2026-evening",
+      "title_ru": "Последний выпуск новостей | 25 ноября 2026 г. – Вечер",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2731,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/25/europe-tonight-russia-reportedly-prepares-nuclear-satellite-launch",
+      "title_ru": "Europe Tonight: По сообщениям, Россия готовится к запуску ядерного спутника",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2730,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
+      "title_ru": "По меньшей мере 30 человек погибли в результате пожара на шоссе в районе Каира",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 22:49:29"
+    },
     {
       "id": 2729,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Онлайн-трансляция: Финляндия заявляет, что война в Украине «перекинулась» на другие страны после атаки беспилотника на российское судно в Балтийском море",
       "status": "published",
       "published_to_telegram_at": "2026-11-22 08:43:11"
-    },
-    {
-      "id": 2675,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-morning",
-      "title_ru": "Последний выпуск новостей | 22 ноября 2026 г. – Утро",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2674,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/22/gadi-eisenkot-invites-netanyahus-likud-party-for-marathon-coalition-talks",
-      "title_ru": "Гади Айзенкот приглашает партию «Ликуд» Нетаньяху на «марафон» коалиционных переговоров",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 08:43:11"
-    },
-    {
-      "id": 2673,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-second-day-of-overtime/live-79999516?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "КС-31: Саммит ООН по климату переходит во второй день сверхурочной работы",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 01:24:29"
-    },
-    {
-      "id": 2672,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
-      "title_ru": "Соглашение между ЕС и Индонезией заключено после десяти лет переговоров",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2671,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
-      "title_ru": "Иран атакует американские базы в Бахрейне, пока его танкеры готовятся прорвать блокаду США",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2670,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
-      "title_ru": "Украина: видеорегистратор зафиксировал мощный взрыв на улице Львова",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 01:24:29"
     }
   ]
 }
