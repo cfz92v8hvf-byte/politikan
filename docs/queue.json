@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-25T03:42:12.415088+00:00",
+  "updated_at": "2026-11-25T13:35:44.322040+00:00",
   "posts": [
+    {
+      "id": 2729,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
+      "title_ru": "Израильские депутаты продвигают законопроект о расследовании просчетов в сфере безопасности, которые привели к нападению ХАМАС 7 октября",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 13:35:43"
+    },
+    {
+      "id": 2728,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/video/20261125-us-army-to-detonate-stockpile-of-unstable-bomb-making-chemicals-in-iowa",
+      "title_ru": "Армия США собирается взорвать склад с нестабильными химикатами для изготовления бомб в Айове",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 13:35:42"
+    },
+    {
+      "id": 2727,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/25/protesters-rally-outside-european-parliament-against-pesticide-bill",
+      "title_ru": "Протестующие проводят митинг у здания Европейского парламента против законопроекта о пестицидах",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2726,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast",
+      "title_ru": "США призывают своих граждан покинуть Иран и предупреждают о возможности быстрого обострения конфликта",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2725,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/25/latest-news-bulletin-november-25th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 25 ноября 2026 г. – Полдень",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 13:35:44"
+    },
+    {
+      "id": 2724,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/25/haftar-visits-ankara-as-erdogan-prepares-first-libya-trip-in-15-years",
+      "title_ru": "Хафтар посещает Анкару, а Эрдоган готовится к первой за 15 лет поездке в Ливию",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 13:35:43"
+    },
     {
       "id": 2723,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Украина: видеорегистратор зафиксировал мощный взрыв на улице Львова",
       "status": "published",
       "published_to_telegram_at": "2026-11-22 01:24:29"
-    },
-    {
-      "id": 2669,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
-      "title_ru": "КС-31: Сохраняются глубокие разногласия по вопросам энергетики, финансов и науки",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2668,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-      "title_ru": "В результате атаки беспилотника загорелось российское грузовое судно в Финском заливе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2667,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
-      "title_ru": "Россия наносит удар по родному городу Зеленского, Украина вновь заявляет о желании вступить в НАТО",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 21:13:48"
-    },
-    {
-      "id": 2666,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit",
-      "title_ru": "Самая неудачная конференция COP?",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 21:13:48"
-    },
-    {
-      "id": 2665,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-      "title_ru": "Эйзенкот приглашает партию Нетаньяху на «марафон» коалиционных переговоров в Израиле",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 21:13:47"
-    },
-    {
-      "id": 2664,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-evening",
-      "title_ru": "Последний выпуск новостей | 21 ноября 2026 г. – Вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
