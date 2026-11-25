@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-24T20:23:05.636822+00:00",
+  "updated_at": "2026-11-25T03:42:12.415088+00:00",
   "posts": [
+    {
+      "id": 2723,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/quid-pro-quo-nvidia-too-big-to-fail-or-too-close-to-personal-interest-of-people-around-trump",
+      "title_ru": "«Услуга за услугу»: Nvidia слишком велика, чтобы обанкротиться, или «слишком близка к личным интересам окружения Трампа»?",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2722,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
+      "title_ru": "Инвестиции руководителей технологических компаний в Трампа «очевидно окупаются», поскольку Хуан вернулся в Nvidia",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2721,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
+      "title_ru": "Лига чемпионов: «Реал Мадрид» разгромил ПСВ со счетом 5:1, а «Манчестер Сити» сыграл вничью с «Наполи»",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2720,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+      "title_ru": "Присяжные в Нью-Йорке признали Huawei виновной в краже коммерческой тайны",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2719,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+      "title_ru": "Зеленский заявил, что Украина рассчитывает получить 115 миллиардов евро иностранной помощи до 2027 года",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-25 03:42:12"
+    },
     {
       "id": 2718,
       "source": "Euronews",
@@ -440,46 +480,6 @@
       "title_ru": "Последний выпуск новостей | 21 ноября 2026 г. – Вечер",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2663,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
-      "title_ru": "Тысячи людей протестуют против цен, образования и военных расходов во Франции и Европе",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 15:39:26"
-    },
-    {
-      "id": 2662,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
-      "title_ru": "Россия проверяет восточную оборону НАТО",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 15:39:25"
-    },
-    {
-      "id": 2661,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-midday",
-      "title_ru": "Последний выпуск новостей | 21 ноября 2026 г. – полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2660,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll",
-      "title_ru": "Ормузский пролив: спортсмен проплыл через зону боевых действий, чтобы привлечь внимание к экологическим последствиям войны",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2659,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence",
-      "title_ru": "Мексика арестовала самого разыскиваемого ФБР главаря картеля «Эль Чапо Исидро», что привело к всплеску насилия",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-21 15:39:25"
     }
   ]
 }
