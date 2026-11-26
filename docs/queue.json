@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-25T22:49:29.476515+00:00",
+  "updated_at": "2026-11-26T04:32:31.782120+00:00",
   "posts": [
+    {
+      "id": 2738,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Экстремальные погодные условия угрожают празднованию Дня благодарения в США",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 04:32:31"
+    },
+    {
+      "id": 2737,
+      "source": "DW",
+      "source_url": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf",
+      "title_ru": "Ким Чен Ын посетил объекты по производству ядерных материалов и призвал к более широкому использованию тактического ядерного оружия",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 04:32:31"
+    },
+    {
+      "id": 2736,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york",
+      "title_ru": "Из-за мощного шторма в США впервые в истории перенесен парад в честь Дня благодарения в Нью-Йорке",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2735,
       "source": "France 24",
@@ -456,30 +480,6 @@
       "title_ru": "Новости Германии: профсоюз IG Metall призывает к новой 24-часовой забастовке",
       "status": "published",
       "published_to_telegram_at": "2026-11-22 08:43:10"
-    },
-    {
-      "id": 2678,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Вдохновленное Берни Сандерсом немецкое агентство использует кампанию в американском стиле, чтобы укрепить позиции левых в 2029 году",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 08:43:10"
-    },
-    {
-      "id": 2677,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
-      "title_ru": "Бахрейн обвиняет Иран в нанесении удара по промышленному объекту после атаки на танкеры в Ормузском проливе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2676,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
-      "title_ru": "Онлайн-трансляция: Финляндия заявляет, что война в Украине «перекинулась» на другие страны после атаки беспилотника на российское судно в Балтийском море",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 08:43:11"
     }
   ]
 }
