@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-26T04:32:31.782120+00:00",
+  "updated_at": "2026-11-26T14:20:30.625409+00:00",
   "posts": [
+    {
+      "id": 2744,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says",
+      "title_ru": "По данным BBC, Великобритания тайно отправила беженца из Шри-Ланки в Эсватини",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2743,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/26/latest-news-bulletin-november-26th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 26 ноября 2026 г. – Полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2742,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/26/flames-and-thick-smoke-billow-from-bangkok-oil-facility-after-massive-explosion",
+      "title_ru": "Пламя и густой дым поднимаются над нефтеперерабатывающим заводом в Бангкоке после мощного взрыва",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 14:20:30"
+    },
+    {
+      "id": 2741,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy",
+      "title_ru": "Глава TUI призывает ЕС сократить бюрократию, привлечь талантливых специалистов и расширить использование экологически чистой энергии",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 14:20:30"
+    },
+    {
+      "id": 2740,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/26/judges-in-netanyahu-corruption-trial-urges-dropping-key-charges",
+      "title_ru": "Судьи по делу о коррупции Нетаньяху призывают снять основные обвинения",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 14:20:29"
+    },
+    {
+      "id": 2739,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
+      "title_ru": "Россия нанесла удар баллистическими ракетами и беспилотниками по Украине, в результате которого погибли по меньшей мере три человека",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 14:20:29"
+    },
     {
       "id": 2738,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Переговоры по климату на КС-31 завершились без достижения консенсуса по вопросу о том, как финансировать уязвимые страны или как помочь миру отказаться от использования угля, нефти и газа.",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2684,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
-      "title_ru": "🔴 КС-31 завершилась без заключения соглашения, поскольку ЕС отклонил текст из-за отсутствия в нем упоминания об ископаемом топливе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2683,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-      "title_ru": "Израиль расследует пожары на Западном берегу",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 16:41:11"
-    },
-    {
-      "id": 2682,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
-      "title_ru": "Неделя в фотографиях: Си Цзиньпин принимает Трампа и Путина, КС-31 и новые протесты во Франции",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 16:41:10"
-    },
-    {
-      "id": 2681,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform",
-      "title_ru": "Борьба за власть в Монголии обостряется после одобрения парламентом отставки президента",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2680,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-midday",
-      "title_ru": "Последний выпуск новостей | 22 ноября 2026 г. – Полдень",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2679,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/germany-news-ig-metall-union-calls-for-new-24-hour-strike/live-80008430?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Новости Германии: профсоюз IG Metall призывает к новой 24-часовой забастовке",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 08:43:10"
     }
   ]
 }
