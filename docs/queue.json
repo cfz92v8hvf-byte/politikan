@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-26T14:20:30.625409+00:00",
+  "updated_at": "2026-11-26T23:13:46.625501+00:00",
   "posts": [
+    {
+      "id": 2750,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/nigeria-faces-rising-election-violence-in-run-up-to-vote",
+      "title_ru": "В преддверии выборов в Нигерии растет уровень насилия",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 23:13:46"
+    },
+    {
+      "id": 2749,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president",
+      "title_ru": "Следующим президентом ЕЦБ избран испанец Де Кос",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 23:13:46"
+    },
+    {
+      "id": 2748,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains",
+      "title_ru": "Аргентина вступает в техническую рецессию, поскольку низкий уровень потребления сводит на нет экономические успехи Милея",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2747,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
+      "title_ru": "НАТО развертывает бортовой радар AWACS для наблюдения за воздушным пространством Польши",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2746,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies",
+      "title_ru": "Бельгия: фермеры и тракторы направляются в Брюссель, чтобы отстоять субсидии ЕС",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2745,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security",
+      "title_ru": "Германия: рождественские ярмарки открываются по всей стране на фоне усиленных мер безопасности",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-26 23:13:45"
+    },
     {
       "id": 2744,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "Демократ Хаббард побеждает на пересчете голосов в Северной Каролине, обеспечив историческое большинство в Палате представителей",
       "status": "published",
       "published_to_telegram_at": "2026-11-22 22:09:31"
-    },
-    {
-      "id": 2690,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
-      "title_ru": "Айзенкот осудил «еврейский терроризм» после нападений поселенцев на Западном берегу",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 22:09:31"
-    },
-    {
-      "id": 2689,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-evening",
-      "title_ru": "Последний выпуск новостей | 22 ноября 2026 г. – Вечер",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2688,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
-      "title_ru": "Предполагаемый удар беспилотника по российскому судну в ливийском порту Бенгази вызывает обеспокоенность в отношении безопасности в регионе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2687,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
-      "title_ru": "Сообщение об инциденте с танкером «с участием военных сил» в Ормузском проливе",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2686,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
-      "title_ru": "Промежуточные выборы: демократы США обеспечили себе наибольшее большинство в Палате представителей за последние десятилетия",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 22:09:30"
-    },
-    {
-      "id": 2685,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Переговоры по климату на КС-31 завершились без достижения консенсуса по вопросу о том, как финансировать уязвимые страны или как помочь миру отказаться от использования угля, нефти и газа.",
-      "status": "expired",
-      "published_to_telegram_at": null
     }
   ]
 }
