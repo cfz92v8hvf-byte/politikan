@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-27T15:13:25.428954+00:00",
+  "updated_at": "2026-11-27T23:31:26.211541+00:00",
   "posts": [
+    {
+      "id": 2762,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough",
+      "title_ru": "Выборы в Испании: «Правые избиратели чрезвычайно активны, левые — недостаточно»",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-27 23:31:26"
+    },
+    {
+      "id": 2761,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+      "title_ru": "Украина предлагает прекратить огонь в Черном море и ожидает ответа России",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-27 23:31:25"
+    },
+    {
+      "id": 2760,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+      "title_ru": "Уганда выведет войска из ДР Конго",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-27 23:31:24"
+    },
+    {
+      "id": 2759,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/relatives-say-jailed-iranian-twins-beaten-and-tortured-one-faces-execution",
+      "title_ru": "Родственники утверждают, что заключенных в тюрьму иранских близнецов избивали и пытали, а одному из них грозит смертная казнь",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2758,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+      "title_ru": "Гражданские общества Азербайджана и Армении стремятся к «новой истории» в рамках нового раунда мирных переговоров",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2757,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
+      "title_ru": "Эстония закроет границу с Россией, чтобы «обезопасить Европу», заявил министр иностранных дел во время визита в Баку",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
     {
       "id": 2756,
       "source": "Euronews",
@@ -432,54 +480,6 @@
       "title_ru": "В Иране подвергли порке певицу, выступавшую без хиджаба",
       "status": "expired",
       "published_to_telegram_at": null
-    },
-    {
-      "id": 2702,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/23/belgium-workers-march-against-spending-cuts-as-living-costs-rise",
-      "title_ru": "Бельгия: Рабочие вышли на марш против сокращения расходов на фоне роста стоимости жизни",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2701,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
-      "title_ru": "Санкции, саммиты и удары: война в Украине не демонстрирует признаков замедления",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2700,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/23/india-pledges-14bn-to-help-nepal-rebuild-after-deadly-glacier-flood",
-      "title_ru": "Индия обязуется выделить 1,4 млрд евро на помощь Непалу в восстановлении после разрушительного наводнения, вызванного таянием ледника",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2699,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/23/ukraine-dramatic-night-rescue-pulls-woman-from-rubble-after-22-hours",
-      "title_ru": "Украина: в результате впечатляющей ночной спасательной операции женщину извлекли из-под завалов спустя 22 часа",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-23 12:12:34"
-    },
-    {
-      "id": 2698,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-midday",
-      "title_ru": "Последний выпуск новостей | 23 ноября 2026 г. – Полдень",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-23 12:12:33"
-    },
-    {
-      "id": 2697,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat",
-      "title_ru": "Иран обещает использовать «все средства», чтобы противостоять блокаде Ормузского пролива со стороны США после угрозы Трампа",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-23 12:12:33"
     }
   ]
 }
