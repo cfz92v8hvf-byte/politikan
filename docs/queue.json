@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-27T05:07:01.770740+00:00",
+  "updated_at": "2026-11-27T15:13:25.428954+00:00",
   "posts": [
+    {
+      "id": 2756,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
+      "title_ru": "Иран отрицает свою причастность к атаке беспилотника в Кувейте, в результате которой погибли двое итальянцев",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2755,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
+      "title_ru": "Истребители НАТО подняты в воздух после кратковременного вторжения беспилотника в воздушное пространство Латвии",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2754,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 27 ноября 2026 г. – Полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2753,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/video-captures-king-tide-sweeping-man-and-dog-into-the-sea",
+      "title_ru": "На видео запечатлено, как приливная волна уносит в море мужчину и собаку",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-27 15:13:25"
+    },
+    {
+      "id": 2752,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
+      "title_ru": "По словам Киева, Северная Корея прекратила военную помощь России из-за спора с Сеулом",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-27 15:13:25"
+    },
+    {
+      "id": 2751,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks",
+      "title_ru": "Саммит ЕС по бюджету провалился из-за спора о деньгах, который выявил разногласия по поводу стратегических задач Европы",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-27 15:13:24"
+    },
     {
       "id": 2750,
       "source": "France 24",
@@ -432,54 +480,6 @@
       "title_ru": "Иран обещает использовать «все средства», чтобы противостоять блокаде Ормузского пролива со стороны США после угрозы Трампа",
       "status": "published",
       "published_to_telegram_at": "2026-11-23 12:12:33"
-    },
-    {
-      "id": 2696,
-      "source": "Euronews",
-      "source_url": "https://www.euronews.com/2026/11/23/eu-military-chief-warns-of-escalating-hybrid-threats-as-europe-races-to-strengthen-defence",
-      "title_ru": "Глава военного ведомства ЕС предупреждает об эскалации гибридных угроз на фоне стремительного наращивания обороноспособности Европы",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-23 12:12:32"
-    },
-    {
-      "id": 2695,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
-      "title_ru": "Российское судно подверглось нападению недалеко от Бенгази, предположительно, с использованием беспилотника",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2694,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
-      "title_ru": "Удары беспилотников по домам и зданию Организации Объединенных Наций в столице Судана",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-23 02:53:38"
-    },
-    {
-      "id": 2693,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
-      "title_ru": "Провал переговоров по климату COP31 в Турции",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-23 02:53:38"
-    },
-    {
-      "id": 2692,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
-      "title_ru": "Тысячи людей вышли на митинг в Стамбуле против репрессий турецких властей в отношении оппозиции и СМИ",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-23 02:53:37"
-    },
-    {
-      "id": 2691,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
-      "title_ru": "Демократ Хаббард побеждает на пересчете голосов в Северной Каролине, обеспечив историческое большинство в Палате представителей",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-22 22:09:31"
     }
   ]
 }
