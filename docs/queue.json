@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-28T04:55:12.006415+00:00",
+  "updated_at": "2026-11-28T14:03:17.450842+00:00",
   "posts": [
+    {
+      "id": 2771,
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/bill-at-the-heart-of-gender-based-violence-protests",
+      "title_ru": "Во Франции проходят общенациональные протесты против насилия в отношении женщин",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-28 14:03:16"
+    },
+    {
+      "id": 2770,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/28/us-hotline-to-report-cartel-activities-slammed-as-foreign-interference-by-mexico",
+      "title_ru": "Горячая линия США для сообщения о деятельности картелей была осуждена Мексикой как иностранное вмешательство",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2769,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/28/australias-conservatives-hope-for-victory-in-trendsetting-state",
+      "title_ru": "Австралийские консерваторы надеются на победу в штате, задающем тенденции",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2768,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/video/2026/11/28/latest-news-bulletin-november-28th-2026-midday",
+      "title_ru": "Последний выпуск новостей | 28 ноября 2026 г. – Полдень",
+      "status": "expired",
+      "published_to_telegram_at": null
+    },
+    {
+      "id": 2767,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/28/us-military-denied-any-issues-with-computing-platform-after-hack-reported",
+      "title_ru": "Военные США отрицают наличие каких-либо проблем с вычислительной платформой после сообщения о взломе",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-28 14:03:17"
+    },
+    {
+      "id": 2766,
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/2026/11/28/openai-and-apple-accuse-each-other-of-committing-trade-secret-theft-openai-countersues",
+      "title_ru": "OpenAI и Apple обвиняют друг друга в краже коммерческой тайны, OpenAI подает встречный иск",
+      "status": "published",
+      "published_to_telegram_at": "2026-11-28 14:03:16"
+    },
     {
       "id": 2765,
       "source": "DW",
@@ -432,54 +480,6 @@
       "title_ru": "Внеочередное заседание Европейского совета 26–27 ноября 2026 года — Пригласительное письмо Председателя Антониу Кошты членам Европейского совета",
       "status": "published",
       "published_to_telegram_at": "2026-11-24 09:43:48"
-    },
-    {
-      "id": 2711,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Индия: в докладе содержится предупреждение об усилении авторитаризма при Моди",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2710,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Оружие, война и шаткое доверие: немцы хотят видеть больше сдержанности во внешней политике",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2709,
-      "source": "DW",
-      "source_url": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf",
-      "title_ru": "Находящаяся в изгнании лидер Шейх Хасина планирует вернуться в Бангладеш 16 декабря",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-24 09:43:48"
-    },
-    {
-      "id": 2708,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
-      "title_ru": "Онлайн-трансляция: В результате российских ударов по украинскому Запорожью погибли два человека и десятки получили ранения",
-      "status": "expired",
-      "published_to_telegram_at": null
-    },
-    {
-      "id": 2707,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
-      "title_ru": "Дженсен Хуанг снова стал генеральным директором Nvidia",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-24 00:00:22"
-    },
-    {
-      "id": 2706,
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/africa-disappointed-with-cop31-outcome",
-      "title_ru": "Африка разочарована итогами КС-31",
-      "status": "published",
-      "published_to_telegram_at": "2026-11-24 00:00:22"
     }
   ]
 }
